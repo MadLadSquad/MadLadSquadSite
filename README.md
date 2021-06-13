@@ -1,2 +1,2 @@
-# MadLadSquadSite2
-The second design revision of the MadLad Squad website
+# MadLad Squad Site 2
+Second revision made for the Madlad squad.
