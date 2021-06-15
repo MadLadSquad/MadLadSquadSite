@@ -8,11 +8,9 @@ audio{
 }
 
 button{
-	border: 5px, solid;
+	border: 2px solid #0e6b0e;
 	color: #149414;
-	border-color: #0e6b0e;
 	font-size: 32px;
-	border-radius: 5px;
 	background-color: rgba(0.0, 0.0, 0.0, 0.0);
 	overflow: hidden; 
 }
