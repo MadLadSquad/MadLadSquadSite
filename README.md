@@ -1,2 +1,2 @@
-# MadLad Squad Site 2
-Second revision made for the Madlad squad.
+# MadLad Squad Site
+The official website for MadLad Squad
