@@ -27,6 +27,7 @@ Platforms | Windows, Linux, BSD, Android | Any | Windows, Linux, BSD, Android | 
 Project Type | Open Source | Open Source | Open Source | Open Source |
 License | MIT | MIT | MIT | MIT |
 Development Status | In very early development | Version 1.0, considered finished but still maintained | Planning stage | Planning stage |
+
 ## Contacts
 - E-mail: contact@madladsquad.com
 - Discord: [https://discord.gg/4wgH8ZE](https://discord.gg/4wgH8ZE)
