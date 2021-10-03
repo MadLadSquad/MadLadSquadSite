@@ -1,4 +1,3 @@
-# Welcome to MadLadSquad
 We are a team of developers striving to develop better software!
 ## Our Projects
 
@@ -15,7 +14,7 @@ Name | **Untitled Math Library** | **Untitled Log** | **Project Spoon** | **UTEB
 -----|---------------------|------------------------------|------------------------------|------------------------|
 Description | A math library for the Untitled Vulkan Game Engine | A logging library and Dear ImGUI widget | A 2D party game | The cross-platform backend for the Untitled Terminal Emulator
 Technology | C++, AVX, AVX2, Neon | C++, Dear imgui | C++, Untitled Vulkan Game Engine | C++, Unix core C libraries, Windows core libraries |
-Platforms | Any x86/x86_64 | Any x86/x86_64 | Windows, Linux, BSD, Android | Windows, Linux, BSD |
+Platforms | Any x86/x86_64/arm | Any | Windows, Linux, BSD, Android | Windows, Linux, BSD |
 Project Type | Open Source | Open Source | Open Source(Only the code is Open Source, the assets aren't) | Open Source |
 License | MIT | MIT | Modified MIT | MIT |
 Development Status | In early development | Version 2.0, considered finished but still maintained | Planning stage | In very early development |
@@ -24,7 +23,11 @@ Name | **ImTTY** | **UntitledProjectGenerator** | **UntitledCubeRotator** | **Un
 -----|---------------------|------------------------------|------------------------------|------------------------|
 Description | A Dear ImGui terminal emulator widget | A simple tool to generate new projects in our project structure | A simple 3D idle game where you rotate a cube | A collection of typing games bundled into one package
 Technology | C++, Dear ImGui, UTEBackend | C++ | C++, Untitled Vulkan Game Engine | C++, UntitledVulkanGameEngine, WASM |
-Platforms | Windows, Linux, BSD, Android | Any x86/x86_64 | Windows, Linux, BSD, Android | Windows, Linux, BSD, Web |
+Platforms | Windows, Linux, BSD, Android | Any | Windows, Linux, BSD, Android | Windows, Linux, BSD, Web |
 Project Type | Open Source | Open Source | Open Source | Open Source |
 License | MIT | MIT | MIT | MIT |
 Development Status | In very early development | Version 1.0, considered finished but still maintained | Planning stage | Planning stage |
+## Contacts
+- E-mail: contact@madladsquad.com
+- Discord: [https://discord.gg/4wgH8ZE](https://discord.gg/4wgH8ZE)
+- Discord User: Madman10K#0345
