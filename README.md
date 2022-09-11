@@ -1,4 +1,23 @@
-We are a team of developers striving to develop better software!
+# About us
+We're a decentralized team of developers working on many different types of software with the goal of redefining the desktop experience. We have 2 main
+departments:
+1. The games department - Responsible for our games and game related products like the UntitledVulkanGameEngine
+1. The desktop department - Responsible for maintaining the UntitledDesktopEnvironment
+
+## Games
+In the game development field we create open source, highly moddable games. We prioritize player experience and we encourage all our players to work
+together with us in creating great digital experiences.
+
+Our technology stack is cross-platform and is almost completely self-sustained. We use our own in-house technology like the UntitledVulkanGameEngine to
+have full control over our games' backend. But we also work with indurstry standard technologies like the Unreal Engine, it all depends on the requirements
+of the project.
+
+## The UntitledDesktoEnvironment
+The UntitledDesktopEnvironment is a suite of applications forming the UntitledDesktopEnvironment. We have an almost complete list of applications we're
+working on that contains the core and even some more features a modern desktop environment would provide.
+
+The idea for the UntitledDesktopEnvironment is to create a DE that is fully compatible with other ones like Gnome and KDE. We're extensively analysing
+their user facing APIs and creating bridges that make the using the linux desktop a pleasant experience.
 
 ## Our Projects
 ### Games and game related
@@ -7,17 +26,20 @@ We are a team of developers striving to develop better software!
 - [MadLadSquadBot](https://github.com/MadLadSquad/MadLadSquadBot) - Our general purpose Discord bot
 - [Project Spoon](https://github.com/MadLadSquad/ProjectSpoon) - A high stakes 2D battle royale multiplayer party game, not yet developed
 - [UntitledLinuxGameManager](https://github.com/MadLadSquad/UntitledLinuxGameManager) - A manager for containerized game systems using LXC and LXD
-- [UntitledShapeRotator](https://github.com/MadLadSquad/UntitledShapeRotator) - A small game to showcase what the UntitledVulkanGameEngine is capable of, will be developed at Alpha 1.0 of the engine
+- [UntitledShapeRotator](https://github.com/MadLadSquad/UntitledShapeRotator) - A small game to showcase what the UntitledVulkanGameEngine is capable of,
+will be developed at Alpha 1.0 of the engine
 - [UVKExampleProject](https://github.com/MadLadSquad/UVKExampleProject) - An example project and game for the UntitledVulkanGameEngine
 - [UntitledType](https://github.com/MadLadSquad/UntitledType) - A collection of typing minigames for the desktop, to be developed
 - [UVKSpaceInvaders](https://github.com/MadLadSquad/UVKSpaceInvaders) - A space invaders clone in the UntitledVulkanGameEngine, to be developed
 - [UVKBuildTool](https://github.com/MadLadSquad/UVKBuildTool) - A build file generator for the UntitledVulkanGameEngine and UntitledImGuiFramework
 
 ### UntitledDesktopEnvironment and related
-- [UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework) - A minimal destkop application development framework for C++, made for our desktop environment(UntitledDesktopEnvironment/UDE)
+- [UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework) - A minimal destkop application development framework for C++, 
+made for our desktop environment(UntitledDesktopEnvironment/UDE)
 - [UntitledTextEditor](https://github.com/MadLadSquad/UntitledTextEditor) - UDE graphical text editor
 - [UntitledProductivityManager](https://github.com/MadLadSquad/UntitledProductivityManager) - An all in one productivity application, to be developed
-- [UntitledTerminalEmulatorBackend](https://github.com/MadLadSquad/UTEBackend) - A cross-platform terminal emulator backend library for the UntitledTerminalEmulator, Windows not supported as of now
+- [UntitledTerminalEmulatorBackend](https://github.com/MadLadSquad/UTEBackend) - A cross-platform terminal emulator backend library for 
+the UntitledTerminalEmulator, Windows not supported as of now
 - [UntitledEscapeParser](https://github.com/MadLadSquad/UntitledEscapeParser) - A library that parses strings containing unix escape sequences
 - [UntitledDEThemeGenerator](https://github.com/MadLadSquad/UntitledDEThemeGenerator) - A graphical theme creator for UDE, to be developed
 - [UntitledFileManager](https://github.com/MadLadSquad/UntitledFileManager) - A file manager for UDE, to be developed
@@ -36,7 +58,8 @@ We are a team of developers striving to develop better software!
 - [UntitledLog](https://github.com/MadLadSquad/UntitledLog) - A small logging library
 - [UntitledRuntimeLibraryLoader](https://github.com/MadLadSquad/UntitledRuntimeLibraryLoader) - A small cross-platform shared library loder library
 - [UntitledExec](https://github.com/MadLadSquad/UntitledExec) - A small cross-platform library to execute applications as seperate processes
-- [check-for-synced-branches-action](https://github.com/MadLadSquad/check-for-synced-branches-action) - An action to check if 2 branches are in sync, also works for forks and upstream
+- [check-for-synced-branches-action](https://github.com/MadLadSquad/check-for-synced-branches-action) - An action to check if 2 branches are in sync, 
+also works for forks and upstream
 
 ## Members
 - [Madman10K](https://github.com/Madman10K) - Founder and head projects developer
