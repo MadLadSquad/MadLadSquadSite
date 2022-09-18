@@ -1,3 +1,6 @@
+This page is translated into the following languages
+1. [Bulgarian/Български](https://madladsquad.com/translations/bg/main) 🇧🇬
+
 # About us
 We're a decentralized team of developers working on many different types of software with the goal of redefining the desktop experience. We have 2 main
 departments:
@@ -21,8 +24,8 @@ their user facing APIs and creating bridges that make the using the linux deskto
 
 ## Our Projects
 ### Games and game related
-- [UntitledVulkanGameEngine](https://github.com/MadLadSquad/UntitledVulkanGameEngine) - A cross-platform geneal use, Vulkan game engine
-- [UVKShaderCompiler](https://github.com/MadLadSquad/UVKShaderCompiler) - A hader compiler for the UntitledVulkanGameEngine
+- [UntitledVulkanGameEngine](https://github.com/MadLadSquad/UntitledVulkanGameEngine) - A cross-platform general use, Vulkan game engine
+- [UVKShaderCompiler](https://github.com/MadLadSquad/UVKShaderCompiler) - A shader compiler for the UntitledVulkanGameEngine
 - [MadLadSquadBot](https://github.com/MadLadSquad/MadLadSquadBot) - Our general purpose Discord bot
 - [Project Spoon](https://github.com/MadLadSquad/ProjectSpoon) - A high stakes 2D battle royale multiplayer party game, not yet developed
 - [UntitledLinuxGameManager](https://github.com/MadLadSquad/UntitledLinuxGameManager) - A manager for containerized game systems using LXC and LXD
