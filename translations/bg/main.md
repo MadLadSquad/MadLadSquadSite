@@ -39,7 +39,7 @@ UntitledDesktopEnvironmet(Директен превод към Българск�
 разработка скоро
 - [UVKBuildTool](https://github.com/MadLadSquad/UVKBuildTool) - Генератор за build файлове за UntitledVulkanGameEngine и UntitledImGuiFramework
 
-### UntitledDesktopEnvironment and related
+### UntitledDesktopEnvironment и програми свързани с него
 - [UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework) - Минимален framework за разработка на програми за настолен компютър с, 
 C++. Направено за UDE
 - [UntitledTextEditor](https://github.com/MadLadSquad/UntitledTextEditor) - Графичният текстов редактор на UDE
@@ -64,7 +64,7 @@ Sequence-и
 - [UntitledCoreWidgets](https://github.com/MadLadSquad/UntitledCoreWidgets) - Колекция от често-ползвани графични компоненти, очаква се да започне
 разработка скоро
 
-### Libraries and misc applications
+### Библиотеки и други програми
 - [MadLadSquadSite](https://github.com/MadLadSquad/MadLadSquadSite) - Сайта, на който сте в момента
 - [UntitledLog](https://github.com/MadLadSquad/UntitledLog) - Малка библиотека за logging
 - [UntitledRuntimeLibraryLoader](https://github.com/MadLadSquad/UntitledRuntimeLibraryLoader) - Мултиплатформена библиотека за динамично зареждане на
