@@ -20,7 +20,7 @@ want to create is an alternative desktop experience. Here are our priorities:
 1. Cross-desktop compatibility
 1. A fully community-centered approach to development
 1. A uniform experience or as close as we can get to it
-1. A user experience no matter your level of knowledge
+1. A great UX, no matter your level of knowledge
 1. A fully modifiable and hackable application suite out of the box
 1. Even more small things such as great multilingual experience
 
@@ -106,3 +106,18 @@ We also have a bunch of roles we have as well as responsibilities:
 
 Please do note that these roles are there for semantic reason, you can freely assign yourself any of the contributor roles, and you can switch from any
 higher role to an equivalent or lower role. You do need official promotion from the desktop team to get to any of the top 3 roles
+
+## A uniform experience and a better UX
+As all desktops want, we want to achieve a uniform desktop experience, this however, doesn't mean that we'll be adding a pedantic style guide
+as many other desktops like Gnome do, instead we'll just give you a recommended guide, which you can see [here]()
+
+This guide has a lot of points as to why desktop uniformity is more achievable here
+
+This same page also contains info on how we design our applications internally to provide a good UX. This as well isn't a strict requirement
+
+## Misc goals
+### A great multilingual experience
+Make all applications have UI and docs in multiple languages
+
+### To be added
+We're still developing our scope so this section should be expanded in the future
