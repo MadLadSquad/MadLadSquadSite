@@ -28,7 +28,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Clone docs
-        run: clone-docs.sh
+        run: sh clone-docs.sh
       - name: Setup Pages
         uses: actions/configure-pages@v2
       - name: Build with Jekyll
