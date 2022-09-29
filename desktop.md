@@ -5,12 +5,12 @@ what we desire to achieve with this project
 Our motivation is simple, create a great desktop environment for Linux and other operating systems running components made by the 
 [freedesktop foundation](https://freedesktop.org)
 
-But beyond that, why are we creating it in the first place and what are the problems we want to fix. But before that let's start with a quick overview of 
-why the FOSS desktop has problems. Most applications have a problem with communicating with one another. The main issue causing this is that 
-Unix based OS' architectures don't feature the desktop as an essential component since their architecture was developed way before the concept of GUI 
-applications became a thing. 
+But beyond that, why are we creating it in the first place and what are the problems we want to fix? First, let's start with a quick overview of 
+why the FOSS desktop has problems. Most applications don't communicate with one another. The main issue causing this is that 
+Unix based OS' architectures don't feature the desktop as an essential component since their architecture was developed way before the concept of a GUI 
+application became a thing. 
 
-Because of this the GUI became a thing for third parties, and as a result of this we don't have the same uniformity as systems like
+Because of this the GUI became a job for third parties, and as a result we don't have the same uniformity as systems like
 Windows, MacOS or even Android flavours. This all negatively impacts UX and unfortunately is not a fixable issue, fortunately shells
 like Gnome and KDE, have for the most part removed most problems to date and the UX is definitely a great one over there.
 
@@ -29,28 +29,30 @@ We will cover all of those points in the headers below
 ## Freedom
 We want the user to have full freedom in whatever applications they want to use, and to give this freedom without impacting the approximately good UX
 
-What do we mean by this? A user shall have the ability to
-1. Replace the desktop widgets system(i.e. wallpaper manager, status bar), applications, libraries, etc. and the system should work normally. The 
+A user shall have the ability to:
+1. Replace the desktop widgets system(i.e. wallpaper manager, status bar), applications, libraries, etc. and the system should work normally. The
 environment shall not be a monolith that breaks on the removal of any applications, regardless of how large or small it is
 1. Use any configuration format, library and/or programming language they want in configuring their programs
 1. The user shall have full conscious choice on all features he/she wants and shall be able to completely control which components get installed
-1. The user shall have the freedom to modify every application he/she desires in an easy manner using plugins that don't discriminate against the 
+1. The user shall have the freedom to modify every application he/she desires in an easy manner using plugins that don't discriminate against the
 programming language, configuration format or general technology the user deems fit for the job
 1. Developers shall be freed from a pendantic environment where the DE developers force a certain style, toolkit and rules on developers
 
-### Configurability
-We want the user to have freedom, and this cannnot be done without the ability of the user to easily configure their system and applicaiton in whatever
-way they desire. Here is what we provide with our applications:
+Please do note that these points should be balanced and applied at a reasonable level, an application that has a single config file, shouldn't add
+code for all config formats just because it can, instead it should use its preferred config. If this given config is like a theme, where many systems
+have themes, then the application shall have an adapter, an application that converts the other formats to its, or vice-versa if the fomat is non-conforming
+
+### How do we achieve this
 1. A standard C and C++ API for all applications that can benefit from it, so that a user can make a plugin using bindings for another programming
-language or use a plugin that provides a runtime environment in the case of a scripting language. The intention is to let the users use 
-whatever technologies they want and not force them use a single programming language for development of plugins. We think that this positively 
-impacts our user experience, not only because advanced users can feel right at home by using whatever tools they want, but also because a larger number 
+language or use a plugin that provides a runtime environment in the case of a scripting language. The intention is to let the users use
+whatever technologies they want and not force them to use a single programming language for development of plugins. We think that this positively
+impacts our user experience, not only because advanced users can feel right at home by using whatever tools they want, but also because a larger number
 of advanced users can develop plugins, making the plugin ecosystem richer and therefore the end user experience better
 1. Every application is a self-sustained atom, meaning that it can be swapped out with some other application at any time without breaking the system
-1. Cross-format and cross-desktop compatibility so that users can easily convert their old configs into our ecosystem, or vice versa, 
-without having to manually tinker for hours or even days rewriting the same config in a different way of format
+1. Cross-format and cross-desktop compatibility so that users can easily convert their old configs into our ecosystem, or vice versa,
+without having to manually tinker for hours or even days rewriting the same config in a different format
 1. Compile flags that can be used by the user to enable or disable any additional features. This is important because it provides
-minimalist users with the option to have a minimal environment. The benefits of minimalism are many including less bugs and higher security, but we cannot
+minimalist users with the option to have a minimal environment. The benefits of minimalism are many including less bugs and higher security, but unfortunately we cannot
 discuss all of them here
 
 ## Cross-desktop compatibility
@@ -64,7 +66,7 @@ effordlessly on our system. This includes things such as:
 This section will be expanded to be more detailed soon!
 
 ## A fully community-centered approach to development
-We want our community to control the direction of our projects, that's why we distribute our software as open source, but that isn't the full picture
+We want our community to control the direction of our projects, that's why we distribute our software as open source.
 
 Our collaboration workflow is the following:
 1. Make an issue
@@ -117,7 +119,22 @@ This same page also contains info on how we design our applications internally t
 
 ## Misc goals
 ### A great multilingual experience
-Make all applications have UI and docs in multiple languages
+Make all applications have UI and docs in multiple languages, allow for easy translation of text and conform to i18n standards
+
+### A great distribution experience
+Make all our applications have a unified build process, so that we can easily package them for many platforms. We're already developing a tool that can package
+our software as the following formats:
+1. [deb](https://www.debian.org/distrib/packages)
+1. [rpms](https://rpm.org/)
+1. [ebuilds](https://wiki.gentoo.org/wiki/Ebuild) for [Gentoo](https://gentoo.org) and [Funtoo](https://funtoo.org)
+1. [flatpaks](https://flatpak.org/)
+1. [arch linux packages](https://wiki.archlinux.org/title/pacman)
+1. [winget](https://github.com/microsoft/winget-cli)
+1. [MSI installers](https://en.wikipedia.org/wiki/Windows_Installer) for Windows
+
+Additionally we're also developing a package manager for application plugins and mods for the UntitledVulkanGameEngine. The package manager is completely open and anyone can add
+a package. Additionally third party developers of applications/games using our tools can also create their own single application package repository, that we can add to our main
+repository as a submodule, making all applications accessible from a single package manager even if not made by us
 
 ### To be added
 We're still developing our scope so this section should be expanded in the future

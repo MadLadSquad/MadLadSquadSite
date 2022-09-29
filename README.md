@@ -19,8 +19,7 @@ of the project.
 The UntitledDesktopEnvironment is a suite of applications forming the UntitledDesktopEnvironment. We have an almost complete list of applications we're
 working on that contains the core and even some more features a modern desktop environment would provide.
 
-The idea for the UntitledDesktopEnvironment is to create a DE that is fully compatible with other ones like Gnome and KDE. We're extensively analysing
-their user facing APIs and creating bridges that make the using the linux desktop a pleasant experience.
+More info can be found [here](https://madladsquad.com/desktop)
 
 ## Our Projects
 ### Games and game related
