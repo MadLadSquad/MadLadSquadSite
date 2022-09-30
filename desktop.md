@@ -111,11 +111,9 @@ higher role to an equivalent or lower role. You do need official promotion from 
 
 ## A uniform experience and a better UX
 As all desktops want, we want to achieve a uniform desktop experience, this however, doesn't mean that we'll be adding a pedantic style guide
-as many other desktops like Gnome do, instead we'll just give you a recommended guide, which you can see [here]()
+as many other desktops like Gnome do, instead we'll just give you a recommended guide, which you can see [here](https://madladsquad.com/desktop-design)
 
-This guide has a lot of points as to why desktop uniformity is more achievable here
-
-This same page also contains info on how we design our applications internally to provide a good UX. This as well isn't a strict requirement
+This page is a loose guide on how we design our applications, our platform scope and good developement practices in regard to UI
 
 ## Misc goals
 ### A great multilingual experience
