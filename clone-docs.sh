@@ -9,7 +9,7 @@ git clone https://github.com/MadLadSquad/UntitledImGuiFramework.wiki.git Untitle
 
 git clone https://github.com/MadLadSquad/UntitledTextGenerator.wiki.git UntitledTextGenerator/
 sed -i '1 i\{% raw %}' UntitledTextGenerator/Templating-guide.md
-echo "{% endraw %}" UntitledTextGenerator/Templating-guide.md
+echo "{% endraw %}" >> UntitledTextGenerator/Templating-guide.md
 
 find ./ -type f -exec sed -i 's/https:\/\/github.com\/MadLadSquad\//https:\/\/madladsquad.com\/docs\//g' {} \;
 find ./ -type f -exec sed -i 's/\/wiki\//\//g' {} \;
