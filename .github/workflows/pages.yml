@@ -38,11 +38,9 @@ jobs:
         run: ./clone-docs.sh
       - name: Setup Pages
         uses: actions/configure-pages@v2
-      - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1.0.5
-        with:
-          source: ./
-          destination: ./_site
+      - uses: helaili/jekyll-action@2.0.5    # Choose any one of the Jekyll Actions
+        with:                                # Some relative inputs of your action
+          token: ${{ secrets.GITHUB_TOKEN }}
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
 
