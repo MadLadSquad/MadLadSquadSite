@@ -1,9 +1,6 @@
 # Sample workflow for building and deploying a Jekyll site to GitHub Pages
 name: Deploy Jekyll with GitHub Pages dependencies preinstalled
 
-env:
-  JEKYLL_PAT: ${{ secrets.GITHUB_TOKEN }}
-
 on:
   # Runs on pushes targeting the default branch
   push:
@@ -44,6 +41,8 @@ jobs:
       - uses: helaili/jekyll-action@2.0.5    # Choose any one of the Jekyll Actions
         with:                                # Some relative inputs of your action
           token: ${{ secrets.GITHUB_TOKEN }}
+        env:
+          JEKYLL_PAT: ${{ secrets.GITHUB_TOKEN }}
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
 
