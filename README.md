@@ -81,3 +81,4 @@ Copy of the docs for these repos(docs can also be found in their respective wiki
 - [UntitledImGuiFramework](https://madladsquad.com/docs/UntitledImGuiFramework/Home)
 - [UntitledLog](https://madladsquad.com/docs/UntitledLog/Home)
 - [UntitledLinuxGameManager](https://madladsquad.com/docs/UntitledLinuxGameManager/Home)
+- [UntitledTextGenerator](https://madladsquad.com/docs/UntitledTextGenerator/Home)
