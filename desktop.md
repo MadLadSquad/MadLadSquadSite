@@ -52,8 +52,8 @@ of advanced users can develop plugins, making the plugin ecosystem richer and th
 1. Cross-format and cross-desktop compatibility so that users can easily convert their old configs into our ecosystem, or vice versa,
 without having to manually tinker for hours or even days rewriting the same config in a different format
 1. Compile flags that can be used by the user to enable or disable any additional features. This is important because it provides
-minimalist users with the option to have a minimal environment. The benefits of minimalism are many including less bugs and higher security, but unfortunately we cannot
-discuss all of them here
+minimalist users with the option to have a minimal environment. The benefits of minimalism are many including less bugs and higher security, 
+but unfortunately we cannot discuss all of them here
 
 ## Cross-desktop compatibility
 What we mean by cross-desktop compatibility is: paradigms and components made for desktops such as Gnome and KDE, shall have the ability to work
