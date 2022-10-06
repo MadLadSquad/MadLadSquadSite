@@ -1,0 +1,15 @@
+[submodule "docs/UntitledVulkanGameEngine"]
+	path = docs/UntitledVulkanGameEngine
+	url = https://github.com/MadLadSquad/UntitledVulkanGameEngine.wiki.git
+[submodule "docs/UntitledLog"]
+	path = docs/UntitledLog
+	url = https://github.com/MadLadSquad/UntitledLog.wiki.git
+[submodule "docs/UntitledLinuxGameManager"]
+	path = docs/UntitledLinuxGameManager
+	url = https://github.com/MadLadSquad/UntitledLinuxGameManager.wiki.git
+[submodule "docs/UntitledImGuiFramework"]
+	path = docs/UntitledImGuiFramework
+	url = https://github.com/MadLadSquad/UntitledImGuiFramework.wiki.git
+[submodule "docs/UntitledTextGenerator"]
+	path = docs/UntitledTextGenerator
+	url = https://github.com/MadLadSquad/UntitledTextGenerator.wiki.git
