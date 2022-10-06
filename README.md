@@ -1,4 +1,4 @@
-This page is translated into the following languages
+This page is translated into the following languages:
 1. [Bulgarian/Български](https://madladsquad.com/translations/bg/main) 🇧🇬
 
 # About us
