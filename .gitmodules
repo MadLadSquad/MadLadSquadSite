@@ -13,3 +13,6 @@
 [submodule "docs/UntitledTextGenerator"]
 	path = docs/UntitledTextGenerator
 	url = https://github.com/MadLadSquad/UntitledTextGenerator.wiki.git
+[submodule "docs/UntitledPackageSchemeGenerator"]
+	path = docs/UntitledPackageSchemeGenerator
+	url = https://github.com/MadLadSquad/UntitledPackageSchemeGenerator.wiki.git
