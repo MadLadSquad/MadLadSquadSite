@@ -33,4 +33,5 @@ platforms
         the moderator team's decisions we will show our opinion and work to accept or reject the vote, simple as that.
 
 ## Part 2: How we conduct discussions
-To be added soon
+1. We have 2 official languages, Bulgarian and English, issues must be created in one of those languages or will not be considered
+1. Be respectful in discussions, do nto 
