@@ -1,37 +1,24 @@
 # The MadLadSquad code of conduct
-The MadLadSquad code of conduct defines a bunch of reasonable rules to follow.
+The MadLadSquad code of conduct defines a bunch of reasonable rules to follow in discussions
 
-## Part 1: Obligations on the part of MadLadSquad to respect freedoms
-In this chapter we will discuss a list of obligations that MadLadSquad takes on to restrict certain types of discussions that restrict freedom on our
-platforms
+1. We respect unlimited freedom of speech and expression except in the given use cases:
+   - What you published is NSFW content
+   - What you published is illegal content
+   - What you published is spam
+   - General harassment such as stalking, doxxing, violence. In most cases we will agree with you, however in the following cases we may not consider it 
+      harassment
+     - A person uses the wrong pronouns. As said in the later points, we do not discriminate against anybody, unfortunately currently there is much talk
+       about respecting one's pronouns. In general you should not even use pronouns to refer to a person in your discussion language here.
+       Not only is learning and remembering your pronounsOutside of this
+       many languages have gendered words, so for example in Bulgarian, the word for president "президент"(which is a direct transliteration by the way)
+       is used for both masculine and feminine forms, even though it's masculine and while most Bulgarians don't use the masculine version for women and
+       instead refer to them with a feminized version, a person using propper grammar shall use the masculine version. Along with this, having
+       gendered nouns changes one's view of the word and so for 
+1. Keep discussions to the software and the technology, not topics like politics. In general consider keeping politics out of discussions here
+1. Your shall never promote any political topics. You shall not add links, make projects on political topics or in any way reference any 
+   political organizations. We also want to explicitly note that we do not support the social justice movement as it's a highly political movement
+   that has also destroyed many great open source projects and communities
+1. We don't care who you are and do not discriminate against anybody
+1. Be generally friendly, respectful and talk in a professional language
+1. We prioritize honesty and being right over your feelings every time
 
-1. Freedom of expression
-   1. We believe in almost absolute freedom of discussion with the exception of some cases namely:
-      - NSFW content
-      - Illegal content
-      - More to be added if needed
-   1. You are responsible for other users' responses to your own messages and your PR is your responsibility
-   1. Certain provisions on freedom of discussion in our own platforms can be found in the list below:
-      - MadLadSquad and its related projects respect freedom and shall not be political. For example we shall not make applications related to a political
-        topic. As of the writing of this it's October 21st 2022. 
-      
-        Currently there are multiple global conflicts happening, the war in Ukraine, the border clashes on the Armenia-Azerbaijan border, the 
-        Kyrgyzstan-Tajikistan border clashes and more. We can also take events like the BLM protests, the COVID-19 pandemic and more from past years.
-      
-        These events even though mentioned here are not related in any way to the development of the software
-        and discussing them or events similar to them in any way is unproductive and generally unneeded. 
-        
-        Here is an example of what we will not do using the examples listed above:
-         1. We will not add links to any of our projects for supporting Ukraine
-         1. We will not create applications related to a political topic i.e. COVID-19 information and tracking applications
-         1.  We also reserve the right to limit discussions to be outside the scope of politics. This COC exists for that very reason. If you're reading 
-             this and agree with it, then you can contribute and no more discussion can be had. If you don't agree with this you have the freedom to 
-             use the software either way, but you do not have the right to organize mobs to reinstate political discussions on our discussion platforms
-         1. Additionally we will not promote political organizations and movements like BLM and political ideologies. We shall only support organizations
-            that support us and that we agree with. You can read further on our values and how we conduct discussions
-      - Keep discussions civil, do not organize unneeded violence using mobs to get your point across, instead organize a simple vote. And depending on
-        the moderator team's decisions we will show our opinion and work to accept or reject the vote, simple as that.
-
-## Part 2: How we conduct discussions
-1. We have 2 official languages, Bulgarian and English, issues must be created in one of those languages or will not be considered
-1. Be respectful in discussions, do nto 
