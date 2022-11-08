@@ -8,5 +8,14 @@ echo "{% endraw %}" >> UntitledTextGenerator/Templating-guide.md
 sed -i '1 i\{% raw %}' UntitledPackageSchemeGenerator/Creating-your-package.md
 echo "{% endraw %}" >> UntitledPackageSchemeGenerator/Creating-your-package.md
 
+cd UntitledImGuiFramework/
+cat _Sidebar.md >> Home.md
+cd ../
+
+cd UntitledVulkanGameEngine/
+cat _Sidebar.md >> Home.md
+cd ../
+
 find ./ -type f -exec sed -i 's/https:\/\/github.com\/MadLadSquad\//https:\/\/madladsquad.com\/docs\//g' {} \;
 find ./ -type f -exec sed -i 's/\/wiki\//\//g' {} \;
+
