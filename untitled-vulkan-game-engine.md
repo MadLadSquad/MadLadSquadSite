@@ -3,7 +3,7 @@ game engine that can be used for both 3D and 2D games.
 
 We curently have a stable scripting API, a stable editor UI, somewhat stable C and C++ modding and plugins API and a somewhat stable Vulkan renderer.
 
-In the rendering and tools department we currently lack:
+Features to be added in the next 1-2 years:
 1. 2D, 3D animations and an Animation editor
 1. Particle systems and effects
 1. A physics engine
@@ -34,5 +34,7 @@ currently preparing for the release of Alpha 1.0 of the game engine, as well as 
 project, which unfortunately has a lot of overlap with the engine
 
 For more organization info, look at our [trello board](https://trello.com/b/0upjsxT0/untitledvukangameengine)
+
+For source code and documentation, look at our github repository [here](https://github.com/MadLadSquad/UntitledVulkanGameEngine)
 
 This page will be expanded soon with a showcase section and more
