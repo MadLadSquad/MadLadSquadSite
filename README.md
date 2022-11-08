@@ -15,7 +15,7 @@ Our technology stack is cross-platform and is almost completely self-sustained. 
 have full control over our games' backend. But we also work with indurstry standard technologies like the Unreal Engine, it all depends on the requirements
 of the project.
 
-## The UntitledDesktoEnvironment
+## The UntitledDesktopEnvironment
 The UntitledDesktopEnvironment is a suite of applications forming the UntitledDesktopEnvironment. We have an almost complete list of applications we're
 working on that contains the core and even some more features a modern desktop environment would provide.
 
