@@ -9,10 +9,12 @@ sed -i '1 i\{% raw %}' UntitledPackageSchemeGenerator/Creating-your-package.md
 echo "{% endraw %}" >> UntitledPackageSchemeGenerator/Creating-your-package.md
 
 cd UntitledImGuiFramework/
+echo -e "\n---\n" >> Home.md
 cat _Sidebar.md >> Home.md
 cd ../
 
 cd UntitledVulkanGameEngine/
+echo -e "\n---\n" >> Home.md
 cat _Sidebar.md >> Home.md
 cd ../
 
