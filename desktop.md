@@ -145,7 +145,7 @@ We want to have a good theming experience, we achieve that in the following ways
 across all applications, not just ours
 1. Themes will have inheritance, that being, the theme author handles the compatibility of a theme, not the application author, removing the unnecessary
 maintenance burden many open source maintainers face with custom themes. By that logic any application can override the master theme whenever it wants if
-it wants to provide its own look. Applications will never be forced to be compatible with themes and standard theming are themselves an extension of 
+it wants to provide its own look. Applications will never be forced to be compatible with themes and standard theming is itself an extension of 
 the core [UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework) toolkit
 1. Themes support standard extensions so that applications can expose additional variables to themes
 
