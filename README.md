@@ -75,6 +75,11 @@ also works for forks and upstream
 - Discord: [https://discord.gg/4wgH8ZE](https://discord.gg/4wgH8ZE)
 - Discord User: Madman10K#0345
 
+## Funding, donations and support
+If you like our software please donate to our [ko-fi](https://ko-fi.com/madladsquad) page. Send a personalised message with your donation if you have any
+project in mind. We donate 50% of the proceedings to developers of libraries we depend on(based on the specific project) 
+like [dear imgui](https://github.com/ocornut/imgui)
+
 ## Other pages
 Copy of the docs for these repos(docs can also be found in their respective wiki page on github):
 - [UntitledVulkanGameEngine](https://madladsquad.com/docs/UntitledVulkanGameEngine/Home)
