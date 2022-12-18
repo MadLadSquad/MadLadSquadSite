@@ -150,7 +150,7 @@ the core [UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFr
 1. Themes support standard extensions so that applications can expose additional variables to themes
 
 You can find more about the UntitledDesktop theme specification here:
-1. UntitledDesktopThemes Core specification
+1. [UntitledDesktopThemes Core specification](https://madladsquad.com/untitled-desktop/theming/core-spec)
 1. UntitledDesktopThemes Official Extension: ImPlot
 1. UntitledDesktopThemes Official Extension: ImGuiColorTextEdit
 1. UntitledDesktopThemes Official Extension: ImGuizmo
