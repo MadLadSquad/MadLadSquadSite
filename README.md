@@ -89,3 +89,4 @@ Copy of the docs for these repos(docs can also be found in their respective wiki
 - [UntitledTextGenerator](https://madladsquad.com/docs/UntitledTextGenerator/Home)
 - [UntitledPackageSchemeGenerator](https://madladsquad.com/docs/UntitledPackageSchemeGenerator/Home)
 - [UntitledExec](https://madladsquad.com/docs/UntitledExec/Home)
+- [UntitledRuntimeLibraryLoader](https://madladsquad.com/docs/UntitledRuntimeLibraryLoader/Home)
