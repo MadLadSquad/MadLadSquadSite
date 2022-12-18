@@ -1,0 +1,218 @@
+# UntitledDesktopEnvironment Core Theme Specification
+## Authors
+1. [Stanislav Vasilev(Madman10K)](https://github.com/Madman10K)
+
+## Overview
+The UntitledDesktopEnvironment has a goal to support thememing, that is the ability for the user to modify the look of an application. This specification
+can become outdated depending on changes in upstream libraries, mainly [imgui](https://github.com/ocornut/imgui)
+
+By theming we mean the following things:
+1. Changing of the colours for different UI elements of an application
+1. Changing properties of the UI rendering and composition system(e.g. changing the padding values)
+1. Changing of UI element properties such as size
+1. Changing properties outside the application(e.g. theming of window decorations)
+
+This specification stands to serve and establish the different values that applications built using our toolkit, the 
+[UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework) can use for their own customization, as well as establish the format in
+which themes are established
+
+## Properties of a theme
+A theme has the following properties:
+1. Changes the look of an application
+1. Changes the look of the decoration of an application as defined by the given window manager/composer
+1. Can be set or unset, set as the default, as fallback or as an override to a specific default theme
+1. Can become a parent theme, that other themes inherit from
+1. Can be owned by users, a group of users or all the users on a system or network
+1. Can be extended using standard extensions
+1. Standard extensions that be further standardised into official extensions that are officially integrated into the code standard, specificed in entries
+below
+1. Can be overriden by an application
+
+## Compatibility
+By compatibility we mean compatibility with other theme standards and formats. Here are the compatibility properties:
+1. Only core themes can be compatible with other desktops, extensions are per-app/widget and are in most cases impossible to have a compatibility layer for
+1. Themes are written in a widely parse-able and technology agnostic format, so that easy conversion can be established
+1. Core themes are provided with 2+ way theme conversion tools(i.e. Converting between a GTK and UDE or GTK and QT theme using UDE themes as a mediator)
+
+## Format
+The format for an UntitledDesktopEnvironment theme is established as standard YAML. Here is the full YAML schema for the core standard. Features not part
+of [dear imgui](https://github.com/ocornut/imgui) will have comments
+
+Colours in RGBA format 0-1:
+```yaml
+text: [ 0, 0, 0, 0 ]
+text-disabled: [ 0, 0, 0, 0 ]
+window-bg: [ 0, 0, 0, 0 ]
+child-bg: [ 0, 0, 0, 0 ]
+popup-bg: [ 0, 0, 0, 0 ]
+border: [ 0, 0, 0, 0 ]
+border-shadow: [ 0, 0, 0, 0 ]
+frame-bg: [ 0, 0, 0, 0 ]
+frame-bg-hovered: [ 0, 0, 0, 0 ]
+frame-bg-active: [ 0, 0, 0, 0 ]
+title-bg: [ 0, 0, 0, 0 ]
+title-bg-active: [ 0, 0, 0, 0 ]
+title-bg-collapsed: [ 0, 0, 0, 0 ]
+menubar-bg: [ 0, 0, 0, 0 ]
+scrollbar-bg: [ 0, 0, 0, 0 ]
+scrollbar-grab: [ 0, 0, 0, 0 ]
+scrollbar-grab-hovered: [ 0, 0, 0, 0 ]
+scrollbar-grab-active: [ 0, 0, 0, 0 ]
+check-mark: [ 0, 0, 0, 0 ]
+slider-grab: [ 0, 0, 0, 0 ]
+slider-grab-active: [ 0, 0, 0, 0 ]
+button: [ 0, 0, 0, 0 ]
+button-hovered: [ 0, 0, 0, 0 ]
+button-active: [ 0, 0, 0, 0 ]
+header: [ 0, 0, 0, 0 ]
+header-hovered: [ 0, 0, 0, 0 ]
+header-active: [ 0, 0, 0, 0 ]
+separator: [ 0, 0, 0, 0 ]
+separator-hovered: [ 0, 0, 0, 0 ]
+separator-active: [ 0, 0, 0, 0 ]
+resize-grip: [ 0, 0, 0, 0 ]
+resize-grip-hovered: [ 0, 0, 0, 0 ]
+resize-grip-active: [ 0, 0, 0, 0 ]
+tab: [ 0, 0, 0, 0 ]
+tab-hovered: [ 0, 0, 0, 0 ]
+tab-active: [ 0, 0, 0, 0 ]
+tab-unfocused: [ 0, 0, 0, 0 ]
+tab-unfocused-active: [ 0, 0, 0, 0 ]
+docking-preview: [ 0, 0, 0, 0 ]
+docking-empty-bg: [ 0, 0, 0, 0 ]
+plot-lines: [ 0, 0, 0, 0 ]
+plot-lines-hovered: [ 0, 0, 0, 0 ]
+plot-histogram: [ 0, 0, 0, 0 ]
+plot-histogram-hovered: [ 0, 0, 0, 0 ]
+table-header-bg: [ 0, 0, 0, 0 ]
+table-border-strong: [ 0, 0, 0, 0 ]
+table-border-light: [ 0, 0, 0, 0 ]
+table-row-bg: [ 0, 0, 0, 0 ]
+table-row-bg-alt: [ 0, 0, 0, 0 ]
+text-selected-bg: [ 0, 0, 0, 0 ]
+drag-drop-target: [ 0, 0, 0, 0 ]
+nav-highlight: [ 0, 0, 0, 0 ]
+nav-windowing-highlight: [ 0, 0, 0, 0 ]
+nav-windowing-dim-bg: [ 0, 0, 0, 0 ]
+modal-window-dim-bg: [ 0, 0, 0, 0 ]
+```
+UI component properties:
+```yaml
+alpha: 1.0
+disabled-alpha: 0.0
+window-padding: [ 8, 8 0
+window-rounding: 20.0
+window-border-size: 1.0
+window-min-size: [ 100, 100 ]
+window-title-align: [ 1, 1 ]
+child-rounding: 20.0
+child-border-size: 2.0
+popup-rounding: 2.0
+popup-border-size: 2.0
+frame-padding: [ 2, 2 ]
+frame-rounding: 2.0
+frame-border-size: 2.0
+item-spacing: [ 8, 8 ]
+item-inner-spacing: [ 2, 2 ]
+indent-spacing: 10.0
+cell-padding: [ 2, 2 ]
+scrollbar-size: 10.0
+scrollbar-rounding: 10.0
+grab-min-size: 10.0
+grab-rounding: 10.0
+tab-rounding: 10.0
+button-text-align: [ 1, 1 ]
+selectable-text-align: [ 1, 1 ]
+```
+Fonts:
+```yaml
+# More features here pending, this is still unfinished
+fonts:
+  - font: MyFont
+    font-location: "MyFont.ttf" # This is our own extension, ImGui does provide loading of fonts but that is not achieved by just changing some settings and needs some code
+    font-size: 20.0
+    glyph-range: "default" # This is part of ImGui's font system, it's still not clear how the format should be designed specifically for this variable
+    glyph-spacing: [ 0, 0 ]
+    glyph-offste: [ 0, 0 ]
+    pixel-snap: false
+    merge: false
+    brightness: 1.0 
+```
+MadLadSquad's extensions:
+```yaml
+desktop-wm-active:
+  border-colour: [ 0, 0, 0, 0 ]
+  background-bg: [ 0, 0, 0, 0 ]
+  background-bg2: [ 0, 0, 0, 0 ]
+  shadow: [ 0, 0, 0, 0 ]
+  text-colour: [ 1, 1, 1, 1 ]
+  text-position: 1
+  override-icon: "Icon.png"
+  override-text: "Changed window title here"
+desktop-wm-inactive:
+  border-colour: [ 0, 0, 0, 0 ]
+  background-bg: [ 0, 0, 0, 0 ]
+  background-bg2: [ 0, 0, 0, 0 ]
+  shadow: [ 0, 0, 0, 0 ]
+  text-colour: [ 1, 1, 1, 1 ]
+  text-position: 1
+  override-icon: "Icon.png"
+  override-text: "Changed window title here"
+desktop-wm-minimized:
+  border-colour: [ 0, 0, 0, 0 ]
+  background-bg: [ 0, 0, 0, 0 ]
+  background-bg2: [ 0, 0, 0, 0 ]
+  shadow: [ 0, 0, 0, 0 ]
+  text-colour: [ 1, 1, 1, 1 ]
+  text-position: 1
+  override-icon: "Icon.png"
+  override-text: "Changed window title here"
+desktop-wm-maximised:
+  border-colour: [ 0, 0, 0, 0 ]
+  background-bg: [ 0, 0, 0, 0 ]
+  background-bg2: [ 0, 0, 0, 0 ]
+  shadow: [ 0, 0, 0, 0 ]
+  text-colour: [ 1, 1, 1, 1 ]
+  text-position: 1
+  override-icon: "Icon.png"
+  override-text: "Changed window title here"
+desktop-wm-folded:
+  border-colour: [ 0, 0, 0, 0 ]
+  background-bg: [ 0, 0, 0, 0 ]
+  background-bg2: [ 0, 0, 0, 0 ]
+  shadow: [ 0, 0, 0, 0 ]
+  text-colour: [ 1, 1, 1, 1 ]
+  text-position: 1
+  override-icon: "Icon.png"
+  override-text: "Changed window title here"
+desktop-wm-current-tab:
+  border-colour: [ 0, 0, 0, 0 ]
+  background-bg: [ 0, 0, 0, 0 ]
+  background-bg2: [ 0, 0, 0, 0 ]
+  shadow: [ 0, 0, 0, 0 ]
+  text-colour: [ 1, 1, 1, 1 ]
+  text-position: 1
+  override-icon: "Icon.png"
+  override-text: "Changed window title here"
+desktop-wm-inactive-tab:
+  border-colour: [ 0, 0, 0, 0 ]
+  background-bg: [ 0, 0, 0, 0 ]
+  background-bg2: [ 0, 0, 0, 0 ]
+  shadow: [ 0, 0, 0, 0 ]
+  text-colour: [ 1, 1, 1, 1 ]
+  text-position: 1
+  override-icon: "Icon.png"
+  override-text: "Changed window title here"
+desktop-wm-bar-positions: 10 # This is so that the window bar decoration can be divided into different positions, lowest value is 3
+desktop-wm-buttons:
+  - close-button: 10
+    icon-override: "CustomClose.png"
+  - maximise-button: 9
+    icon-override: "CustomMax.png"
+  - minimise-button: 8
+    icon-override: "CustomMin.png"
+  - fold-button: 7
+    icon-override: "CustomFold.png"
+  - plus-button: 6
+    icon-override: "CustomPlus.png"
+```
