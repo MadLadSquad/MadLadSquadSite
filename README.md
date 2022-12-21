@@ -46,6 +46,7 @@ the UntitledTerminalEmulator, Windows not supported as of now
 - [UntitledDEThemeGenerator](https://github.com/MadLadSquad/UntitledDEThemeGenerator) - A graphical theme creator for UDE, to be developed
 - [UntitledFileManager](https://github.com/MadLadSquad/UntitledFileManager) - A file manager for UDE, to be developed
 - [UntitledDESessionManager](https://github.com/MadLadSquad/UntitledDESessionManager) - A session manager for UDE, to be developed
+- [UntitledDESessionLogout](https://github.com/MadLadSquad/UntitledDESessionLogout) - A session logout utility for UDE
 - [UntitledDEPowerManager](https://github.com/MadLadSquad/UntitledDEPowerManager) - A power manager for UDE, to be developed
 - [UntitledDEWallpaperManager](https://github.com/MadLadSquad/UntitledDEWallpaperManager) - A wallpaper manager for UDE, to be developed
 - [UntitledTaskManager](https://github.com/MadLadSquad/UntitledTaskManager) - A cross-platform task management application, to be developed
