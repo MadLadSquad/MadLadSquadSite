@@ -33,5 +33,31 @@ implot-crosshairs: [ 0, 0, 0, 0]
 ```
 Variables:
 ```yaml
-
+implot-line-weight: 1.0
+implot-marker: 1
+implot-marker-size: 1.0
+implot-marker-weight: 1.0
+implot-fill-alpha: 1.0
+implot-errorbar-size: 1.0
+implot-errorbar-weight: 1.0
+implot-digitalbit-height: 1.0
+implot-digitalbit-gap: 1.0
+implot-plot-border-size: 1.0
+implot-minor-alpha: 1.0
+implot-major-tick-len: [ 1, 1 ]
+implot-minor-tick-len: [ 1, 1 ]
+implot-major-ticks-ize: [ 1, 1 ]
+implot-minor-tick-size: [ 1, 1 ]
+implot-major-grid-size: [ 1, 1 ]
+implot-minor-grid-size: [ 1, 1 ]
+implot-plot-padding: [ 1, 1 ]
+implot-label-padding: [ 1, 1 ]
+implot-legend-padding: [ 1, 1 ]
+implot-legend-inner-padding: [ 1, 1 ]
+implot-legend-spacing: [ 1, 1 ]
+implot-mouse-pos-padding: [ 1, 1 ]
+implot-annotation-padding: [ 1, 1 ]
+implot-fit-padding: [ 1, 1 ]
+implot-plot-default-size: [ 1, 1 ]
+implot-plot-min-size: [ 1, 1 ]
 ```
