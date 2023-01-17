@@ -2,6 +2,9 @@
 ## Authors
 1. [Stanislav Vasilev(Madman10K)](https://github.com/Madman10K)
 
+## Version
+Current version is 0.9.0.0
+
 ## Overview
 The UntitledDesktopEnvironment has a goal to support thememing, that is the ability for the user to modify the look of an application. This specification
 can become outdated depending on changes in upstream libraries, mainly [imgui](https://github.com/ocornut/imgui)
