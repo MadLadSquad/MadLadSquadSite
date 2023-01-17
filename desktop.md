@@ -152,14 +152,10 @@ the core [UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFr
 You can find more about the UntitledDesktop theme specification here:
 1. [UntitledDesktopThemes Core specification](https://madladsquad.com/untitled-desktop/theming/core-spec)
 1. [UntitledDesktopThemes Official Extension: ImPlot](https://madladsquad.com/untitled-desktop/theming/ext-implot)
-3. UntitledDesktopThemes Official Extension: ImGuiColorTextEdit
-4. UntitledDesktopThemes Official Extension: ImGuizmo
-5. UntitledDesktopThemes Official Extension: ImTTY
-6. UntitledDesktopThemes Official Extension: Markdown(For UntitledImGuiMDWidget and other Markdown Widgets)
-7. [UntitldeDesktopThemes Official Extension: Knobs](https://madladsquad.com/untitled-desktop/theming/ext-knobs)
-8. [UntitledDesktopThemes Official Extension: Spinners](https://madladsquad.com/untitled-desktop/theming/ext-spinners)
-9. UntitledDesktopThemes Official Extension: Console(For UntitledLog's imgui widget and projects like ImTerm)
-10. UntitledDesktopThemes Official Extension Concept: Windows IME styling 
+1. UntitledDesktopThemes Official Extension: ImGuizmo
+1. [UntitldeDesktopThemes Official Extension: Knobs](https://madladsquad.com/untitled-desktop/theming/ext-knobs)
+1. [UntitledDesktopThemes Official Extension: Spinners](https://madladsquad.com/untitled-desktop/theming/ext-spinners)
+1. UntitledDesktopThemes Official Extension: Console(For UntitledLog's imgui widget and projects like ImTerm)
 
 ### To be added
 We're still developing our scope so this section should be expanded in the future
