@@ -2,6 +2,9 @@
 ## Authors
 1. [Stanislav Vasilev(Madman10K)](https://github.com/Madman10K)
 
+## Version
+Current version is 1.0
+
 ## Brief summary
 The goal of this standard extension is to provide the theming framework with a standardised interface for theming applications using the widely used
 [imspinner](https://github.com/dalerank/imspinner) library
