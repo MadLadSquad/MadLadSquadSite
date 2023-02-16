@@ -22,3 +22,6 @@
 [submodule "docs/UntitledRuntimeLibraryLoader"]
 	path = docs/UntitledRuntimeLibraryLoader
 	url = https://github.com/MadLadSquad/UntitledRuntimeLibraryLoader.wiki.git
+[submodule "docs/YouyinWeb"]
+	path = docs/YouyinWeb
+	url = https://github.com/MadLadSquad/YouyinWeb.wiki.git

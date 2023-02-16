@@ -22,6 +22,7 @@ add_sidebar UntitledTextGenerator
 add_sidebar UntitledPackageSchemeGenerator
 add_sidebar UntitledExec
 add_sidebar UntitledRuntimeLibraryLoader
+add_sidebar YouyinWeb
 
 find ./ -type f -exec sed -i 's/https:\/\/github.com\/MadLadSquad\//https:\/\/madladsquad.com\/docs\//g' {} \;
 find ./ -type f -exec sed -i 's/\/wiki\//\//g' {} \;
