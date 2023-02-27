@@ -50,6 +50,7 @@ will be developed at Alpha 1.0 of the engine
 made for our desktop environment(UntitledDesktopEnvironment/UDE)
 - [UntitledTextEditor](https://github.com/MadLadSquad/UntitledTextEditor) - UDE graphical text editor
 - [UntitledProductivityManager](https://github.com/MadLadSquad/UntitledProductivityManager) - An all in one productivity application, to be developed
+- [ImTTY](https://github.com/MadLadSquad/ImTTY) - A terminal emulator widget for dear imgui
 - [UntitledTerminalEmulatorBackend](https://github.com/MadLadSquad/UTEBackend) - A cross-platform terminal emulator backend library for 
 the UntitledTerminalEmulator, Windows not supported as of now
 - [UntitledEscapeParser](https://github.com/MadLadSquad/UntitledEscapeParser) - A library that parses strings containing unix escape sequences
@@ -65,6 +66,24 @@ the UntitledTerminalEmulator, Windows not supported as of now
 - [UntitledDESettings](https://github.com/MadLadSquad/UntitledDESettings) - A settings manager for UDE, to be developed
 - [UntitledCalculator](https://github.com/MadLadSquad/UntitledCalculator) - A cross-platform calculator application, to be developed
 - [UntitledCoreWidgets](https://github.com/MadLadSquad/UntitledCoreWidgets) - A collection of useful widgets that are widely used, to be developed
+- [UntitledImageViewer](https://github.com/MadLadSquad/UntitledImageViewer) - A minimal cross-platform image viewer
+- [UntitledDEWelcome](https://github.com/MadLadSquad/UntitledDEWelcome) - A help and welcome screen applicatino for UDE
+- [UntitledImGuiTextUtils](https://github.com/MadLadSquad/UntitledImGuiTextUtils) - ImGui Text rendering utility functions such as rendering underlined, bold or italic text
+- [UntitledNotify](https://github.com/MadLadSquad/UntitledNotify) - Cross-platform OS notification library
+- [UntitledPackageSchemeGenerator](https://github.com/MadLadSquad/UntitledPackageSchemeGenerator) - A generator for build and distribution formats such as debs, winget manifests, rpms, ebuilds, etc.
+- [UntitledImGuiMDViewerWidget](https://github.com/MadLadSquad/UntitledImGuiMDViewerWidget) - A Markdown viewer/renderer widget for dear imgui
+- [UntitledMarkdownParser](https://github.com/MadLadSquad/UntitledMarkdownParser) - A parser for Markdown
+- [UntitledDesktopCompat](https://github.com/MadLadSquad/UntitledDesktopCompat) - A bunch of compatibility utilities for multidirectional conversion between KDE, Gnome and UDE formats
+- [UntitledDEPluginPackageRepository](https://github.com/MadLadSquad/UntitledDEPluginPackageRepository) - A repository for plugin packages used by the plugin package manager
+- [UntitledDEPluginPackageManager](https://github.com/MadLadSquad/UntitledDEPluginPackageManager) - A package manager for plugins and mods
+
+### Multilingual
+- [Youyin](https://github.com/MadLadSquad/YouyinWeb) - A website for learning how to write Chinese characters and other scripts
+- [YouyinPublicDeckRepository](https://github.com/MadLadSquad/YouyinPublicDeckRepository) - Public deck repository for Youyin
+- [hanzi-writer-data-youyin](https://github.com/MadLadSquad/hanzi-writer-data-youyin) - Monolyth character database for Youyin
+- [hanzi-writer-data-others](https://github.com/MadLadSquad/hanzi-writer-data-others) - Database for non-Chinese and Kana characters for Youyin
+- [UntitledFontUtils](https://github.com/MadLadSquad/UntitledFontUtils) - Cross-platform utilities for dealing with system fonts
+- [UnttiledKBD](https://github.com/MadLadSquad/UntitledKBD) - A keyboard layout generator for custom layouts, outputs keyboards for Linux, Windows and Android in multiple formats
 
 ### Libraries and misc applications
 - [MadLadSquadSite](https://github.com/MadLadSquad/MadLadSquadSite) - The site you're looking at right now
