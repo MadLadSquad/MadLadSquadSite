@@ -25,3 +25,6 @@
 [submodule "docs/YouyinWeb"]
 	path = docs/YouyinWeb
 	url = https://github.com/MadLadSquad/YouyinWeb.wiki.git
+[submodule "docs/UVKBuildTool"]
+	path = docs/UVKBuildTool
+	url = https://github.com/MadLadSquad/UVKBuildTool.wiki.git

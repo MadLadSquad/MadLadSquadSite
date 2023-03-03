@@ -120,5 +120,6 @@ Copy of the docs for these repos(docs can also be found in their respective wiki
 - [UntitledPackageSchemeGenerator](https://madladsquad.com/docs/UntitledPackageSchemeGenerator/Home)
 - [UntitledExec](https://madladsquad.com/docs/UntitledExec/Home)
 - [UntitledRuntimeLibraryLoader](https://madladsquad.com/docs/UntitledRuntimeLibraryLoader/Home)
+- [UVKBuildTool](https://madladsquad.com/docs/UVKBuildTool/Home)
 - [YouyinWeb](https://madladsquad.com/docs/YouyinWeb/Home)
 
