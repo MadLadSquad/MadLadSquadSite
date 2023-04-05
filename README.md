@@ -92,6 +92,7 @@ the UntitledTerminalEmulator, Windows not supported as of now
 - [UntitledExec](https://github.com/MadLadSquad/UntitledExec) - A small cross-platform library to execute applications as seperate processes
 - [check-for-synced-branches-action](https://github.com/MadLadSquad/check-for-synced-branches-action) - An action to check if 2 branches are in sync, 
 also works for forks and upstream
+- [UntitledCLIParser](https://github.com/MadLadSquad/UntitledCLIParser) - A C and C++ parser for CLI arguments
 
 ## Members
 - [Madman10K](https://github.com/Madman10K) - Founder and head projects developer
@@ -119,6 +120,7 @@ Copy of the docs for these repos(docs can also be found in their respective wiki
 - [UntitledTextGenerator](https://madladsquad.com/docs/UntitledTextGenerator/Home)
 - [UntitledPackageSchemeGenerator](https://madladsquad.com/docs/UntitledPackageSchemeGenerator/Home)
 - [UntitledExec](https://madladsquad.com/docs/UntitledExec/Home)
+- [UntitledCLIParser](https://madladsquad.com/docs/UntitledCLIParser/Home)
 - [UntitledRuntimeLibraryLoader](https://madladsquad.com/docs/UntitledRuntimeLibraryLoader/Home)
 - [UVKBuildTool](https://madladsquad.com/docs/UVKBuildTool/Home)
 - [YouyinWeb](https://madladsquad.com/docs/YouyinWeb/Home)

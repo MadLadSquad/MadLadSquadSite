@@ -28,3 +28,6 @@
 [submodule "docs/UVKBuildTool"]
 	path = docs/UVKBuildTool
 	url = https://github.com/MadLadSquad/UVKBuildTool.wiki.git
+[submodule "docs/UntitledCLIParser"]
+	path = docs/UntitledCLIParser
+	url = https://github.com/MadLadSquad/UntitledCLIParser.wiki.git
