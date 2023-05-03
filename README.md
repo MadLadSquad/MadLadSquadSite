@@ -2,7 +2,7 @@ This page is translated into the following languages:
 1. [Bulgarian/Български](https://madladsquad.com/translations/bg/main) 🇧🇬
 
 # About us
-We're a decentralized team of developers working on many different types of software with the goal of redefining the desktop experience. We have 2 main
+We're a decentralized team of developers, working on a wide variety of software, with the goal of redefining the desktop experience. We have 2 main
 departments:
 1. The games department - Responsible for our games and game related products like the UntitledVulkanGameEngine
 1. The desktop department - Responsible for maintaining the UntitledDesktopEnvironment
@@ -12,13 +12,14 @@ departments:
 In the game development field we create open source, highly moddable games. We prioritize player experience and we encourage all our players to work
 together with us in creating great digital experiences.
 
-Our technology stack is cross-platform and is almost completely self-sustained. We use our own in-house technology like the UntitledVulkanGameEngine to
-have full control over our games' backend. But we also work with indurstry standard technologies like the Unreal Engine, it all depends on the requirements
+Our technology stack is cross-platform and is almost completely self-sustained. We use our own in-house technology like the 
+[UntitledVulkanGameEngine](https://github.com/MadLadSquad/UntitledVulkanGameEngine) to
+have full control over our games' backend. But we also work with industry standard technologies like the Unreal Engine, it all depends on the requirements
 of the project.
 
 ## The UntitledDesktopEnvironment
-The UntitledDesktopEnvironment is a suite of applications forming the UntitledDesktopEnvironment. We have an almost complete list of applications we're
-working on that contains the core and even some more features a modern desktop environment would provide.
+The [UntitledDesktopEnvironment](https://madladsquad.com/desktop) is a suite of applications forming the UntitledDesktopEnvironment. 
+We have an almost complete list of applications we're working on that contains the core and even some more features a modern desktop environment would provide.
 
 More info can be found [here](https://madladsquad.com/desktop)
 
@@ -110,6 +111,10 @@ also works for forks and upstream
 If you like our software please donate to our [ko-fi](https://ko-fi.com/madladsquad) page. Send a personalised message with your donation if you have any
 project in mind. We donate 50% of the proceedings to developers of libraries we depend on(based on the specific project) 
 like [dear imgui](https://github.com/ocornut/imgui)
+
+## Monthly newsletter
+1. 2023
+   1. [May](https://madladsquad.com/monthly-newsletter/2023/May)
 
 ## Other pages
 Copy of the docs for these repos(docs can also be found in their respective wiki page on github):
