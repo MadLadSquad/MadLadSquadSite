@@ -14,7 +14,7 @@ Because of this the GUI became a job for third parties, and as a result we don't
 Windows, MacOS or even Android flavours. This all negatively impacts UX and unfortunately is not a fixable issue, fortunately shells
 like Gnome and KDE, have for the most part removed most problems to date and the UX is definitely a great one over there.
 
-So why even consider UDE when you said that KDE and Gnome are great 😂. Well here's the thing, we're actually not trying to compete with them, all we
+So why even consider UDE when you said that KDE and Gnome are great? Well here's the thing, we're actually not trying to compete with them, all we
 want to create is an alternative desktop experience. Here are our priorities:
 1. Freedom
 1. Cross-desktop compatibility
@@ -160,3 +160,7 @@ You can find more about the UntitledDesktop theme specification here:
 
 ### To be added
 We're still developing our scope so this section should be expanded in the future
+
+## Specifications
+### Misc
+1. [UntitledDesktopKeybindings Core Specification](https://madladsquad.com/untitled-desktop/misc/keybinding-spec-core)
