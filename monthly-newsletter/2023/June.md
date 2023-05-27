@@ -1,7 +1,11 @@
 Welcome to the June 2023 edition of the monthly newsletter
 
 ## UntitledDesktop
-### Announcing UntitledDesktop Flow
+### Annoucing UDE flow
+![udeflow](https://github.com/MadLadSquad/MadLadSquadSite/assets/40400590/2ac900cd-e261-46cc-a426-692d38c87a6f)
+
+\* Logo derived from Chinese characters 川, meaning river/stream.
+
 UntitledDesktop Flow, shortened to UDF will be the reference implementation of a complete desktop environment using the
 UntitledDesktopEnvironment base.
 
