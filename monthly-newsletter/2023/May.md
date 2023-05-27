@@ -84,7 +84,9 @@ In the multilingual department, May, will be a really active month. Here is all 
    - [x] Autogennning the Adobe SourcePro and Google Noto fonts, [FL-10383](https://bugs.funtoo.org/browse/FL-10383)
    - [x] Add a new i18n-kit and move existing multilingual applications to the new kit, 
       [FL-10436](https://bugs.funtoo.org/browse/FL-10436)
-
+- [x] Various improvements to [Youyin](https://youyin.madladsquad.com), including codebase improvements, multiphrase support
+   pinyin input when creating cards and more
+      
 ### UntitledIBusHandwriting
 The [UntitledIBusHandwriting](https://github.com/MadLadSquad/UntitledIBusHandwriting) application is a handwriting IM for 
 [ibus](https://en.wikipedia.org/wiki/Intelligent_Input_Bus), similar to 
