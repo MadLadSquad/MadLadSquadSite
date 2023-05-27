@@ -1,29 +1,32 @@
 # About us
-We're a decentralized team of developers, working on a wide variety of software, with the goal of redefining the desktop experience. We have 2 main
-departments:
+We're a decentralized team of developers, working on a wide variety of software, with the goal of redefining the desktop 
+experience. We have 2 main departments:
 1. The games department - Responsible for our games and game related products like the UntitledVulkanGameEngine
 1. The desktop department - Responsible for maintaining the UntitledDesktopEnvironment
 1. The multilingual department - Responsible for working on human language tools
 
 ## Games
-In the game development field we create open source, highly moddable games. We prioritize player experience and we encourage all our players to work
-together with us in creating great digital experiences.
+In the game development field we create open source, highly moddable games. We prioritize player experience and we encourage all 
+our players to work together with us in creating great digital experiences.
 
 Our technology stack is cross-platform and is almost completely self-sustained. We use our own in-house technology like the 
 [UntitledVulkanGameEngine](https://github.com/MadLadSquad/UntitledVulkanGameEngine) to
-have full control over our games' backend. But we also work with industry standard technologies like the Unreal Engine, it all depends on the requirements
-of the project.
+have full control over our games' backend. But we also work with industry standard technologies like the Unreal Engine, it all 
+depends on the requirements of the project.
 
 ## The UntitledDesktopEnvironment
-The [UntitledDesktopEnvironment](https://madladsquad.com/desktop) is a suite of applications forming the UntitledDesktopEnvironment. 
-We have an almost complete list of applications we're working on that contains the core and even some more features a modern desktop environment would provide.
+The [UntitledDesktopEnvironment](https://madladsquad.com/desktop) is a suite of applications forming the 
+UntitledDesktopEnvironment. We have an almost complete list of applications we're working on that contains the core and even some 
+more features a modern desktop environment would provide.
 
-More info can be found [here](https://madladsquad.com/desktop)
+More info can be found [here](https://madladsquad.com/desktop).
 
 ## Multilingual
-The multilingual department works on a small number of applications in the areas of language learning, input and output. While they work on standalone
-applications like [Youyin](https://youyin.madladsquad.com/) the multilingual team mainly helps the [multilingual project](https://madladsquad.com/untitled-desktop/subprojects/i18n) under the desktop department.
-Additionally work on the multilingual project gets frequently backported to the games department. Here are some of the tasks of the multilingual department:
+The multilingual department works on a small number of applications in the areas of language learning, input and output. 
+While they work on standalone applications like [Youyin](https://youyin.madladsquad.com/) the multilingual team mainly 
+helps the [multilingual project](https://madladsquad.com/untitled-desktop/subprojects/i18n) under the desktop department.
+Additionally, work on the multilingual project gets frequently backported to the games department. Here are some of the tasks of 
+the multilingual department:
 1. Develop language learning applications like [Youyin](https://youyin.madladsquad.com/)
 1. Help with translating all softwar we produce to multiple languages
 1. Help with developing libraries related to multilingual support, such as ones that deal with system fonts, locales, translation systems and more
@@ -105,13 +108,14 @@ also works for forks and upstream
 - Discord User: Madman10K#0345
 
 ## Funding, donations and support
-If you like our software please donate to our [ko-fi](https://ko-fi.com/madladsquad) page. Send a personalised message with your donation if you have any
-project in mind. We donate 50% of the proceedings to developers of libraries we depend on(based on the specific project) 
-like [dear imgui](https://github.com/ocornut/imgui)
+If you like our software please donate to our [ko-fi](https://ko-fi.com/madladsquad) page. Send a personalised message with 
+your donation if you have any project in mind. We donate 50% of the proceedings to developers of libraries we depend on
+(based on the specific project) like [dear imgui](https://github.com/ocornut/imgui).
 
 ## Monthly newsletter
 1. 2023
    1. [May](https://madladsquad.com/monthly-newsletter/2023/May)
+   1. [June](https://madladsquad.com/monthly-newsletter/2023/June)
 
 ## Other pages
 Copy of the docs for these repos(docs can also be found in their respective wiki page on github):
