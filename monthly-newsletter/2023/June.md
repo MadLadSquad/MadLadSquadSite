@@ -1,16 +1,16 @@
 Welcome to the June 2023 edition of the monthly newsletter
 
 ## UntitledDesktop
-### Annoucing UDE flow
+### Announcing UDE flow
 ![udeflow](https://github.com/MadLadSquad/MadLadSquadSite/assets/40400590/2ac900cd-e261-46cc-a426-692d38c87a6f)
 
-\* Logo derived from Chinese characters 川, meaning river/stream.
+\* Logo derived from Chinese character 川, meaning river/stream.
 
 UntitledDesktop Flow, shortened to UDF will be the reference implementation of a complete desktop environment using the
 UntitledDesktopEnvironment base.
 
-The UntitledDesktopEnvironment is mostly a minimal environment, that doesn't include a graphic shell, i.e. applications such
-as status bars and application launchers. UDF on the other hand, will provide building blocks for one such type of shell.
+The UntitledDesktopEnvironment is mostly a minimal environment that doesn't include a graphic shell i.e. applications such
+as status bars and application launchers. UDF, on the other hand, will implement a shell.
 This includes the following applications:
 1. A minimal application launcher - [UDFApplicationLauncher](https://github.com/MadLadSquad/UDFApplicationLauncher)
 2. A minimal and highly customisable bar - [UDFPanel](https://github.com/MadLadSquad/UDFPanel)
@@ -31,7 +31,7 @@ The framework is still not done for release 0.5. Currently, the following featur
 - [ ] Finishing the [UntitledTemplatingEngine](https://github.com/MadLadSquad/UntitledTemplatingEngine)
 - [ ] Rewriting the [UVKBuildTool](https://github.com/MadLadSquad/UVKBuildTool) to use the templating engine
 
-We think that 0.5.0.0, should be released around the end of July
+We estimate 0.5.0.0 that would be released around the end of July.
 
 ### UntitledCalculator and UntitledMathSolver
 Announcing UntitledCalculator and UntitledMathSolver. UntitledCalculator will be a frontend for UntitledMathSolver. The
