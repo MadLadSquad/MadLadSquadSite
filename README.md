@@ -1,6 +1,3 @@
-This page is translated into the following languages:
-1. [Bulgarian/Български](https://madladsquad.com/translations/bg/main) 🇧🇬
-
 # About us
 We're a decentralized team of developers, working on a wide variety of software, with the goal of redefining the desktop experience. We have 2 main
 departments:
