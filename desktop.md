@@ -107,7 +107,7 @@ and shall make it easier for any user even non-technical ones and the subset of 
 
 ## A great multilingual experience
 Make all applications have UI and docs in multiple languages, allow for easy translation of text and conform to i18n standards. 
-More information about the subproject can be found [here](https://madladsquad.com/untitled-desktop/subprojects/i18n)
+More information about the subproject can be found [here](https://madladsquad.com/untitled-desktop/subprojects/i18n).
 
 ## A great distribution experience
 ### UntitledPackageSchemeGenerator
