@@ -7,14 +7,13 @@ have no word in saying what an application should or shouldn't look like, especi
 The applications listed here are purely as examples to show what we recommend you to do and what not to do.
 
 ## Design policies
-### Basic responsibilities as a developer
 1. Keep UI simple and intuitive, if there are a lot of options try hiding them in some way such as a ribbon menu
 1. Keep frequently accessed areas clear and easy to access and try to hide non-important or less frequently accessed areas
 1. Prefer to automate user action as much as possible
 1. Reduce the number of steps to perform a task
 1. Reduce the ammount of information on the screen
 1. Keep text short
-1. Try to prevent mistake
+1. Try to prevent user mistakes
 1. Allow undo and redo for destructive actions
 1. Don't be annoying with interuptions, distractions and notifications
 1. Use generally accepted shortcuts
@@ -39,4 +38,3 @@ user
 1. Large window sizes present the following issues:
    1. Items are too far apart
    1. Text becomes too long - Can be fixed by setting a maximum width of the given text container
-
