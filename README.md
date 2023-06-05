@@ -121,6 +121,7 @@ your donation if you have any project in mind. We donate 50% of the proceedings 
    1. [June](https://madladsquad.com/monthly-newsletter/2023/June)
 
 ## Other pages
+### Documentation
 Copy of the docs for these repos(docs can also be found in their respective wiki page on github):
 - [UntitledVulkanGameEngine](https://madladsquad.com/docs/UntitledVulkanGameEngine/Home)
 - [UntitledImGuiFramework](https://madladsquad.com/docs/UntitledImGuiFramework/Home)
@@ -133,4 +134,7 @@ Copy of the docs for these repos(docs can also be found in their respective wiki
 - [UntitledRuntimeLibraryLoader](https://madladsquad.com/docs/UntitledRuntimeLibraryLoader/Home)
 - [UVKBuildTool](https://madladsquad.com/docs/UVKBuildTool/Home)
 - [YouyinWeb](https://madladsquad.com/docs/YouyinWeb/Home)
+
+### Misc
+- [Utilities](https://madladsquad.com/utilities)
 
