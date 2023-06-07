@@ -65,8 +65,8 @@ the UntitledTerminalEmulator, Windows not supported as of now, to be developed
 - [UntitledNotify](https://github.com/MadLadSquad/UntitledNotify) - Cross-platform OS notification library, to be developed
 - [UntitledPackageSchemeGenerator](https://github.com/MadLadSquad/UntitledPackageSchemeGenerator) - A generator for build and distribution formats such as debs, winget manifests, rpms, ebuilds, etc. to be developed
 - [UntitledDesktopCompat](https://github.com/MadLadSquad/UntitledDesktopCompat) - A bunch of compatibility utilities for multidirectional conversion between KDE, Gnome and UDE formats, to be developed
-- [UntitledDEPluginPackageRepository](https://github.com/MadLadSquad/UntitledDEPluginPackageRepository) - A repository for plugin packages used by the plugin package manager, to be developed
-- [UntitledDEPluginPackageManager](https://github.com/MadLadSquad/UntitledDEPluginPackageManager) - A package manager for plugins and mods, to be developed
+- [UntitledPackageRepository](https://github.com/MadLadSquad/UntitledPackageRepository) - A repository for plugin packages used by the plugin package manager, to be developed
+- [UntitledPackageManager](https://github.com/MadLadSquad/UntitledPackageManager) - A package manager for plugins and mods, to be developed
 - [UntitledDesktopBootstrap](https://github.com/MadLadSquad/UntitledDesktopBootstrap) - A collection of scripts that created needed folders and files when first installing UDE, to be developed
 - [UntitledPolkitUtils](https://github.com/MadLadSquad/UntitledPolkitUtils) - A collection of utilities for dealing with [polkit](https://en.wikipedia.org/wiki/Polkit), to be developed
 - [UntitledDBusUtils](https://github.com/MadLadSquad/UntitledDBusUtils) - A collection of utilities for dealing with [dbus](https://en.wikipedia.org/wiki/D-Bus), to be developed
