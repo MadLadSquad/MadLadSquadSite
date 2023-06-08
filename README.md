@@ -37,7 +37,7 @@ the multilingual department:
 - [UntitledVulkanGameEngine](https://github.com/MadLadSquad/UntitledVulkanGameEngine) - A cross-platform general use, Vulkan game engine
 - [UVKShaderCompiler](https://github.com/MadLadSquad/UVKShaderCompiler) - A shader compiler for the UntitledVulkanGameEngine
 - [MadLadSquadBot](https://github.com/MadLadSquad/MadLadSquadBot) - Our general purpose Discord bot
-- [UntitledLinuxGameManager](https://github.com/MadLadSquad/UntitledLinuxGameManager) - A manager for containerized game systems using LXC and LXD
+- [UntitledGameSystemManager](https://github.com/MadLadSquad/UntitledGameSystemManager) - A manager for containerized game systems using LXC and LXD
 - [UntitledShapeRotator](https://github.com/MadLadSquad/UntitledShapeRotator) - A small game to showcase what the UntitledVulkanGameEngine is capable of,
 will be developed at Alpha 1.0 of the engine
 - [UVKBuildTool](https://github.com/MadLadSquad/UVKBuildTool) - A build file generator for the UntitledVulkanGameEngine and UntitledImGuiFramework
@@ -126,7 +126,7 @@ Copy of the docs for these repos(docs can also be found in their respective wiki
 - [UntitledVulkanGameEngine](https://madladsquad.com/docs/UntitledVulkanGameEngine/Home)
 - [UntitledImGuiFramework](https://madladsquad.com/docs/UntitledImGuiFramework/Home)
 - [UntitledLog](https://madladsquad.com/docs/UntitledLog/Home)
-- [UntitledLinuxGameManager](https://madladsquad.com/docs/UntitledLinuxGameManager/Home)
+- [UntitledGameSystemManager](https://madladsquad.com/docs/UntitledGameSystemManager/Home)
 - [UntitledTextGenerator](https://madladsquad.com/docs/UntitledTextGenerator/Home)
 - [UntitledPackageSchemeGenerator](https://madladsquad.com/docs/UntitledPackageSchemeGenerator/Home)
 - [UntitledExec](https://madladsquad.com/docs/UntitledExec/Home)
