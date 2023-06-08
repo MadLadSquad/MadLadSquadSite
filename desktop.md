@@ -16,7 +16,7 @@ and are not actual required components of it. This includes applications such as
 1. [UntitledImageViewer](https://github.com/MadLadSquad/UntitledImageViewer)
 1. [UntitledCalculator](https://github.com/MadLadSquad/UntitledCalculator)
 1. [UntitledTextEditor](https://github.com/MadLadSquad/UntitledTextEditor)
-1. [UntitledLinuxGameManager](https://github.com/MadLadSquad/UntitledLinuxGameManager)
+1. [UntitledGameSystemManager](https://github.com/MadLadSquad/UntitledGameSystemManager)
 1. [UntitledVulkanTerminalEmulator](https://github.com/MadLadSquad/UntitledVulkanTerminalEmulator)
 1. [UntitledFileManager](https://github.com/MadLadSquad/UntitledFileManager)
 1. [UntitledIBusHandwriting](https://github.com/MadLadSquad/UntitledIBusHandwriting)
