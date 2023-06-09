@@ -28,3 +28,6 @@
 [submodule "docs/UntitledCLIParser"]
 	path = docs/UntitledCLIParser
 	url = https://github.com/MadLadSquad/UntitledCLIParser.wiki.git
+[submodule "docs/UntitledGameSystemManager"]
+	path = docs/UntitledGameSystemManager
+	url = https://github.com/MadLadSquad/UntitledGameSystemManager.wiki.git
