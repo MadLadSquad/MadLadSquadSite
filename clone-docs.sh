@@ -25,6 +25,7 @@ add_sidebar UntitledRuntimeLibraryLoader
 add_sidebar YouyinWeb
 add_sidebar UVKBuildTool
 add_sidebar UntitledCLIParser
+add_sidebar UntitledGameSystemManager
 
 find ./ -type f -exec sed -i 's/https:\/\/github.com\/MadLadSquad\//https:\/\/madladsquad.com\/docs\//g' {} \;
 find ./ -type f -exec sed -i 's/\/wiki\//\//g' {} \;
