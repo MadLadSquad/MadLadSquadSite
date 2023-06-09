@@ -19,23 +19,28 @@ Additional applications may be planned for a future date.
 
 ### UntitledImGuiFramework 0.5.0.0: Part 2
 The framework is still not done for release 0.5. Currently, the following features need to be finished:
-- [ ] Reworked build system
-   - [ ] Adding install statements to cmake
-   - [ ] Creating the multiple library layouts system
+- [x] Reworked build system
+   - [x] Adding install statements to cmake
+   - [x] Creating the multiple library layouts system
    - [x] Multiplatform build
+   - [x] Static builds
+   - [x] Vendored builds
 - [ ] Threads system
-- [ ] Production export system
-- [ ] Renaming of locale module to i18n module
+- [x] Production export system
+- [x] Renaming of locale module to i18n module
 - [ ] Creating a custom i18n library
 - [ ] C API for 0.5.0.0
 - [ ] Finishing the [UntitledTemplatingEngine](https://github.com/MadLadSquad/UntitledTemplatingEngine)
 - [ ] Rewriting the [UVKBuildTool](https://github.com/MadLadSquad/UVKBuildTool) to use the templating engine
 
-We estimate 0.5.0.0 that would be released around the end of July.
+We estimate 0.5.0.0 that would be released around the end of July. The most meaningful features, such as the reworked build
+and export system will be released by the end of June.
 
 ### UntitledCalculator and UntitledMathSolver
-Announcing UntitledCalculator and UntitledMathSolver. UntitledCalculator will be a frontend for UntitledMathSolver. The
-UntitledCalculator will contain the following modes:
+Announcing UntitledCalculator and UntitledMathSolver. UntitledCalculator will be a frontend for UntitledMathSolver, 
+which will be a C and C++ library for solving math problems as well as evaluating expressions using a custom function interface. 
+
+The UntitledCalculator will contain the following modes:
 1. Basic
 2. Advanced
 3. Programmer
