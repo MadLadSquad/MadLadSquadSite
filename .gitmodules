@@ -4,9 +4,6 @@
 [submodule "docs/UntitledLog"]
 	path = docs/UntitledLog
 	url = https://github.com/MadLadSquad/UntitledLog.wiki.git
-[submodule "docs/UntitledGameSystemManager"]
-	path = docs/UntitledGameSystemManager
-	url = https://github.com/MadLadSquad/UntitledGameSystemManager.wiki.git
 [submodule "docs/UntitledImGuiFramework"]
 	path = docs/UntitledImGuiFramework
 	url = https://github.com/MadLadSquad/UntitledImGuiFramework.wiki.git
