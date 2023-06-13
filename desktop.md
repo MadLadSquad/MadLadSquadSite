@@ -110,7 +110,7 @@ Make all applications have UI and docs in multiple languages, allow for easy tra
 More information about the subproject can be found [here](https://madladsquad.com/untitled-desktop/subprojects/i18n).
 
 ## A great distribution experience
-### UntitledPackageSchemeGenerator
+### UntitledPackageGenerator
 Make all our applications have a unified build process, so that we can easily package them for many platforms. We're already 
 developing a tool that can package our software as the following formats:
 1. [deb](https://www.debian.org/distrib/packages)

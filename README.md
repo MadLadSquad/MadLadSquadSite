@@ -63,7 +63,7 @@ the UntitledTerminalEmulator, Windows not supported as of now, to be developed
 - [UntitledDEWelcome](https://github.com/MadLadSquad/UntitledDEWelcome) - A help and welcome screen applicatino for UDE, to be developed
 - [UntitledImGuiTextUtils](https://github.com/MadLadSquad/UntitledImGuiTextUtils) - ImGui Text rendering utility functions such as rendering underlined, bold or italic text, to be developed
 - [UntitledNotify](https://github.com/MadLadSquad/UntitledNotify) - Cross-platform OS notification library, to be developed
-- [UntitledPackageSchemeGenerator](https://github.com/MadLadSquad/UntitledPackageSchemeGenerator) - A generator for build and distribution formats such as debs, winget manifests, rpms, ebuilds, etc. to be developed
+- [UntitledPackageGenerator](https://github.com/MadLadSquad/UntitledPackageGenerator) - A generator for build and distribution formats such as debs, winget manifests, rpms, ebuilds, etc. to be developed
 - [UntitledDesktopCompat](https://github.com/MadLadSquad/UntitledDesktopCompat) - A bunch of compatibility utilities for multidirectional conversion between KDE, Gnome and UDE formats, to be developed
 - [UntitledPackageRepository](https://github.com/MadLadSquad/UntitledPackageRepository) - A repository for plugin packages used by the plugin package manager, to be developed
 - [UntitledPackageManager](https://github.com/MadLadSquad/UntitledPackageManager) - A package manager for plugins and mods, to be developed
@@ -128,7 +128,7 @@ Copy of the docs for these repos(docs can also be found in their respective wiki
 - [UntitledLog](https://madladsquad.com/docs/UntitledLog/Home)
 - [UntitledGameSystemManager](https://madladsquad.com/docs/UntitledGameSystemManager/Home)
 - [UntitledTextGenerator](https://madladsquad.com/docs/UntitledTextGenerator/Home)
-- [UntitledPackageSchemeGenerator](https://madladsquad.com/docs/UntitledPackageSchemeGenerator/Home)
+- [UntitledPackageGenerator](https://madladsquad.com/docs/UntitledPackageGenerator/Home)
 - [UntitledExec](https://madladsquad.com/docs/UntitledExec/Home)
 - [UntitledCLIParser](https://madladsquad.com/docs/UntitledCLIParser/Home)
 - [UntitledRuntimeLibraryLoader](https://madladsquad.com/docs/UntitledRuntimeLibraryLoader/Home)
