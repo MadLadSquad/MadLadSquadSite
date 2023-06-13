@@ -10,9 +10,6 @@
 [submodule "docs/UntitledTextGenerator"]
 	path = docs/UntitledTextGenerator
 	url = https://github.com/MadLadSquad/UntitledTextGenerator.wiki.git
-[submodule "docs/UntitledPackageSchemeGenerator"]
-	path = docs/UntitledPackageSchemeGenerator
-	url = https://github.com/MadLadSquad/UntitledPackageSchemeGenerator.wiki.git
 [submodule "docs/UntitledExec"]
 	path = docs/UntitledExec
 	url = https://github.com/MadLadSquad/UntitledExec.wiki.git
