@@ -19,7 +19,7 @@ echo "{% endraw %}" >> UntitledTextGenerator/Templating-guide.md
 add_sidebar UntitledImGuiFramework
 add_sidebar UntitledVulkanGameEngine
 add_sidebar UntitledTextGenerator
-#add_sidebar UntitledPackageGenerator
+add_sidebar UntitledPackageGenerator
 add_sidebar UntitledExec
 add_sidebar UntitledRuntimeLibraryLoader
 add_sidebar YouyinWeb
