@@ -25,11 +25,10 @@ The framework is still not done for release 0.5. Currently, the following featur
    - [x] Multiplatform build
    - [x] Static builds
    - [x] Vendored builds
-- [ ] Threads system
 - [x] Production export system
 - [x] Renaming of locale module to i18n module
 - [ ] Creating a custom i18n library
-- [ ] C API for 0.5.0.0
+- [X] C API for 0.5.0.0
 - [ ] Finishing the [UntitledTemplatingEngine](https://github.com/MadLadSquad/UntitledTemplatingEngine)
 - [ ] Rewriting the [UVKBuildTool](https://github.com/MadLadSquad/UVKBuildTool) to use the templating engine
 
