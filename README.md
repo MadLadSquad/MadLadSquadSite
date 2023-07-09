@@ -70,6 +70,7 @@ the UntitledTerminalEmulator, Windows not supported as of now, to be developed
 - [UntitledDesktopBootstrap](https://github.com/MadLadSquad/UntitledDesktopBootstrap) - A collection of scripts that created needed folders and files when first installing UDE, to be developed
 - [UntitledPolkitUtils](https://github.com/MadLadSquad/UntitledPolkitUtils) - A collection of utilities for dealing with [polkit](https://en.wikipedia.org/wiki/Polkit), to be developed
 - [UntitledDBusUtils](https://github.com/MadLadSquad/UntitledDBusUtils) - A collection of utilities for dealing with [dbus](https://en.wikipedia.org/wiki/D-Bus), to be developed
+- [UntitledXDGBasedir](https://github.com/MadLadSquad/UntitledXDGBasedir) - An implementation of the [XDG base directory specification](https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html)
 
 ### UntitledDesktopFlow
 - [UDFApplicationLauncher](https://github.com/MadLadSquad/UDFApplicationLauncher) - An application launcher for UDF, to be developed
