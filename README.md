@@ -136,6 +136,7 @@ Copy of the docs for these repos(docs can also be found in their respective wiki
 - [UntitledRuntimeLibraryLoader](https://madladsquad.com/docs/UntitledRuntimeLibraryLoader/Home)
 - [UVKBuildTool](https://madladsquad.com/docs/UVKBuildTool/Home)
 - [YouyinWeb](https://madladsquad.com/docs/YouyinWeb/Home)
+- [UntitledXDGBasedir](https://madladsquad.com/docs/UntitledXDGBasedir/Home)
 
 ### Misc
 - [Utilities](https://madladsquad.com/utilities)
