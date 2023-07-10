@@ -2,7 +2,7 @@
 add_sidebar() {
   cd "$1"/ || exit
   for FILE in *.md; do
-    echo -e "\n---\n" >> "$FILE"
+    echo -e "\n\n---\n" >> "$FILE"
     cat _Sidebar.md >> "$FILE"
   done
   cd .. || exit
