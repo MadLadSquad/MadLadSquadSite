@@ -1,12 +1,14 @@
 #!/bin/bash
 add_sidebar() {
-  cd "$1"/
-  echo -e "\n---\n" >> Home.md
-  cat _Sidebar.md >> Home.md
-  cd ..
+  cd "$1"/ || exit
+  for FILE in *.md; do
+    echo -e "\n---\n" >> "$FILE"
+    cat _Sidebar.md >> "$FILE"
+  done
+  cd .. || exit
 }
 
-cd docs
+cd docs || exit
 
 # Please don't touch this there are a lot of problems with this specific file
 sed -i '1 i\{% raw %}' UntitledTextGenerator/Templating-guide.md
