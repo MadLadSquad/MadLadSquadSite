@@ -26,6 +26,11 @@ all functions needed by such an implementation, it also includes features such a
 
 Release 1.0 and 2.0 were released on the 9th and 15th of July respectivelly.
 
+### UntitledImGuiTextUtils
+This month we will also introduce the 1.0 release of the 
+[UntitledImGuiTextUtils](https://github.com/MadLadSquad/UntitledImGuiTextUtils) library. It's a library for rendering rich text
+and markup in dear imgui. Expected 1.0 release is July 17th.
+
 ### UntitledSoftwareSuite
 Development of the following applications will start this month:
 1. [UntitledImageViewer](https://github.com/MadLadSquad/UntitledImageViewer)
