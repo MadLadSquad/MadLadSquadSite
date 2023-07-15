@@ -15,6 +15,17 @@ After that we have the following tasks:
 1. Finish the [UntitledTemplatingEngine](https://github.com/MadLadSquad/UntitledTemplatingEngine)
 1. Rewrite the [UVKBuildTool](https://github.com/MadLadSquad/UVKBuildTool) to use the templating engine
 
+### UntitledXDGBasedir
+The [UntitledXDGBasedir](https://github.com/MadLadSquad/UntitledXDGBasedir) library is going to be released this month.
+The library is intended to be an implementation of and superset of the 
+[XDG Basedir specification](https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html). While it does include
+all functions needed by such an implementation, it also includes features such as:
+1. Support for XDG User dirs
+1. Finding the user trash directory
+1. Creating non-existant directories
+
+Release 1.0 and 2.0 were released on the 9th and 15th of July respectivelly.
+
 ### UntitledSoftwareSuite
 Development of the following applications will start this month:
 1. [UntitledImageViewer](https://github.com/MadLadSquad/UntitledImageViewer)
