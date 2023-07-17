@@ -34,3 +34,6 @@
 [submodule "docs/UntitledXDGBasedir"]
 	path = docs/UntitledXDGBasedir
 	url = https://github.com/MadLadSquad/UntitledXDGBasedir.wiki.git
+[submodule "docs/UntitledImGuiTextUtils"]
+	path = docs/UntitledImGuiTextUtils
+	url = https://github.com/MadLadSquad/UntitledImGuiTextUtils.wiki.git

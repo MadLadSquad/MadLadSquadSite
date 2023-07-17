@@ -60,14 +60,14 @@ the UntitledTerminalEmulator, Windows not supported as of now, to be developed
 - [UntitledDESettings](https://github.com/MadLadSquad/UntitledDESettings) - A settings manager for UDE, to be developed
 - [UntitledCalculator](https://github.com/MadLadSquad/UntitledCalculator) - A cross-platform calculator application, to be developed
 - [UntitledImageViewer](https://github.com/MadLadSquad/UntitledImageViewer) - A minimal cross-platform image viewer, to be developed
-- [UntitledDEWelcome](https://github.com/MadLadSquad/UntitledDEWelcome) - A help and welcome screen applicatino for UDE, to be developed
-- [UntitledImGuiTextUtils](https://github.com/MadLadSquad/UntitledImGuiTextUtils) - ImGui Text rendering utility functions such as rendering underlined, bold or italic text, to be developed
+- [UntitledDEWelcome](https://github.com/MadLadSquad/UntitledDEWelcome) - A help and welcome screen applicatino for UDE
+- [UntitledImGuiTextUtils](https://github.com/MadLadSquad/UntitledImGuiTextUtils) - ImGui Text rendering utility functions such as rendering underlined, bold or italic text
 - [UntitledNotify](https://github.com/MadLadSquad/UntitledNotify) - Cross-platform OS notification library, to be developed
 - [UntitledPackageGenerator](https://github.com/MadLadSquad/UntitledPackageGenerator) - A generator for build and distribution formats such as debs, winget manifests, rpms, ebuilds, etc. to be developed
 - [UntitledDesktopCompat](https://github.com/MadLadSquad/UntitledDesktopCompat) - A bunch of compatibility utilities for multidirectional conversion between KDE, Gnome and UDE formats, to be developed
 - [UntitledPackageRepository](https://github.com/MadLadSquad/UntitledPackageRepository) - A repository for plugin packages used by the plugin package manager, to be developed
 - [UntitledPackageManager](https://github.com/MadLadSquad/UntitledPackageManager) - A package manager for plugins and mods, to be developed
-- [UntitledDesktopBootstrap](https://github.com/MadLadSquad/UntitledDesktopBootstrap) - A collection of scripts that created needed folders and files when first installing UDE, to be developed
+- [UntitledDesktopBootstrap](https://github.com/MadLadSquad/UntitledDesktopBootstrap) - A collection of scripts that creates needed folders and files when first installing UDE
 - [UntitledPolkitUtils](https://github.com/MadLadSquad/UntitledPolkitUtils) - A collection of utilities for dealing with [polkit](https://en.wikipedia.org/wiki/Polkit), to be developed
 - [UntitledDBusUtils](https://github.com/MadLadSquad/UntitledDBusUtils) - A collection of utilities for dealing with [dbus](https://en.wikipedia.org/wiki/D-Bus), to be developed
 - [UntitledXDGBasedir](https://github.com/MadLadSquad/UntitledXDGBasedir) - An implementation of the [XDG base directory specification](https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html)
@@ -94,9 +94,9 @@ the UntitledTerminalEmulator, Windows not supported as of now, to be developed
 - [check-for-synced-branches-action](https://github.com/MadLadSquad/check-for-synced-branches-action) - An action to check if 2 branches are in sync, 
 also works for forks and upstream
 - [UntitledCLIParser](https://github.com/MadLadSquad/UntitledCLIParser) - A C and C++ parser for CLI arguments
-- [UntitledMathSolver](https://github.com/MadLadSquad/UntitledMathSolver) - A C and C++ backend for a calculator, to be developed
+- [UntitledMathSolver](https://github.com/MadLadSquad/UntitledMathSolver) - A C and C++ backend for a calculator
 - [UntitledDesktopOverlay](https://github.com/MadLadSquad/UntitledDesktopOverlay) - A Gentoo/Funtoo overlay for all MadLadSquad, UDE and UDF applications + additional components for the desktops, to be developed
-- [UntitledTemplatingEngine](https://github.com/MadLadSquad/UntitledTemplatingEngine) - A fully turing complete templating engine using a lisp-like language written in C and C++, to be developed
+- [UntitledTemplatingEngine](https://github.com/MadLadSquad/UntitledTemplatingEngine) - A fully turing complete templating engine using a lisp-like language written in C and C++
 - [GenericScripts](https://github.com/MadLadSquad/GenericScripts) - A list of generic scripts we use a lot on most of our repositories
 
 ## Members
@@ -137,6 +137,7 @@ Copy of the docs for these repos(docs can also be found in their respective wiki
 - [UVKBuildTool](https://madladsquad.com/docs/UVKBuildTool/Home)
 - [YouyinWeb](https://madladsquad.com/docs/YouyinWeb/Home)
 - [UntitledXDGBasedir](https://madladsquad.com/docs/UntitledXDGBasedir/Home)
+- [UntitledImGuiTextUtils](https://madladsquad.com/docs/UntitledImGuiTextUtils/Home)
 
 ### Misc
 - [Utilities](https://madladsquad.com/utilities)
