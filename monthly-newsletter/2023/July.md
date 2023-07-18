@@ -50,6 +50,11 @@ This brings the following benefits:
 ### UDE Flow
 The [UDF Panel](https://github.com/MadLadSquad/UDFPanel) is in its planning stage, which means that development may start this month or in August.
 
+### UntitledDesktopBootstrap 0.1.0.0
+The first experimental release of the [UntitledDestktopBootstrap](https://github.com/MadLadSquad/UntitledDestkopBootstrap)
+project is live. Currently, no session is created by the `xinitrc` so no desktop can actually be launched but is a good starting
+point for developing further our DE's initial setup and startup capabilities.
+
 ## Multilingual
 The current tasks for the multilingual project are as follows:
 - [ ] Creating the custom i18n library for the framework
