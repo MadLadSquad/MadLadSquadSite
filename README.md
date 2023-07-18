@@ -38,14 +38,12 @@ the multilingual department:
 - [UVKShaderCompiler](https://github.com/MadLadSquad/UVKShaderCompiler) - A shader compiler for the UntitledVulkanGameEngine
 - [MadLadSquadBot](https://github.com/MadLadSquad/MadLadSquadBot) - Our general purpose Discord bot
 - [UntitledGameSystemManager](https://github.com/MadLadSquad/UntitledGameSystemManager) - A manager for containerized game systems using LXC and LXD
-- [UntitledShapeRotator](https://github.com/MadLadSquad/UntitledShapeRotator) - A small game to showcase what the UntitledVulkanGameEngine is capable of,
-will be developed at Alpha 1.0 of the engine
 - [UVKBuildTool](https://github.com/MadLadSquad/UVKBuildTool) - A build file generator for the UntitledVulkanGameEngine and UntitledImGuiFramework
 
 ### UntitledDesktopEnvironment and related
 - [UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework) - A minimal destkop application development framework for C++, 
 made for our desktop environment(UntitledDesktopEnvironment/UDE)
-- [UntitledTextEditor](https://github.com/MadLadSquad/UntitledTextEditor) - UDE graphical text editor, to be developed
+- [UntitledTextEditor](https://github.com/MadLadSquad/UntitledTextEditor) - UDE graphical text editor
 - [ImTTY](https://github.com/MadLadSquad/ImTTY) - A terminal emulator widget for dear imgui, to be developed
 - [UntitledTerminalEmulatorBackend](https://github.com/MadLadSquad/UTEBackend) - A cross-platform terminal emulator backend library for 
 the UntitledTerminalEmulator, Windows not supported as of now, to be developed
@@ -58,8 +56,8 @@ the UntitledTerminalEmulator, Windows not supported as of now, to be developed
 - [UntitledDEPowerManager](https://github.com/MadLadSquad/UntitledDEPowerManager) - A power manager for UDE, to be developed
 - [UntitledDEWallpaperManager](https://github.com/MadLadSquad/UntitledDEWallpaperManager) - A wallpaper manager for UDE, to be developed
 - [UntitledDESettings](https://github.com/MadLadSquad/UntitledDESettings) - A settings manager for UDE, to be developed
-- [UntitledCalculator](https://github.com/MadLadSquad/UntitledCalculator) - A cross-platform calculator application, to be developed
-- [UntitledImageViewer](https://github.com/MadLadSquad/UntitledImageViewer) - A minimal cross-platform image viewer, to be developed
+- [UntitledCalculator](https://github.com/MadLadSquad/UntitledCalculator) - A cross-platform calculator application
+- [UntitledImageViewer](https://github.com/MadLadSquad/UntitledImageViewer) - A minimal cross-platform image viewer
 - [UntitledDEWelcome](https://github.com/MadLadSquad/UntitledDEWelcome) - A help and welcome screen applicatino for UDE
 - [UntitledImGuiTextUtils](https://github.com/MadLadSquad/UntitledImGuiTextUtils) - ImGui Text rendering utility functions such as rendering underlined, bold or italic text
 - [UntitledNotify](https://github.com/MadLadSquad/UntitledNotify) - Cross-platform OS notification library, to be developed
@@ -84,15 +82,15 @@ the UntitledTerminalEmulator, Windows not supported as of now, to be developed
 - [UntitledFontUtils](https://github.com/MadLadSquad/UntitledFontUtils) - Cross-platform utilities for dealing with system fonts, to be developed
 - [UntitledKBD](https://github.com/MadLadSquad/UntitledKBD) - A keyboard layout generator for custom layouts, outputs keyboards for Linux, Windows and Android in multiple formats, to be developed
 - [UntitledIBusHandwriting](https://github.com/MadLadSquad/UntitledIBusHandwriting) - A handwriting input method engine for [ibus](https://en.wikipedia.org/wiki/Intelligent_Input_Bus)
-- [UntitledI18N](https://github.com/MadLadSquad/UntitledI18N) - A C and C++ i18n library, to be developed
+- [UntitledI18N](https://github.com/MadLadSquad/UntitledI18N) - A C and C++ i18n library
 
 ### Libraries and misc applications
 - [MadLadSquadSite](https://github.com/MadLadSquad/MadLadSquadSite) - The site you're looking at right now
 - [UntitledLog](https://github.com/MadLadSquad/UntitledLog) - A small logging library
 - [UntitledRuntimeLibraryLoader](https://github.com/MadLadSquad/UntitledRuntimeLibraryLoader) - A small cross-platform shared library loder library
 - [UntitledExec](https://github.com/MadLadSquad/UntitledExec) - A small cross-platform library to execute applications as seperate processes
-- [check-for-synced-branches-action](https://github.com/MadLadSquad/check-for-synced-branches-action) - An action to check if 2 branches are in sync, 
-also works for forks and upstream
+- [check-for-synced-branches-action](https://github.com/MadLadSquad/check-for-synced-branches-action) - An action to check if 2
+branches are in sync, also works for forks and upstream
 - [UntitledCLIParser](https://github.com/MadLadSquad/UntitledCLIParser) - A C and C++ parser for CLI arguments
 - [UntitledMathSolver](https://github.com/MadLadSquad/UntitledMathSolver) - A C and C++ backend for a calculator
 - [UntitledDesktopOverlay](https://github.com/MadLadSquad/UntitledDesktopOverlay) - A Gentoo/Funtoo overlay for all MadLadSquad, UDE and UDF applications + additional components for the desktops, to be developed
@@ -121,6 +119,7 @@ your donation if you have any project in mind. We donate 50% of the proceedings 
    1. [May](https://madladsquad.com/monthly-newsletter/2023/May)
    1. [June](https://madladsquad.com/monthly-newsletter/2023/June)
    1. [July](https://madladsquad.com/monthly-newsletter/2023/July)
+   1. [August](https://madladsquad.com/monthly-newsletter/2023/August)
 
 ## Other pages
 ### Documentation
