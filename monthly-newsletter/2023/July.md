@@ -31,13 +31,9 @@ This month we will also introduce the 1.0 release of the
 [UntitledImGuiTextUtils](https://github.com/MadLadSquad/UntitledImGuiTextUtils) library. It's a library for rendering rich text
 and markup in dear imgui. Expected 1.0 release is July 17th.
 
-### UntitledSoftwareSuite
-Development of the following applications will start this month:
-1. [UntitledImageViewer](https://github.com/MadLadSquad/UntitledImageViewer)
-1. [UntitledGameSystemManager](https://github.com/MadLadSquad/UntitledGameSystemManager)
-1. [UntitledTextEditor](https://github.com/MadLadSquad/UntitledTextEditor)
-
-The goal is to develop the following application to 1.0 by the end of the month.
+### UntitledGameSystemManager 1.0
+The 1.0 release of the [UntitledGameSystemManager](https://github.com/MadLadSquad/UntitledGameSystemManager) is finally live as of
+the 21th of July
 
 ### Desktop files and Mime types
 All graphical applications now have [desktop files](https://www.freedesktop.org/wiki/Specifications/desktop-entry-spec/), and when applicable, [Mime](https://en.wikipedia.org/wiki/MIME) types for the file formats that are supported.
