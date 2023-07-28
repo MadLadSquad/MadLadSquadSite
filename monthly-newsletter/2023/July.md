@@ -2,18 +2,32 @@ Welcome to the July 2023 edition of the monthly newsletter.
 
 ## UntitledDesktop
 ### The framework can be deployed
-Due to a couple of commits in June, the framework can finally be cleanly deployed and packaged by most packaging systems. Current applications, except the [UntitledGameSystemManager](https://github.com/MadLadSquad/UntitledGameSystemManager), can be deployed to all major packaging formats
-as is. The game manager requires some additional work on the package side, due to it using a golang library.
+Due to a couple of commits in June, the framework can finally be cleanly deployed and packaged by most packaging systems. 
+Current applications, except the [UntitledGameSystemManager](https://github.com/MadLadSquad/UntitledGameSystemManager), 
+can be deployed to all major packaging formats as is. The game manager requires some additional work on the package side, 
+due to it using a golang library.
 
-All features can be found in the [previous month's newsletter](https://madladsquad.com/monthly-newsletter/2023/June#untitledimguiframework-0500-part-2).
+All features can be found in the 
+[previous month's newsletter](https://madladsquad.com/monthly-newsletter/2023/June#untitledimguiframework-0500-part-2).
 
 ### UntitledImGuiFramework 0.5.0.0
-Since the framework can finally be deployed, we are doing final code reviews for releasing 0.5.0.0. It should release by the 2nd of July.
+Since the framework can finally be deployed, we are doing final code reviews for releasing 0.5.0.0. It should release by the 2nd 
+of July.
 
 After that we have the following tasks:
 1. Create a custom i18n library
 1. Finish the [UntitledTemplatingEngine](https://github.com/MadLadSquad/UntitledTemplatingEngine)
 1. Rewrite the [UVKBuildTool](https://github.com/MadLadSquad/UVKBuildTool) to use the templating engine
+
+### UntitledImGuiFramework 0.6.0.0
+The completion of the following features also made the release of 0.6.0.0 possible:
+1. [UntitledXDGBasedir](https://github.com/MadLadSquad/UntitledXDGBasedir)  1.0 and 2.0
+1. [UntitledImGuiTextUtils](https://github.com/MadLadSquad/UntitledImGuiTextUtils) 1.0
+1. The ability to output textures
+
+### UntitledImGuiFramework 0.6.5.0
+Since we released the 1.0 version [UntitledDBusUtils](https://github.com/MadLadSquad/UntitledDBusUtils), we can also release
+release 0.6.5.0.
 
 ### UntitledXDGBasedir
 The [UntitledXDGBasedir](https://github.com/MadLadSquad/UntitledXDGBasedir) library is going to be released this month.
@@ -33,7 +47,9 @@ and markup in dear imgui. Expected 1.0 release is July 17th.
 
 ### UntitledGameSystemManager 1.0
 The 1.0 release of the [UntitledGameSystemManager](https://github.com/MadLadSquad/UntitledGameSystemManager) is finally live as of
-the 21th of July
+the 21th of July.
+
+We also released the hotfix 1.1 version that fixes a major bug when deleting containers.
 
 ### Desktop files and Mime types
 All graphical applications now have [desktop files](https://www.freedesktop.org/wiki/Specifications/desktop-entry-spec/), and when applicable, [Mime](https://en.wikipedia.org/wiki/MIME) types for the file formats that are supported.
@@ -44,7 +60,8 @@ This brings the following benefits:
 1. Applications can now be set as the default for opening certain files
 
 ### UDE Flow
-The [UDF Panel](https://github.com/MadLadSquad/UDFPanel) is in its planning stage, which means that development may start this month or in August.
+The [UDF Panel](https://github.com/MadLadSquad/UDFPanel) is in its planning stage, which means that development may start this 
+month or in August.
 
 ### UntitledDesktopBootstrap 0.1.0.0
 The first experimental release of the [UntitledDestktopBootstrap](https://github.com/MadLadSquad/UntitledDestkopBootstrap)
@@ -60,8 +77,11 @@ The current tasks for the multilingual project are as follows:
 - [ ] Rework the MadLadSquad website
 
 ### Phrases in Youyin
-A new feature will be added to Youyin that would allow the user to practice words at the end of the session. In simple terms, the user will first have to go through the entire deck of single character cards as currently, but when the cards end, he/she will be prompted with words that use the 
-previous cards. This will make learning way more effective for Chinese languages as the user learns both the meaning of the character and how it fits into a word.
+A new feature will be added to Youyin that would allow the user to practice words at the end of the session. In simple terms, 
+the user will first have to go through the entire deck of single character cards as currently, but when the cards end, 
+he/she will be prompted with words that use the previous cards. This will make learning way more effective for Chinese 
+languages as the user learns both the meaning of the character and how it fits into a word.
 
 ### Working on finishing the UntitledTemplatingEngine
-Work on finishing the [UntitledTemplatingEngine](https://github.com/MadLadSquad/UntitledTemplatingEngine) is restarting this month. We hope to get it released by the end of August 2023.
+Work on finishing the [UntitledTemplatingEngine](https://github.com/MadLadSquad/UntitledTemplatingEngine) is restarting this 
+month. We hope to get it released by the end of August 2023.
