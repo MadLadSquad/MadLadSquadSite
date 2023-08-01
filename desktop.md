@@ -142,6 +142,7 @@ our toolkit
 1. Themes and theme formats have official\* specifications, that define the format of a theme. These specifications can be
 extended using extensions to the standard.
 
+<!--
 \* Official to the UDE theme formats. To clarify, it means that, since these theme specifications are based on the theming
 interfaces of a number of GUI libraries which we aren't the developers of, they only exist to standardise the naming of fields
 in such theme files. We do not standardise the theme interface, as we're not the developers of these libraries. Theme
@@ -161,6 +162,7 @@ Additional theme specifications we comply with:
 1. [Freedesktop Cursor Theme specification](https://www.freedesktop.org/wiki/Specifications/cursor-spec/)
 1. [Freedesktop Thumbnail Management specification](https://www.freedesktop.org/wiki/Specifications/thumbnails/)
 1. [Freedesktop Shared Default Keyboard Shortcuts specification](https://www.freedesktop.org/wiki/Specifications/default-keys-spec/)
+-->
 
 ## To be added
 We're still developing our scope so this section should be expanded in the future
