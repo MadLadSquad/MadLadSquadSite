@@ -11,8 +11,8 @@ add_sidebar() {
 cd docs || exit
 
 # Please don't touch this there are a lot of problems with this specific file
-sed -i '1 i\{% raw %}' UntitledTextGenerator/Templating-guide.md
-echo "{% endraw %}" >> UntitledTextGenerator/Templating-guide.md
+sed -i '1 i\{% raw %}' UntitledTemplatingEngine/Templating-guide.md
+echo "{% endraw %}" >> UntitledTemplatingEngine/Templating-guide.md
 
 # Add back soon
 #sed -i '1 i\{% raw %}' UntitledPackageSchemeGenerator/Creating-your-package.md
