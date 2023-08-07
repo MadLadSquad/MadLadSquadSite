@@ -7,9 +7,6 @@
 [submodule "docs/UntitledImGuiFramework"]
 	path = docs/UntitledImGuiFramework
 	url = https://github.com/MadLadSquad/UntitledImGuiFramework.wiki.git
-[submodule "docs/UntitledTextGenerator"]
-	path = docs/UntitledTextGenerator
-	url = https://github.com/MadLadSquad/UntitledTextGenerator.wiki.git
 [submodule "docs/UntitledExec"]
 	path = docs/UntitledExec
 	url = https://github.com/MadLadSquad/UntitledExec.wiki.git
