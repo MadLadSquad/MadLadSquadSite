@@ -34,3 +34,6 @@
 [submodule "docs/UntitledImGuiTextUtils"]
 	path = docs/UntitledImGuiTextUtils
 	url = https://github.com/MadLadSquad/UntitledImGuiTextUtils.wiki.git
+[submodule "docs/UntitledTemplatingEngine"]
+	path = docs/UntitledTemplatingEngine
+	url = https://github.com/MadLadSquad/UntitledTemplatingEngine.wiki.git
