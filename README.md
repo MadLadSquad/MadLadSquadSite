@@ -128,7 +128,7 @@ Copy of the docs for these repos(docs can also be found in their respective wiki
 - [UntitledImGuiFramework](https://madladsquad.com/docs/UntitledImGuiFramework/Home)
 - [UntitledLog](https://madladsquad.com/docs/UntitledLog/Home)
 - [UntitledGameSystemManager](https://madladsquad.com/docs/UntitledGameSystemManager/Home)
-- [UntitledTextGenerator](https://madladsquad.com/docs/UntitledTextGenerator/Home)
+- [UntitledTemplatingEngine](https://madladsquad.com/docs/UntitledTemplatingEngine/Home)
 - [UntitledPackageGenerator](https://madladsquad.com/docs/UntitledPackageGenerator/Home)
 - [UntitledExec](https://madladsquad.com/docs/UntitledExec/Home)
 - [UntitledCLIParser](https://madladsquad.com/docs/UntitledCLIParser/Home)
