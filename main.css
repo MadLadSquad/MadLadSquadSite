@@ -112,3 +112,7 @@ code, .sourceCode pre {
 	display: block;
 	margin: auto;
 }
+
+.sourceCode code span {
+	float: left;
+}
