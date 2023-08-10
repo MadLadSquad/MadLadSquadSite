@@ -44,7 +44,7 @@ jobs:
       - run: npm install -g html-minifier
       - run: for i in ./*.js; do terser $i --compress -o $i; done
       - run: for i in ./*.css; do csso $i -o $i; done
-            - name: Change URLs to production mode
+      - name: Change URLs to production mode
         run: |
           find ./ -type f \( -iname \*.html -o -iname \*.js \) -exec sed -i 's/\/index\.html//g' {} \;
           find ./ -type f \( -iname \*.html -o -iname \*.js \) -exec sed -i 's/\.html//g' {} \;
