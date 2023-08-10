@@ -1,0 +1,14 @@
+localhost-commands:
+  - "python3 -m http.server"
+custom-pre-generation-commands:
+  - "../generate-html.sh build/"
+filename-blacklist:
+  - git
+  - UBTCustomFunctions
+  - UVKBuildTool
+  - .github
+allowed-extensions:
+  - .html
+  - .md
+intermediate-extensions:
+  - .tmpl.html

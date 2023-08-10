@@ -1,0 +1,102 @@
+html {
+	background-color: #292929;
+}
+
+main, footer {
+	max-width: 1440px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+footer {
+	list-style: none;
+	overflow: hidden;
+}
+
+h1, h2, h3, p, li {
+	font-family: 'Ubuntu', sans-serif;
+	color: #f6f0e9;
+}
+
+a {
+	text-decoration: none;
+	color: #99b898;
+}
+
+header ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	overflow: hidden;
+}
+
+/* Make the footer and all list items in unordered lists inline with left alignment */
+header ul li{
+	float: left;
+	position: relative;
+	display: flex;
+	align-items: center;
+}
+
+/* Basically the styling for the text on the top bar */
+header ul li a {
+	display: block;
+	color: #99b898;
+	text-align: center;
+	padding: 0 24px 0 24px;
+	text-decoration: none;
+	font-size: 32px;
+	line-height: 1.5;
+}
+
+/* Define uniform styling for footer elements */
+footer p, footer select {
+	padding: 0 0.33rem 0 0.33rem;
+	font-size: 14px;
+	color: #f6f0e9;
+}
+
+/* Make the select members shrink to fit since they would take too much space */
+select {
+	padding: 0 0 0 0;
+	margin: 0 0 0 0;
+	max-width: max-content;
+	resize: horizontal;
+}
+
+option {
+	display: flex;
+	min-width: 0;
+	flex-direction: row;
+	border-color: red;
+	box-sizing: border-box;
+}
+
+/* Style the hr element is stupid can confirm, why have an hr? because a border on the footer will break */
+#main-page-hr {
+	padding: 0 0 0 0;
+	margin: 0 0 0 0;
+	border: 0;
+	border-top: 1px solid #1c222d;
+	background-color: #242933;
+}
+
+
+/* Add a border to make the user not think or be distracted by the titlebar */
+header {
+	border-bottom: 1px solid #1c222d;
+}
+
+/* Make the 404 emoji take up more or less the whole page */
+#err-404-emoji {
+	font-size: 14vw;
+}
+
+/* The generic centered class */
+.centered {
+	text-align: center;
+}
+
+.vcentered {
+	margin: auto;
+}

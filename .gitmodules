@@ -37,3 +37,6 @@
 [submodule "docs/UntitledTemplatingEngine"]
 	path = docs/UntitledTemplatingEngine
 	url = https://github.com/MadLadSquad/UntitledTemplatingEngine.wiki.git
+[submodule "UVKBuildTool"]
+	path = UVKBuildTool
+	url = https://github.com/MadLadSquad/UVKBuildTool.git

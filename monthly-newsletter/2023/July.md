@@ -15,12 +15,14 @@ Since the framework can finally be deployed, we are doing final code reviews for
 of July.
 
 After that we have the following tasks:
+
 1. Create a custom i18n library
 1. Finish the [UntitledTemplatingEngine](https://github.com/MadLadSquad/UntitledTemplatingEngine)
 1. Rewrite the [UVKBuildTool](https://github.com/MadLadSquad/UVKBuildTool) to use the templating engine
 
 ### UntitledImGuiFramework 0.6.0.0
 The completion of the following features also made the release of 0.6.0.0 possible:
+
 1. [UntitledXDGBasedir](https://github.com/MadLadSquad/UntitledXDGBasedir)  1.0 and 2.0
 1. [UntitledImGuiTextUtils](https://github.com/MadLadSquad/UntitledImGuiTextUtils) 1.0
 1. The ability to output textures
@@ -34,6 +36,7 @@ The [UntitledXDGBasedir](https://github.com/MadLadSquad/UntitledXDGBasedir) libr
 The library is intended to be an implementation of and superset of the 
 [XDG Basedir specification](https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html). While it does include
 all functions needed by such an implementation, it also includes features such as:
+
 1. Support for XDG User dirs
 1. Finding the user trash directory
 1. Creating non-existant directories
@@ -55,6 +58,7 @@ We also released the hotfix 1.1 version that fixes a major bug when deleting con
 All graphical applications now have [desktop files](https://www.freedesktop.org/wiki/Specifications/desktop-entry-spec/), and when applicable, [Mime](https://en.wikipedia.org/wiki/MIME) types for the file formats that are supported.
 
 This brings the following benefits:
+
 1. Our applications can now be listed in menus
 1. Application launchers can use keyword and fuzzy search
 1. Applications can now be set as the default for opening certain files
@@ -70,6 +74,7 @@ point for developing further our DE's initial setup and startup capabilities.
 
 ## Multilingual
 The current tasks for the multilingual project are as follows:
+
 - [ ] Creating the custom i18n library for the framework
 - [ ] Creating a static site component based system for Youyin using the templating engine
 - [ ] Adding more data to [Youyin](https://youyin.madladsquad.com/) and sister projects

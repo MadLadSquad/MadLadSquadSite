@@ -35,6 +35,20 @@ jobs:
             ${{ runner.os }}-gems-
       - name: Clone docs
         run: ./clone-docs.sh
+      - run: "echo 'run-localhost-automatically: false' >> uvproj.yaml"
+      - name: Build project
+        run: cd UVKBuildTool/ && ./setup-web.sh .. && cd build && ./UVKBuildTool --build ../../build ../../ && cd ../../
+      - run: ./ci-clean.sh
+      - run: npm install -g terser
+      - run: npm install -g csso-cli
+      - run: npm install -g html-minifier
+      - run: for i in ./*.js; do terser $i --compress -o $i; done
+      - run: for i in ./*.css; do csso $i -o $i; done
+            - name: Change URLs to production mode
+        run: |
+          find ./ -type f \( -iname \*.html -o -iname \*.js \) -exec sed -i 's/\/index\.html//g' {} \;
+          find ./ -type f \( -iname \*.html -o -iname \*.js \) -exec sed -i 's/\.html//g' {} \;
+          find ./ -type f \( -iname \*.html -o -iname \*.js \) -exec sed -i 's/\.\//https:\/\/youyin.madladsquad.com\//g' {} \;
       - name: Setup Pages
         uses: actions/configure-pages@v2
       - name: Build with Jekyll

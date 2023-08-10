@@ -12,6 +12,7 @@ UntitledDesktopEnvironment base.
 The UntitledDesktopEnvironment is mostly a minimal environment that doesn't include a graphic shell i.e. applications such
 as status bars and application launchers. UDF, on the other hand, will implement a shell.
 This includes the following applications:
+
 1. A minimal application launcher - [UDFApplicationLauncher](https://github.com/MadLadSquad/UDFApplicationLauncher)
 2. A minimal and highly customisable bar - [UDFPanel](https://github.com/MadLadSquad/UDFPanel)
 
@@ -19,12 +20,13 @@ Additional applications may be planned for a future date.
 
 ### UntitledImGuiFramework 0.5.0.0: Part 2
 The framework is still not done for release 0.5. Currently, the following features need to be finished:
+
 - [x] Reworked build system
-   - [x] Adding install statements to cmake
-   - [x] Creating the multiple library layouts system
-   - [x] Multiplatform build
-   - [x] Static builds
-   - [x] Vendored builds
+    - [x] Adding install statements to cmake
+    - [x] Creating the multiple library layouts system
+    - [x] Multiplatform build
+    - [x] Static builds
+    - [x] Vendored builds
 - [x] Production export system
 - [x] Renaming of locale module to i18n module
 - [ ] Creating a custom i18n library
@@ -40,6 +42,7 @@ Announcing UntitledCalculator and UntitledMathSolver. UntitledCalculator will be
 which will be a C and C++ library for solving math problems as well as evaluating expressions using a custom function interface. 
 
 The UntitledCalculator will contain the following modes:
+
 1. Basic
 2. Advanced
 3. Programmer
@@ -52,6 +55,7 @@ We expect to finish development of the UntitledMathSolver and UntitledCalculator
 
 ## Multilingual
 The current tasks for the multilingual project are as follows:
+
 - [ ] Cooperation with the [i18n subproject](https://madladsquad.com/untitled-desktop/subprojects/i18n) on the custom i18n
 library for the framework
 - [ ] Creating a static site component based system for [Youyin](https://youyin.madladsquad.com/) using the templating engine
@@ -68,6 +72,7 @@ is what it looks like right now:
 ### Additional scripts to Youyin
 We're currently working on adding additional writing systems to [Youyin](https://youyin.madladsquad.com/), with the first
 ones being the following:
+
 1. [BoPoMoFo/zhuyin](https://en.wikipedia.org/wiki/Bopomofo)
 2. Latin
 3. Cyrillic

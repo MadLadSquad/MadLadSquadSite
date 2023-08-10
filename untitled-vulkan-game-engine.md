@@ -4,6 +4,7 @@ game engine that can be used for both 3D and 2D games.
 We curently have a stable scripting API, a stable editor UI, somewhat stable C and C++ modding and plugins API and a somewhat stable Vulkan renderer.
 
 Features to be added in the next 1-2 years:
+
 1. 2D, 3D animations and an Animation editor
 1. Particle systems and effects
 1. A physics engine
