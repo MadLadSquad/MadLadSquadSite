@@ -48,5 +48,7 @@ mode.
 This month, we also released version 1.0 of the [UntitledTemplatingEngine](https://github.com/MadLadSquad/UntitledTemplatingEngine).
 
 ### Full rewrite of the MadLadSquad website
-You might have noticed the new look of the website now. Previously it looked like this:
+You might have noticed the new look of the website now. Previously, it used the default GitHub pages theme. Now it looks like 
+this:
 
+![image](https://github.com/MadLadSquad/MadLadSquadSite/assets/40400590/ae19d943-4eab-447a-80e4-d8992ad6fa57)
