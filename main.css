@@ -100,3 +100,12 @@ header {
 .vcentered {
 	margin: auto;
 }
+
+code {
+	background-color: #2a363b;
+	padding: 0.45em;
+}
+
+.sourceCode code {
+	color: #f6f0e9;
+}
