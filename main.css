@@ -101,11 +101,14 @@ header {
 	margin: auto;
 }
 
-code {
+code, .sourceCode pre {
 	background-color: #2a363b;
 	padding: 0.45em;
 }
 
 .sourceCode code {
 	color: #f6f0e9;
+	padding: 0;
+	display: block;
+	margin: auto;
 }
