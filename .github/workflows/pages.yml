@@ -54,7 +54,7 @@ jobs:
         run: |
           find ./ -type f \( -iname \*.html -o -iname \*.js \) -exec sed -i 's/\/index\.html//g' {} \;
           find ./ -type f \( -iname \*.html -o -iname \*.js \) -exec sed -i 's/\.html//g' {} \;
-          find ./ -type f \( -iname \*.html -o -iname \*.js \) -exec sed -i 's/\.\//https:\/\/youyin.madladsquad.com\//g' {} \;
+          find ./ -type f \( -iname \*.html -o -iname \*.js \) -exec sed -i 's/\.\//https:\/\/madladsquad.com\//g' {} \;
       - name: Setup Pages
         uses: actions/configure-pages@v2
       - name: Build with Jekyll
