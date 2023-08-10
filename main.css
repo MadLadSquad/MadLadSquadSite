@@ -103,7 +103,12 @@ header {
 
 code, .sourceCode pre {
 	background-color: #2a363b;
-	padding: 0.45em;
+	padding: 0.2em;
+	white-space: pre-wrap;
+	white-space: -moz-pre-wrap;
+	white-space: -pre-wrap;
+	white-space: -o-pre-wrap;
+	word-wrap: break-word;
 }
 
 .sourceCode code {
@@ -114,5 +119,5 @@ code, .sourceCode pre {
 }
 
 .sourceCode code span {
-	float: left;
+	float: auto;
 }
