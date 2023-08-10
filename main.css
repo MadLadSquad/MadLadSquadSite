@@ -101,7 +101,7 @@ header {
 	margin: auto;
 }
 
-code, .sourceCode pre {
+code, .sourceCode pre, .liquid pre {
 	background-color: #2a363b;
 	padding: 0.2em;
 	white-space: pre-wrap;
