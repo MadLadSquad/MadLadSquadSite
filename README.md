@@ -47,21 +47,13 @@ the multilingual department:
 made for our desktop environment(UntitledDesktopEnvironment/UDE)
 1. [UntitledTextEditor](https://github.com/MadLadSquad/UntitledTextEditor) - UDE graphical text editor
 1. [UntitledDETheme](https://github.com/MadLadSquad/UntitledDETheme) - A theming library for UDE, to be developed
-1. [UntitledDEThemeGenerator](https://github.com/MadLadSquad/UntitledDEThemeGenerator) - A graphical theme creator for UDE, to be developed
-1. [UntitledFileManager](https://github.com/MadLadSquad/UntitledFileManager) - A file manager for UDE, to be developed
-1. [UntitledDESessionManager](https://github.com/MadLadSquad/UntitledDESessionManager) - A session manager for UDE, to be developed
 1. [UntitledDESessionLogout](https://github.com/MadLadSquad/UntitledDESessionLogout) - A session logout utility for UDE
-1. [UntitledDEPowerManager](https://github.com/MadLadSquad/UntitledDEPowerManager) - A power manager for UDE, to be developed
 1. [UntitledDEWallpaperManager](https://github.com/MadLadSquad/UntitledDEWallpaperManager) - A wallpaper manager for UDE, to be developed
-1. [UntitledDESettings](https://github.com/MadLadSquad/UntitledDESettings) - A settings manager for UDE, to be developed
 1. [UntitledCalculator](https://github.com/MadLadSquad/UntitledCalculator) - A cross-platform calculator application
 1. [UntitledImageViewer](https://github.com/MadLadSquad/UntitledImageViewer) - A minimal cross-platform image viewer
 1. [UntitledDEWelcome](https://github.com/MadLadSquad/UntitledDEWelcome) - A help and welcome screen applicatino for UDE
 1. [UntitledImGuiTextUtils](https://github.com/MadLadSquad/UntitledImGuiTextUtils) - ImGui Text rendering utility functions such as rendering underlined, bold or italic text
 1. [UntitledPackageGenerator](https://github.com/MadLadSquad/UntitledPackageGenerator) - A generator for build and distribution formats such as debs, winget manifests, rpms, ebuilds, etc. to be developed
-1. [UntitledDesktopCompat](https://github.com/MadLadSquad/UntitledDesktopCompat) - A bunch of compatibility utilities for multidirectional conversion between KDE, Gnome and UDE formats, to be developed
-1. [UntitledPackageRepository](https://github.com/MadLadSquad/UntitledPackageRepository) - A repository for plugin packages used by the plugin package manager, to be developed
-1. [UntitledPackageManager](https://github.com/MadLadSquad/UntitledPackageManager) - A package manager for plugins and mods, to be developed
 1. [UntitledDesktopBootstrap](https://github.com/MadLadSquad/UntitledDesktopBootstrap) - A collection of scripts that creates needed folders and files when first installing UDE
 1. [UntitledPolkitUtils](https://github.com/MadLadSquad/UntitledPolkitUtils) - A collection of utilities for dealing with [polkit](https://en.wikipedia.org/wiki/Polkit), to be developed
 1. [UntitledDBusUtils](https://github.com/MadLadSquad/UntitledDBusUtils) - A collection of utilities for dealing with [dbus](https://en.wikipedia.org/wiki/D-Bus), to be developed
