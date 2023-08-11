@@ -46,10 +46,6 @@ the multilingual department:
 1. [UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework) - A minimal destkop application development framework for C++, 
 made for our desktop environment(UntitledDesktopEnvironment/UDE)
 1. [UntitledTextEditor](https://github.com/MadLadSquad/UntitledTextEditor) - UDE graphical text editor
-1. [ImTTY](https://github.com/MadLadSquad/ImTTY) - A terminal emulator widget for dear imgui, to be developed
-1. [UntitledTerminalEmulatorBackend](https://github.com/MadLadSquad/UTEBackend) - A cross-platform terminal emulator backend library for 
-the UntitledTerminalEmulator, Windows not supported as of now, to be developed
-1. [UntitledEscapeParser](https://github.com/MadLadSquad/UntitledEscapeParser) - A library that parses strings containing unix escape sequences, to be developed
 1. [UntitledDETheme](https://github.com/MadLadSquad/UntitledDETheme) - A theming library for UDE, to be developed
 1. [UntitledDEThemeGenerator](https://github.com/MadLadSquad/UntitledDEThemeGenerator) - A graphical theme creator for UDE, to be developed
 1. [UntitledFileManager](https://github.com/MadLadSquad/UntitledFileManager) - A file manager for UDE, to be developed
