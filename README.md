@@ -58,7 +58,6 @@ made for our desktop environment(UntitledDesktopEnvironment/UDE)
 1. [UntitledImageViewer](https://github.com/MadLadSquad/UntitledImageViewer) - A minimal cross-platform image viewer
 1. [UntitledDEWelcome](https://github.com/MadLadSquad/UntitledDEWelcome) - A help and welcome screen applicatino for UDE
 1. [UntitledImGuiTextUtils](https://github.com/MadLadSquad/UntitledImGuiTextUtils) - ImGui Text rendering utility functions such as rendering underlined, bold or italic text
-1. [UntitledNotify](https://github.com/MadLadSquad/UntitledNotify) - Cross-platform OS notification library, to be developed
 1. [UntitledPackageGenerator](https://github.com/MadLadSquad/UntitledPackageGenerator) - A generator for build and distribution formats such as debs, winget manifests, rpms, ebuilds, etc. to be developed
 1. [UntitledDesktopCompat](https://github.com/MadLadSquad/UntitledDesktopCompat) - A bunch of compatibility utilities for multidirectional conversion between KDE, Gnome and UDE formats, to be developed
 1. [UntitledPackageRepository](https://github.com/MadLadSquad/UntitledPackageRepository) - A repository for plugin packages used by the plugin package manager, to be developed
@@ -78,7 +77,6 @@ made for our desktop environment(UntitledDesktopEnvironment/UDE)
 1. [hanzi-writer-data-youyin](https://github.com/MadLadSquad/hanzi-writer-data-youyin) - Monolyth character database for Youyin
 1. [hanzi-writer-data-others](https://github.com/MadLadSquad/hanzi-writer-data-others) - Database for non-Chinese and Kana characters for Youyin, to be developed
 1. [UntitledFontUtils](https://github.com/MadLadSquad/UntitledFontUtils) - Cross-platform utilities for dealing with system fonts, to be developed
-1. [UntitledKBD](https://github.com/MadLadSquad/UntitledKBD) - A keyboard layout generator for custom layouts, outputs keyboards for Linux, Windows and Android in multiple formats, to be developed
 1. [UntitledIBusHandwriting](https://github.com/MadLadSquad/UntitledIBusHandwriting) - A handwriting input method engine for [ibus](https://en.wikipedia.org/wiki/Intelligent_Input_Bus)
 1. [UntitledI18N](https://github.com/MadLadSquad/UntitledI18N) - A C and C++ i18n library
 
