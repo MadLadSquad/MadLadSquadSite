@@ -27,7 +27,7 @@ add_sidebar UntitledPackageGenerator
 add_sidebar UntitledExec
 add_sidebar UntitledRuntimeLibraryLoader
 add_sidebar YouyinWeb
-add_sidebar UVKBuildTool
+add_sidebar UVKBuildToolN
 add_sidebar UntitledCLIParser
 add_sidebar UntitledGameSystemManager
 add_sidebar UntitledXDGBasedir
