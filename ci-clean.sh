@@ -4,6 +4,7 @@ rm -rf Components/ UBTCustomFunctions/ .github/ docs/ monthly-newsletter/ untitl
 mv build/*.html .
 mv build/*/ .
 rm -rf build/ UVKBuildTool/
+mv docs/UVKBuildToolN docs/UVKBuildTool
 
 for i in `find ./ -type f -name '*.html' -printf '%p\n'` ; do
 	sed -i 's/\.\//https:\/\/madladsquad.com\//g' "$i"
