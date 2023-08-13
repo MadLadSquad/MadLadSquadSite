@@ -10,6 +10,8 @@ add_sidebar() {
 
 cd docs || exit
 
+mv UVKBuildTool UVKBuildToolN
+
 # Please don't touch this there are a lot of problems with this specific file
 sed -i '1 i\{{ raw' UntitledTemplatingEngine/Templating-guide.md
 echo "}}" >> UntitledTemplatingEngine/Templating-guide.md
