@@ -37,22 +37,6 @@ The framework is still not done for release 0.5. Currently, the following featur
 We estimate 0.5.0.0 that would be released around the end of July. The most meaningful features, such as the reworked build
 and export system will be released by the end of June.
 
-### UntitledCalculator and UntitledMathSolver
-Announcing UntitledCalculator and UntitledMathSolver. UntitledCalculator will be a frontend for UntitledMathSolver, 
-which will be a C and C++ library for solving math problems as well as evaluating expressions using a custom function interface. 
-
-The UntitledCalculator will contain the following modes:
-
-1. Basic
-2. Advanced
-3. Programmer
-4. Financial
-
-It will be able to be extended using custom functions and variables, support for plotting and exporting of plots is
-also going to be supported. Official plugins for complex functionality will also be released.
-
-We expect to finish development of the UntitledMathSolver and UntitledCalculator around the end of August 2023.
-
 ## Multilingual
 The current tasks for the multilingual project are as follows:
 
