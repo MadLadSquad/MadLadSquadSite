@@ -16,11 +16,8 @@ The UntitledApplicationSuite is a collection of cross-platform applications that
 and are not actual required components of it. This includes applications such as:
 
 1. [UntitledImageViewer](https://github.com/MadLadSquad/UntitledImageViewer)
-1. [UntitledCalculator](https://github.com/MadLadSquad/UntitledCalculator)
 1. [UntitledTextEditor](https://github.com/MadLadSquad/UntitledTextEditor)
 1. [UntitledGameSystemManager](https://github.com/MadLadSquad/UntitledGameSystemManager)
-1. [UntitledVulkanTerminalEmulator](https://github.com/MadLadSquad/UntitledVulkanTerminalEmulator)
-1. [UntitledFileManager](https://github.com/MadLadSquad/UntitledFileManager)
 1. [UntitledIBusHandwriting](https://github.com/MadLadSquad/UntitledIBusHandwriting)
 
 Most of these applications are cross-platform.
@@ -32,10 +29,7 @@ This is the base for the desktop environment. It includes applications, such as:
 1. [UntitledDEPolkitAgent](https://github.com/MadLadSquad/UntitledDEPolkitAgent)
 1. [UntitledDESessionLogout](https://github.com/MadLadSquad/UntitledDESessionLogout)
 1. [UntitledDEThemeGenerator](https://github.com/MadLadSquad/UntitledDEThemeGenerator)
-1. [UntitledDESessionManager](https://github.com/MadLadSquad/UntitledDESessionManager)
-1. [UntitledDEPowerManager](https://github.com/MadLadSquad/UntitledDEPowerManager)
 1. [UntitledDEWallpaperEngine](https://github.com/MadLadSquad/UntitledDEWallpaperEngine)
-1. [UntitledDESettings](https://github.com/MadLadSquad/UntitledDESettings)
 
 When used together, the desktop is almost complete, however, the desktop shell is still missing.
 
