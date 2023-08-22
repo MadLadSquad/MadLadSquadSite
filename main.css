@@ -121,3 +121,7 @@ code, .sourceCode pre, .liquid pre {
 .sourceCode code span {
 	float: auto;
 }
+
+figcaption {
+	display: none;
+}
