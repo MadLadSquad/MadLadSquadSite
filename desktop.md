@@ -5,22 +5,18 @@ we hope that this page can clear up any questions on what we desire to achieve w
 The UntitledDesktopEnvironment(shortened to UntitledDesktop or UDE) is a desktop environment for Linux and other operating
 systems that use components made by the [freedesktop foundation](https://freedesktop.org).
 
-The UntitledDesktopEnvironment is an umbrella term for the following 3 projects:
+The UntitledDesktopEnvironment is an umbrella term for the following projects:
 
 1. The UntitledApplicationSuite
 1. The UntitledDesktopEnvironment
-1. The UntitledDesktopEnvironment Flow
 
 ### UntitledApplicationSuite
 The UntitledApplicationSuite is a collection of cross-platform applications that serve as utilities for a desktop environment
 and are not actual required components of it. This includes applications such as:
 
 1. [UntitledImageViewer](https://github.com/MadLadSquad/UntitledImageViewer)
-1. [UntitledTextEditor](https://github.com/MadLadSquad/UntitledTextEditor)
 1. [UntitledGameSystemManager](https://github.com/MadLadSquad/UntitledGameSystemManager)
 1. [UntitledIBusHandwriting](https://github.com/MadLadSquad/UntitledIBusHandwriting)
-
-Most of these applications are cross-platform.
 
 ### UntitledDesktopEnvironment
 This is the base for the desktop environment. It includes applications, such as:
@@ -31,18 +27,7 @@ This is the base for the desktop environment. It includes applications, such as:
 1. [UntitledDEThemeGenerator](https://github.com/MadLadSquad/UntitledDEThemeGenerator)
 1. [UntitledDEWallpaperEngine](https://github.com/MadLadSquad/UntitledDEWallpaperEngine)
 
-When used together, the desktop is almost complete, however, the desktop shell is still missing.
-
-### UntitledDesktopEnvironment Flow
-![UDE Flow](https://github.com/MadLadSquad/MadLadSquadSite/assets/40400590/2ac900cd-e261-46cc-a426-692d38c87a6f)
-
-\* Logo derived from Chinese character 川, meaning river/stream.
-
-UntitledDesktopEnvironment Flow or UDF is a minimal reference implementation of such a shell. 
-It includes the following 2 applications:
-
-1. A minimal application launcher - [UDFApplicationLauncher](https://github.com/MadLadSquad/UDFApplicationLauncher)
-1. A minimal and highly customiseable bar/panel - [UDFPanel](https://github.com/MadLadSquad/UDFPanel)
+This is the core of the desktop. Users shall create their own shell, further.
 
 ## Goals
 We have the following goals:
