@@ -1,23 +1,6 @@
 Welcome to the June 2023 edition of the monthly newsletter
 
 ## UntitledDesktop
-### Announcing UDE flow
-![udeflow](https://github.com/MadLadSquad/MadLadSquadSite/assets/40400590/2ac900cd-e261-46cc-a426-692d38c87a6f)
-
-\* Logo derived from Chinese character 川, meaning river/stream.
-
-UntitledDesktop Flow, shortened to UDF will be the reference implementation of a complete desktop environment using the
-UntitledDesktopEnvironment base.
-
-The UntitledDesktopEnvironment is mostly a minimal environment that doesn't include a graphic shell i.e. applications such
-as status bars and application launchers. UDF, on the other hand, will implement a shell.
-This includes the following applications:
-
-1. A minimal application launcher - [UDFApplicationLauncher](https://github.com/MadLadSquad/UDFApplicationLauncher)
-2. A minimal and highly customisable bar - [UDFPanel](https://github.com/MadLadSquad/UDFPanel)
-
-Additional applications may be planned for a future date.
-
 ### UntitledImGuiFramework 0.5.0.0: Part 2
 The framework is still not done for release 0.5. Currently, the following features need to be finished:
 
