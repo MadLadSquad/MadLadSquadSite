@@ -63,10 +63,6 @@ This brings the following benefits:
 1. Application launchers can use keyword and fuzzy search
 1. Applications can now be set as the default for opening certain files
 
-### UDE Flow
-The [UDF Panel](https://github.com/MadLadSquad/UDFPanel) is in its planning stage, which means that development may start this 
-month or in August.
-
 ### UntitledDesktopBootstrap 0.1.0.0
 The first experimental release of the [UntitledDestktopBootstrap](https://github.com/MadLadSquad/UntitledDestkopBootstrap)
 project is live. Currently, no session is created by the `xinitrc` so no desktop can actually be launched but is a good starting
