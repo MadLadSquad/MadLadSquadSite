@@ -49,7 +49,6 @@ made for our desktop environment(UntitledDesktopEnvironment/UDE)
 1. [UntitledDETheme](https://github.com/MadLadSquad/UntitledDETheme) - A theming library for UDE, to be developed
 1. [UntitledDESessionLogout](https://github.com/MadLadSquad/UntitledDESessionLogout) - A session logout utility for UDE
 1. [UntitledDEWallpaperManager](https://github.com/MadLadSquad/UntitledDEWallpaperManager) - A wallpaper manager for UDE, to be developed
-1. [UntitledCalculator](https://github.com/MadLadSquad/UntitledCalculator) - A cross-platform calculator application
 1. [UntitledImageViewer](https://github.com/MadLadSquad/UntitledImageViewer) - A minimal cross-platform image viewer
 1. [UntitledDEWelcome](https://github.com/MadLadSquad/UntitledDEWelcome) - A help and welcome screen applicatino for UDE
 1. [UntitledImGuiTextUtils](https://github.com/MadLadSquad/UntitledImGuiTextUtils) - ImGui Text rendering utility functions such as rendering underlined, bold or italic text
@@ -79,7 +78,6 @@ made for our desktop environment(UntitledDesktopEnvironment/UDE)
 1. [check-for-synced-branches-action](https://github.com/MadLadSquad/check-for-synced-branches-action) - An action to check if 2
 branches are in sync, also works for forks and upstream
 1. [UntitledCLIParser](https://github.com/MadLadSquad/UntitledCLIParser) - A C and C++ parser for CLI arguments
-1. [UntitledMathSolver](https://github.com/MadLadSquad/UntitledMathSolver) - A C and C++ backend for a calculator
 1. [UntitledDesktopOverlay](https://github.com/MadLadSquad/UntitledDesktopOverlay) - A Gentoo/Funtoo overlay for all MadLadSquad, UDE and UDF applications + additional components for the desktops, to be developed
 1. [UntitledTemplatingEngine](https://github.com/MadLadSquad/UntitledTemplatingEngine) - A fully turing complete templating engine using a lisp-like language written in C and C++
 1. [GenericScripts](https://github.com/MadLadSquad/GenericScripts) - A list of generic scripts we use a lot on most of our repositories
