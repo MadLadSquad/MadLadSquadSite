@@ -101,6 +101,7 @@ More information about the subproject can be found [here](https://madladsquad.co
 ### UntitledPackageGenerator
 Make all our applications have a unified build process, so that we can easily package them for many platforms. We're already 
 developing a tool that can package our software as the following formats:
+
 1. [deb](https://www.debian.org/distrib/packages)
 1. [rpms](https://rpm.org/)
 1. [ebuilds](https://wiki.gentoo.org/wiki/Ebuild) for [Gentoo](https://gentoo.org) and [Funtoo](https://funtoo.org)
