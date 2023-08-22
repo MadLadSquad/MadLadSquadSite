@@ -110,12 +110,6 @@ developing a tool that can package our software as the following formats:
 1. [winget](https://github.com/microsoft/winget-cli)
 1. [MSI installers](https://en.wikipedia.org/wiki/Windows_Installer) for Windows
 
-### UntitledPackageManager
-A package manager for UDE plugins. Using it improves the plugin installation experience, leaves less work for the user and makes
-plugins safer.
-
-The package manager also supports custom package repositories.
-
 ## A great theming experience
 We achieve a great theming experience using the following ways:
 
