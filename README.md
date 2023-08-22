@@ -45,7 +45,6 @@ the multilingual department:
 ### UntitledDesktopEnvironment and related
 1. [UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework) - A minimal destkop application development framework for C++, 
 made for our desktop environment(UntitledDesktopEnvironment/UDE)
-1. [UntitledTextEditor](https://github.com/MadLadSquad/UntitledTextEditor) - UDE graphical text editor
 1. [UntitledDETheme](https://github.com/MadLadSquad/UntitledDETheme) - A theming library for UDE, to be developed
 1. [UntitledDESessionLogout](https://github.com/MadLadSquad/UntitledDESessionLogout) - A session logout utility for UDE
 1. [UntitledDEWallpaperManager](https://github.com/MadLadSquad/UntitledDEWallpaperManager) - A wallpaper manager for UDE, to be developed
@@ -56,10 +55,6 @@ made for our desktop environment(UntitledDesktopEnvironment/UDE)
 1. [UntitledDesktopBootstrap](https://github.com/MadLadSquad/UntitledDesktopBootstrap) - A collection of scripts that creates needed folders and files when first installing UDE
 1. [UntitledDBusUtils](https://github.com/MadLadSquad/UntitledDBusUtils) - A collection of utilities for dealing with [dbus](https://en.wikipedia.org/wiki/D-Bus), to be developed
 1. [UntitledXDGBasedir](https://github.com/MadLadSquad/UntitledXDGBasedir) - An implementation of the [XDG base directory specification](https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html)
-
-### UntitledDesktopFlow
-1. [UDFApplicationLauncher](https://github.com/MadLadSquad/UDFApplicationLauncher) - An application launcher for UDF, to be developed
-1. [UDFPanel](https://github.com/MadLadSquad/UDFPanel) - A desktop panel for UDF, to be developed
 
 ### Multilingual
 1. [Youyin](https://github.com/MadLadSquad/YouyinWeb) - A website for learning how to write Chinese characters and other scripts
