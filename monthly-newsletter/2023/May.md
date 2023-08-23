@@ -26,8 +26,7 @@ For at least 2 months, we have been preparing for the first release of the
     - Creating the different library layout systems
 - [ ] Threads system
 - [ ] Production export system
-- [x] Loading of raw data into textures(feature requested by 
-      [UntitledImageViewer](https://github.com/MadLadSquad/UntitledImageViewer))
+- [x] Loading of raw data into textures
 - [ ] Renaming of the locale modules to the i18n module
 - [ ] Creating a custom, separate i18n library
 - [ ] Building the first release of the full C API
@@ -39,17 +38,6 @@ For at least 2 months, we have been preparing for the first release of the
 
 Please note, that 0.5.0.0 will not release this month. Though most features listed above will be completed this month, 
 expect the actual release somewhere in June or July at the earliest.
-
-### UntitledImageViewer 0.5.0.0
-In May, work on the 0.5.0.0 release of the [UntitledImageViewer](https://github.com/MadLadSquad/UntitledImageViewer), continues. 
-Release 0.5.0.0 will include all features listed in the readme, except the following:
-
-1. Image cropping
-1. Image flipping
-1. Metadata viewing and editing
-1. Rotating images
-
-This should be released around the end of June to the beginning of July
 
 ### UntitledLinuxGameManager
 We will continue our work on the 1.0.0.0 release of the 
@@ -98,3 +86,4 @@ The [UntitledIBusHandwriting](https://github.com/MadLadSquad/UntitledIBusHandwri
 [hanzi-writer-data-youyin](https://github.com/MadLadSquad/hanzi-writer-data-youyin/). It currently looks like this:
 
 ![image](https://user-images.githubusercontent.com/40400590/235936245-1f1835aa-8ba2-4d3a-af77-f690ffd84a4f.png)
+

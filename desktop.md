@@ -14,7 +14,6 @@ The UntitledDesktopEnvironment is an umbrella term for the following projects:
 The UntitledApplicationSuite is a collection of cross-platform applications that serve as utilities for a desktop environment
 and are not actual required components of it. This includes applications such as:
 
-1. [UntitledImageViewer](https://github.com/MadLadSquad/UntitledImageViewer)
 1. [UntitledGameSystemManager](https://github.com/MadLadSquad/UntitledGameSystemManager)
 1. [UntitledIBusHandwriting](https://github.com/MadLadSquad/UntitledIBusHandwriting)
 
