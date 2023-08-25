@@ -23,8 +23,6 @@ This is the base for the desktop environment. It includes applications, such as:
 1. [UntitledDEWelcome](https://github.com/MadLadSquad/UntitledDEWelcome)
 1. [UntitledDEPolkitAgent](https://github.com/MadLadSquad/UntitledDEPolkitAgent)
 1. [UntitledDESessionLogout](https://github.com/MadLadSquad/UntitledDESessionLogout)
-1. [UntitledDEThemeGenerator](https://github.com/MadLadSquad/UntitledDEThemeGenerator)
-1. [UntitledDEWallpaperEngine](https://github.com/MadLadSquad/UntitledDEWallpaperEngine)
 
 This is the core of the desktop. Users shall create their own shell, further.
 

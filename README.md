@@ -45,9 +45,7 @@ the multilingual department:
 ### UntitledDesktopEnvironment and related
 1. [UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework) - A minimal destkop application development framework for C++, 
 made for our desktop environment(UntitledDesktopEnvironment/UDE)
-1. [UntitledDETheme](https://github.com/MadLadSquad/UntitledDETheme) - A theming library for UDE, to be developed
 1. [UntitledDESessionLogout](https://github.com/MadLadSquad/UntitledDESessionLogout) - A session logout utility for UDE
-1. [UntitledDEWallpaperManager](https://github.com/MadLadSquad/UntitledDEWallpaperManager) - A wallpaper manager for UDE, to be developed
 1. [UntitledDEWelcome](https://github.com/MadLadSquad/UntitledDEWelcome) - A help and welcome screen applicatino for UDE
 1. [UntitledImGuiTextUtils](https://github.com/MadLadSquad/UntitledImGuiTextUtils) - ImGui Text rendering utility functions such as rendering underlined, bold or italic text
 1. [UntitledPackageGenerator](https://github.com/MadLadSquad/UntitledPackageGenerator) - A generator for build and distribution formats such as debs, winget manifests, rpms, ebuilds, etc. to be developed
