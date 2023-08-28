@@ -125,3 +125,7 @@ code, .sourceCode pre, .liquid pre {
 figcaption {
 	display: none;
 }
+
+figure {
+	margin: 0;
+}
