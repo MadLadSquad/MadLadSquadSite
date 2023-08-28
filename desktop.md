@@ -24,7 +24,19 @@ This is the base for the desktop environment. It includes applications, such as:
 1. [UntitledDEPolkitAgent](https://github.com/MadLadSquad/UntitledDEPolkitAgent)
 1. [UntitledDESessionLogout](https://github.com/MadLadSquad/UntitledDESessionLogout)
 
-This is the core of the desktop. Users shall create their own shell, further.
+This is the core of the desktop. Users shall then create their own shell.
+
+Note: More applications are planned to be developed at a future date.
+
+### UntitledDesktopEnvironment Flow
+![UDE Flow](https://github.com/MadLadSquad/MadLadSquadSite/assets/40400590/2ac900cd-e261-46cc-a426-692d38c87a6f)
+
+\* Logo derived from Chinese character 川, meaning river/stream.
+
+UntitledDesktopEnvironment Flow or UDF is a minimal reference implementation of such a shell. 
+It includes the following applications:
+
+1. A minimal and highly customiseable bar/panel - [UDFPanel](https://github.com/MadLadSquad/UDFPanel)
 
 ## Goals
 We have the following goals:
