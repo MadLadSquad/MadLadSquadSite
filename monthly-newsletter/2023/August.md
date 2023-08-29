@@ -7,6 +7,10 @@ By the 15th of August, we should get both releases live. They include:
 1. Full notifications module, powered by [UntitledNotify](https://github.com/MadLadSquad/UntitledNotify)
 1. System-wide font fetching, powered by [UntitledFontUtils](https://github.com/MadLadSquad/UntitledFontUtils)
 
+### UntitledImGuiFramework 0.7.1.0 and 0.7.2.0
+These 2 releases were released on the 30th of August and contain major bug fixes in downstream libraries and the internals of the
+framework, as well as Win32 integration for the platform functions part of the Window interface API.
+
 ### UntitledFontUtils 1.0
 We're also releasing the 1.0 release of [UntitledFontUtils](https://github.com/MadLadSquad/UntitledFontUtils), a library for
 querying, fetching and loading system-wide fonts on Windows and Freedesktop-based systems.
