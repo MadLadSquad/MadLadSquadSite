@@ -32,6 +32,7 @@ add_sidebar UntitledCLIParser
 add_sidebar UntitledGameSystemManager
 add_sidebar UntitledXDGBasedir
 add_sidebar UntitledImGuiTextUtils
+add_sidebar UDFPanel
 
 find ./ -type f -exec sed -i 's/https:\/\/github.com\/MadLadSquad\//https:\/\/madladsquad.com\/docs\//g' {} \;
 find ./ -type f -exec sed -i 's/\/wiki\//\//g' {} \;
