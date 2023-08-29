@@ -17,8 +17,8 @@ We have a new vision for implementing the 1.0 release of Youyin and are starting
 release in September are:
 1. Phrase support
 
-Work on adding more writing systems to the character database also started. Zhuyin is the first writing system we decided to add
-and data for most characters in it can already be used on the website.
+Work on adding more writing systems to the character database also started. [Zhuyin](https://en.wikipedia.org/wiki/Bopomofo)
+is the first writing system we decided to add and data for most characters in it can already be used on the website.
 
 Additionally, development of the future backend, account system and more have started. Once we reach a good enough point, we will
 launch the whole service at once.
