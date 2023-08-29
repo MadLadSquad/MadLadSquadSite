@@ -100,6 +100,7 @@ your donation if you have any project in mind. We donate 50% of the proceedings 
     1. [June](https://madladsquad.com/monthly-newsletter/2023/June)
     1. [July](https://madladsquad.com/monthly-newsletter/2023/July)
     1. [August](https://madladsquad.com/monthly-newsletter/2023/August)
+    1. [September](https://madladsquad.com/monthly-newsletter/2023/September)
 
 ## Other pages
 ### Documentation
@@ -118,6 +119,7 @@ Copy of the docs for these repos(docs can also be found in their respective wiki
 - [YouyinWeb](https://madladsquad.com/docs/YouyinWeb/Home)
 - [UntitledXDGBasedir](https://madladsquad.com/docs/UntitledXDGBasedir/Home)
 - [UntitledImGuiTextUtils](https://madladsquad.com/docs/UntitledImGuiTextUtils/Home)
+- [UDFPanel](https://madladsquad.com/docs/UDFPanel/Home)
 
 ### Misc
 - [Utilities](https://madladsquad.com/utilities)
