@@ -45,6 +45,7 @@ the multilingual department:
 ### UntitledDesktopEnvironment and related
 1. [UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework) - A minimal destkop application development framework for C++, 
 made for our desktop environment(UntitledDesktopEnvironment/UDE)
+1. [UntitledImGuiTheme](https://github.com/MadLadSquad/UntitledImGuiTheme) - A theme library for dear imgui using a YAML format
 1. [UntitledDESessionLogout](https://github.com/MadLadSquad/UntitledDESessionLogout) - A session logout utility for UDE
 1. [UntitledDEWelcome](https://github.com/MadLadSquad/UntitledDEWelcome) - A help and welcome screen applicatino for UDE
 1. [UntitledImGuiTextUtils](https://github.com/MadLadSquad/UntitledImGuiTextUtils) - ImGui Text rendering utility functions such as rendering underlined, bold or italic text
@@ -120,6 +121,7 @@ Copy of the docs for these repos(docs can also be found in their respective wiki
 - [UntitledXDGBasedir](https://madladsquad.com/docs/UntitledXDGBasedir/Home)
 - [UntitledImGuiTextUtils](https://madladsquad.com/docs/UntitledImGuiTextUtils/Home)
 - [UDFPanel](https://madladsquad.com/docs/UDFPanel/Home)
+- [UntitledImGuiTheme](https://madladsquad.com/docs/UntitledImGuiTheme/Home)
 
 ### Misc
 - [Utilities](https://madladsquad.com/utilities)

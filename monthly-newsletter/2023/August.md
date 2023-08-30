@@ -11,9 +11,14 @@ By the 15th of August, we should get both releases live. They include:
 These 2 releases were released on the 30th of August and contain major bug fixes in downstream libraries and the internals of the
 framework, as well as Win32 integration for the platform functions part of the Window interface API.
 
-### UntitledFontUtils 1.0
-We're also releasing the 1.0 release of [UntitledFontUtils](https://github.com/MadLadSquad/UntitledFontUtils), a library for
-querying, fetching and loading system-wide fonts on Windows and Freedesktop-based systems.
+### UntitledImGuiFramework 0.7.4.0
+The 0.7.4.0 release adds additional bug fixes, as well as the
+[UntitledImGuiTheme](https://github.com/MadLadSquad/UntitledImGuiTheme) library to provide user theming support.
+
+### UntitledImGuiTheme 1.0.0.0
+The 1.0.0.0 release of the [UntitledImGuiTheme](https://github.com/MadLadSquad/UntitledImGuiTheme) library will be released on
+the 31st of August. The library provides functionality to load and save dear imgui themes using a YAML format. It also ships
+a theme editor widget.
 
 ## Multilingual project
 Current task progress for August:
