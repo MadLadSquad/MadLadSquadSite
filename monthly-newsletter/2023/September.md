@@ -1,20 +1,17 @@
 Welcome to the September 2023 edition of the monthly newsletter.
 
 ## UntitledDesktop
-### UntitledImGuiFramework 0.7.5, 0.8 and 0.8.3
-In September, we plan to release the 0.7.5, 0.8 and 0.8.3 releases of the framework, which would bring the following features:
-1. UntitledDBusUtils 1.0 - For the dbus submodule of the OS module
-1. UntitledImGuiTheme 1.0 - For the theme module
-1. UntitledI18N 1.0 - for the I18N module
+### UntitledImGuiFramework 0.8 and 0.8.3
+In September, we plan to release the 0.8 and 0.8.3 releases of the framework, which would bring the following features:
 
-### UntitledImGuiTheme 1.0
-This is a theming library for applications made in the UntitledImGuiFramework. The UntitledDETheme library(to be developed), will
-use these files to apply system-wide colouring and application theming.
+1. UntitledDBusUtils 1.0 - For the dbus submodule of the OS module
+1. UntitledI18N 1.0 - for the I18N module
 
 ## Multilingual
 ### Working on Youyin 1.0
 We have a new vision for implementing the 1.0 release of Youyin and are starting development in September. Some features that will
 release in September are:
+
 1. Phrase support
 
 Work on adding more writing systems to the character database also started. [Zhuyin](https://en.wikipedia.org/wiki/Bopomofo)
