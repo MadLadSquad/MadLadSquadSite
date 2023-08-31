@@ -122,6 +122,7 @@ Copy of the docs for these repos(docs can also be found in their respective wiki
 - [UntitledImGuiTextUtils](https://madladsquad.com/docs/UntitledImGuiTextUtils/Home)
 - [UDFPanel](https://madladsquad.com/docs/UDFPanel/Home)
 - [UntitledImGuiTheme](https://madladsquad.com/docs/UntitledImGuiTheme/Home)
+- [UntitledI18N](https://madladsquad.com/docs/UntitledI18N/Home)
 
 ### Misc
 - [Utilities](https://madladsquad.com/utilities)

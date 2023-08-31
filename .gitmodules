@@ -46,3 +46,6 @@
 [submodule "docs/UntitledImGuiTheme"]
 	path = docs/UntitledImGuiTheme
 	url = https://github.com/MadLadSquad/UntitledImGuiTheme.wiki.git
+[submodule "docs/UntitledI18N"]
+	path = docs/UntitledI18N
+	url = https://github.com/MadLadSquad/UntitledI18N.wiki.git
