@@ -77,6 +77,7 @@ branches are in sync, also works for forks and upstream
 1. [UntitledDesktopOverlay](https://github.com/MadLadSquad/UntitledDesktopOverlay) - A Gentoo/Funtoo overlay for all MadLadSquad, UDE and UDF applications + additional components for the desktops, to be developed
 1. [UntitledTemplatingEngine](https://github.com/MadLadSquad/UntitledTemplatingEngine) - A fully turing complete templating engine using a lisp-like language written in C and C++
 1. [GenericScripts](https://github.com/MadLadSquad/GenericScripts) - A list of generic scripts we use a lot on most of our repositories
+1. [UntitledOpen](https://github.com/MadLadSquad/UntitledOpen) - A library to open URIs with a default application or files/folders with a file picker
 
 ## Members
 - [Madman10K](https://github.com/Madman10K) - Founder and head projects developer
