@@ -49,7 +49,6 @@ made for our desktop environment(UntitledDesktopEnvironment/UDE)
 1. [UntitledDESessionLogout](https://github.com/MadLadSquad/UntitledDESessionLogout) - A session logout utility for UDE
 1. [UntitledDEWelcome](https://github.com/MadLadSquad/UntitledDEWelcome) - A help and welcome screen applicatino for UDE
 1. [UntitledImGuiTextUtils](https://github.com/MadLadSquad/UntitledImGuiTextUtils) - ImGui Text rendering utility functions such as rendering underlined, bold or italic text
-1. [UntitledPackageGenerator](https://github.com/MadLadSquad/UntitledPackageGenerator) - A generator for build and distribution formats such as debs, winget manifests, rpms, ebuilds, etc. to be developed
 1. [UntitledDesktopBootstrap](https://github.com/MadLadSquad/UntitledDesktopBootstrap) - A collection of scripts that creates needed folders and files when first installing UDE
 1. [UntitledDBusUtils](https://github.com/MadLadSquad/UntitledDBusUtils) - A collection of utilities for dealing with [dbus](https://en.wikipedia.org/wiki/D-Bus), to be developed
 1. [UntitledXDGBasedir](https://github.com/MadLadSquad/UntitledXDGBasedir) - An implementation of the [XDG base directory specification](https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html)
@@ -113,7 +112,6 @@ Copy of the docs for these repos(docs can also be found in their respective wiki
 - [UntitledLog](https://madladsquad.com/docs/UntitledLog/Home)
 - [UntitledGameSystemManager](https://madladsquad.com/docs/UntitledGameSystemManager/Home)
 - [UntitledTemplatingEngine](https://madladsquad.com/docs/UntitledTemplatingEngine/Home)
-- [UntitledPackageGenerator](https://madladsquad.com/docs/UntitledPackageGenerator/Home)
 - [UntitledExec](https://madladsquad.com/docs/UntitledExec/Home)
 - [UntitledCLIParser](https://madladsquad.com/docs/UntitledCLIParser/Home)
 - [UntitledRuntimeLibraryLoader](https://madladsquad.com/docs/UntitledRuntimeLibraryLoader/Home)

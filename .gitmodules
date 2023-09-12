@@ -25,9 +25,6 @@
 [submodule "docs/UntitledGameSystemManager"]
 	path = docs/UntitledGameSystemManager
 	url = https://github.com/MadLadSquad/UntitledGameSystemManager.wiki.git
-[submodule "docs/UntitledPackageGenerator"]
-	path = docs/UntitledPackageGenerator
-	url = https://github.com/MadLadSquad/UntitledPackageGenerator.wiki.git
 [submodule "docs/UntitledXDGBasedir"]
 	path = docs/UntitledXDGBasedir
 	url = https://github.com/MadLadSquad/UntitledXDGBasedir.wiki.git

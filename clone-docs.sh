@@ -23,7 +23,6 @@ echo "}}" >> UntitledTemplatingEngine/Templating-guide.md
 add_sidebar UntitledImGuiFramework
 add_sidebar UntitledVulkanGameEngine
 add_sidebar UntitledTemplatingEngine
-add_sidebar UntitledPackageGenerator
 add_sidebar UntitledExec
 add_sidebar UntitledRuntimeLibraryLoader
 add_sidebar YouyinWeb

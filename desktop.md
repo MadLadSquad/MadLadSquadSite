@@ -106,19 +106,6 @@ and shall make it easier for any user even non-technical ones and the subset of 
 Make all applications have UI and docs in multiple languages, allow for easy translation of text and conform to i18n standards. 
 More information about the subproject can be found [here](https://madladsquad.com/untitled-desktop/subprojects/i18n).
 
-## A great distribution experience
-### UntitledPackageGenerator
-Make all our applications have a unified build process, so that we can easily package them for many platforms. We're already 
-developing a tool that can package our software as the following formats:
-
-1. [deb](https://www.debian.org/distrib/packages)
-1. [rpms](https://rpm.org/)
-1. [ebuilds](https://wiki.gentoo.org/wiki/Ebuild) for [Gentoo](https://gentoo.org) and [Funtoo](https://funtoo.org)
-1. [flatpaks](https://flatpak.org/)
-1. [arch linux packages](https://wiki.archlinux.org/title/pacman)
-1. [winget](https://github.com/microsoft/winget-cli)
-1. [MSI installers](https://en.wikipedia.org/wiki/Windows_Installer) for Windows
-
 ## A great theming experience
 We achieve a great theming experience using the following ways:
 
