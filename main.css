@@ -139,6 +139,10 @@ th, td {
 	border: 1px solid #f6f0e9;
 }
 
+th {
+	font-weight: bold;
+}
+
 tr {
 	text-align: center;
 }
