@@ -13,3 +13,6 @@ for i in `find ./ -type f -name '*.md' -printf '%p\n'` ; do
 done
 mv README.html index.html
 cp ../main.css .
+
+find ./ -type f -exec sed -i 's/<table style="width:100%;">/<div class="table"><table style="width:100%;">/g' {} \;
+find ./ -type f -exec sed -i 's/<\/table>/<\/table><\/div>/g' {} \;
