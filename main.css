@@ -138,3 +138,7 @@ th, td {
 	color: white;
 	border: 1px solid #f6f0e9;
 }
+
+tr {
+	text-align: center;
+}
