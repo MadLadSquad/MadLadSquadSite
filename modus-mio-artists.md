@@ -10,10 +10,10 @@
 | __4__  | DJAANY       | Boro Purvi    | Bobo Armani | Trap19 Connection | Gringod  | Young BB Young | Madmatic     | Hrdlg       | Ndoe     | Dim4ou          | Homelesz  | PG808      | So Called Crew  |
 | __5__  | Born Paid    | Gocata Kangal | Milioni     | Garjoka           | SIXLQS   | Atchi          | DGDG         | Amok        | Wosh MC  | Atila           | Icaki     | SplitKid   | Tr1ckamusic     |
 | __6__  | Atanas Kolev | SkandaU       | Torino      | Pashata           | Molec    | Krisko         | 100 Kila     | Upsurt      | Ustata   | Spens           | HSL       | 2bona      | EBMC            |
-| __7__  | 5 O'CLOCK    | IMP           | PMC         | M4STAAMIND        | Worst    | Sezy           | RUSTY        | NZ          | NEWAVE   | 42              | YZTrax    | ACBG       | ANT!            |
+| __7__  | 5 O'CLOCK    | IMP           | NIRA        | M4STAAMIND        | Worst    | Sezy           | RUSTY        | NZ          | NEWAVE   | 42              | YZTrax    | ACBG       | ANT!            |
 | __8__  | 4EF0         | Chefo         | Chavo       | E.C.C.C.          | Ф4       | Mishell        | Martinesko   | Mladi B. T. | Kapo BNR | SAUCE KIDS GANG | MZM13     | SLANINATA  | Exc             |
 | __9__  | 2FACED       | ТАНГО И КЕ6   | tsuro       | SONI BONANZA      | VessoU   | BOZHYDAR       | KITA         | THRILL2REAL | G!       | MishMash        | Big Sha   | SST        | Lil Tapi God    |
-| __10__ | SHMEKERA     | Kotenceto     | MIKHAIL     | SVETATA TROICA    | Skunk G  | Niki Kotich    | Чукито       | Honn Kong   | Hoodini  | Gumeni Glavi    | GBT       | 2timez.    | DuhkovTwenty4   |
+| __10__ | SHMEKERA     | Kotenceto     | MIKHAIL     | SVETATA TROICA    | Skunk G  | Niki Kotich    | Чукито       | Honn Kong   | Hoodini  | Gumeni Glavi    | GBT       | 2timez.    | DushkovTwenty4  |
 | __11__ | Прим         | RARE boi      | Bunta       | Dobri Momcheta    | Hrd      | Лошите         | Mufasa069    | Alex P.     | Kay Be   | Thug Slime      | 3xfinity  | BDB Goob   | EVG             |
 | __12__ | Kickdown     | Elem          | Grado       | Bobkata           | ArtimoX  | Sami Issa      | bobby1kenobi | Lil Trippy  | Theo     | Zeid Zaher      | VSLV      | Bojkov     | Robi            |
 | __13__ | Marianoff    | Billy Hlapeto | I.N.I.      | Itzo Hazarta      | VA$      | M1taka         | F.O.         | Rdmk        | Iskrata  | SIIMBAD         | Бате Са   | COCKY      | Roof Rhymez     |
