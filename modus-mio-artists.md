@@ -16,4 +16,4 @@
 | __12__ | Kickdown     | Elem          | Grado       | Bobkata           | ArtimoX  | Sami Issa      | bobby1kenobi | Lil Trippy  | Theo     | Zeid Zaher      | VSLV      | Bojkov     | Robi            |
 | __13__ | Marianoff    | Billy Hlapeto | I.N.I.      | Itzo Hazarta      | VA$      | M1taka         | F.O.         | Rdmk        | Iskrata  | SIIMBAD         | Бате Са   | COCKY      | Roof Rhymez     |
 | __14__ | DJ Emotion   | Jentaro       | TLay        | Silent City       | Fang     | Varna Sound    | Kaskata      | Joker Flow  | Buch     | DIE LEVA        | GERATA    | Liter Jack | NikeJIII        |
-| __15__ | F-act        | ТАХОМА        | Y A N A     | C-MO              | Trasher  | Paraplanner    | Sarafa       | Qvkata DLG  | BRO2     | Bobo & the Gang | FeeL      | Jivaka      |                 |
+| __15__ | F-act        | ТАХОМА        | Y A N A     | C-MO              | Trasher  | Paraplanner    | Sarafa       | Qvkata DLG  | BRO2     | Bobo & the Gang | FeeL      | Jivaka      | Berk Karaah     |
