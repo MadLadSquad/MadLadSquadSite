@@ -22,4 +22,4 @@
 | __16__ | Soulvanish   | Kikata        | KBoyz       | KAMO              | DMT      | Goro           | Totev        | Siimbad     | ERMO     | Koce Dqnkov     | LBS       | Mope       | Pafboi          |
 | __17__ | Belial       | Lil Miti      | $tumata     | Владислав Керанов | Yo One   | axora!         | Fall         | D-ZastA     | Divelin  | lunar           | Maestill  | GOGATA     | Tinko           |
 | __18__ | Swurvy       | SHIZO         | ANZHEL      | Александър Златев | VANKATA  | TOFKATA        | Ziggo Gang   | TARLI       | MUFASA   | NA1KEY          | Sfonk     | L!R!       | El Patron       |
-| __19__ | Pepe Shitz   | Dimo Dimov    | Вантка      | deathstalkercolle | Hoostile | YUNG ГОДЖИ     | ANISSTA      |             |          |                 |           |            |                 |
+| __19__ | Pepe Shitz   | Dimo Dimov    | Вантка      | deathstalkercolle | Hoostile | YUNG ГОДЖИ     | ANISSTA      | SECTY       | Sava Bks | D3MO            | ATM       | Pepi       | Колеца          |
