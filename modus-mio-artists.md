@@ -24,4 +24,5 @@
 | __18__ | Swurvy       | SHIZO         | ANZHEL      | Александър Златев | VANKATA  | TOFKATA        | Ziggo Gang   | TARLI       | MUFASA   | NA1KEY          | Sfonk     | L!R!       | El Patron       |
 | __19__ | Pepe Shitz   | Dimo Dimov    | Вантка      | deathstalkercolle | Hoostile | YUNG ГОДЖИ     | ANISSTA      | SECTY       | Sava Bks | D3MO            | ATM       | Pepi       | Колеца          |
 | __20__ | MoneyMitch   | LU            | OMG Team    | Protagonista      | ATS      | Andyto         | Bisolini     | Ach0        | KIKO     | Vanki4a         | Emo       | Dr. Donor  | Djekata         |
-| __21__ | Vidrata      | Ichko         | Famino      | Игра на думи      | М!мо     | St:llz         | #UB7         | SAUCIN      | JIJKO    | Phonk Factory   |           |            |                 |
+| __21__ | Vidrata      | Ichko         | Famino      | Игра на думи      | М!мо     | St:llz         | #UB7         | SAUCIN      | JIJKO    | Phonk Factory   | Raus      | Insertakick| ГРАДСКИ ЛЕГЕНДИ |
+| __22__ | LORA         |               | Големия     | Danny Dimitroff   | S1       |                | P4Y P4LL     | Dj Mati     | D!do     |                 |           | МАКАРОВ    |                 |
