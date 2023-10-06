@@ -26,4 +26,4 @@
 | __20__ | MoneyMitch   | LU            | OMG Team    | Protagonista        | ATS      | Andyto         | Bisolini     | Ach0        | KIKO     | Vanki4a         | Emo       | Dr. Donor  | Djekata         |
 | __21__ | Vidrata      | Ichko         | Famino      | Игра на думи        | М!мо     | St:llz         | #UB7         | SAUCIN      | JIJKO    | Phonk Factory   | Raus      | Insertakick| ГРАДСКИ ЛЕГЕНДИ |
 | __22__ | LORA         | MD Beddah     | Големия     | Danny Dimitroff     | S1       | prostoduro     | P4Y P4LL     | Dj Mati     | D!do     | Chibook         | SHANO     | МАКАРОВ    | Svinqta Mc      |
-| __23__ | Yulkata      | Jivotnoto     | Adnan Beats | ANDREIKATA&MURGAVIQ | PAMELA   | Iztochen Blok  | Martijuana   | hostile     | Rusiq    | Skyxigh         | EL BUCKET | Alvx       |                 |
+| __23__ | Yulkata      | Jivotnoto     | Adnan Beats | ANDREIKATA&MURGAVIQ | PAMELA   | Iztochen Blok  | Martijuana   | hostile     | Rusiq    | Skyxigh         | EL BUCKET | Alvx       | GRAIFERA        |
