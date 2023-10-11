@@ -1,3 +1,12 @@
+:root {
+	--main-background-colour: #292929;
+	--main-accent-colour: #99b898;
+	--main-colour: #f6f0e9;
+	--main-border-colour: #1c222d;
+	--hr-background-colour: #242933;
+	--main-code-background-colour: #2a363b;
+}
+
 html {
 	background-color: #292929;
 }
@@ -13,14 +22,14 @@ footer {
 	overflow: hidden;
 }
 
-h1, h2, h3, p, li {
+h1, h2, h3, h4, h5, h6, p, li {
 	font-family: 'Ubuntu', sans-serif;
-	color: #f6f0e9;
+	color: var(--main-colour);
 }
 
 a {
 	text-decoration: none;
-	color: #99b898;
+	color: var(--main-accent-colour);
 }
 
 header ul {
@@ -41,7 +50,7 @@ header ul li{
 /* Basically the styling for the text on the top bar */
 header ul li a {
 	display: block;
-	color: #99b898;
+	color: var(--main-accent-colour);
 	text-align: center;
 	padding: 0 24px 0 24px;
 	text-decoration: none;
@@ -53,7 +62,7 @@ header ul li a {
 footer p, footer select {
 	padding: 0 0.33rem 0 0.33rem;
 	font-size: 14px;
-	color: #f6f0e9;
+	color: var(--main-colour);
 }
 
 /* Make the select members shrink to fit since they would take too much space */
@@ -77,14 +86,14 @@ option {
 	padding: 0 0 0 0;
 	margin: 0 0 0 0;
 	border: 0;
-	border-top: 1px solid #1c222d;
-	background-color: #242933;
+	border-top: 1px solid var(--main-border-colour);
+	background-color: var(--hr-background-colour);
 }
 
 
 /* Add a border to make the user not think or be distracted by the titlebar */
 header {
-	border-bottom: 1px solid #1c222d;
+	border-bottom: 1px solid var(--main-border-colour);
 }
 
 /* Make the 404 emoji take up more or less the whole page */
@@ -102,7 +111,7 @@ header {
 }
 
 code, .sourceCode pre, .liquid pre {
-	background-color: #2a363b;
+	background-color: var(--main-code-background-colour);
 	padding: 0.2em;
 	white-space: pre-wrap;
 	white-space: -moz-pre-wrap;
@@ -112,7 +121,7 @@ code, .sourceCode pre, .liquid pre {
 }
 
 .sourceCode code {
-	color: #f6f0e9;
+	color: var(--main-colour);
 	padding: 0;
 	display: block;
 	margin: auto;
@@ -136,7 +145,7 @@ table {
 
 th, td {
 	color: white;
-	border: 1px solid #f6f0e9;
+	border: 1px solid var(--main-border-colour);
 }
 
 th {
