@@ -1,7 +1,7 @@
 ## Documentation
 You can find documentation for the following projects here:
 
-- [UntitledVulkanGameEngine(old)](https://madladsquad.com/docs/UntitledVulkanGameEngine/Home)
+- [UntitledVulkanGameEngine](https://madladsquad.com/docs/UntitledVulkanGameEngine/Home)
 - [UntitledImGuiFramework](https://madladsquad.com/docs/UntitledImGuiFramework/Home)
 - [UntitledLog](https://madladsquad.com/docs/UntitledLog/Home)
 - [UntitledGameSystemManager](https://madladsquad.com/docs/UntitledGameSystemManager/Home)
@@ -13,3 +13,7 @@ You can find documentation for the following projects here:
 - [YouyinWeb](https://madladsquad.com/docs/YouyinWeb/Home)
 - [UntitledXDGBasedir](https://madladsquad.com/docs/UntitledXDGBasedir/Home)
 - [UntitledImGuiTextUtils](https://madladsquad.com/docs/UntitledImGuiTextUtils/Home)
+- [UDFPanel](https://madladsquad.com/docs/UDFPanel/Home)
+- [UntitledImGuiTheme](https://madladsquad.com/docs/UntitledImGuiTheme/Home)
+- [UntitledI18N](https://madladsquad.com/docs/UntitledI18N/Home)
+- [BGKS](https://madladsquad.com/docs/BGKS/Home)

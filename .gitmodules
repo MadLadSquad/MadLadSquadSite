@@ -46,3 +46,6 @@
 [submodule "docs/UntitledI18N"]
 	path = docs/UntitledI18N
 	url = https://github.com/MadLadSquad/UntitledI18N.wiki.git
+[submodule "docs/BGKS"]
+	path = docs/BGKS
+	url = https://github.com/MadLadSquad/BGKS.wiki.git
