@@ -35,3 +35,11 @@ You can check out the playlist on [Spotify](https://open.spotify.com/playlist/5G
 [Instagram page](https://www.instagram.com/modusmio.bg/).
 
 You can also check out our up to date Bulgarian rappers list [here](https://madladsquad/modus-mio-artists).
+
+Also, we want to thank [insekhta](https://www.instagram.com/_.insekhta._/), for designing the playlist logo and other images:
+
+![image](https://github.com/MadLadSquad/MadLadSquadSite/assets/40400590/e5db622d-a811-40ce-bf27-c76ae3039f5f)
+
+![image](https://github.com/MadLadSquad/MadLadSquadSite/assets/40400590/8ead5df0-53d9-448a-a37a-65ffba2a4426)
+
+![image](https://github.com/MadLadSquad/MadLadSquadSite/assets/40400590/ccc15bbb-dc33-4bea-98d9-4c0a69e859aa)
