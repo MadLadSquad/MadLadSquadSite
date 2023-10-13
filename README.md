@@ -59,6 +59,7 @@ made for our desktop environment(UntitledDesktopEnvironment/UDE)
 ### Multilingual
 1. [Youyin](https://github.com/MadLadSquad/YouyinWeb) - A website for learning how to write Chinese characters and other scripts
 1. [BGKS](https://github.com/MadLadSquad/BGKS) - A website for correcting punctuation, grammar and spelling
+1. [LitTok](https://github.com/MadLadSquad/LitTok) - Book reader website as a TikTok clone
 1. [YouyinPublicDeckRepository](https://github.com/MadLadSquad/YouyinPublicDeckRepository) - Public deck repository for Youyin
 1. [hanzi-writer-data-youyin](https://github.com/MadLadSquad/hanzi-writer-data-youyin) - Monolyth character database for Youyin
 1. [hanzi-writer-data-others](https://github.com/MadLadSquad/hanzi-writer-data-others) - Database for non-Chinese and Kana characters for Youyin, to be developed
@@ -124,6 +125,7 @@ Copy of the docs for these repos(docs can also be found in their respective wiki
 - [UntitledImGuiTheme](https://madladsquad.com/docs/UntitledImGuiTheme/Home)
 - [UntitledI18N](https://madladsquad.com/docs/UntitledI18N/Home)
 - [BGKS](https://madladsquad.com/docs/BGKS/Home)
+- [LitTok](https://madladsquad.com/docs/LitTok/Home)
 
 ### Misc
 - [Utilities](https://madladsquad.com/utilities)

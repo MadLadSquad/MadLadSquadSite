@@ -17,3 +17,4 @@ You can find documentation for the following projects here:
 - [UntitledImGuiTheme](https://madladsquad.com/docs/UntitledImGuiTheme/Home)
 - [UntitledI18N](https://madladsquad.com/docs/UntitledI18N/Home)
 - [BGKS](https://madladsquad.com/docs/BGKS/Home)
+- [LitTok](https://madladsquad.com/docs/LitTok/Home)

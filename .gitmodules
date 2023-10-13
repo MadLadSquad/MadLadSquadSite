@@ -49,3 +49,6 @@
 [submodule "docs/BGKS"]
 	path = docs/BGKS
 	url = https://github.com/MadLadSquad/BGKS.wiki.git
+[submodule "docs/LitTok"]
+	path = docs/LitTok
+	url = https://github.com/MadLadSquad/LitTok.wiki.git
