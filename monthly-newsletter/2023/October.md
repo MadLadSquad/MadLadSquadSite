@@ -38,8 +38,8 @@ You can also check out our up to date Bulgarian rappers list [here](https://madl
 
 Also, we want to thank [insekhta](https://www.instagram.com/_.insekhta._/), for designing the playlist logo and other images:
 
-![image](https://github.com/MadLadSquad/MadLadSquadSite/assets/40400590/e5db622d-a811-40ce-bf27-c76ae3039f5f)
+<img src="https://github.com/MadLadSquad/MadLadSquadSite/assets/40400590/e5db622d-a811-40ce-bf27-c76ae3039f5f" width="64" height="64"/>
 
-![image](https://github.com/MadLadSquad/MadLadSquadSite/assets/40400590/8ead5df0-53d9-448a-a37a-65ffba2a4426)
+<img src="https://github.com/MadLadSquad/MadLadSquadSite/assets/40400590/8ead5df0-53d9-448a-a37a-65ffba2a4426" width="64" height="64"/>
 
-![image](https://github.com/MadLadSquad/MadLadSquadSite/assets/40400590/ccc15bbb-dc33-4bea-98d9-4c0a69e859aa)
+<img src="https://github.com/MadLadSquad/MadLadSquadSite/assets/40400590/ccc15bbb-dc33-4bea-98d9-4c0a69e859aa" width="64" height="64"/>
