@@ -145,7 +145,7 @@ table {
 
 th, td {
 	color: white;
-	border: 1px solid var(--main-border-colour);
+	border: 1px solid var(--main-text-colour);
 }
 
 th {
