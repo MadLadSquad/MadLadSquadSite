@@ -4,6 +4,13 @@ Welcome to the October 2023 edition of the monthly newsletter.
 ## MadLadSquad backend work
 We're continuing to develop the MadLadSquad backend, which is going to be used by [Youyin](https://youyin.madladsquad.com) and other websites.
 
+## Youyin 0.2.2 & 0.3
+In October, we will also release the 0.2.2 and 0.3 releases of Youyin. 
+
+The 0.2.2 release fixes many UI/UX bugs and issues. Because most of our websites borrow styles from Youyin this will also impact them.
+
+Meanwhile, the 0.3 release will add support for phrases. It is expected to land by the end of the month.
+
 ## Announcing BGKS
 We're announcing [BGKS](https://bgks.madladsquad.com), a website for correcting incorrect grammar, spelling and punctuation. It works by using
 a database of extracts from literature in a given language. Using these extracts, tests are generated, where the user has to input the
