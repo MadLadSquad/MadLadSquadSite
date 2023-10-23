@@ -27,4 +27,4 @@
 | __21__ | Vidrata      | Ichko         | Famino      | Игра на думи        | М!мо     | St:llz         | #UB7         | SAUCIN      | JIJKO    | Phonk Factory   | Raus      | Insertakick| ГРАДСКИ ЛЕГЕНДИ |
 | __22__ | LORA         | MD Beddah     | Големия     | Danny Dimitroff     | S1       | prostoduro     | P4Y P4LL     | Dj Mati     | D!do     | Chibook         | SHANO     | МАКАРОВ    | Svinqta Mc      |
 | __23__ | Yulkata      | Jivotnoto     | Adnan Beats | ANDREIKATA&MURGAVIQ | PAMELA   | Iztochen Blok  | Martijuana   | hostile     | Rusiq    | Skyxigh         | EL BUCKET | Alvx       | GRAIFERA        |
-| __24__ | VNB          | Yoancho       | Sashhh      | oddRhymes           |          | Vikshanaa      |              |             |          |                 |           | L1ney      |                 |
+| __24__ | VNB          | Yoancho       | Sashhh      | oddRhymes           |          | Vikshanaa      |              | кикоСОПА    |          |                 |           | L1ney      |                 |
