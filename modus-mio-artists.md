@@ -28,3 +28,4 @@
 | __22__ | LORA         | MD Beddah     | Големия     | Danny Dimitroff     | S1       | prostoduro     | P4Y P4LL     | Dj Mati     | D!do     | Chibook         | SHANO     | МАКАРОВ    | Svinqta Mc      |
 | __23__ | Yulkata      | Jivotnoto     | Adnan Beats | ANDREIKATA&MURGAVIQ | PAMELA   | Iztochen Blok  | Martijuana   | hostile     | Rusiq    | Skyxigh         | EL BUCKET | Alvx       | GRAIFERA        |
 | __24__ | VNB          | Yoancho       | Sashhh      | oddRhymes           | Tinotino | Vikshanaa      | Ats          | кикоСОПА    | Faruzy   | XIKSA           | Hugo Bae  | L1ney      |                 |
+| __25__ | Mirich       |               |             |                     |           |               |              |             |          |                 |           |            |                 |
