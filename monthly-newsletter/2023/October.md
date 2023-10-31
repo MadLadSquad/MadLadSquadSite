@@ -11,6 +11,16 @@ The 0.2.2 release fixes many UI/UX bugs and issues. Because most of our websites
 
 Meanwhile, the 0.3 release will add support for phrases. It is expected to land by the end of the month.
 
+## UVKBuildTool 2.0
+The new version of the [UVKBuildTool](https://github.com/MadLadSquad/UVKBuildTool) now adds support for localising 
+web applications using the [UntitledI18N](https://github.com/MadLadSquad/UntitledI18N) library and translation format.
+
+## UntitledI18N 1.2
+Fixes multiple high-severity bugs in [UntitledI18N](https://github.com/MadLadSquad/UntitledI18N).
+
+## Youyin 0.4
+Uses the new [UVKBuildTool](https://github.com/MadLadSquad/UVKBuildTool) 2.0 to provide translations in Bulgarian. The site will soon be translated into other languages. 
+
 ## Announcing BGKS
 We're announcing [BGKS](https://bgks.madladsquad.com), a website for correcting incorrect grammar, spelling and punctuation. It works by using
 a database of extracts from literature in a given language. Using these extracts, tests are generated, where the user has to input the
