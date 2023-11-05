@@ -3,6 +3,7 @@ Welcome to the November 2023 edition of the MadLadSquad montly newsletter.
 # Multilingual
 ## Youyin 0.5
 The 0.5 release of Youyin adds the following:
+
 1. Major bug-fixes to a lot of systems
 1. Removal of non-unique new character cards when creating/editing a phrase for better UI/UX
 1. Almost all functions are now documented using jsdoc
