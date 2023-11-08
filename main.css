@@ -157,5 +157,5 @@ tr {
 }
 
 .table {
-	overflow-x: auto;
+	overflow-x: scroll;
 }
