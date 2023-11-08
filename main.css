@@ -141,6 +141,7 @@ figure {
 
 table {
 	border-collapse: collapse;
+	overflow-x: scroll;
 }
 
 th, td {
