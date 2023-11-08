@@ -23,13 +23,13 @@ footer {
 }
 
 h1, h2, h3, h4, h5, h6, p, li {
-	font-family: 'Ubuntu', sans-serif;
 	color: var(--main-colour);
 }
 
 a {
 	text-decoration: none;
 	color: var(--main-accent-colour);
+	font-family: 'Ubuntu', sans-serif;
 }
 
 header ul {
