@@ -1,4 +1,4 @@
-In this page we are going to detail some of the features and plans for our desktop envirionment, 
+In this page we are going to detail some of the features and plans for our desktop environment, 
 we hope that this page can clear up any questions on what we desire to achieve with this project.
 
 ## Introduction to the desktop environment and its applications
@@ -36,7 +36,7 @@ Note: More applications are planned to be developed at a future date.
 UntitledDesktopEnvironment Flow or UDF is a minimal reference implementation of such a shell. 
 It includes the following applications:
 
-1. A minimal and highly customiseable bar/panel - [UDFPanel](https://github.com/MadLadSquad/UDFPanel)
+1. A minimal and highly customisable bar/panel - [UDFPanel](https://github.com/MadLadSquad/UDFPanel)
 
 ## Goals
 We have the following goals:
@@ -51,7 +51,7 @@ We have the following goals:
 1. A great theming experience
 
 ## User Freedom
-We prioritise user freedom and system customisability. These are the rights of our users:
+We prioritise user freedom and system customisable. These are the rights of our users:
 
 1. The user shall be able to replace most application with any other equivalent without breaking the system \*1
 1. The user shall have the ability to transparent documentation of all configuration formats
@@ -71,7 +71,7 @@ we apply the adapter model, where an application may convert TOML to YAML. We mi
 popular files, but any formats that are not of high demand shall be adapted by third party users.
 
 \*3 - Where it is reasonable to implement such support. Some applications, like those that are narrowly specialised
-may not recieve plugin interfaces.
+may not receive plugin interfaces.
 
 ### How do we achieve this
 
@@ -79,27 +79,27 @@ may not recieve plugin interfaces.
 1. Applications are, in most cases, built as self-sustained atoms that don't necessarily depend on any other UDE application
 1. Documentation of features is our top priority when developing any feature. The moment it is pushed to a repository it
 should be fully documented
-1. For formats such as foreign themes, we build multidirectional adapters and conversion tools
+1. For formats such as foreign themes, we build multidimensional adapters and conversion tools
 1. All our libraries provide a C and C++ API. The C API can be used to create bindings to any programming language
 1. We utilise compile flags to enable and disable features. This applies to our toolkit when compiling an application
 statically or to a number of our applications, where some additional features can be disabled through compile flags
 
 ## Cross-desktop compatibility
-We achieve cross-desktop compatiliby in the following ways:
+We achieve cross-desktop compatibility in the following ways:
 
 1. By not assuming a specific desktop convention and acting more like a DE framework
-1. By following any standardisation effords by the [freedesktop group](https://freedesktop.org)
+1. By following any standardisation efforts by the [freedesktop group](https://freedesktop.org)
 1. By building adapter utilities and libraries to convert between incompatible formats
 1. By collaborating with other desktops to improve compatibility
 
 ## Development
 Our approach to development is fully community centered. We run on a 2 tier developer system:
 
-1. Staff - Has additional administrative and moderative rights such as the ability to review pull requests
+1. Staff - Has additional administrative and moderator rights such as the ability to review pull requests
 1. Developer - Any other user that contributes to our projects
 
 However, apart from this, we're all users of the software. Some of us may be developers of the software, but we shall never
-loose touch with the simple fact that we're all users of the software. As users, we shall be focused on our shared experience
+lose touch with the simple fact that we're all users of the software. As users, we shall be focused on our shared experience
 and shall make it easier for any user even non-technical ones and the subset of beginner non-technical users.
 
 ## A great multilingual experience
@@ -126,14 +126,14 @@ extended using extensions to the standard.
 \* Official to the UDE theme formats. To clarify, it means that, since these theme specifications are based on the theming
 interfaces of a number of GUI libraries which we aren't the developers of, they only exist to standardise the naming of fields
 in such theme files. We do not standardise the theme interface, as we're not the developers of these libraries. Theme
-standards are also updated when the uderlying library changes their theme interface.
+standards are also updated when the underlying library changes their theme interface.
 
 You can find more about the UntitledDesktop colour theme specification here:
 
 1. [UntitledDesktopThemes Core specification](https://madladsquad.com/untitled-desktop/theming/core-spec)
 1. [UntitledDesktopThemes Official Extension: ImPlot](https://madladsquad.com/untitled-desktop/theming/ext-implot)
 1. [UntitledDesktopThemes Official Extension: ImGuizmo](https://madladsquad.com/untitled-desktop/theming/ext-imguizmo)
-1. [UntitldeDesktopThemes Official Extension: Knobs](https://madladsquad.com/untitled-desktop/theming/ext-knobs)
+1. [UntitledDesktopThemes Official Extension: Knobs](https://madladsquad.com/untitled-desktop/theming/ext-knobs)
 1. [UntitledDesktopThemes Official Extension: Spinners](https://madladsquad.com/untitled-desktop/theming/ext-spinners)
 1. UntitledDesktopThemes Official Extension: Console(For UntitledLog's imgui widget and projects like ImTerm)
 

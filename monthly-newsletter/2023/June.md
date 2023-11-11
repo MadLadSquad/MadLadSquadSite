@@ -27,7 +27,7 @@ The current tasks for the multilingual project are as follows:
 library for the framework
 - [ ] Creating a static site component based system for [Youyin](https://youyin.madladsquad.com/) using the templating engine
 - [ ] Figuring out how to add more character data to [Youyin](https://youyin.madladsquad.com/)
-- [ ] Autogenning the Adobe SourcePro and Google Noto fonts in Funtoo linux, [FL-10383](https://bugs.funtoo.org/browse/FL-10383)
+- [ ] Auto-genning the Adobe SourcePro and Google Noto fonts in Funtoo linux, [FL-10383](https://bugs.funtoo.org/browse/FL-10383)
 - [ ] Rework the MadLadSquad website
 
 ### New MadLadSquad website
@@ -40,9 +40,9 @@ is what it looks like right now:
 We're currently working on adding additional writing systems to [Youyin](https://youyin.madladsquad.com/), with the first
 ones being the following:
 
-1. [BoPoMoFo/zhuyin](https://en.wikipedia.org/wiki/Bopomofo)
+1. [BoPoMoFo/Zhuyin](https://en.wikipedia.org/wiki/Bopomofo)
 2. Latin
 3. Cyrillic
 
-Progress on this front is currently slow, as it requires a lot of manual work to modify the SVGs in a proper way. Expect zhuyin
+Progress on this front is currently slow, as it requires a lot of manual work to modify the SVGs in a proper way. Expect Zhuyin
 added to the database around the end of July.

@@ -119,7 +119,7 @@ code, .sourceCode pre, .liquid pre {
 	padding: 0.2em;
 	white-space: pre-wrap;
 	white-space: -moz-pre-wrap;
-	white-space: -pre-wrap;
+	white-space: pre-wrap;
 	white-space: -o-pre-wrap;
 	word-wrap: break-word;
 }
@@ -131,10 +131,6 @@ code, .sourceCode pre, .liquid pre {
 	margin: auto;
 }
 
-.sourceCode code span {
-	float: auto;
-}
-
 figcaption {
 	display: none;
 }
@@ -143,7 +139,8 @@ figure {
 	margin: 0;
 }
 
-table {
+table, .table {
+	display: block;
 	border-collapse: collapse;
 	overflow-x: scroll;
 }
@@ -159,8 +156,4 @@ th {
 
 tr {
 	text-align: center;
-}
-
-.table {
-	overflow-x: scroll;
 }

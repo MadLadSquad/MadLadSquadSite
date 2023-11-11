@@ -45,13 +45,13 @@ maintained by [Spotify.de](https://spotify.de). Every Friday, new Deutschrap rel
 marketing through their [Instagram page](https://www.instagram.com/modusmio/), to get more people to listen to the playlist, therefore
 earning Spotify more users.
 
-While we're not related to Spotify, we saw the effects Modus Mio had on the German hip-hop industry and we decided to create our own
+While we're not related to Spotify, we saw the effects Modus Mio had on the German hip-hop industry, and we decided to create our own
 page for Bulgarian hip-hop. We also decided to add electronic music into the mix.
 
 You can check out the playlist on [Spotify](https://open.spotify.com/playlist/5GZFyyJHwjDNvffn6H18Qv) and our 
 [Instagram page](https://www.instagram.com/modusmio.bg/).
 
-You can also check out our up to date Bulgarian rappers list [here](https://madladsquad/modus-mio-artists).
+You can also check out our up-to-date Bulgarian rappers list [here](https://madladsquad/modus-mio-artists).
 
 Also, we want to thank [insekhta](https://www.instagram.com/_.insekhta._/), for designing the playlist logo and other images:
 

@@ -49,20 +49,20 @@ features:
    - [ ] Container status indicators
    - [ ] Application status indicators
    - [ ] The ability to kill an application
-   - [ ] Checks for internet connection when starting a container, switching to brindge/eth and more
+   - [ ] Checks for internet connection when starting a container, switching to bridge/eth and more
    - [ ] Checks for good connection to the LXD daemon
 - [ ] Quality of life features
    - [ ] Add heroic launcher
    - [ ] Install AUR helper
    - [ ] Copy desktop files and mimetypes to the host system
-   - [ ] Pass the ibus bus to the container
+   - [ ] Pass the IBus bus to the container
 
 We're working on getting 1.0.0.0 ready for the middle of July.
 
 ## Multilingual
 In the multilingual department, May, will be a really active month. Here is all we're working on:
 - [x] [UntitledIBusHandwriting](https://github.com/MadLadSquad/UntitledIBusHandwriting) 1.0.0.0 release - A handwriting input 
-   method for [ibus](https://en.wikipedia.org/wiki/Intelligent_Input_Bus)
+   method for [IBus](https://en.wikipedia.org/wiki/Intelligent_Input_Bus)
 - [ ] Cooperation with the [i18n subproject](https://madladsquad.com/untitled-desktop/subprojects/i18n) on the custom i18n  
    library for the framework
 - [ ] Finishing the [UntitledTemplatingEngine](https://github.com/MadLadSquad/UntitledTemplatingEngine)
@@ -80,7 +80,7 @@ In the multilingual department, May, will be a really active month. Here is all 
 
 ### UntitledIBusHandwriting
 The [UntitledIBusHandwriting](https://github.com/MadLadSquad/UntitledIBusHandwriting) application is a handwriting IM for 
-[ibus](https://en.wikipedia.org/wiki/Intelligent_Input_Bus), similar to 
+[IBus](https://en.wikipedia.org/wiki/Intelligent_Input_Bus), similar to 
 [ibus-handwrite](https://github.com/microcai/ibus-handwrite), but using the 
 [hanzi-lookup](https://github.com/gugray/hanzi_lookup/) library and data provided by 
 [hanzi-writer-data-youyin](https://github.com/MadLadSquad/hanzi-writer-data-youyin/). It currently looks like this:

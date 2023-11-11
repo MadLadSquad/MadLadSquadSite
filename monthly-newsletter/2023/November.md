@@ -1,4 +1,4 @@
-Welcome to the November 2023 edition of the MadLadSquad montly newsletter.
+Welcome to the November 2023 edition of the MadLadSquad monthly newsletter.
 
 # Multilingual
 ## Youyin 0.5

@@ -28,7 +28,7 @@ The completion of the following features also made the release of 0.6.0.0 possib
 1. The ability to output textures
 
 ### UntitledImGuiFramework 0.6.5.0
-Since we released the 1.0 version [UntitledDBusUtils](https://github.com/MadLadSquad/UntitledDBusUtils), we can also release
+Since we released the 1.0 version [UntitledDBusUtils](https://github.com/MadLadSquad/UntitledDBusUtils), we also released
 release 0.6.5.0.
 
 ### UntitledXDGBasedir
@@ -39,9 +39,9 @@ all functions needed by such an implementation, it also includes features such a
 
 1. Support for XDG User dirs
 1. Finding the user trash directory
-1. Creating non-existant directories
+1. Creating non-existent directories
 
-Release 1.0 and 2.0 were released on the 9th and 15th of July respectivelly.
+Release 1.0 and 2.0 were released on the 9th and 15th of July respectively.
 
 ### UntitledImGuiTextUtils
 This month we will also introduce the 1.0 release of the 
@@ -50,7 +50,7 @@ and markup in dear imgui. Expected 1.0 release is July 17th.
 
 ### UntitledGameSystemManager 1.0
 The 1.0 release of the [UntitledGameSystemManager](https://github.com/MadLadSquad/UntitledGameSystemManager) is finally live as of
-the 21th of July.
+the 21st of July.
 
 We also released the hotfix 1.1 version that fixes a major bug when deleting containers.
 
@@ -64,7 +64,7 @@ This brings the following benefits:
 1. Applications can now be set as the default for opening certain files
 
 ### UntitledDesktopBootstrap 0.1.0.0
-The first experimental release of the [UntitledDestktopBootstrap](https://github.com/MadLadSquad/UntitledDestkopBootstrap)
+The first experimental release of the [UntitledDesktopBootstrap](https://github.com/MadLadSquad/UntitledDestkopBootstrap)
 project is live. Currently, no session is created by the `xinitrc` so no desktop can actually be launched but is a good starting
 point for developing further our DE's initial setup and startup capabilities.
 
@@ -74,7 +74,7 @@ The current tasks for the multilingual project are as follows:
 - [ ] Creating the custom i18n library for the framework
 - [ ] Creating a static site component based system for Youyin using the templating engine
 - [ ] Adding more data to [Youyin](https://youyin.madladsquad.com/) and sister projects
-- [ ] Autogenning the Adobe SourcePro and Google Noto fonts in Funtoo Linux, [FL-10383](https://bugs.funtoo.org/browse/FL-10383)
+- [ ] Auto-genning the Adobe SourcePro and Google Noto fonts in Funtoo Linux, [FL-10383](https://bugs.funtoo.org/browse/FL-10383)
 - [ ] Rework the MadLadSquad website
 
 ### Phrases in Youyin
