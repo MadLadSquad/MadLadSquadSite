@@ -29,4 +29,4 @@
 | __23__ | Yulkata      | Jivotnoto     | Adnan Beats | ANDREIKATA&MURGAVIQ | PAMELA   | Iztochen Blok  | Martijuana   | hostile     | Rusiq    | Skyxigh         | EL BUCKET | Alvx        | GRAIFERA        |
 | __24__ | VNB          | Yoancho       | Sashhh      | oddRhymes           | Tinotino | Vikshanaa      | Ats          | кикоСОПА    | Faruzy   | XIKSA           | Hugo Bae  | L1ney       | YungBobi        |
 | __25__ | Mirich       | Broke 5ko     | SPASOFF     | Kid Vendetta        | DJ 89    | Crispy Beats   | NUNI         | DEVITZA     | HATSU    | NQMAMKTRL       | Phillip   | Sirfoxy     |                 |
-| __26__ |              |               |             | Loopermanbeats      | RS       |                |              |             | NV       |                 |           |             |                 |
+| __26__ | El Markone   |               |             | Loopermanbeats      | RS       |                |              |             | NV       |                 | LMD       |             |                 |
