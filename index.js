@@ -27,6 +27,17 @@ function createElement(tag, content, id, className, additionalInfo, parent)
 }
 
 /**
+ * Checks if a string is an integer number
+ * @param { string } str - Number as string
+ * @return { boolean } True if it's an integer
+ */
+function isInt(str)
+{
+    return !isNaN(str);
+}
+
+
+/**
  * Troll jQuery users
  * @param x - ID of the element to request
  * @returns {HTMLElement|null} Element returned or null
@@ -39,9 +50,15 @@ function $(x)
 function artistTableShowHide(match)
 {
     let tables = document.querySelectorAll("td");
-    for (let table in tables)
+    for (let i = 0; i < tables.length; i++)
     {
-        console.log(table.innerText);
+        let it = tables[i];
+        it.style.visibility = "visible";
+        if (!isInt(it.innerText))
+        {
+            if (match !== "" && !it.innerText.toLowerCase().includes(match))
+                it.style.visibility = "hidden";
+        }
     }
 
 }
@@ -51,7 +68,7 @@ function main()
     let artists = $("search-bar");
     if (artists !== null)
     {
-        createElement("p", "Filter table", "", "", null, artists);
+        createElement("p", "Филтрирай таблицата:", "", "", null, artists);
         createElement("input", "", "", "",
             [
                 [ "type", "text" ],
@@ -59,7 +76,8 @@ function main()
                 [ "name", "Table filter field" ]
             ],
         artists).addEventListener("change", (e) => {
-            artistTableShowHide(e.target.value);
+            console.log(e.target.value);
+            artistTableShowHide(e.target.value.toLowerCase());
         });
     }
 }

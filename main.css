@@ -27,7 +27,7 @@ h1, h2, h3, h4, h5, h6, p, li {
 }
 
 * {
-        font-family: 'Ubuntu', sans-serif;
+	font-family: 'Ubuntu', sans-serif;
 }
 
 a {
@@ -164,6 +164,7 @@ input[type=text]::before, input[type=text]::after, input[type=text] {
 
 /* Configure input text fields to follow our style */
 input[type=text] {
+	color: var(--main-colour);
 	max-width: 85%;
 	font-size: 16px;
 	font-family: inherit;
@@ -171,4 +172,5 @@ input[type=text] {
 	background-color: var(--main-background-colour);
 	border: 1px solid var(--main-accent-colour);
 	border-radius: 4px;
+	margin-bottom: 1rem;
 }
