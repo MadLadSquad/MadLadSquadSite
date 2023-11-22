@@ -30,5 +30,5 @@
 | __22__ | LORA         | MD Beddah     | Големия     | Danny Dimitroff     | S1       | prostoduro     | P4Y P4LL     | Dj Mati     | D!do     | Chibook         | SHANO     | МАКАРОВ     | Svinqta Mc      |
 | __23__ | Yulkata      | Jivotnoto     | Adnan Beats | ANDREIKATA&MURGAVIQ | PAMELA   | Iztochen Blok  | Martijuana   | hostile     | Rusiq    | Skyxigh         | EL BUCKET | Alvx        | GRAIFERA        |
 | __24__ | VNB          | Yoancho       | Sashhh      | oddRhymes           | Tinotino | Vikshanaa      | Ats          | кикоСОПА    | Faruzy   | XIKSA           | Hugo Bae  | L1ney       | YungBobi        |
-| __25__ | Mirich       | Broke 5ko     | SPASOFF     | Kid Vendetta        | DJ 89    | Crispy Beats   | NUNI         | DEVITZA     | HATSU    | NQMAMKTRL       | Phillip   | Sirfoxy     |                 |
-| __26__ | El Markone   | Ghettorolf    | Worsedaze   | Loopermanbeats      | RS       |                |              | Alen        | NV       |                 | LMD       |             |                 |
+| __25__ | Mirich       | Broke 5ko     | SPASOFF     | Kid Vendetta        | DJ 89    | Crispy Beats   | NUNI         | DEVITZA     | HATSU    | NQMAMKTRL       | Phillip   | Sirfoxy     | Kesh  Pronto    |
+| __26__ | El Markone   | Ghettorolf    | Worsedaze   | Loopermanbeats      | RS       | Traykoff       | Tony Loud    | Alen        | NV       |                 | LMD       | FOMTedkata  | lil_tigan       |
