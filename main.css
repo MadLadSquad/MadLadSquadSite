@@ -157,3 +157,18 @@ th {
 tr {
 	text-align: center;
 }
+
+input[type=text]::before, input[type=text]::after, input[type=text] {
+	box-sizing: border-box;
+}
+
+/* Configure input text fields to follow our style */
+input[type=text] {
+	max-width: 85%;
+	font-size: 16px;
+	font-family: inherit;
+	padding: 2px 2px 2px 2px;
+	background-color: var(--main-background-colour);
+	border: 1px solid var(--main-accent-colour);
+	border-radius: 4px;
+}
