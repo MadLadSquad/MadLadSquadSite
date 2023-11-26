@@ -32,4 +32,4 @@
 | __24__ | VNB          | Yoancho       | Sashhh      | oddRhymes           | Tinotino | Vikshanaa      | Ats          | кикоСОПА    | Faruzy   | XIKSA           | Hugo Bae  | L1ney       | YungBobi        |
 | __25__ | Mirich       | Broke 5ko     | SPASOFF     | Kid Vendetta        | DJ 89    | Crispy Beats   | NUNI         | DEVITZA     | HATSU    | NQMAMKTRL       | Phillip   | Sirfoxy     | Kesh  Pronto    |
 | __26__ | El Markone   | Ghettorolf    | Worsedaze   | Loopermanbeats      | RS       | Traykoff       | Tony Loud    | Alen        | NV       | kabybrayan      | LMD       | FOMTedkata  | lil\_tigan      |
-| __27__ |              |               |             |                     | MRP      |                |              |             |          |                 | LMD       |             |                 |
+| __27__ |              |               |             |                     | MRP      |                |              |             |          |                 | VSA       |             |                 |
