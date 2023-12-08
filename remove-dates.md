@@ -101,7 +101,6 @@ Ratimid - W8
 RS - W8
 DEVA - W8
 Faruzy - W8
-NQMAMKTRL - W8
 Crispy Beats - W8 + 3
 
 # ----------------------------------------- Album of the month -----------------------------------------
