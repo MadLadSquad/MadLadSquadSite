@@ -137,6 +137,7 @@ figcaption {
 
 figure {
 	margin: 0;
+	overflow-x: scroll;
 }
 
 table, .table {
