@@ -8,8 +8,9 @@
 
 ## -------------------------------------------- Modus Mio BG --------------------------------------------
 
+- Nasyo Chernia - W12
 - Bojkov - W12
-- VA$_OFFICIAL - W12
+- VA$\_OFFICIAL - W12
 - Chervensky - W12
 - Neznaen - W12
 - RARE boi - W12
