@@ -8,6 +8,7 @@
 
 ## -------------------------------------------- Modus Mio BG --------------------------------------------
 
+- SHMEKERA - W12
 - Nasyo Chernia - W12
 - Bojkov - W12
 - VA$\_OFFICIAL - W12
@@ -66,7 +67,7 @@
 - Jivaka - W9
 - Dimoff - W9
 
-- Crispy Beats - W8 + 2
+- Crispy Beats - W8
 
 ## ---------------------------------------- Modus Mio BG: NXTGEN ----------------------------------------
 
@@ -114,4 +115,4 @@
 
 ## ----------------------------------------- Album of the month -----------------------------------------
 
-- Knifepoint - ZORA CHERVENA KAT' OCHITE -> To be rated
+- Knifepoint - ZORA CHERVENA KAT' OCHITE -> Rated
