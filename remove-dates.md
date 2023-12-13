@@ -8,6 +8,17 @@
 
 ## -------------------------------------------- Modus Mio BG --------------------------------------------
 
+- AudioGlitch - W13 + 4
+- Broke 5ko - W13
+- Qvkata DLG - W13
+- Kotenceto - W13
+- Born Paid - W13
+- Djekata - W13
+- Shunaka - W13
+- VessoU - W13
+
+---
+
 - RS - W12
 - SHMEKERA - W12
 - Nasyo Chernia - W12
@@ -59,26 +70,19 @@
 
 ---
 
-- Rusty - W9
-- Milioni - W9
-- Kesh Pronto - W9
-- LBS - W9
-- Dr.Donor - W9
 - Rizziatta - W9
-- Boro Purvi - W9
 - Crispy Beats - W9
 - oddRhymes - W9
-- BM - W9
-- NV - W9
 - Djekata - W9
 - Jivaka - W9
-- Dimoff - W9
-
----
-
-- Crispy Beats - W8
 
 ## ---------------------------------------- Modus Mio BG: NXTGEN ----------------------------------------
+
+- AudioGlitch - W13 + 4
+- Broke 5ko - W13
+- Djekata - W13
+
+---
 
 - RS - W12
 - Bojkov - W12
@@ -126,10 +130,7 @@
 
 - VLAYZ - W8
 - Ratimid - W8
-- RS - W8
 - DEVA - W8
-- Faruzy - W8
-- Crispy Beats - W8 + 3
 
 ## ----------------------------------------- Album of the month -----------------------------------------
 
