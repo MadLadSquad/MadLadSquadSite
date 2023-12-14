@@ -5,6 +5,12 @@
 	--main-border-colour: #1c222d;
 	--hr-background-colour: #242933;
 	--main-code-background-colour: #2a363b;
+
+	--note-colour: #2f81f7;
+	--tip-colour: #3fb950;
+	--important-colour: #a371f7;
+	--warning-colour: #d29922;
+	--caution-colour: #f85149;
 }
 
 html {
@@ -174,4 +180,50 @@ input[type=text] {
 	border: 1px solid var(--main-accent-colour);
 	border-radius: 4px;
 	margin-bottom: 1rem;
+}
+
+.note, .tip, .important, .warning, .caution {
+	padding-left: 0.5rem;
+	border-left-width: 0.25em;
+	border-left-style: solid;
+}
+
+.note {
+	border-left-color: var(--note-colour);
+}
+
+.note .title p {
+	color: var(--note-colour);
+}
+
+.tip {
+	border-left-color: var(--tip-colour);
+}
+
+.tip .title p {
+	color: var(--tip-colour);
+}
+
+.important {
+	border-left-color: var(--important-colour);
+}
+
+.important .title p {
+	color: var(--important-colour);
+}
+
+.warning {
+	border-left-color: var(--warning-colour);
+}
+
+.warning .title p {
+	color: var(--warning-colour);
+}
+
+.caution {
+	border-left-color: var(--caution-colour);
+}
+
+.caution .title p {
+	color: var(--caution-colour)
 }

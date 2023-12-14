@@ -8,6 +8,9 @@
 
 ## -------------------------------------------- Modus Mio BG --------------------------------------------
 
+- DEVITZA - W13
+- Vidrata - W13
+- SVETATA TROICA - W13
 - Bliznacite - W13
 - ERMO - W13
 - AudioGlitch - W13 + 4
@@ -80,6 +83,9 @@
 
 ## ---------------------------------------- Modus Mio BG: NXTGEN ----------------------------------------
 
+- DEVITZA - W13
+- Vidrata - W13
+- SVETATA TROICA - W13
 - ERMO - W13
 - AudioGlitch - W13 + 4
 - Broke 5ko - W13
@@ -120,7 +126,6 @@
 
 ---
 
-- Kesh Pronto - W9
 - LBS - W9
 - Dr.Donor - W9
 - Crispy Beats - W9
@@ -128,12 +133,6 @@
 - NV - W9
 - Djekata - W9
 - Jivaka - W9
-
----
-
-- VLAYZ - W8
-- Ratimid - W8
-- DEVA - W8
 
 ## ----------------------------------------- Album of the month -----------------------------------------
 

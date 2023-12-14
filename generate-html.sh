@@ -8,7 +8,7 @@ for i in `find ./ -type f -name '*.md' -printf '%p\n'` ; do
 	title=$(grep "# " "$i" | head -1 | sed 's/[^ ]* //')
 	front_matter=$(echo -e "---\ntitle: ${title}\n---")
 	printf '%s\n%s\n' "${front_matter}" "$(cat "$i")" > "$i"
-	pandoc --standalone --template ../template.html -s "$i" -o `dirname $i`/`basename $i md`html
+	pandoc --from=gfm --standalone --template ../template.html -s "$i" -o `dirname $i`/`basename $i md`html
 	rm $(realpath "$i")
 done
 mv README.html index.html

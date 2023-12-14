@@ -1,5 +1,6 @@
 localhost-commands:
   - "find ./ -type f \\( -iname \\*.html -o -iname \\*.js \\) -exec sed -i 's/\\.\\//http:\\/\\/0.0.0.0:8080\\//g' {} \\;"
+  - "find ./ -type f \\( -iname \\*.html -o -iname \\*.js \\) -exec sed -i 's/https:\\/\\/madladsquad.com\\//http:\\/\\/0.0.0.0:8080\\//g' {} \\;"
   - "python3 -m http.server 8080"
 custom-pre-generation-commands:
   - "../generate-html.sh build/"
