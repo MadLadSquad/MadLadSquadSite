@@ -130,11 +130,9 @@
 
 ---
 
-- LBS - W9
 - Dr.Donor - W9
 - Crispy Beats - W9
 - oddRhymes - W9
-- NV - W9
 - Djekata - W9
 - Jivaka - W9
 
