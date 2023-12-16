@@ -8,6 +8,8 @@
 
 ## -------------------------------------------- Modus Mio BG --------------------------------------------
 
+- Dr.Donor - W13
+- yx3nev - W13
 - DEVITZA - W13
 - Vidrata - W13
 - SVETATA TROICA - W13
@@ -83,6 +85,8 @@
 
 ## ---------------------------------------- Modus Mio BG: NXTGEN ----------------------------------------
 
+- Dr.Donor - W13
+- yx3nev - W13
 - DEVITZA - W13
 - Vidrata - W13
 - SVETATA TROICA - W13
