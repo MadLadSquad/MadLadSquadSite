@@ -141,3 +141,4 @@
 ## ----------------------------------------- Album of the month -----------------------------------------
 
 - Knifepoint - ZORA CHERVENA KAT' OCHITE -> Rated
+- Bliznacite - #A3B99 Deluxe -> Not rated
