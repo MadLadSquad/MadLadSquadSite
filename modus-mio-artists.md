@@ -35,4 +35,4 @@
 | __25__ | Mirich       | Broke 5ko     | SPASOFF     | Kid Vendetta        | DJ 89    | Crispy Beats   | NUNI         | DEVITZA     | HATSU    | NQMAMKTRL       | Phillip   | Sirfoxy     | Kesh  Pronto    |
 | __26__ | El Markone   | Ghettorolf    | Worsedaze   | Loopermanbeats      | RS       | Traykoff       | Tony Loud    | Alen        | NV       | kabybrayan      | LMD       | FOMTedkata  | lil\_tigan      |
 | __27__ | Jankata      | Nasyo Cheria  | RBN Records | Lil Paff & Genshow  | MRP      | AudioGlitch    | KOKICHA LUD  | Bobo        | Fury     | ELLS            | VSA       | yxn3v       | Nemskiya        |
-| __28__ |              |               | gimical     |                     | Gargata  |                | GOTVA4A      |             | NGXT     |                 |           | NO1NE       |                 |
+| __28__ | VENUS        |               | gimical     |                     | Gargata  |                | GOTVA4A      |             | NGXT     |                 | TEDO      | NO1NE       |                 |
