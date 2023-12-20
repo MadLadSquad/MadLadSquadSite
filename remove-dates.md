@@ -8,6 +8,13 @@
 
 ## -------------------------------------------- Modus Mio BG --------------------------------------------
 
+- Homelesz - W14
+- Divelin - W14
+- TEDO - W14
+- L1ney - W14
+
+---
+
 - 2FACED - W13
 - I.N.I - W13
 - Dr.Donor - W13
@@ -58,34 +65,17 @@
 - Soulvanish - W11
 - Totev - W11
 - BRO2 - W11
-- Thug Slime - W11
 - DGDG - W11
 - Famino - W11
-- Goro - W11
 - Boro Purvi - W11
 
----
-
-- Jhinfuego - W10
-- Hugo Bae - W10
-- DGDG - W10
-- Yung Mici - W10
-- KBOYZ - W10
-- BM - W10
-- Yo One - W10
-- prostoduro - W10
-- Trap19 Connection - W10
-- Mope - W10
-
----
-
-- Rizziatta - W9
-- Crispy Beats - W9
-- oddRhymes - W9
-- Djekata - W9
-- Jivaka - W9
-
 ## ---------------------------------------- Modus Mio BG: NXTGEN ----------------------------------------
+
+- Divelin - W14
+- TEDO - W14
+- L1ney - W14
+
+---
 
 - Dr.Donor - W13
 - yx3nev - W13
@@ -132,10 +122,7 @@
 
 ---
 
-- Dr.Donor - W9
-- Crispy Beats - W9
 - oddRhymes - W9
-- Djekata - W9
 - Jivaka - W9
 
 ## ----------------------------------------- Album of the month -----------------------------------------
