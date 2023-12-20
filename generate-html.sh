@@ -4,15 +4,23 @@ if [[ "$1" == "" ]]; then
 	cp *.md docs/ games/ untitled-desktop/ monthly-newsletter/ build/ -r
 	cd build/ || exit
 fi
-for i in `find ./ -type f -name '*.md' -printf '%p\n'` ; do
-	title=$(grep "# " "$i" | head -1 | sed 's/[^ ]* //')
-	front_matter=$(echo -e "---\ntitle: ${title}\n---")
-	printf '%s\n%s\n' "${front_matter}" "$(cat "$i")" > "$i"
-	pandoc --from=gfm --standalone --template ../template.html -s "$i" -o `dirname $i`/`basename $i md`html
-	rm $(realpath "$i")
-done
+
+extract() {
+	title=$(grep "# " "$1" | head -1 | sed 's/[^ ]* //')
+	out_dir=$(echo `dirname $1`/`basename $1 md`html 2> /dev/null)
+
+	echo "Processing file: ${out_dir}"
+
+	pandoc --from=gfm --standalone --template ../template.html -s "$1" -o "${out_dir}" --metadata title="${title}" 2> /dev/null
+	sed -i 's/<table style="width:100%;">/<div class="table"><table style="width:100%;">/g' "${out_dir}"
+	sed -i 's/<\/table>/<\/table><\/div>/g' "${out_dir}"
+
+	rm $(realpath "$1")
+}
+export -f extract
+
+cpus=$(grep -c processor /proc/cpuinfo) || cpus=$(sysctl -n hw.ncpu)
+find ./ -type f -name '*.md' -printf '%p\n' | parallel -j "${cpus}" extract || exit
+
 mv README.html index.html
 cp ../main.css .
-
-find ./ -type f -exec sed -i 's/<table style="width:100%;">/<div class="table"><table style="width:100%;">/g' {} \;
-find ./ -type f -exec sed -i 's/<\/table>/<\/table><\/div>/g' {} \;
