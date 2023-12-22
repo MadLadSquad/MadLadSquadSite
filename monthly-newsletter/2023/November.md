@@ -21,8 +21,8 @@ This is repeated until you reach and complete the lowest knowledge level.
 ## Modus Mio BG
 In November we started working on more content types. For example, we started publishing weekly song ratings. Example:
 
-![image](https://github.com/MadLadSquad/MadLadSquadSite/assets/40400590/9198d1cb-0361-4d6a-aac6-31c8df210623)
+<img src="https://github.com/MadLadSquad/MadLadSquadSite/assets/40400590/9198d1cb-0361-4d6a-aac6-31c8df210623" width="25%" height="25%"/>
 
 Additionally, we started weekly votes for the top 5 songs from each album or EP from the previous week:
 
-![image](https://github.com/MadLadSquad/MadLadSquadSite/assets/40400590/dd3c86b7-760f-4fe2-b3fd-8d436972b390)
+<img src="https://github.com/MadLadSquad/MadLadSquadSite/assets/40400590/dd3c86b7-760f-4fe2-b3fd-8d436972b390" width="25%" height="25%"/>
