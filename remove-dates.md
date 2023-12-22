@@ -8,6 +8,10 @@
 
 ## <!--------------------------------------------> Modus Mio BG <!-------------------------------------------->
 
+- 2 Lica - W14
+- Niki Kotich - W14
+- Sarafa - W14
+- DEVA - W14
 - Dimoff - W14
 - Broke 5ko - W14
 - Homelesz - W14
@@ -73,7 +77,11 @@
 
 ## <!----------------------------------------> Modus Mio BG: NXTGEN <!---------------------------------------->
 
-- Broke 5ko
+- 2 Lica - W14
+- Sarafa - W14
+- Niki Kotich - W14
+- DEVA - W14
+- Broke 5ko - 14
 - Divelin - W14
 - TEDO - W14
 - L1ney - W14
@@ -133,3 +141,4 @@
 - Knifepoint - ZORA CHERVENA KAT' OCHITE -> Rated
 - Bliznacite - #A3B99 Deluxe -> Rated
 - Homelesz - ТОМАХАВКА - To be rated
+- Sarafa - II MOB - To be rated
