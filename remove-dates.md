@@ -128,13 +128,7 @@
 - Mope - W10
 - prostoduro - W10
 - Yo One - W10
-- KBOYZ - W10
 - Jhinfuego - W10
-
----
-
-- oddRhymes - W9
-- Jivaka - W9
 
 ## <!-----------------------------------------> Album of the month <!----------------------------------------->
 
