@@ -23,6 +23,8 @@ In December we released a vote on the album/EP of the month. Additionally, we no
 
 Additionally, we started voting songs using Instagram Music, instead of just sharing a spotify card. We also developed some art for song votes:
 
+<img src="https://github.com/MadLadSquad/MadLadSquadSite/assets/40400590/84eff5a1-5272-4b43-8ae6-789a75ad66fa" width="25%" height="25%"/>
+
 Finally, we're developing new content strategy for Instagram Reels, which will be deployed by the beginning of January.
 
 ## MadLadSquad update
