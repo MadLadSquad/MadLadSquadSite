@@ -128,12 +128,12 @@
 - DGDG - W10
 - Mope - W10
 - prostoduro - W10
-- Yo One - W10
 - Jhinfuego - W10
 
 ## <!-----------------------------------------> Album of the month <!----------------------------------------->
 
 - Knifepoint - ZORA CHERVENA KAT' OCHITE -> Rated
 - Bliznacite - #A3B99 Deluxe -> Rated
-- Homelesz - ТОМАХАВКА - To be rated
-- Sarafa - II MOB - To be rated
+- Homelesz - ТОМАХАВКА -> To be rated
+- Sarafa - II MOB -> To be rated
+- DEVA - Full House -> Rated
