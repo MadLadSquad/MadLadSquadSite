@@ -43,6 +43,7 @@ jobs:
       - name: Clone docs
         run: ./clone-docs.sh
       - run: "echo 'run-localhost-automatically: false' >> uvproj.yaml"
+      - run: "Scripts/generate-modus-mio-table.py >> modus-mio-artists.md"
       - name: Build project
         run: cd UVKBuildTool/ && ./setup-web.sh .. && cd build && cd ../../ && ./run.sh
       - run: ./ci-clean.sh
