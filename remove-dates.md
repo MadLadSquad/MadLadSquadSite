@@ -8,6 +8,12 @@
 
 ## <!--------------------------------------------> Modus Mio BG <!-------------------------------------------->
 
+Hostile - W15
+lorda - W15
+SHMEKERA - W15
+
+---
+
 - Mope - W14
 - 2 Lica - W14
 - Niki Kotich - W14
@@ -54,29 +60,18 @@
 - MUFASA - W12
 - Broke 5ko - W12
 - Faruzy - W12
-- Thug Slime - W12
 - oddRhymes - W12
 - Mufasa069 - W12
 - ACH0 - W12
 - Totev - W12
 - 42 - W12
 
----
-
-- Ustata - W11
-- ANZHEL - W11
-- Knifepoint - W11
-- Theo - W11
-- Berk Karaah - W11
-- DJAANY - W11
-- Soulvanish - W11
-- Totev - W11
-- BRO2 - W11
-- DGDG - W11
-- Famino - W11
-- Boro Purvi - W11
-
 ## <!----------------------------------------> Modus Mio BG: NXTGEN <!---------------------------------------->
+
+Hostile - W15
+lorda - W15
+
+---
 
 - Mope - W14
 - 2 Lica - W14
