@@ -1,5 +1,6 @@
 name: Update Modus Mio BG
 on:
+  push: [master]
   schedule:
     - cron: "0 14 * * *"
 jobs:
