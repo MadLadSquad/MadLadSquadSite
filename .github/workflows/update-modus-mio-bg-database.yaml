@@ -41,8 +41,13 @@ jobs:
           git checkout auto || git checkout -b auto
           git clone https://github.com/MadLadSquad/sp-playcount-librespot.git
           cd sp-playcount-librespot && mvn clean package
-          java -jar ./core/target/librespot-core-jar-with-dependencies.jar ${{secrets.ACTION_MODUS_MIO_BG_USERNAME}} ${{secrets.ACTION_MODUS_MIO_BG_PASSWORD}} &
-          sleep 5
+          echo "${{secrets.ACTION_MODUS_MIO_BG_CREDENTIALS}}" > creds.json
+          java -jar ./core/target/librespot-core-jar-with-dependencies.jar &
+          sleep 7
+          killall java
+          sed -i "s/logLevel = \"INFO\"/logLevel = \"ALL\"/g" config.toml
+          java -jar ./core/target/librespot-core-jar-with-dependencies.jar &
+          sleep 7
           cd ../Scripts && ./generate-modus-mio-data.py
           killall java
           cd ../ && rm -rf sp-playcount-librespot
