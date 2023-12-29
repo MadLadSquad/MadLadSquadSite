@@ -43,7 +43,11 @@ jobs:
           cd sp-playcount-librespot && mvn clean package
           echo "${{secrets.ACTION_MODUS_MIO_BG_CREDENTIALS}}" > creds.json
           java -jar ./core/target/librespot-core-jar-with-dependencies.jar &
-          sleep 5
+          sleep 7
+          killall java
+          sed -i "s/logLevel = \"INFO\"/logLevel = \"ALL\"/g" config.toml
+          java -jar ./core/target/librespot-core-jar-with-dependencies.jar &
+          sleep 7
           cd ../Scripts && ./generate-modus-mio-data.py
           killall java
           cd ../ && rm -rf sp-playcount-librespot
