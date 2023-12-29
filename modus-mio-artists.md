@@ -4,6 +4,10 @@
 
 За актуалният лист с артисти от дадена седмица и опашката за премахване от плейлиста, [тук](./remove-dates.html).
 
+BG: За инструкции за употреба на Modus Mio BG Artists API-а, [тук](./modus-mio-api-guide.html).
+
+EN: For usage instructions for the Modus Mio BG Artists API, go [here](./modus-mio-api-guide.html).
+
 <div id="search-bar"></div>
 
 | 0      | 1            | 2             | 3           | 4                   | 5        | 6              | 7            | 8           | 9        | 10              | 11        | 12          | 13              |
