@@ -8,9 +8,10 @@
 
 ## <!--------------------------------------------> Modus Mio BG <!-------------------------------------------->
 
-Hostile - W15
-lorda - W15
-SHMEKERA - W15
+- NIKOLAY - W15
+- Hostile - W15
+- lorda - W15
+- SHMEKERA - W15
 
 ---
 
@@ -117,14 +118,6 @@ lorda - W15
 - Famino - W11
 - Goro - W11
 
----
-
-- Hugo Bae - W10
-- DGDG - W10
-- Mope - W10
-- prostoduro - W10
-- Jhinfuego - W10
-
 ## <!-----------------------------------------> Album of the month <!----------------------------------------->
 
 - Knifepoint - ZORA CHERVENA KAT' OCHITE -> Rated
@@ -132,3 +125,4 @@ lorda - W15
 - Homelesz - ТОМАХАВКА -> To be rated
 - Sarafa - II MOB -> To be rated
 - DEVA - Full House -> Rated
+- NIKOLAY - SIGN FROM GOD -> To be rated
