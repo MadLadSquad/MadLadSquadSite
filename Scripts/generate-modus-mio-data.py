@@ -50,8 +50,8 @@ def defaultBehaviour():
             f1.write(json.dumps(schema))
         f1.close()
 
-        sleepTime = random.randint(1, 20)
-        time.sleep(sleepTime / 10)
+        sleepTime = random.randint(100, 300)
+        time.sleep(sleepTime / 100)
 
 def main():
     os.umask(0)
