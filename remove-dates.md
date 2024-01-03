@@ -8,6 +8,17 @@
 
 ## <!--------------------------------------------> Modus Mio BG <!-------------------------------------------->
 
+- MBT - W16
+- Еско - W16
+- S1 - W16
+- L1ney - W16
+- Svinqta Mc - W16
+- Ghetto Rolf - W16
+- NQMAMKTRL - W16
+- Kesh Pronto - W16
+
+---
+
 - GOGATA - W15
 - pafboi - W15
 - RS - W15
@@ -50,27 +61,18 @@
 - Shunaka - W13
 - VessoU - W13
 
----
-
-- RS - W12
-- SHMEKERA - W12
-- Nasyo Chernia - W12
-- Bojkov - W12
-- VA$\_OFFICIAL - W12
-- Chervensky - W12
-- Neznaen - W12
-- RARE boi - W12
-- DushkovTwenty4 - W12
-- MUFASA - W12
-- Broke 5ko - W12
-- Faruzy - W12
-- oddRhymes - W12
-- Mufasa069 - W12
-- ACH0 - W12
-- Totev - W12
-- 42 - W12
 
 ## <!----------------------------------------> Modus Mio BG: NXTGEN <!---------------------------------------->
+
+- S1 - W16
+- Svinqta Mc - W16
+- Ghetto Rolf - W16
+- Еско - W16
+- L1ney - W16
+- NQMAMKTRL - W16
+- Kesh Pronto - W16
+
+---
 
 - NIKOLAY - W15
 - GOGATA - W15
@@ -120,10 +122,8 @@
 - Knifepoint - W11
 - Berk Karaah - W11
 - Soulvanish - W11
-- BRO2 - W11
 - DGDG - W11
 - Famino - W11
-- Goro - W11
 
 ## <!-----------------------------------------> Album of the month <!----------------------------------------->
 

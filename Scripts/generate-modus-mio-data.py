@@ -3,6 +3,7 @@ import requests as req
 import time
 import os
 import json
+import random
 
 url = "http://0.0.0.0:8080"
 
@@ -48,7 +49,9 @@ def defaultBehaviour():
         if schema:
             f1.write(json.dumps(schema))
         f1.close()
-        time.sleep(1)
+
+        sleepTime = random.randint(1, 20)
+        time.sleep(sleepTime / 10)
 
 def main():
     os.umask(0)
