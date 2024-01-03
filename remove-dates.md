@@ -8,14 +8,16 @@
 
 ## <!--------------------------------------------> Modus Mio BG <!-------------------------------------------->
 
-- MBT - W16
-- Еско - W16
-- S1 - W16
-- L1ney - W16
-- Svinqta Mc - W16
-- Ghetto Rolf - W16
-- NQMAMKTRL - W16
-- Kesh Pronto - W16
+- Ach0 - Y1W1
+- Jhinfuego - Y1W1
+- MBT - Y1W1
+- Еско - Y1W1
+- S1 - Y1W1
+- L1ney - Y1W1
+- Svinqta Mc - Y1W1
+- Ghetto Rolf - Y1W1
+- NQMAMKTRL - Y1W1
+- Kesh Pronto - Y1W1
 
 ---
 
@@ -64,13 +66,15 @@
 
 ## <!----------------------------------------> Modus Mio BG: NXTGEN <!---------------------------------------->
 
-- S1 - W16
-- Svinqta Mc - W16
-- Ghetto Rolf - W16
-- Еско - W16
-- L1ney - W16
-- NQMAMKTRL - W16
-- Kesh Pronto - W16
+- Ach0 - Y1W1
+- Jhinfuego - Y1W1
+- S1 - Y1W1
+- Svinqta Mc - Y1W1
+- Ghetto Rolf - Y1W1
+- Еско - Y1W1
+- L1ney - Y1W1
+- NQMAMKTRL - Y1W1
+- Kesh Pronto - Y1W1
 
 ---
 
@@ -96,7 +100,6 @@
 
 - Dr.Donor - W13
 - yx3nev - W13
-- DEVITZA - W13
 - Vidrata - W13
 - SVETATA TROICA - W13
 - ERMO - W13
@@ -107,29 +110,19 @@
 ---
 
 - RS - W12
-- Bojkov - W12
-- RARE boi - W12
-- DushkovTwenty4 - W12
-- MUFASA - W12
 - Broke 5ko - W12
 - Faruzy - W12
 - oddRhymes - W12
 - ACH0 - W12
 
----
-
-- ANZHEL - W11
-- Knifepoint - W11
-- Berk Karaah - W11
-- Soulvanish - W11
-- DGDG - W11
-- Famino - W11
-
 ## <!-----------------------------------------> Album of the month <!----------------------------------------->
 
 - Knifepoint - ZORA CHERVENA KAT' OCHITE -> Rated
 - Bliznacite - #A3B99 Deluxe -> Rated
-- Homelesz - ТОМАХАВКА -> To be rated
-- Sarafa - II MOB -> To be rated
+- Homelesz - ТОМАХАВКА -> Rated
+- Sarafa - II MOB -> Rated
 - DEVA - Full House -> Rated
 - NIKOLAY - SIGN FROM GOD -> To be rated
+
+- MBT - Unreleased -> To be rated
+- Jhinfuego - Sleepless - To be rated
