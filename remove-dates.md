@@ -8,6 +8,9 @@
 
 ## <!--------------------------------------------> Modus Mio BG <!-------------------------------------------->
 
+- MZM13 - Y1W1
+- MRP - Y1W1
+- yxn3v - Y1W1
 - Ach0 - Y1W1
 - Jhinfuego - Y1W1
 - MBT - Y1W1
@@ -66,6 +69,7 @@
 
 ## <!----------------------------------------> Modus Mio BG: NXTGEN <!---------------------------------------->
 
+- yxn3v - Y1W1
 - Ach0 - Y1W1
 - Jhinfuego - Y1W1
 - S1 - Y1W1
@@ -107,14 +111,6 @@
 - Broke 5ko - W13
 - Djekata - W13
 
----
-
-- RS - W12
-- Broke 5ko - W12
-- Faruzy - W12
-- oddRhymes - W12
-- ACH0 - W12
-
 ## <!-----------------------------------------> Album of the month <!----------------------------------------->
 
 - Knifepoint - ZORA CHERVENA KAT' OCHITE -> Rated
@@ -126,3 +122,4 @@
 
 - MBT - Unreleased -> To be rated
 - Jhinfuego - Sleepless - To be rated
+- MZM13 - 18+ -> To be rated
