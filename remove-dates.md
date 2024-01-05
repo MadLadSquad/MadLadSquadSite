@@ -8,6 +8,7 @@
 
 ## <!--------------------------------------------> Modus Mio BG <!-------------------------------------------->
 
+- V:RGO - Y1W1
 - Marso - Y1W1
 - oddRhymes - Y1W1
 - MZM13 - Y1W1
@@ -126,3 +127,4 @@
 - MBT - Unreleased -> To be rated
 - Jhinfuego - Sleepless - To be rated
 - MZM13 - 18+ -> To be rated
+- V:RGO & Emil TRF - 3/3 vol.2 -> To be rated
