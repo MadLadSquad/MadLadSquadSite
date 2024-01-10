@@ -8,6 +8,13 @@
 
 ## <!--------------------------------------------> Modus Mio BG <!-------------------------------------------->
 
+- deathstalkercollective - Y1W2
+- RARE boi - Y1W2
+- Berk Karaah - Y1W2
+- TEDO - Y1W2
+
+---
+
 - Djekata - Y1W1
 - V:RGO - Y1W1
 - Marso - Y1W1
@@ -48,30 +55,20 @@
 - Homelesz - W14
 - Divelin - W14
 - TEDO - W14
-- L1ney - W14
 
 ---
 
-- 2FACED - W13
-- I.N.I - W13
-- Dr.Donor - W13
-- yx3nev - W13
-- DEVITZA - W13
-- Vidrata - W13
-- SVETATA TROICA - W13
-- Bliznacite - W13
-- ERMO - W13
 - AudioGlitch - W13 + 4
-- Broke 5ko - W13
-- Qvkata DLG - W13
-- Kotenceto - W13
-- Born Paid - W13
-- Djekata - W13
-- Shunaka - W13
-- VessoU - W13
 
 
 ## <!----------------------------------------> Modus Mio BG: NXTGEN <!---------------------------------------->
+
+- deathstalkercollective - Y1W2
+- RARE boi - Y1W2
+- Berk Karaah - Y1W2
+- TEDO - Y1W2
+
+---
 
 - Djekata - Y1W1
 - oddRhymes - Y1W1
@@ -104,16 +101,11 @@
 - Broke 5ko - 14
 - Divelin - W14
 - TEDO - W14
-- L1ney - W14
 
 ---
 
 - Dr.Donor - W13
-- yx3nev - W13
-- Vidrata - W13
-- SVETATA TROICA - W13
 - ERMO - W13
-- AudioGlitch - W13 + 4
 - Broke 5ko - W13
 - Djekata - W13
 
