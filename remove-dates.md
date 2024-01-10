@@ -119,13 +119,6 @@
 
 ## <!-----------------------------------------> Album of the month <!----------------------------------------->
 
-- Knifepoint - ZORA CHERVENA KAT' OCHITE -> Rated
-- Bliznacite - #A3B99 Deluxe -> Rated
-- Homelesz - ТОМАХАВКА -> Rated
-- Sarafa - II MOB -> Rated
-- DEVA - Full House -> Rated
-- NIKOLAY - SIGN FROM GOD -> To be rated
-
 - MBT - Unreleased -> To be rated
 - Jhinfuego - Sleepless - To be rated
 - MZM13 - 18+ -> To be rated

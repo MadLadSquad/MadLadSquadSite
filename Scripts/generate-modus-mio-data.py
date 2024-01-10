@@ -18,7 +18,11 @@ def defaultBehaviour():
         descriptor = os.open(path=f"../modus-mio-data/{components[0]}.json",flags=(os.O_WRONLY | os.O_CREAT | os.O_TRUNC),mode=0o777)
         f1 = open(descriptor, "w")
 
-        for i in components[1:]:
+        ids = components[1:]
+        if len(ids) > 1:
+            ids = ids[:-1]
+
+        for i in ids:
             i = i.replace("\n", "")
             resp = req.get(f"{url}/artistInsights?artistid={i}")
             if resp.status_code != 200:
@@ -34,15 +38,17 @@ def defaultBehaviour():
                     schema = rsp
                     trash = schema["data"]["globalChartPosition"]
                 else:
+                    percentage = int(components[-1]) / 100
+
                     schema["data"]["globalChartPosition"] += rsp["data"]["globalChartPosition"]
                     if "monthlyListeners" in schema["data"] and "monthlyListeners" in rsp["data"]:
-                        schema["data"]["monthlyListeners"] += rsp["data"]["monthlyListeners"]
+                        schema["data"]["monthlyListeners"] += int(rsp["data"]["monthlyListeners"] * percentage)
 
                     if "monthlyListenersDelta" in schema["data"] and "monthlyListenersDelta" in rsp["data"]:
-                        schema["data"]["monthlyListenersDelta"] += rsp["data"]["monthlyListenersDelta"]
+                        schema["data"]["monthlyListenersDelta"] += int(rsp["data"]["monthlyListenersDelta"] * percentage)
 
-                    schema["data"]["followerCount"] += rsp["data"]["followerCount"]
-                    schema["data"]["followingCount"] += rsp["data"]["followingCount"]
+                    schema["data"]["followerCount"] += int(rsp["data"]["followerCount"] * percentage)
+                    schema["data"]["followingCount"] += int(rsp["data"]["followingCount"] * percentage)
                     # TODO: Merge cities data
 
 

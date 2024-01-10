@@ -2,27 +2,17 @@ BG: Този документ ще ви покаже как да използв�
 
 EN: This guide will show you how to get and use the Modus Mio BG data.
 
-## Hosted data
-The data is hosted under the `modus-mio-data` directory. Since this repository is hosted on GitHub Pages, there are 2 recommended methods to fetch the data:
-
-1. Using the `madladsquad.com` domain: `GET https://madladsquad.com/modus-mio-data/V:RGO.json`
-1. Using JSDelivr: `GET https://cdn.jsdelivr.net/gh/MadLadSquad/MadLadSquadSite/modus-mio-data/V:RGO.json`
-
-The data about every artist is stored as plain JSON.
-
-Since all data is stored as `<username>.json`, you can use the `modus-mio-artists.csv` file for a list of usernames or IDs:
-
-1. Using the `madladsquad.com` domain: `GET https://madladsquad.com/modus-mio-artists.csv`
-1. Using JSDelivr: `GET https://cdn.jsdelivr.net/gh/MadLadSquad/MadLadSquadSite/modus-mio-artists.csv`
-
-The format looks like this:
+## Adding new artists
+New artists can be added to the `modus-mio-artists.csv` file. Every line corresponds to a different artist. There are 2 artist formats. For artists with only 1 artist profile:
 ```
-...
-V:RGO,556XyBuO17TCo0Bviw5nCW,7Ah7ps8S6EDjEPiWWRbLW9
-...
+Artist Name,<spotify artist ID here>
 ```
-The first element is the name of the artist. The second is the main artist ID. Any following elements are optional additional artist IDs that are used with the data from the main one.
-In this case the statistics for `V:RGO` are getting merged with the statistics for `SAUCE KIDS GANG`.
+For artists with multiple artist profiles
+```
+Artist Name,<id1>,<id2>,...,<idn>,<number 0 to 100>
+```
+The last number is the percentage of monthly listeners to add to the main account from the alternative accounts. Percentages less than 100 are used to compensate for listener overlap
+between these profiles.
 
 ## Generating the data locally
 ### Setting up the local server
