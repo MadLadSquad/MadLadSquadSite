@@ -8,6 +8,7 @@
 
 ## <!--------------------------------------------> Modus Mio BG <!-------------------------------------------->
 
+- Gocata Kangal - Y1W2
 - deathstalkercollective - Y1W2
 - RARE boi - Y1W2
 - Berk Karaah - Y1W2
@@ -70,6 +71,7 @@
 
 ---
 
+- MZM13 - Y1W1
 - Djekata - Y1W1
 - oddRhymes - Y1W1
 - yxn3v - Y1W1
