@@ -2,7 +2,7 @@ Welcome to the December 2023 edition of the MadLadSquad montly newsletter.
 
 ## Multilingual
 ### Youyin 0.6 and 0.7
-We plan to release Youyin 0.6 and 0.7 by the end of the month. They contain the following features:
+We plan to release parts Youyin 0.6 and 0.7 by the end of the month. They contain the following features:
 
 1. Romaji IMEs for Japanese - 0.6
 1. Daily streaks - 0.6
