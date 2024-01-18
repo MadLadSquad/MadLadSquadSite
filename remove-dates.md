@@ -8,6 +8,16 @@
 
 ## Modus Mio BG <!------------------------------------------------------------------------------------------->
 
+- SST - Y1W3
+- XIKSA - Y1W3
+- AudioGlitch - Y1W3
+- Broke 5ko - Y1W3
+- Dr.Donor - Y1W3
+- IMP - Y1W3
+- Dimoff - Y1W3
+
+---
+
 - Gocata Kangal - Y1W2
 - deathstalkercollective - Y1W2
 - RARE boi - Y1W2
@@ -28,7 +38,6 @@
 - MBT - Y1W1
 - Еско - Y1W1
 - S1 - Y1W1
-- L1ney - Y1W1
 - Svinqta Mc - Y1W1
 - Ghetto Rolf - Y1W1
 - NQMAMKTRL - Y1W1
@@ -46,23 +55,17 @@
 
 ---
 
-- Mope - W14
-- 2 Lica - W14
-- Niki Kotich - W14
-- Sarafa - W14
-- DEVA - W14
 - Dimoff - W14
 - Broke 5ko - W14
-- Homelesz - W14
-- Divelin - W14
-- TEDO - W14
-
----
-
-- AudioGlitch - W13 + 4
-
 
 ## Modus Mio BG: NXTGEN <!---------------------------------------------------------------------------------->
+
+- Dr.Donor - Y1W3
+- IMP - Y1W3
+- Broke 5ko - Y1W3
+- AudioGlitch - Y1W3
+
+---
 
 - deathstalkercollective - Y1W2
 - RARE boi - Y1W2
@@ -81,7 +84,6 @@
 - Svinqta Mc - Y1W1
 - Ghetto Rolf - Y1W1
 - Еско - Y1W1
-- L1ney - Y1W1
 - NQMAMKTRL - Y1W1
 - Kesh Pronto - Y1W1
 
@@ -106,14 +108,11 @@
 
 ---
 
-- Dr.Donor - W13
-- ERMO - W13
 - Broke 5ko - W13
-- Djekata - W13
 
 ## Album of the month <!------------------------------------------------------------------------------------->
 
-- MBT - Unreleased -> To be rated
-- Jhinfuego - Sleepless - To be rated
-- MZM13 - 18+ -> To be rated
-- V:RGO & Emil TRF - 3/3 vol.2 -> To be rated
+- MBT - Unreleased -> Rated
+- Jhinfuego - Sleepless - Rated
+- MZM13 - 18+ -> Rated
+- V:RGO & Emil TRF - 3/3 vol.2 -> Rated
