@@ -8,6 +8,14 @@
 
 ## Modus Mio BG <!------------------------------------------------------------------------------------------->
 
+- XIKSA - Y1W4
+- deathstalkercollective - Y1W4
+- AudioGlitch - Y1W4
+- Totev - Y1W4
+- Rare boi - Y1W4
+
+---
+
 - Yulkata - Y1W3
 - RS - Y1W3
 - Boro Purvi - Y1W3
@@ -49,18 +57,16 @@
 ---
 
 - GOGATA - W15
-- pafboi - W15
 - RS - W15
-- NIKOLAY - W15
-- Hostile - W15
-- lorda - W15
 - SHMEKERA - W15
 
----
-
-- Dimoff - W14
-
 ## Modus Mio BG: NXTGEN <!---------------------------------------------------------------------------------->
+
+- RARE boi - Y1W4
+- deathstalkercollective - Y1W4
+- AudioGlitch - Y1W4
+
+---
 
 - Yulkata - Y1W3
 - RS - Y1W3
@@ -102,13 +108,8 @@
 
 ---
 
-- Mope - W14
-- 2 Lica - W14
-- Niki Kotich - W14
 - DEVA - W14
 - Broke 5ko - 14
-- Divelin - W14
-- TEDO - W14
 
 ## Album of the month <!------------------------------------------------------------------------------------->
 
@@ -116,3 +117,4 @@
 - Jhinfuego - Sleepless - Rated
 - MZM13 - 18+ -> Rated
 - V:RGO & Emil TRF - 3/3 vol.2 -> Rated
+- RARE boi - REDKIQ BOG -> To be rated
