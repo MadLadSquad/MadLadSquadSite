@@ -8,6 +8,7 @@
 
 ## Modus Mio BG <!------------------------------------------------------------------------------------------->
 
+- Bliznacite - Y1W4
 - XIKSA - Y1W4
 - deathstalkercollective - Y1W4
 - AudioGlitch - Y1W4
@@ -47,7 +48,6 @@
 - Ach0 - Y1W1
 - Jhinfuego - Y1W1
 - MBT - Y1W1
-- Еско - Y1W1
 - S1 - Y1W1
 - Svinqta Mc - Y1W1
 - Ghetto Rolf - Y1W1
