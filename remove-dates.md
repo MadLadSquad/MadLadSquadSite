@@ -8,6 +8,8 @@
 
 ## Modus Mio BG <!------------------------------------------------------------------------------------------->
 
+- KOKICHA LUD - Y1W4
+- ERMO - Y1W4
 - Bliznacite - Y1W4
 - XIKSA - Y1W4
 - deathstalkercollective - Y1W4
@@ -62,6 +64,8 @@
 
 ## Modus Mio BG: NXTGEN <!---------------------------------------------------------------------------------->
 
+- KOKICHA LUD - Y1W4
+- ERMO - Y1W4
 - RARE boi - Y1W4
 - deathstalkercollective - Y1W4
 - AudioGlitch - Y1W4
