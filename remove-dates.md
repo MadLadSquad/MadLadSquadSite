@@ -8,6 +8,22 @@
 
 ## Modus Mio BG <!------------------------------------------------------------------------------------------->
 
+- Bisolini - Y1W5
+- Chavo - Y1W5
+- Mufasa069 - Y1W5
+- #UB7 - Y1W5
+- VENUS - Y1W5
+- El Markone - Y1W5
+- Pafboi - Y1W5
+- 2 Lica - Y1W5
+- Mope - Y1W5
+- oddRhymes - Y1W5
+- Kikata - Y1W5
+- Yung Stoney - Y1W5
+- Trap19 Connection - Y1W5
+
+---
+
 - KOKICHA LUD - Y1W4
 - ERMO - Y1W4
 - Bliznacite - Y1W4
@@ -63,6 +79,18 @@
 - SHMEKERA - W15
 
 ## Modus Mio BG: NXTGEN <!---------------------------------------------------------------------------------->
+
+- Yung Stoney - Y1W5
+- oddRhymes - Y1W5
+- Mope - Y1W5
+- 2 Lica - Y1W5
+- Pafboi - Y1W5
+- El Markone - Y1W5
+- VENUS - Y1W5
+- #UB7 - Y1W5
+- Kikata - Y1W5
+
+---
 
 - KOKICHA LUD - Y1W4
 - ERMO - Y1W4
