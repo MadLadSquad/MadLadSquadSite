@@ -8,6 +8,7 @@
 
 ## Modus Mio BG <!------------------------------------------------------------------------------------------->
 
+- Faruzy - Y1W5
 - Bisolini - Y1W5
 - Chavo - Y1W5
 - Mufasa069 - Y1W5
@@ -54,32 +55,10 @@
 - Berk Karaah - Y1W2
 - TEDO - Y1W2
 
----
-
-- Djekata - Y1W1
-- V:RGO - Y1W1
-- Marso - Y1W1
-- oddRhymes - Y1W1
-- MZM13 - Y1W1
-- MRP - Y1W1
-- yxn3v - Y1W1
-- Ach0 - Y1W1
-- Jhinfuego - Y1W1
-- MBT - Y1W1
-- S1 - Y1W1
-- Svinqta Mc - Y1W1
-- Ghetto Rolf - Y1W1
-- NQMAMKTRL - Y1W1
-- Kesh Pronto - Y1W1
-
----
-
-- GOGATA - W15
-- RS - W15
-- SHMEKERA - W15
 
 ## Modus Mio BG: NXTGEN <!---------------------------------------------------------------------------------->
 
+- Faruzy - Y1W5
 - Yung Stoney - Y1W5
 - oddRhymes - Y1W5
 - Mope - Y1W5
@@ -116,32 +95,10 @@
 
 ---
 
-- MZM13 - Y1W1
-- Djekata - Y1W1
 - oddRhymes - Y1W1
 - yxn3v - Y1W1
-- Ach0 - Y1W1
 - Jhinfuego - Y1W1
 - S1 - Y1W1
-- Svinqta Mc - Y1W1
-- Ghetto Rolf - Y1W1
-- Еско - Y1W1
-- NQMAMKTRL - Y1W1
-- Kesh Pronto - Y1W1
-
----
-
-- NIKOLAY - W15
-- GOGATA - W15
-- pafboi - W15
-- RS - W15
-- Hostile - W15
-- lorda - W15
-
----
-
-- DEVA - W14
-- Broke 5ko - 14
 
 ## Album of the month <!------------------------------------------------------------------------------------->
 
@@ -150,3 +107,5 @@
 - MZM13 - 18+ -> Rated
 - V:RGO & Emil TRF - 3/3 vol.2 -> Rated
 - RARE boi - REDKIQ BOG -> To be rated
+- KOKICHA LUD - EGO -> To be rated
+- Faruzy & Hugo Bae - HEARTLESS -> To be rated
