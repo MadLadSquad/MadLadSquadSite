@@ -8,6 +8,15 @@
 
 ## Modus Mio BG <!------------------------------------------------------------------------------------------->
 
+- Famino - Y1W6
+- Broke 5ko - Y1W6
+- kileumre - Y1W6
+- Cray0n - Y1W6
+- Born Paid - Y1W6
+- Mom4eto - Y1W6
+
+---
+
 - Faruzy - Y1W5
 - Bisolini - Y1W5
 - Chavo - Y1W5
@@ -50,13 +59,16 @@
 ---
 
 - Gocata Kangal - Y1W2
-- deathstalkercollective - Y1W2
-- RARE boi - Y1W2
-- Berk Karaah - Y1W2
-- TEDO - Y1W2
 
 
 ## Modus Mio BG: NXTGEN <!---------------------------------------------------------------------------------->
+
+- Famino - Y1W6
+- Broke 5ko - Y1W6
+- kileumre - Y1W6
+- Cray0n - Y1W6
+
+---
 
 - Faruzy - Y1W5
 - Yung Stoney - Y1W5
@@ -89,15 +101,12 @@
 ---
 
 - deathstalkercollective - Y1W2
-- RARE boi - Y1W2
 - Berk Karaah - Y1W2
 - TEDO - Y1W2
 
 ---
 
 - oddRhymes - Y1W1
-- yxn3v - Y1W1
-- Jhinfuego - Y1W1
 - S1 - Y1W1
 
 ## Album of the month <!------------------------------------------------------------------------------------->
@@ -106,6 +115,7 @@
 - Jhinfuego - Sleepless - Rated
 - MZM13 - 18+ -> Rated
 - V:RGO & Emil TRF - 3/3 vol.2 -> Rated
-- RARE boi - REDKIQ BOG -> To be rated
+- RARE boi - REDKIQ BOG -> Rated
 - KOKICHA LUD - EGO -> To be rated
+
 - Faruzy & Hugo Bae - HEARTLESS -> To be rated
