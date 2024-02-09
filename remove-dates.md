@@ -8,6 +8,8 @@
 
 ## Modus Mio BG <!------------------------------------------------------------------------------------------->
 
+- Totev - Y1W6
+- Steph Purpy - Y1W6
 - Famino - Y1W6
 - Broke 5ko - Y1W6
 - kileumre - Y1W6
@@ -63,6 +65,7 @@
 
 ## Modus Mio BG: NXTGEN <!---------------------------------------------------------------------------------->
 
+- Steph Purpy - Y1W6
 - Famino - Y1W6
 - Broke 5ko - Y1W6
 - kileumre - Y1W6
