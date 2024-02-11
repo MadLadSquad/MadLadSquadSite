@@ -8,6 +8,7 @@
 
 ## Modus Mio BG <!------------------------------------------------------------------------------------------->
 
+- Mufasa - Y1W6
 - Totev - Y1W6
 - Steph Purpy - Y1W6
 - Famino - Y1W6
@@ -58,13 +59,9 @@
 - IMP - Y1W3
 - Dimoff - Y1W3
 
----
-
-- Gocata Kangal - Y1W2
-
-
 ## Modus Mio BG: NXTGEN <!---------------------------------------------------------------------------------->
 
+- MUFASA - Y1W6
 - Steph Purpy - Y1W6
 - Famino - Y1W6
 - Broke 5ko - Y1W6
@@ -107,11 +104,6 @@
 - Berk Karaah - Y1W2
 - TEDO - Y1W2
 
----
-
-- oddRhymes - Y1W1
-- S1 - Y1W1
-
 ## Album of the month <!------------------------------------------------------------------------------------->
 
 - MBT - Unreleased -> Rated
@@ -119,6 +111,6 @@
 - MZM13 - 18+ -> Rated
 - V:RGO & Emil TRF - 3/3 vol.2 -> Rated
 - RARE boi - REDKIQ BOG -> Rated
-- KOKICHA LUD - EGO -> To be rated
+- KOKICHA LUD - EGO -> Rated
 
 - Faruzy & Hugo Bae - HEARTLESS -> To be rated
