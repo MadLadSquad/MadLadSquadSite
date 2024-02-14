@@ -8,6 +8,14 @@
 
 ## Modus Mio BG <!------------------------------------------------------------------------------------------->
 
+- Svinqta Mc - Y1W7
+- DGDG - Y1W7
+- Yulkata - Y1W7
+- Broke 5ko - Y1W7
+- MITREVV - Y1W7
+
+---
+
 - Mufasa - Y1W6
 - Totev - Y1W6
 - Steph Purpy - Y1W6
@@ -53,13 +61,19 @@
 - Boro Purvi - Y1W3
 - SST - Y1W3
 - XIKSA - Y1W3
-- AudioGlitch - Y1W3
 - Broke 5ko - Y1W3
 - Dr.Donor - Y1W3
 - IMP - Y1W3
 - Dimoff - Y1W3
 
 ## Modus Mio BG: NXTGEN <!---------------------------------------------------------------------------------->
+
+- Svinqta Mc - Y1W7
+- DGDG - Y1W7
+- Yulkata - Y1W7
+- Broke 5ko - Y1W7
+
+---
 
 - MUFASA - Y1W6
 - Steph Purpy - Y1W6
@@ -100,17 +114,9 @@
 
 ---
 
-- deathstalkercollective - Y1W2
 - Berk Karaah - Y1W2
 - TEDO - Y1W2
 
 ## Album of the month <!------------------------------------------------------------------------------------->
-
-- MBT - Unreleased -> Rated
-- Jhinfuego - Sleepless - Rated
-- MZM13 - 18+ -> Rated
-- V:RGO & Emil TRF - 3/3 vol.2 -> Rated
-- RARE boi - REDKIQ BOG -> Rated
-- KOKICHA LUD - EGO -> Rated
 
 - Faruzy & Hugo Bae - HEARTLESS -> To be rated
