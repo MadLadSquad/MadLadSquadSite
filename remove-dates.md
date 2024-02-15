@@ -8,6 +8,8 @@
 
 ## Modus Mio BG <!------------------------------------------------------------------------------------------->
 
+- Pameca - Y1W7
+- Totev - Y1W7
 - Svinqta Mc - Y1W7
 - DGDG - Y1W7
 - Yulkata - Y1W7
@@ -60,10 +62,8 @@
 - RS - Y1W3
 - Boro Purvi - Y1W3
 - SST - Y1W3
-- XIKSA - Y1W3
 - Broke 5ko - Y1W3
 - Dr.Donor - Y1W3
-- IMP - Y1W3
 - Dimoff - Y1W3
 
 ## Modus Mio BG: NXTGEN <!---------------------------------------------------------------------------------->
