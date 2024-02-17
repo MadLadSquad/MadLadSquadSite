@@ -8,6 +8,10 @@
 
 ## Modus Mio BG <!------------------------------------------------------------------------------------------->
 
+- Yung Mici - Y1W7
+- YoOne - Y1W7
+- DJAANY - Y1W7
+- Berk Karaah - Y1W7
 - Pameca - Y1W7
 - Totev - Y1W7
 - Svinqta Mc - Y1W7
@@ -58,16 +62,14 @@
 
 ---
 
-- Yulkata - Y1W3
-- RS - Y1W3
 - Boro Purvi - Y1W3
-- SST - Y1W3
 - Broke 5ko - Y1W3
 - Dr.Donor - Y1W3
-- Dimoff - Y1W3
 
 ## Modus Mio BG: NXTGEN <!---------------------------------------------------------------------------------->
 
+- Berk Karaah - Y1W7
+- Yo One - Y1W7
 - Svinqta Mc - Y1W7
 - DGDG - Y1W7
 - Yulkata - Y1W7
@@ -111,11 +113,6 @@
 - IMP - Y1W3
 - Broke 5ko - Y1W3
 - AudioGlitch - Y1W3
-
----
-
-- Berk Karaah - Y1W2
-- TEDO - Y1W2
 
 ## Album of the month <!------------------------------------------------------------------------------------->
 
