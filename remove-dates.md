@@ -8,6 +8,22 @@
 
 ## Modus Mio BG <!------------------------------------------------------------------------------------------->
 
+- M4staamind - Y1W8
+- EL BUCKET - Y1W8
+- Gocata Kangal - Y1W8
+- Marso - Y1W8
+- EL BUCKET - Y1W8
+- Vidrata - Y1W8
+- 3xfinity - Y1W8
+- 42 - Y1W8
+- M4staamind - Y1W8
+- 4$FO - Y1W8
+- thanks teddy - Y1W8
+- i$kren - Y1W8
+- MITREVV - Y1W8
+
+---
+
 - SkunkG - Y1W7
 - Yung Mici - Y1W7
 - YoOne - Y1W7
@@ -50,23 +66,16 @@
 - Yung Stoney - Y1W5
 - Trap19 Connection - Y1W5
 
----
-
-- KOKICHA LUD - Y1W4
-- ERMO - Y1W4
-- Bliznacite - Y1W4
-- XIKSA - Y1W4
-- deathstalkercollective - Y1W4
-- AudioGlitch - Y1W4
-- Totev - Y1W4
-- Rare boi - Y1W4
-
----
-
-- Boro Purvi - Y1W3
-- Broke 5ko - Y1W3
-
 ## Modus Mio BG: NXTGEN <!---------------------------------------------------------------------------------->
+
+- M4staamind - Y1W8
+- EL BUCKET - Y1W8
+- Vidrata - Y1W8
+- 3xfinity - Y1W8
+- thanks teddy - Y1W8
+- i$kren - Y1W8
+
+---
 
 - Berk Karaah - Y1W7
 - Yo One - Y1W7
@@ -105,15 +114,8 @@
 - deathstalkercollective - Y1W4
 - AudioGlitch - Y1W4
 
----
-
-- Yulkata - Y1W3
-- RS - Y1W3
-- Dr.Donor - Y1W3
-- IMP - Y1W3
-- Broke 5ko - Y1W3
-- AudioGlitch - Y1W3
-
 ## Album of the month <!------------------------------------------------------------------------------------->
 
-- Faruzy & Hugo Bae - HEARTLESS -> To be rated
+- Faruzy & Hugo Bae - HEARTLESS -> Rated
+- M4staamind - MAX -> To be rated
+- EL BUCKET - BUTAM -> To be rated
