@@ -8,6 +8,12 @@
 
 ## Modus Mio BG <!------------------------------------------------------------------------------------------->
 
+- DJZander - Y1W8
+- oddRhymes - Y1W8
+- Chervenski - Y1W8
+- Jluch - Y1W8
+- Argirow33 - Y1W8
+- Crispy Beats - Y1W8
 - M4staamind - Y1W8
 - EL BUCKET - Y1W8
 - Gocata Kangal - Y1W8
@@ -68,6 +74,10 @@
 
 ## Modus Mio BG: NXTGEN <!---------------------------------------------------------------------------------->
 
+- Crispy Beats - Y1W8
+- oddRhymes - Y1W8
+- Chervenski - Y1W8
+- Argirow33 - Y1W8
 - M4staamind - Y1W8
 - EL BUCKET - Y1W8
 - Vidrata - Y1W8
@@ -119,3 +129,4 @@
 - Faruzy & Hugo Bae - HEARTLESS -> Rated
 - M4staamind - MAX -> To be rated
 - EL BUCKET - BUTAM -> To be rated
+- Crispy Beats - Love Me Hate Me(EP) -> To be rated
