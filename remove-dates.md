@@ -8,6 +8,16 @@
 
 ## Modus Mio BG <!------------------------------------------------------------------------------------------->
 
+- Broke 5ko - Y1W9
+- Kikata - Y1W9
+- El Markone - Y1W9
+- Slim NiK - Y1W9
+- Mom4eto - Y1W9
+- Kesh Pronto - Y1W9
+- AudioGlitch - Y1W9
+
+---
+
 - DJZander - Y1W8
 - oddRhymes - Y1W8
 - Chervenski - Y1W8
@@ -22,7 +32,6 @@
 - Vidrata - Y1W8
 - 3xfinity - Y1W8
 - 42 - Y1W8
-- M4staamind - Y1W8
 - 4$FO - Y1W8
 - thanks teddy - Y1W8
 - i$kren - Y1W8
@@ -55,24 +64,16 @@
 - Born Paid - Y1W6
 - Mom4eto - Y1W6
 
----
-
-- Faruzy - Y1W5
-- Bisolini - Y1W5
-- Chavo - Y1W5
-- Mufasa069 - Y1W5
-- #UB7 - Y1W5
-- VENUS - Y1W5
-- El Markone - Y1W5
-- Pafboi - Y1W5
-- 2 Lica - Y1W5
-- Mope - Y1W5
-- oddRhymes - Y1W5
-- Kikata - Y1W5
-- Yung Stoney - Y1W5
-- Trap19 Connection - Y1W5
-
 ## Modus Mio BG: NXTGEN <!---------------------------------------------------------------------------------->
+
+- Broke 5ko - Y1W9
+- Kikata - Y1W9
+- El Markone - Y1W9
+- Slim NiK - Y1W9
+- Kesh Pronto - Y1W9
+- AudioGlitch - Y1W9
+
+---
 
 - Crispy Beats - Y1W8
 - oddRhymes - Y1W8
@@ -107,26 +108,12 @@
 
 - Faruzy - Y1W5
 - Yung Stoney - Y1W5
-- oddRhymes - Y1W5
-- Mope - Y1W5
-- 2 Lica - Y1W5
-- Pafboi - Y1W5
 - El Markone - Y1W5
-- VENUS - Y1W5
 - #UB7 - Y1W5
-- Kikata - Y1W5
-
----
-
-- KOKICHA LUD - Y1W4
-- ERMO - Y1W4
-- RARE boi - Y1W4
-- deathstalkercollective - Y1W4
-- AudioGlitch - Y1W4
 
 ## Album of the month <!------------------------------------------------------------------------------------->
 
 - Faruzy & Hugo Bae - HEARTLESS -> Rated
 - M4staamind - MAX -> To be rated
 - EL BUCKET - BUTAM -> To be rated
-- Crispy Beats - Love Me Hate Me(EP) -> To be rated
+- Crispy Beats - Love Me Hate Me(EP) -> Rated
