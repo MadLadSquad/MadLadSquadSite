@@ -8,6 +8,12 @@
 
 ## Modus Mio BG <!------------------------------------------------------------------------------------------->
 
+- 4$FO - Y1W9
+- kabybrayan - Y1W9
+- 3xfinity - Y1W9
+- FALLWME - Y1W9
+- Pafboi - Y1W9
+- Born Paid - Y1W9
 - Broke 5ko - Y1W9
 - Kikata - Y1W9
 - El Markone - Y1W9
@@ -28,7 +34,6 @@
 - EL BUCKET - Y1W8
 - Gocata Kangal - Y1W8
 - Marso - Y1W8
-- EL BUCKET - Y1W8
 - Vidrata - Y1W8
 - 3xfinity - Y1W8
 - 42 - Y1W8
@@ -66,6 +71,10 @@
 
 ## Modus Mio BG: NXTGEN <!---------------------------------------------------------------------------------->
 
+- Pafboi - Y1W9
+- FALLWME - Y1W9
+- 3xfinity - Y1W9
+- kabybrayan - Y1W9
 - Broke 5ko - Y1W9
 - Kikata - Y1W9
 - El Markone - Y1W9
@@ -104,16 +113,12 @@
 - kileumre - Y1W6
 - Cray0n - Y1W6
 
----
-
-- Faruzy - Y1W5
-- Yung Stoney - Y1W5
-- El Markone - Y1W5
-- #UB7 - Y1W5
-
 ## Album of the month <!------------------------------------------------------------------------------------->
 
 - Faruzy & Hugo Bae - HEARTLESS -> Rated
 - M4staamind - MAX -> To be rated
-- EL BUCKET - BUTAM -> To be rated
+- EL BUCKET - BUTAM -> Rated
 - Crispy Beats - Love Me Hate Me(EP) -> Rated
+
+- 4$FO - Throwback(EP) -> To be rated
+- Pafboi - SPECTRAL(EP) -> To be rated
