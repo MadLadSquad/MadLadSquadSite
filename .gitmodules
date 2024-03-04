@@ -52,3 +52,6 @@
 [submodule "docs/LitTok"]
 	path = docs/LitTok
 	url = https://github.com/MadLadSquad/LitTok.wiki.git
+[submodule "docs/SpotifyUtilities"]
+	path = docs/SpotifyUtilities
+	url = https://github.com/MadLadSquad/SpotifyUtilities.wiki.git

@@ -132,6 +132,7 @@ Copy of the docs for these repos(docs can also be found in their respective wiki
 - [UntitledI18N](https://madladsquad.com/docs/UntitledI18N/Home)
 - [BGKS](https://madladsquad.com/docs/BGKS/Home)
 - [LitTok](https://madladsquad.com/docs/LitTok/Home)
+- [SpotifyUtilities](https://madladsquad.com/docs/SpotifyUtilities/Home)
 
 ### Misc
 - [Utilities](https://madladsquad.com/utilities)
