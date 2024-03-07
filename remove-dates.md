@@ -8,6 +8,19 @@
 
 ## Modus Mio BG <!------------------------------------------------------------------------------------------->
 
+- MITREVV - Y1W10
+- Mope - Y1W10
+- Born Paid - Y1W10
+- Dimo Dimov - Y1W10
+- Nasyo Chernia - Y1W10
+- TEDO - Y1W10
+- SHMEKERA - Y1W10
+- Bojkov - Y1W10
+- Boro Purvi - Y1W10
+- Faruzy - Y1W10
+
+---
+
 - 4$FO - Y1W9
 - kabybrayan - Y1W9
 - 3xfinity - Y1W9
@@ -57,19 +70,15 @@
 - Broke 5ko - Y1W7
 - MITREVV - Y1W7
 
----
-
-- Mufasa - Y1W6
-- Totev - Y1W6
-- Steph Purpy - Y1W6
-- Famino - Y1W6
-- Broke 5ko - Y1W6
-- kileumre - Y1W6
-- Cray0n - Y1W6
-- Born Paid - Y1W6
-- Mom4eto - Y1W6
-
 ## Modus Mio BG: NXTGEN <!---------------------------------------------------------------------------------->
+
+- Mope - Y1W10
+- Dimo Dimov - Y1W10
+- TEDO - Y1W10
+- Bojkov - Y1W10
+- Faruzy - Y1W10
+
+---
 
 - Pafboi - Y1W9
 - FALLWME - Y1W9
@@ -106,12 +115,8 @@
 
 ---
 
-- MUFASA - Y1W6
 - Steph Purpy - Y1W6
-- Famino - Y1W6
 - Broke 5ko - Y1W6
-- kileumre - Y1W6
-- Cray0n - Y1W6
 
 ## Album of the month <!------------------------------------------------------------------------------------->
 
@@ -122,3 +127,4 @@
 
 - 4$FO - Throwback(EP) -> To be rated
 - Pafboi - SPECTRAL(EP) -> To be rated
+- Mope - Говорещият с пръстта -> To be rated
