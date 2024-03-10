@@ -8,6 +8,11 @@
 
 ## Modus Mio BG <!------------------------------------------------------------------------------------------->
 
+- oddRhymes - Y1W10
+- RUSTY - Y1W10
+- OG EMILL - Y1W10
+- VSA - Y1W10
+- Trap19 Connection - Y1W10
 - MITREVV - Y1W10
 - Mope - Y1W10
 - Born Paid - Y1W10
@@ -72,6 +77,8 @@
 
 ## Modus Mio BG: NXTGEN <!---------------------------------------------------------------------------------->
 
+- oddRhymes - Y1W10
+- OG EMILL - Y1W10
 - Mope - Y1W10
 - Dimo Dimov - Y1W10
 - TEDO - Y1W10
