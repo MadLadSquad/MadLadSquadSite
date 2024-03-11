@@ -127,11 +127,6 @@
 
 ## Album of the month <!------------------------------------------------------------------------------------->
 
-- Faruzy & Hugo Bae - HEARTLESS -> Rated
-- M4staamind - MAX -> To be rated
-- EL BUCKET - BUTAM -> Rated
-- Crispy Beats - Love Me Hate Me(EP) -> Rated
-
 - 4$FO - Throwback(EP) -> To be rated
-- Pafboi - SPECTRAL(EP) -> To be rated
+- Pafboi - SPECTRAL(EP) -> Rated
 - Mope - Говорещият с пръстта -> To be rated
