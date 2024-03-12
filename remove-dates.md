@@ -127,6 +127,6 @@
 
 ## Album of the month <!------------------------------------------------------------------------------------->
 
-- 4$FO - Throwback(EP) -> To be rated
+- 4$FO - Throwback(EP) -> Rated
 - Pafboi - SPECTRAL(EP) -> Rated
-- Mope - Говорещият с пръстта -> To be rated
+- Mope - Говорещият с пръстта(EP) -> Rated
