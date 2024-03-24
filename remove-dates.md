@@ -108,23 +108,13 @@
 - 3xfinity - Y1W9
 - kabybrayan - Y1W9
 - Broke 5ko - Y1W9
-- Kikata - Y1W9
 - El Markone - Y1W9
 - Slim NiK - Y1W9
 - Kesh Pronto - Y1W9
-- AudioGlitch - Y1W9
 
 ---
 
-- Crispy Beats - Y1W8
-- oddRhymes - Y1W8
-- Chervenski - Y1W8
-- Argirow33 - Y1W8
 - M4staamind - Y1W8
-- EL BUCKET - Y1W8
-- Vidrata - Y1W8
-- 3xfinity - Y1W8
-- thanks teddy - Y1W8
 
 ## Album of the month <!------------------------------------------------------------------------------------->
 
