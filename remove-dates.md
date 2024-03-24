@@ -8,6 +8,38 @@
 
 ## Modus Mio BG <!------------------------------------------------------------------------------------------->
 
+- Pameca - Y1W12
+- Rizziatta - Y1W12
+- MZM13 - Y1W12
+- NERA - Y1W12
+- Yulkata - Y1W12
+- Paunov - Y1W12
+- Mope - Y1W12
+- VSA - Y1W12
+- Ghetto Rolf - Y1W12
+- NQMAMKTRL - Y1W12
+- Колеца - Y1W12
+
+---
+
+- RS - Y1W11
+- Marso - Y1W11
+- VA$\_OFFICIAL - Y1W11
+- I.N.I. - Y1W11
+- VSA - Y1W11
+- thanks teddy - Y1W11
+- Pameca - Y1W11
+- Shunaka - Y1W11
+- SvinqtaMc - Y1W11
+- Chavo - Y1W11
+- Mom4eto - Y1W11
+- TEDO - Y1W11
+- GOGATA - Y1W11
+- Niki Kotich - Y1W11
+- Jluch - Y1W11
+
+---
+
 - oddRhymes - Y1W10
 - RUSTY - Y1W10
 - OG EMILL - Y1W10
@@ -40,42 +72,26 @@
 - Kesh Pronto - Y1W9
 - AudioGlitch - Y1W9
 
----
-
-- DJZander - Y1W8
-- oddRhymes - Y1W8
-- Chervenski - Y1W8
-- Jluch - Y1W8
-- Argirow33 - Y1W8
-- Crispy Beats - Y1W8
-- M4staamind - Y1W8
-- EL BUCKET - Y1W8
-- Gocata Kangal - Y1W8
-- Marso - Y1W8
-- Vidrata - Y1W8
-- 3xfinity - Y1W8
-- 42 - Y1W8
-- 4$FO - Y1W8
-- thanks teddy - Y1W8
-- i$kren - Y1W8
-- MITREVV - Y1W8
-
----
-
-- SkunkG - Y1W7
-- Yung Mici - Y1W7
-- YoOne - Y1W7
-- DJAANY - Y1W7
-- Berk Karaah - Y1W7
-- Pameca - Y1W7
-- Totev - Y1W7
-- Svinqta Mc - Y1W7
-- DGDG - Y1W7
-- Yulkata - Y1W7
-- Broke 5ko - Y1W7
-- MITREVV - Y1W7
-
 ## Modus Mio BG: NXTGEN <!---------------------------------------------------------------------------------->
+
+- MZM12 - Y1W12
+- NERA - Y1W12
+- Yulkata - Y1W12
+- Paunov - Y1W12
+- Mope - Y1W12
+- Ghetto Rolf - Y1W12
+- NQMAMKTRL - Y1W12
+- Колеца - Y1W12
+
+---
+
+- RS - Y1W11
+- thanks teddy - Y1W11
+- Svinqta Mc - Y1W11
+- TEDO - Y1W11
+- GOGATA - Y1W11
+
+---
 
 - oddRhymes - Y1W10
 - OG EMILL - Y1W10
@@ -109,24 +125,12 @@
 - Vidrata - Y1W8
 - 3xfinity - Y1W8
 - thanks teddy - Y1W8
-- i$kren - Y1W8
-
----
-
-- Berk Karaah - Y1W7
-- Yo One - Y1W7
-- Svinqta Mc - Y1W7
-- DGDG - Y1W7
-- Yulkata - Y1W7
-- Broke 5ko - Y1W7
-
----
-
-- Steph Purpy - Y1W6
-- Broke 5ko - Y1W6
 
 ## Album of the month <!------------------------------------------------------------------------------------->
 
 - 4$FO - Throwback(EP) -> Rated
 - Pafboi - SPECTRAL(EP) -> Rated
 - Mope - Говорещият с пръстта(EP) -> Rated
+- NQMAMKTRL - Двойственост -> To be rated
+- Jluch, Gena & Grigovor - Допълнително(EP) -> Rated
+- Колеца & Вантка - Los Odessos -> To be rated
