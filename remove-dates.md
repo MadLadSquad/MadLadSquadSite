@@ -8,6 +8,16 @@
 
 ## Modus Mio BG <!------------------------------------------------------------------------------------------->
 
+- El Markone - Y1W13
+- Yo One - Y1W13
+- FYRE - Y1W13
+- SST - Y1W13
+- 42 - Y1W13
+- Mope - Y1W13
+- 3xfinity - Y1W13
+
+---
+
 - Pameca - Y1W12
 - Rizziatta - Y1W12
 - MZM13 - Y1W12
@@ -56,23 +66,14 @@
 - Boro Purvi - Y1W10
 - Faruzy - Y1W10
 
----
-
-- 4$FO - Y1W9
-- kabybrayan - Y1W9
-- 3xfinity - Y1W9
-- FALLWME - Y1W9
-- Pafboi - Y1W9
-- Born Paid - Y1W9
-- Broke 5ko - Y1W9
-- Kikata - Y1W9
-- El Markone - Y1W9
-- Slim NiK - Y1W9
-- Mom4eto - Y1W9
-- Kesh Pronto - Y1W9
-- AudioGlitch - Y1W9
-
 ## Modus Mio BG: NXTGEN <!---------------------------------------------------------------------------------->
+
+- El Markone - Y1W13
+- Yo One - Y1W13
+- Mope - Y1W13
+- 3xfinity - Y1W13
+
+---
 
 - MZM12 - Y1W12
 - NERA - Y1W12
@@ -112,10 +113,6 @@
 - Slim NiK - Y1W9
 - Kesh Pronto - Y1W9
 
----
-
-- M4staamind - Y1W8
-
 ## Album of the month <!------------------------------------------------------------------------------------->
 
 - 4$FO - Throwback(EP) -> Rated
@@ -124,3 +121,4 @@
 - NQMAMKTRL - Двойственост -> To be rated
 - Jluch, Gena & Grigovor - Допълнително(EP) -> Rated
 - Колеца & Вантка - Los Odessos -> To be rated
+- Fyre - Откровение 3 -> To be rated
