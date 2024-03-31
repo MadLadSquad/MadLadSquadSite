@@ -8,6 +8,10 @@
 
 ## Modus Mio BG <!------------------------------------------------------------------------------------------->
 
+- 4$FO - Y1W13
+- Gocata Kangal - Y1W13
+- Jivaka - Y1W13
+- Berk Karaah - Y1W13
 - El Markone - Y1W13
 - Yo One - Y1W13
 - FYRE - Y1W13
@@ -68,6 +72,8 @@
 
 ## Modus Mio BG: NXTGEN <!---------------------------------------------------------------------------------->
 
+- Berk Karaah - Y1W13
+- Jivaka - Y1W13
 - El Markone - Y1W13
 - Yo One - Y1W13
 - Mope - Y1W13
@@ -118,7 +124,8 @@
 - 4$FO - Throwback(EP) -> Rated
 - Pafboi - SPECTRAL(EP) -> Rated
 - Mope - Говорещият с пръстта(EP) -> Rated
-- NQMAMKTRL - Двойственост -> To be rated
+- NQMAMKTRL - Двойственост -> Rated
 - Jluch, Gena & Grigovor - Допълнително(EP) -> Rated
 - Колеца & Вантка - Los Odessos -> To be rated
 - Fyre - Откровение 3 -> To be rated
+- Berk Karaah - Gotham Sofia -> To be rated
