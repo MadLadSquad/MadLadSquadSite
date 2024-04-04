@@ -8,6 +8,13 @@
 
 ## Modus Mio BG <!------------------------------------------------------------------------------------------->
 
+- kikata - Y1W14
+- 3xfinity - Y1W14
+- Broke 5ko - Y1W14
+- OG EMILL - Y1W14
+
+---
+
 - 4$FO - Y1W13
 - Gocata Kangal - Y1W13
 - Jivaka - Y1W13
@@ -52,25 +59,14 @@
 - Niki Kotich - Y1W11
 - Jluch - Y1W11
 
----
-
-- oddRhymes - Y1W10
-- RUSTY - Y1W10
-- OG EMILL - Y1W10
-- VSA - Y1W10
-- Trap19 Connection - Y1W10
-- MITREVV - Y1W10
-- Mope - Y1W10
-- Born Paid - Y1W10
-- Dimo Dimov - Y1W10
-- Nasyo Chernia - Y1W10
-- TEDO - Y1W10
-- SHMEKERA - Y1W10
-- Bojkov - Y1W10
-- Boro Purvi - Y1W10
-- Faruzy - Y1W10
-
 ## Modus Mio BG: NXTGEN <!---------------------------------------------------------------------------------->
+
+- kikata - Y1W14
+- 3xfinity - Y1W14
+- Broke 5ko - Y1W14
+- OG EMILL - Y1W14
+
+---
 
 - Berk Karaah - Y1W13
 - Jivaka - Y1W13
@@ -110,14 +106,7 @@
 
 ---
 
-- Pafboi - Y1W9
 - FALLWME - Y1W9
-- 3xfinity - Y1W9
-- kabybrayan - Y1W9
-- Broke 5ko - Y1W9
-- El Markone - Y1W9
-- Slim NiK - Y1W9
-- Kesh Pronto - Y1W9
 
 ## Album of the month <!------------------------------------------------------------------------------------->
 
@@ -127,5 +116,5 @@
 - NQMAMKTRL - Двойственост -> Rated
 - Jluch, Gena & Grigovor - Допълнително(EP) -> Rated
 - Колеца & Вантка - Los Odessos -> To be rated
-- Fyre - Откровение 3 -> To be rated
+- Fyre - Откровение 3 -> Rated
 - Berk Karaah - Gotham Sofia -> To be rated
