@@ -8,10 +8,14 @@
 
 ## Modus Mio BG <!------------------------------------------------------------------------------------------->
 
+- Pameca - Y1W14
+- Trap19 Connection - Y1W14
+- Mom4eto - Y1W14
 - kikata - Y1W14
 - 3xfinity - Y1W14
 - Broke 5ko - Y1W14
 - OG EMILL - Y1W14
+- ANZHEL - Y1W14
 
 ---
 
@@ -65,6 +69,7 @@
 - 3xfinity - Y1W14
 - Broke 5ko - Y1W14
 - OG EMILL - Y1W14
+- ANZHEL - Y1W14
 
 ---
 
@@ -118,3 +123,5 @@
 - Колеца & Вантка - Los Odessos -> To be rated
 - Fyre - Откровение 3 -> Rated
 - Berk Karaah - Gotham Sofia -> To be rated
+
+- Mom4eto - RAZPAS -> To be rated
