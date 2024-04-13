@@ -8,6 +8,21 @@
 
 ## Modus Mio BG <!------------------------------------------------------------------------------------------->
 
+- oddRhymes - Y1W15
+- DJAANY - Y1W15
+- Crispy Beats - Y1W15
+- Kickdown - Y1W15
+- Dimoff - Y1W15
+- kileumre - Y1W15
+- Born Paid - Y1W15
+- VA$\_OFFICIAL - Y1W15
+- OG EMILL - Y1W15
+- Bojkov - Y1W15
+- Shunaka - Y1W15
+- SHEMEKERA - Y1W15
+
+---
+
 - Pameca - Y1W14
 - Trap19 Connection - Y1W14
 - Mom4eto - Y1W14
@@ -45,25 +60,15 @@
 - NQMAMKTRL - Y1W12
 - Колеца - Y1W12
 
----
-
-- RS - Y1W11
-- Marso - Y1W11
-- VA$\_OFFICIAL - Y1W11
-- I.N.I. - Y1W11
-- VSA - Y1W11
-- thanks teddy - Y1W11
-- Pameca - Y1W11
-- Shunaka - Y1W11
-- SvinqtaMc - Y1W11
-- Chavo - Y1W11
-- Mom4eto - Y1W11
-- TEDO - Y1W11
-- GOGATA - Y1W11
-- Niki Kotich - Y1W11
-- Jluch - Y1W11
-
 ## Modus Mio BG: NXTGEN <!---------------------------------------------------------------------------------->
+
+- oddRhymes - Y1W15
+- Crispy Beats - Y1W15
+- kileumre - Y1W15
+- OG EMILL - Y1W15
+- Bojkov - Y1W15
+
+---
 
 - kikata - Y1W14
 - 3xfinity - Y1W14
@@ -109,19 +114,7 @@
 - Bojkov - Y1W10
 - Faruzy - Y1W10
 
----
-
-- FALLWME - Y1W9
-
 ## Album of the month <!------------------------------------------------------------------------------------->
 
-- 4$FO - Throwback(EP) -> Rated
-- Pafboi - SPECTRAL(EP) -> Rated
-- Mope - Говорещият с пръстта(EP) -> Rated
-- NQMAMKTRL - Двойственост -> Rated
-- Jluch, Gena & Grigovor - Допълнително(EP) -> Rated
-- Колеца & Вантка - Los Odessos -> To be rated
-- Fyre - Откровение 3 -> Rated
-- Berk Karaah - Gotham Sofia -> To be rated
-
 - Mom4eto - RAZPAS -> To be rated
+- DJAANY & MILIONI - OT MILIONI DO DJAANY -> To be rated
