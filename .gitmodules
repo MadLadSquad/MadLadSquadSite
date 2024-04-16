@@ -55,3 +55,6 @@
 [submodule "docs/SpotifyUtilities"]
 	path = docs/SpotifyUtilities
 	url = https://github.com/MadLadSquad/SpotifyUtilities.wiki.git
+[submodule "docs/UntitledOpen"]
+	path = docs/UntitledOpen
+	url = https://github.com/MadLadSquad/UntitledOpen.wiki.git

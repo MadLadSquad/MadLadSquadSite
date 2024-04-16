@@ -37,6 +37,7 @@ add_sidebar UntitledI18N
 add_sidebar BGKS
 add_sidebar LitTok
 add_sidebar SpotifyUtilities
+add_sidebar UntitledOpen
 
 find ./ -type f -exec sed -i 's/https:\/\/github.com\/MadLadSquad\//https:\/\/madladsquad.com\/docs\//g' {} \;
 find ./ -type f -exec sed -i 's/\/wiki\//\//g' {} \;
