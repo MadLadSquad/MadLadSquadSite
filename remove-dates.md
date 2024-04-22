@@ -8,6 +8,18 @@
 
 ## Modus Mio BG <!------------------------------------------------------------------------------------------->
 
+- Vichev - Y1W16
+- Imera - Y1W16
+- Bobo Armani - Y1W16
+- Totev - Y1W16
+- Nasyo Chernia - Y1W16
+- Pameca - Y1W16
+- Dr.Donor - Y1W16
+- Paunov - Y1W16
+- Kesh Pronto - Y1W16
+
+---
+
 - V:RGO - Y1W15
 - oddRhymes - Y1W15
 - DJAANY - Y1W15
@@ -47,21 +59,14 @@
 - Mope - Y1W13
 - 3xfinity - Y1W13
 
----
-
-- Pameca - Y1W12
-- Rizziatta - Y1W12
-- MZM13 - Y1W12
-- NERA - Y1W12
-- Yulkata - Y1W12
-- Paunov - Y1W12
-- Mope - Y1W12
-- VSA - Y1W12
-- Ghetto Rolf - Y1W12
-- NQMAMKTRL - Y1W12
-- Колеца - Y1W12
-
 ## Modus Mio BG: NXTGEN <!---------------------------------------------------------------------------------->
+
+- Vichev - Y1W16
+- Dr.Donor - Y1W16
+- Paunov - Y1W16
+- Kesh Pronto - Y1W16
+
+---
 
 - oddRhymes - Y1W15
 - Crispy Beats - Y1W15
@@ -109,13 +114,10 @@
 
 - oddRhymes - Y1W10
 - OG EMILL - Y1W10
-- Mope - Y1W10
-- Dimo Dimov - Y1W10
-- TEDO - Y1W10
-- Bojkov - Y1W10
-- Faruzy - Y1W10
 
 ## Album of the month <!------------------------------------------------------------------------------------->
 
-- Mom4eto - RAZPAS -> To be rated
-- DJAANY & MILIONI - OT MILIONI DO DJAANY -> To be rated
+- Mom4eto - RAZPAS -> Rated
+- DJAANY & MILIONI - OT MILIONI DO DJAANY -> Rated
+- Imera - Деца на нощта -> To be rated
+- Vichev - REAL L!FE -> To be rated
