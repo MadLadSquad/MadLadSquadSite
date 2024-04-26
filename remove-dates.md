@@ -8,6 +8,19 @@
 
 ## Modus Mio BG <!------------------------------------------------------------------------------------------->
 
+- oddRhymes - Y1W17
+- Vichev - Y1W17
+- Cray0n - Y1W17
+- SZ - Y1W17
+- 3xfinity - Y1W17
+- lil\_tigan - Y1W17
+- MZM13 - Y1W17
+- MAKAROV - Y1W17
+- I.N.I. - Y1W17
+- Sezy - Y1W17
+
+---
+
 - Vichev - Y1W16
 - Imera - Y1W16
 - Bobo Armani - Y1W16
@@ -45,21 +58,18 @@
 - OG EMILL - Y1W14
 - ANZHEL - Y1W14
 
----
-
-- 4$FO - Y1W13
-- Gocata Kangal - Y1W13
-- Jivaka - Y1W13
-- Berk Karaah - Y1W13
-- El Markone - Y1W13
-- Yo One - Y1W13
-- FYRE - Y1W13
-- SST - Y1W13
-- 42 - Y1W13
-- Mope - Y1W13
-- 3xfinity - Y1W13
-
 ## Modus Mio BG: NXTGEN <!---------------------------------------------------------------------------------->
+
+- oddRhymes - Y1W17
+- Vichev - Y1W17
+- Cray0n - Y1W17
+- SZ - Y1W17
+- 3xfinity - Y1W17
+- lil\_tigan - Y1W17
+- MZM13 - Y1W17
+- MAKAROV - Y1W17
+
+---
 
 - Vichev - Y1W16
 - Dr.Donor - Y1W16
@@ -105,19 +115,10 @@
 ---
 
 - RS - Y1W11
-- thanks teddy - Y1W11
-- Svinqta Mc - Y1W11
 - TEDO - Y1W11
-- GOGATA - Y1W11
-
----
-
-- oddRhymes - Y1W10
-- OG EMILL - Y1W10
 
 ## Album of the month <!------------------------------------------------------------------------------------->
 
 - Mom4eto - RAZPAS -> Rated
 - DJAANY & MILIONI - OT MILIONI DO DJAANY -> Rated
-- Imera - Деца на нощта -> To be rated
-- Vichev - REAL L!FE -> To be rated
+- Imera - Деца на нощта -> Rated
