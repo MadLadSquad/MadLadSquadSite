@@ -18,6 +18,8 @@
 - MAKAROV - Y1W17
 - I.N.I. - Y1W17
 - Sezy - Y1W17
+- MUFASA - Y1W17
+- OG EMILL - Y1W17
 
 ---
 
@@ -68,6 +70,8 @@
 - lil\_tigan - Y1W17
 - MZM13 - Y1W17
 - MAKAROV - Y1W17
+- MUFASA - Y1W17
+- OG EMILL - Y1W17
 
 ---
 
