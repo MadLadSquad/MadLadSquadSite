@@ -8,6 +8,16 @@
 
 ## Modus Mio BG <!------------------------------------------------------------------------------------------->
 
+- ACH0 - Y1W18
+- Chavo - Y1W18
+- 2FACED - Y1W18
+- RS - Y1W18
+- DGDG - Y1W18
+- TEDO - Y1W18
+- Divelin - Y1W18
+
+---
+
 - oddRhymes - Y1W17
 - Vichev - Y1W17
 - Cray0n - Y1W17
@@ -61,6 +71,16 @@
 - ANZHEL - Y1W14
 
 ## Modus Mio BG: NXTGEN <!---------------------------------------------------------------------------------->
+
+- ACH0 - Y1W18
+- Chavo - Y1W18
+- 2FACED - Y1W18
+- RS - Y1W18
+- DGDG - Y1W18
+- TEDO - Y1W18
+- Divelin - Y1W18
+
+---
 
 - oddRhymes - Y1W17
 - Vichev - Y1W17
@@ -126,3 +146,7 @@
 - Mom4eto - RAZPAS -> Rated
 - DJAANY & MILIONI - OT MILIONI DO DJAANY -> Rated
 - Imera - Деца на нощта -> Rated
+
+- ACH0 - Street Dog -> To be rated
+- DGDG - The forgotten tapes -> To be rated
+- Divelin - AZ I GOLQMOTO MI EGO -> To be rated
