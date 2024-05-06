@@ -73,8 +73,6 @@
 ## Modus Mio BG: NXTGEN <!---------------------------------------------------------------------------------->
 
 - ACH0 - Y1W18
-- Chavo - Y1W18
-- 2FACED - Y1W18
 - RS - Y1W18
 - DGDG - Y1W18
 - TEDO - Y1W18
@@ -113,40 +111,10 @@
 - kikata - Y1W14
 - 3xfinity - Y1W14
 - Broke 5ko - Y1W14
-- OG EMILL - Y1W14
-- ANZHEL - Y1W14
-
----
-
-- Berk Karaah - Y1W13
-- Jivaka - Y1W13
-- El Markone - Y1W13
-- Yo One - Y1W13
-- Mope - Y1W13
-- 3xfinity - Y1W13
-
----
-
-- MZM12 - Y1W12
-- NERA - Y1W12
-- Yulkata - Y1W12
-- Paunov - Y1W12
-- Mope - Y1W12
-- Ghetto Rolf - Y1W12
-- NQMAMKTRL - Y1W12
-- Колеца - Y1W12
-
----
-
-- RS - Y1W11
-- TEDO - Y1W11
 
 ## Album of the month <!------------------------------------------------------------------------------------->
 
-- Mom4eto - RAZPAS -> Rated
-- DJAANY & MILIONI - OT MILIONI DO DJAANY -> Rated
-- Imera - Деца на нощта -> Rated
-
+- Cray0n - Grim Clouds & Silver Skies -> To be rated
 - ACH0 - Street Dog -> To be rated
 - DGDG - The forgotten tapes -> To be rated
 - Divelin - AZ I GOLQMOTO MI EGO -> To be rated
