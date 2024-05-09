@@ -44,6 +44,7 @@ jobs:
         run: ./clone-docs.sh
       - run: "echo 'run-localhost-automatically: false' >> uvproj.yaml"
       - run: "cd Scripts && ./generate-modus-mio-table.py >> ../modus-mio-artists.md && cd .."
+      - run: sudo apt install libyaml-cpp-dev
       - name: Build project
         run: cd UVKBuildTool/ && ./setup-web.sh .. && cd build && cd ../../ && ./run.sh
       - run: ./ci-clean.sh

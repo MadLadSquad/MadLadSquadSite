@@ -1,0 +1,24 @@
+Welcome to the May 2024 monthly newsletter.
+
+## UntitledDesktop
+### UntitledImGuiFramework 0.8.7.9
+New improvements to upstream libraries and the UVKBuildTool now allow for distributing the framework as a package for ports-based
+systems, such as Gentoo ebuilds.
+
+### UntitledDesktopOverlay
+Following the improvements in UntitledImGuiFramework 0.8.7.9, all MadLadSquad applications and libraries can be found as Funtoo &
+Gentoo packages under the [UntitledDesktopOverlay](https://github.com/MadLadSquad/UntitledDesktopOverlay). Funtoo users have
+access to YAML and python autogens for all the packages in the overlay.
+
+Other package managers will get support soon.
+
+## Multilingual
+### Funtoo Linux multilingual project
+Multiple issues relating to the multilingual tracker issue have been fixed. These include:
+1. Creation of IME backend profiles
+1. Fixing m17n-lib
+1. Moving ibus to i18n-kit
+
+### Youyin character editor
+Work on the Youyin character editor continues. It includes the ability to zoom in and pan the character, reset view hotkeys
+and more.
