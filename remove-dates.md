@@ -8,11 +8,14 @@
 
 ## Modus Mio BG <!------------------------------------------------------------------------------------------->
 
+- Theo - Y1W19
+- Gringod - Y1W19
+- Dimoff - Y1W19
+- Gocata kangal - Y1W19
 - Shunaka - Y1W19
 - V:RGO - Y1W19
 - MITREVV - Y1W19
 - thanks teddy - Y1W19
-- Vichev - Y1W19
 
 ---
 
@@ -27,7 +30,6 @@
 ---
 
 - oddRhymes - Y1W17
-- Vichev - Y1W17
 - Cray0n - Y1W17
 - SZ - Y1W17
 - 3xfinity - Y1W17
@@ -37,7 +39,6 @@
 - I.N.I. - Y1W17
 - Sezy - Y1W17
 - MUFASA - Y1W17
-- OG EMILL - Y1W17
 
 ---
 
@@ -51,37 +52,9 @@
 - Paunov - Y1W16
 - Kesh Pronto - Y1W16
 
----
-
-- V:RGO - Y1W15
-- oddRhymes - Y1W15
-- DJAANY - Y1W15
-- Crispy Beats - Y1W15
-- Kickdown - Y1W15
-- Dimoff - Y1W15
-- kileumre - Y1W15
-- Born Paid - Y1W15
-- VA$\_OFFICIAL - Y1W15
-- OG EMILL - Y1W15
-- Bojkov - Y1W15
-- Shunaka - Y1W15
-- SHEMEKERA - Y1W15
-
----
-
-- Pameca - Y1W14
-- Trap19 Connection - Y1W14
-- Mom4eto - Y1W14
-- kikata - Y1W14
-- 3xfinity - Y1W14
-- Broke 5ko - Y1W14
-- OG EMILL - Y1W14
-- ANZHEL - Y1W14
-
 ## Modus Mio BG: NXTGEN <!---------------------------------------------------------------------------------->
 
 - thanks teddy - Y1W19
-- Vichev - Y1W19
 
 ---
 
@@ -127,7 +100,7 @@
 
 ## Album of the month <!------------------------------------------------------------------------------------->
 
-- Cray0n - Grim Clouds & Silver Skies -> To be rated
+- Cray0n - Grim Clouds & Silver Skies -> Rate
 - ACH0 - Street Dog -> To be rated
 - DGDG - The forgotten tapes -> To be rated
 - Divelin - AZ I GOLQMOTO MI EGO -> To be rated
