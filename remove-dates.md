@@ -8,6 +8,18 @@
 
 ## Modus Mio BG <!------------------------------------------------------------------------------------------->
 
+- hostile - Y1W20
+- Yung Mici - Y1W20
+- NV - Y1W20
+- TEDO - Y1W20
+- Imera - Y1W20
+- RUSTY - Y1W20
+- Djekata - Y1W20
+- GOGATA - Y1W20
+- thanks teddy - Y1W20
+
+---
+
 - Theo - Y1W19
 - Gringod - Y1W19
 - Dimoff - Y1W19
@@ -40,19 +52,16 @@
 - Sezy - Y1W17
 - MUFASA - Y1W17
 
----
-
-- Vichev - Y1W16
-- Imera - Y1W16
-- Bobo Armani - Y1W16
-- Totev - Y1W16
-- Nasyo Chernia - Y1W16
-- Pameca - Y1W16
-- Dr.Donor - Y1W16
-- Paunov - Y1W16
-- Kesh Pronto - Y1W16
-
 ## Modus Mio BG: NXTGEN <!---------------------------------------------------------------------------------->
+
+- hostile - Y1W20
+- NV - Y1W20
+- TEDO - Y1W20
+- Djekata - Y1W20
+- GOGATA - Y1W20
+- thanks teddy - Y1W20
+
+---
 
 - thanks teddy - Y1W19
 
@@ -84,23 +93,10 @@
 - Paunov - Y1W16
 - Kesh Pronto - Y1W16
 
----
-
-- oddRhymes - Y1W15
-- Crispy Beats - Y1W15
-- kileumre - Y1W15
-- OG EMILL - Y1W15
-- Bojkov - Y1W15
-
----
-
-- kikata - Y1W14
-- 3xfinity - Y1W14
-- Broke 5ko - Y1W14
-
 ## Album of the month <!------------------------------------------------------------------------------------->
 
 - Cray0n - Grim Clouds & Silver Skies -> Rate
 - ACH0 - Street Dog -> To be rated
 - DGDG - The forgotten tapes -> To be rated
 - Divelin - AZ I GOLQMOTO MI EGO -> To be rated
+- thanks teddy, piripiri & Kay Be - SUPER JET TURBO -> To be rated
