@@ -8,6 +8,15 @@
 
 ## Modus Mio BG <!------------------------------------------------------------------------------------------->
 
+- Rizzitta - Y1W21
+- Pameca - Y1W21
+- Pafboi - Y1W21
+- MITREVV - Y1W21
+- BOZHYDAR - Y1W21
+- Emil TRF - Y1W21
+
+---
+
 - hostile - Y1W20
 - Yung Mici - Y1W20
 - NV - Y1W20
@@ -42,17 +51,14 @@
 ---
 
 - oddRhymes - Y1W17
-- Cray0n - Y1W17
-- SZ - Y1W17
-- 3xfinity - Y1W17
-- lil\_tigan - Y1W17
 - MZM13 - Y1W17
-- MAKAROV - Y1W17
 - I.N.I. - Y1W17
-- Sezy - Y1W17
-- MUFASA - Y1W17
 
 ## Modus Mio BG: NXTGEN <!---------------------------------------------------------------------------------->
+
+- Pafboi - Y1W21
+
+---
 
 - hostile - Y1W20
 - NV - Y1W20
@@ -88,7 +94,6 @@
 
 ---
 
-- Vichev - Y1W16
 - Dr.Donor - Y1W16
 - Paunov - Y1W16
 - Kesh Pronto - Y1W16
