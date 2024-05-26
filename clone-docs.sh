@@ -26,7 +26,7 @@ add_sidebar UntitledTemplatingEngine
 add_sidebar UntitledExec
 add_sidebar UntitledRuntimeLibraryLoader
 add_sidebar YouyinWeb
-add_sidebar UVKBuildToolN
+add_sidebar UVKBuildTool
 add_sidebar UntitledCLIParser
 add_sidebar UntitledGameSystemManager
 add_sidebar UntitledXDGBasedir
@@ -38,6 +38,7 @@ add_sidebar BGKS
 add_sidebar LitTok
 add_sidebar SpotifyUtilities
 add_sidebar UntitledOpen
+add_sidebar UntitledDBusUtils
 
 find ./ -type f -exec sed -i 's/https:\/\/github.com\/MadLadSquad\//https:\/\/madladsquad.com\/docs\//g' {} \;
 find ./ -type f -exec sed -i 's/\/wiki\//\//g' {} \;

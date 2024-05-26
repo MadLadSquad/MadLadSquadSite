@@ -137,6 +137,7 @@ Copy of the docs for these repos(docs can also be found in their respective wiki
 - [LitTok](https://madladsquad.com/docs/LitTok/Home)
 - [SpotifyUtilities](https://madladsquad.com/docs/SpotifyUtilities/Home)
 - [UntitledOpen](https://madladsquad.com/docs/UntitledOpen/Home)
+- [UntitledDBusUtils](https://madladsquad.com/docs/UntitledDBusUtils/Home)
 
 ### Misc
 - [Utilities](https://madladsquad.com/utilities)

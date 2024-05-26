@@ -58,3 +58,6 @@
 [submodule "docs/UntitledOpen"]
 	path = docs/UntitledOpen
 	url = https://github.com/MadLadSquad/UntitledOpen.wiki.git
+[submodule "docs/UntitledDBusUtils"]
+	path = docs/UntitledDBusUtils
+	url = https://github.com/MadLadSquad/UntitledDBusUtils.wiki.git
