@@ -8,6 +8,14 @@
 
 ## Modus Mio BG <!------------------------------------------------------------------------------------------->
 
+- oddRhymes - Y1W22
+- Emil TRF - Y1W22
+- Nasyo Chernia - Y1W22
+- S1 - Y1W22
+- Bilyanish - Y1W22
+
+---
+
 - SST - Y1W21
 - ERMO - Y1W21
 - Rizzitta - Y1W21
@@ -46,17 +54,15 @@
 - Chavo - Y1W18
 - 2FACED - Y1W18
 - RS - Y1W18
-- DGDG - Y1W18
 - TEDO - Y1W18
 - Divelin - Y1W18
 
----
-
-- oddRhymes - Y1W17
-- MZM13 - Y1W17
-- I.N.I. - Y1W17
-
 ## Modus Mio BG: NXTGEN <!---------------------------------------------------------------------------------->
+
+- oddRhymes - Y1W22
+- S1 - Y1W22
+
+---
 
 - ERMO - Y1W21
 - Pafboi - Y1W21
@@ -85,7 +91,6 @@
 ---
 
 - oddRhymes - Y1W17
-- Vichev - Y1W17
 - Cray0n - Y1W17
 - SZ - Y1W17
 - 3xfinity - Y1W17
@@ -94,11 +99,6 @@
 - MAKAROV - Y1W17
 - MUFASA - Y1W17
 - OG EMILL - Y1W17
-
----
-
-- Dr.Donor - Y1W16
-- Paunov - Y1W16
 
 ## Album of the month <!------------------------------------------------------------------------------------->
 
