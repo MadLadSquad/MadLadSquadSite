@@ -8,6 +8,9 @@
 
 ## Modus Mio BG <!------------------------------------------------------------------------------------------->
 
+- Cray0n - Y1W22
+- Vidrata - Y1W22
+- kabybrayan - Y1W22
 - oddRhymes - Y1W22
 - Emil TRF - Y1W22
 - Nasyo Chernia - Y1W22
@@ -50,15 +53,16 @@
 
 ---
 
-- ACH0 - Y1W18
 - Chavo - Y1W18
 - 2FACED - Y1W18
 - RS - Y1W18
 - TEDO - Y1W18
-- Divelin - Y1W18
 
 ## Modus Mio BG: NXTGEN <!---------------------------------------------------------------------------------->
 
+- Cray0n - Y1W22
+- Vidrata - Y1W22
+- kabybrayan - Y1W22
 - oddRhymes - Y1W22
 - S1 - Y1W22
 
