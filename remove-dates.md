@@ -8,6 +8,14 @@
 
 ## Modus Mio BG <!------------------------------------------------------------------------------------------->
 
+- TEDO - Y1W23
+- Sezy - Y1W23
+- Gringod - Y1W23
+- 4$EFO - Y1W23
+- Imera - Y1W23
+
+---
+
 - HAARP - Y1W22
 - 4$FO - Y1W22
 - Cray0n - Y1W22
@@ -50,15 +58,12 @@
 - Gocata kangal - Y1W19
 - Shunaka - Y1W19
 - V:RGO - Y1W19
-- MITREVV - Y1W19
-- thanks teddy - Y1W19
-
----
-
-- Chavo - Y1W18
-- RS - Y1W18
 
 ## Modus Mio BG: NXTGEN <!---------------------------------------------------------------------------------->
+
+- TEDO - Y1W23
+
+---
 
 - Cray0n - Y1W22
 - Vidrata - Y1W22
@@ -95,7 +100,6 @@
 ---
 
 - oddRhymes - Y1W17
-- Cray0n - Y1W17
 - SZ - Y1W17
 - 3xfinity - Y1W17
 - lil\_tigan - Y1W17
@@ -106,8 +110,6 @@
 
 ## Album of the month <!------------------------------------------------------------------------------------->
 
-- Cray0n - Grim Clouds & Silver Skies -> Rate
-- ACH0 - Street Dog -> To be rated
-- DGDG - The forgotten tapes -> To be rated
-- Divelin - AZ I GOLQMOTO MI EGO -> To be rated
-- thanks teddy, piripiri & Kay Be - SUPER JET TURBO -> To be rated
+- Emil TRF - HUSTLE 2 - To be rated
+- kabybrayan - Az S/Y Men - To be rated
+- Imera - Златна среда - To be rated
