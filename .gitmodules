@@ -61,3 +61,6 @@
 [submodule "docs/UntitledDBusUtils"]
 	path = docs/UntitledDBusUtils
 	url = https://github.com/MadLadSquad/UntitledDBusUtils.wiki.git
+[submodule "docs/UntitledFlipperZero"]
+	path = docs/UntitledFlipperZero
+	url = https://github.com/MadLadSquad/UntitledFlipperZero.wiki.git

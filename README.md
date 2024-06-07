@@ -138,6 +138,7 @@ Copy of the docs for these repos(docs can also be found in their respective wiki
 - [SpotifyUtilities](https://madladsquad.com/docs/SpotifyUtilities/Home)
 - [UntitledOpen](https://madladsquad.com/docs/UntitledOpen/Home)
 - [UntitledDBusUtils](https://madladsquad.com/docs/UntitledDBusUtils/Home)
+- [UntitledFlipperZero](https://madladsquad.com/docs/UntitledFlipperZero/Home)
 
 ### Misc
 - [Utilities](https://madladsquad.com/utilities)
