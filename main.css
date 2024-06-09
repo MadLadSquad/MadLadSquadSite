@@ -32,6 +32,11 @@ h1, h2, h3, h4, h5, h6, p, li {
 	color: var(--main-colour);
 }
 
+li {
+	margin-top: 4px;
+	margin-bottom: 4px;
+}
+
 * {
 	font-family: 'Ubuntu', sans-serif;
 }
