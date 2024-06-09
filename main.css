@@ -120,6 +120,13 @@ header {
 	margin: auto;
 }
 
+pre > code {
+	font-family: "JetBrains Mono", monospace;
+	font-optical-sizing: auto;
+	font-weight: 400;
+	font-style: normal;
+}
+
 code, .sourceCode pre, .liquid pre {
 	background-color: var(--main-code-background-colour);
 	padding: 0.2em;
