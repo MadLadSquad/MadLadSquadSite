@@ -120,7 +120,7 @@ header {
 	margin: auto;
 }
 
-pre > code {
+pre > code, code {
 	font-family: "JetBrains Mono", monospace;
 	font-optical-sizing: auto;
 	font-weight: 400;
@@ -135,6 +135,14 @@ code, .sourceCode pre, .liquid pre {
 	white-space: pre-wrap;
 	white-space: -o-pre-wrap;
 	word-wrap: break-word;
+}
+
+code {
+	padding: 0.2em 0.4em;
+	margin: 0;
+	font-size: 85%;
+	white-space: break-spaces;
+	border-radius: 6px;
 }
 
 .sourceCode code {
