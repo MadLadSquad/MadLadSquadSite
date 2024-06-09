@@ -21,20 +21,6 @@ Fixes multiple high-severity bugs in [UntitledI18N](https://github.com/MadLadSqu
 ## Youyin 0.4
 Uses the new [UVKBuildTool](https://github.com/MadLadSquad/UVKBuildTool) 2.0 to provide translations in Bulgarian. The site will soon be translated into other languages. 
 
-## Announcing BGKS
-We're announcing [BGKS](https://bgks.madladsquad.com), a website for correcting incorrect grammar, spelling and punctuation. It works by using
-a database of extracts from literature in a given language. Using these extracts, tests are generated, where the user has to input the
-correct form of the word they want to learn.
-
-Additionally, we have added a punctuation mode that will require the user to input a punctuation character in all spaces between words.
-
-Beta 0.1 should be available around the beginning of November 2023.
-
-## Announcing LitTok
-We're announcing [LitTok](https://littok.madladsquad.com), a website for reading books and other types of literature in a TikTok-like format.
-
-Beta 0.1 should be available around the beginning of January 2024.
-
 # Misc
 Contrary to popular belief, MadLadSquad is simply an organisation for volunteer projects. Because of this, our projects may not always be
 related to software.

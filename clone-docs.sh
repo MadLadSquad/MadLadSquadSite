@@ -34,8 +34,6 @@ add_sidebar UntitledImGuiTextUtils
 add_sidebar UDFPanel
 add_sidebar UntitledImGuiTheme
 add_sidebar UntitledI18N
-add_sidebar BGKS
-add_sidebar LitTok
 add_sidebar SpotifyUtilities
 add_sidebar UntitledOpen
 add_sidebar UntitledDBusUtils
