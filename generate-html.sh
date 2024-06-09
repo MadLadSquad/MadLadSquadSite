@@ -11,7 +11,7 @@ extract() {
 
 	echo "Processing file: ${out_dir}"
 
-	pandoc --from=gfm --standalone --template ../template.html -s "$1" -o "${out_dir}" --metadata title="${title}" 2> /dev/null
+	pandoc --from=gfm+alerts --standalone --template ../template.html -s "$1" -o "${out_dir}" --metadata title="${title}" 2> /dev/null
 	sed -i 's/<table style="width:100%;">/<div class="table"><table style="width:100%;">/g' "${out_dir}"
 	sed -i 's/<\/table>/<\/table><\/div>/g' "${out_dir}"
 
