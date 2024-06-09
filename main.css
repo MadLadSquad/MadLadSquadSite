@@ -137,7 +137,7 @@ code, .sourceCode pre, .liquid pre {
 	word-wrap: break-word;
 }
 
-code {
+code:not([class]) {
 	padding: 0.2em 0.4em;
 	margin: 0;
 	font-size: 85%;
