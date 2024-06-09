@@ -125,7 +125,7 @@ header {
 	margin: auto;
 }
 
-pre > code, code {
+pre > code, code, .sourceCode, .liquid {
 	font-family: "JetBrains Mono", monospace;
 	font-optical-sizing: auto;
 	font-weight: 400;
