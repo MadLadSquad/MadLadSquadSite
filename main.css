@@ -199,6 +199,11 @@ input[type=text] {
 	margin-bottom: 1rem;
 }
 
+img {
+	width: 100%;
+	overflow: scroll;
+}
+
 .note, .tip, .important, .warning, .caution {
 	padding-left: 0.5rem;
 	border-left-width: 0.25em;
