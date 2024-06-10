@@ -9,7 +9,7 @@ def getDeb():
         sys.exit("Couldn't fetch the latest pandoc release!")
     else:
         data = json.loads(resp.content)
-        binary = req.get(data[0]["assets"][0]["url"])
+        binary = req.get(data[0]["assets"][0]["browser_download_url"])
 
         if binary.status_code != 200:
             sys.exit("Couldn't download the latest deb package!")
