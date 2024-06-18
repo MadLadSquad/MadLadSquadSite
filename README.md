@@ -49,6 +49,7 @@ made for our desktop environment(UntitledDesktopEnvironment/UDE)
 1. [UntitledDESessionLogout](https://github.com/MadLadSquad/UntitledDESessionLogout) - A session logout utility for UDE
 1. [UntitledDEWelcome](https://github.com/MadLadSquad/UntitledDEWelcome) - A help and welcome screen applicatino for UDE
 1. [UntitledImGuiTextUtils](https://github.com/MadLadSquad/UntitledImGuiTextUtils) - ImGui Text rendering utility functions such as rendering underlined, bold or italic text
+1. [UntitledImGuiFileBrowser](https://github.com/MadLadSquad/UntitledImGuiFileBrowser) - A cross-platform and featureful file browser library for dear imgui
 1. [UntitledDesktopBootstrap](https://github.com/MadLadSquad/UntitledDesktopBootstrap) - A collection of scripts that creates needed folders and files when first installing UDE
 1. [UntitledDBusUtils](https://github.com/MadLadSquad/UntitledDBusUtils) - A collection of utilities for dealing with [dbus](https://en.wikipedia.org/wiki/D-Bus), to be developed
 1. [UntitledXDGBasedir](https://github.com/MadLadSquad/UntitledXDGBasedir) - An implementation of the [XDG base directory specification](https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html)
@@ -64,6 +65,10 @@ made for our desktop environment(UntitledDesktopEnvironment/UDE)
 1. [UntitledFontUtils](https://github.com/MadLadSquad/UntitledFontUtils) - Cross-platform utilities for dealing with system fonts, to be developed
 1. [UntitledIBusHandwriting](https://github.com/MadLadSquad/UntitledIBusHandwriting) - A handwriting input method engine for [ibus](https://en.wikipedia.org/wiki/Intelligent_Input_Bus)
 1. [UntitledI18N](https://github.com/MadLadSquad/UntitledI18N) - A C and C++ i18n library
+
+### Flipper Zero
+1. [UntitledFlipperZero](https://github.com/MadLadSquad/UntitledFlipperZero) - A partial C++ wrapper on top of the Flipper Zero C API
+1. [FlipperTasks] - A to-do list application for the Flipper Zero
 
 ### Libraries and misc applications
 1. [MadLadSquadSite](https://github.com/MadLadSquad/MadLadSquadSite) - The site you're looking at right now
