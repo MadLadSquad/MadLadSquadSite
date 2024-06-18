@@ -29,7 +29,7 @@ This is the core of the desktop. Users shall then create their own shell.
 Note: More applications are planned to be developed at a future date.
 
 ### UntitledDesktopEnvironment Flow
-<img width="256px" height="256px" src="https://github.com/MadLadSquad/MadLadSquadSite/assets/40400590/2ac900cd-e261-46cc-a426-692d38c87a6f"/>
+<img style="width: initial; height: initial;" src="https://github.com/MadLadSquad/MadLadSquadSite/assets/40400590/2ac900cd-e261-46cc-a426-692d38c87a6f"/>
 
 \* Logo derived from Chinese character 川, meaning river/stream.
 

@@ -85,5 +85,5 @@ The [UntitledIBusHandwriting](https://github.com/MadLadSquad/UntitledIBusHandwri
 [hanzi-lookup](https://github.com/gugray/hanzi_lookup/) library and data provided by 
 [hanzi-writer-data-youyin](https://github.com/MadLadSquad/hanzi-writer-data-youyin/). It currently looks like this:
 
-![image](https://user-images.githubusercontent.com/40400590/235936245-1f1835aa-8ba2-4d3a-af77-f690ffd84a4f.png)
+<img style="width: initial; height: initial;" src="https://user-images.githubusercontent.com/40400590/235936245-1f1835aa-8ba2-4d3a-af77-f690ffd84a4f.png"/>
 
