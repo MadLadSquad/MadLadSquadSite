@@ -8,6 +8,22 @@
 
 ## Modus Mio BG <!------------------------------------------------------------------------------------------->
 
+- 4$FO - Y1W25
+- Gringod - Y1W25
+- Rizziatta - Y1W25
+- BABVFACE - Y1W25
+- Mom4eto - Y1W25
+- GERATA - Y1W25
+- EL BUCKET - Y1W25
+- Broke 5ko - Y1W25
+
+---
+
+- DJAANY - Y1W24
+- DEVA - Y1W24
+
+---
+
 - TEDO - Y1W23
 - Sezy - Y1W23
 - Gringod - Y1W23
@@ -40,26 +56,25 @@
 
 ---
 
-- hostile - Y1W20
-- Yung Mici - Y1W20
 - NV - Y1W20
 - TEDO - Y1W20
 - Imera - Y1W20
 - RUSTY - Y1W20
-- Djekata - Y1W20
 - GOGATA - Y1W20
 - thanks teddy - Y1W20
 
+## Modus Mio BG: NXTGEN <!---------------------------------------------------------------------------------->
+
+- EL BUCKET - Y1W25
+- GERATA - Y1W25
+- Broke 5ko - Y1W25
+- BABVFACE - Y1W25
+
 ---
 
-- Theo - Y1W19
-- Gringod - Y1W19
-- Dimoff - Y1W19
-- Gocata kangal - Y1W19
-- Shunaka - Y1W19
-- V:RGO - Y1W19
+- DEVA - Y1W24
 
-## Modus Mio BG: NXTGEN <!---------------------------------------------------------------------------------->
+---
 
 - TEDO - Y1W23
 
@@ -100,13 +115,10 @@
 ---
 
 - oddRhymes - Y1W17
-- SZ - Y1W17
 - 3xfinity - Y1W17
-- lil\_tigan - Y1W17
 - MZM13 - Y1W17
 - MAKAROV - Y1W17
 - MUFASA - Y1W17
-- OG EMILL - Y1W17
 
 ## Album of the month <!------------------------------------------------------------------------------------->
 
