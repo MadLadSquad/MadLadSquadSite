@@ -53,6 +53,7 @@ made for our desktop environment(UntitledDesktopEnvironment/UDE)
 1. [UntitledDesktopBootstrap](https://github.com/MadLadSquad/UntitledDesktopBootstrap) - A collection of scripts that creates needed folders and files when first installing UDE
 1. [UntitledDBusUtils](https://github.com/MadLadSquad/UntitledDBusUtils) - A collection of utilities for dealing with [dbus](https://en.wikipedia.org/wiki/D-Bus), to be developed
 1. [UntitledXDGBasedir](https://github.com/MadLadSquad/UntitledXDGBasedir) - An implementation of the [XDG base directory specification](https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html)
+1. [UntitledDesktopIcons](https://github.com/MadLadSquad/UntitledDesktopIcons) - A cross-platform desktop icon lookup library
 
 ### UntitledDesktop Flow
 1. [UDFPanel](https://github.com/MadLadSquad/UDFPanel) - A minimal and highly-customisable desktop panel implementation
