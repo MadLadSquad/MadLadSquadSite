@@ -39,6 +39,6 @@ add_sidebar UntitledOpen
 add_sidebar UntitledDBusUtils
 add_sidebar UntitledFlipperZero
 
-find ./ -type f -exec awk '/https:\/\/github\.com\/MadLadSquad\// && !/\/assets\// {gsub("https://github.com/MadLadSquad/", "https://madladsquad.com/docs/")} {print}' {} \;
+./replace-github-urls.awk
 find ./ -type f -exec sed -i 's/\/wiki\//\//g' {} \;
 
