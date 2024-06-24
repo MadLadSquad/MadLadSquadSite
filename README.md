@@ -117,6 +117,7 @@ your donation if you have any project in mind. We donate 50% of the proceedings 
     1. [March](https://madladsquad.com/monthly-newsletter/2024/March)
     1. [April](https://madladsquad.com/monthly-newsletter/2024/April)
     1. [May](https://madladsquad.com/monthly-newsletter/2024/May)
+    1. [June](https://madladsquad.com/monthly-newsletter/2024/June)
 
 ## Other pages
 ### Documentation
