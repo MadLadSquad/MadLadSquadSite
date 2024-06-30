@@ -8,6 +8,18 @@
 
 ## Modus Mio BG <!------------------------------------------------------------------------------------------->
 
+- oddRhymes - Y1W26
+- pafboi - Y1W26
+- Bliznacite - Y1W26
+- Shunaka - Y1W26
+- Gocata kangal - Y1W26
+- Broke 5ko - Y1W26
+- I.N.I. - Y1W26
+- #UB7 - Y1W26
+- RS
+
+---
+
 - 4$FO - Y1W25
 - Gringod - Y1W25
 - Rizziatta - Y1W25
@@ -43,27 +55,15 @@
 - S1 - Y1W22
 - Bilyanish - Y1W22
 
----
-
-- SST - Y1W21
-- ERMO - Y1W21
-- Rizzitta - Y1W21
-- Pameca - Y1W21
-- Pafboi - Y1W21
-- MITREVV - Y1W21
-- BOZHYDAR - Y1W21
-- Emil TRF - Y1W21
-
----
-
-- NV - Y1W20
-- TEDO - Y1W20
-- Imera - Y1W20
-- RUSTY - Y1W20
-- GOGATA - Y1W20
-- thanks teddy - Y1W20
 
 ## Modus Mio BG: NXTGEN <!---------------------------------------------------------------------------------->
+
+- oddRhymes - Y1W26
+- Pafboi - Y1W26
+- Broke 5ko - Y1W26
+- RS - Y1W26
+
+---
 
 - EL BUCKET - Y1W25
 - GERATA - Y1W25
@@ -103,22 +103,6 @@
 ---
 
 - thanks teddy - Y1W19
-
----
-
-- ACH0 - Y1W18
-- RS - Y1W18
-- DGDG - Y1W18
-- TEDO - Y1W18
-- Divelin - Y1W18
-
----
-
-- oddRhymes - Y1W17
-- 3xfinity - Y1W17
-- MZM13 - Y1W17
-- MAKAROV - Y1W17
-- MUFASA - Y1W17
 
 ## Album of the month <!------------------------------------------------------------------------------------->
 
