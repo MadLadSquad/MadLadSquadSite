@@ -80,6 +80,11 @@ function main()
             artistTableShowHide(e.target.value.toLowerCase());
         });
     }
+    let demo = $("demo-div");
+    if (demo !== null)
+    {
+        createElement("iframe", "", "", "", [ [ "src", "https://uimgui.madladsquad.com/" ] ], demo);
+    }
 }
 
 main();
