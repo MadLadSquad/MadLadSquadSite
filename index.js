@@ -83,7 +83,11 @@ function main()
     let demo = $("demo-div");
     if (demo !== null)
     {
-        createElement("iframe", "", "", "", [ [ "src", "https://uimgui.madladsquad.com/" ] ], demo);
+        createElement("iframe", "", "", "",     
+            [ 
+                [ "src", "https://uimgui.madladsquad.com/" ],
+                [ "style", "width: 100%; height: 100%;" ],
+            ], demo);
     }
 }
 
