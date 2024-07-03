@@ -1,6 +1,6 @@
 ## NEW: [UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework) interactive web demo
 
-<div style="width: 100%; height: 100%; min-width: 800px; min-height: 600px;"></div>
+<div id="demo-div" style="width: 100%; height: 100%; min-width: 800px; min-height: 600px;"></div>
 
 ## Introduction to the desktop environment and its applications
 The UntitledDesktopEnvironment(shortened to UntitledDesktop or UDE) is a desktop environment for Linux and other operating
