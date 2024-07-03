@@ -249,3 +249,7 @@ img {
 .caution .title p {
 	color: var(--caution-colour)
 }
+
+iframe {
+	border: 0;
+}
