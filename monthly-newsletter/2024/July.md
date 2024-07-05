@@ -29,3 +29,7 @@ target WASM. We took advantage of that and we made a demo site for the framework
 or as an embed below:
 
 <div id="demo-div" style="width: 100%; height: 100%; min-width: 800px; min-height: 600px; display: flex; flex-direction: column;"></div>
+
+### Starting work on UntitledFontUtils
+Work on [UntitledFontUtils](https://github.com/MadLadSquad/UnitledFont) has officially started, with official macOS and freedesktop support
+by the end of the month.
