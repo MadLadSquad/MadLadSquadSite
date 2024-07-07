@@ -8,6 +8,16 @@
 
 ## Modus Mio BG <!------------------------------------------------------------------------------------------->
 
+- UB7 - Y1W27
+- ACH0 - Y1W27
+- Cray0n - Y1W27
+- Malcho - Y1W27
+- Pameca - Y1W27
+- Yung Stoney - Y1W27
+- Born Paid - Y1W27
+
+---
+
 - oddRhymes - Y1W26
 - pafboi - Y1W26
 - Bliznacite - Y1W26
@@ -16,7 +26,7 @@
 - Broke 5ko - Y1W26
 - I.N.I. - Y1W26
 - #UB7 - Y1W26
-- RS
+- RS - Y1W26
 
 ---
 
@@ -44,11 +54,7 @@
 
 ---
 
-- HAARP - Y1W22
-- 4$FO - Y1W22
 - Cray0n - Y1W22
-- Vidrata - Y1W22
-- kabybrayan - Y1W22
 - oddRhymes - Y1W22
 - Emil TRF - Y1W22
 - Nasyo Chernia - Y1W22
@@ -57,6 +63,13 @@
 
 
 ## Modus Mio BG: NXTGEN <!---------------------------------------------------------------------------------->
+
+- ACH0 - Y1W27
+- Cray0n - Y1W27
+- Malcho - Y1W27
+- Yung Stoney - Y1W27
+
+---
 
 - oddRhymes - Y1W26
 - Pafboi - Y1W26
@@ -98,14 +111,3 @@
 - TEDO - Y1W20
 - Djekata - Y1W20
 - GOGATA - Y1W20
-- thanks teddy - Y1W20
-
----
-
-- thanks teddy - Y1W19
-
-## Album of the month <!------------------------------------------------------------------------------------->
-
-- Emil TRF - HUSTLE 2 - To be rated
-- kabybrayan - Az S/Y Men - To be rated
-- Imera - Златна среда - To be rated
