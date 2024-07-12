@@ -8,6 +8,15 @@
 
 ## Modus Mio BG <!------------------------------------------------------------------------------------------->
 
+- Rizziatta - Y1W28
+- Djekata - Y1W28
+- BOZHYDAR - Y1W28
+- MUFASA - Y1W28
+- Divelin - Y1W28
+- FYRE - Y1W28
+
+---
+
 - UB7 - Y1W27
 - ACH0 - Y1W27
 - Cray0n - Y1W27
@@ -52,17 +61,13 @@
 - 4$EFO - Y1W23
 - Imera - Y1W23
 
----
-
-- Cray0n - Y1W22
-- oddRhymes - Y1W22
-- Emil TRF - Y1W22
-- Nasyo Chernia - Y1W22
-- S1 - Y1W22
-- Bilyanish - Y1W22
-
-
 ## Modus Mio BG: NXTGEN <!---------------------------------------------------------------------------------->
+
+- BOZHYDAR - Y1W28
+- MUFASA - Y1W28
+- Divelin - Y1W28
+
+---
 
 - ACH0 - Y1W27
 - Cray0n - Y1W27
