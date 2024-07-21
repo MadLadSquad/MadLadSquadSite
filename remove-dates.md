@@ -8,6 +8,14 @@
 
 ## Modus Mio BG <!------------------------------------------------------------------------------------------->
 
+- GOGATA - Y1W29
+- Svinqta Mc - Y1W29
+- SZ - Y1W29
+- RUSTY - Y1W29
+- Vidrata - Y1W29
+
+---
+
 - Rizziatta - Y1W28
 - Djekata - Y1W28
 - BOZHYDAR - Y1W28
@@ -59,9 +67,15 @@
 - Sezy - Y1W23
 - Gringod - Y1W23
 - 4$EFO - Y1W23
-- Imera - Y1W23
 
 ## Modus Mio BG: NXTGEN <!---------------------------------------------------------------------------------->
+
+- GOGATA - Y1W29
+- Svinqta Mc - Y1W29
+- SZ - Y1W29
+- Vidrata - Y1W29
+
+---
 
 - BOZHYDAR - Y1W28
 - MUFASA - Y1W28
