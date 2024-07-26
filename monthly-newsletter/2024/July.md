@@ -21,7 +21,11 @@ generated automatically.
 It also adds full 1.0 support for WASM and adds a WebGPU renderer.
 
 ### UntitledImGuiFramework 0.9.6.0
-The 0.9.6.0 release of the [UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework) fully completes the Vulkan renderer.
+The 0.9.6.0 release of the [UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework) fully completes the dbus submodule
+of the OS submodule. It adds the 1.0 release of the [UntitledDBusUtils](https://github.com/MadLadSquad/UntitledDBusUtils) library.
+
+### UntitledImGuiFramework 0.9.7.0
+The 0.9.7.0 release of the [UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework) fully completes the Vulkan renderer.
 
 ### UntitledImGuiFramework interactive web demo
 With the release of the 0.9.4.0 release of the [UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework), we can now
@@ -29,6 +33,16 @@ target WASM. We took advantage of that and we made a demo site for the framework
 or as an embed below:
 
 <div id="demo-div" style="width: 100%; height: 100%; min-width: 800px; min-height: 600px; display: flex; flex-direction: column;"></div>
+
+### UntitledDBusUtils 1.0
+The 1.0 release of the [UntitledDBusUtils](https://github.com/MadLadSquad/UntitledDBusUtils) library adds a type-safe and generally
+memory-safe interfaces for parsing message replies and method dbus method calls.
+
+It features a manual API that's similar to the underlying dbus-1 low level C API and an automatic API that uses a predefined schema.
+
+The exciting thing about this system is that it holds references to variables of certain types. The schema is then validated and if valid,
+all references are filled with all data provided by the dbus bus. However, since the schema uses the types of the variables that are provided
+to it, it's automatically type-safe and in the wide majority of cases, memory-safe, by default.
 
 ### Starting work on UntitledFontUtils
 Work on [UntitledFontUtils](https://github.com/MadLadSquad/UnitledFont) has officially started, with official macOS and freedesktop support
