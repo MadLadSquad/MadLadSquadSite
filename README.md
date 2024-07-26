@@ -79,7 +79,7 @@ made for our desktop environment(UntitledDesktopEnvironment/UDE)
 1. [check-for-synced-branches-action](https://github.com/MadLadSquad/check-for-synced-branches-action) - An action to check if 2
 branches are in sync, also works for forks and upstream
 1. [UntitledCLIParser](https://github.com/MadLadSquad/UntitledCLIParser) - A C and C++ parser for CLI arguments
-1. [UntitledDesktopOverlay](https://github.com/MadLadSquad/UntitledDesktopOverlay) - A Gentoo/Funtoo overlay for all MadLadSquad, UDE and UDF applications + additional components for the desktops, to be developed
+1. [UntitledDesktopOverlay](https://github.com/MadLadSquad/UntitledDesktopOverlay) - A Gentoo overlay for all MadLadSquad, UDE and UDF applications + additional components for the desktop
 1. [UntitledTemplatingEngine](https://github.com/MadLadSquad/UntitledTemplatingEngine) - A fully turing complete templating engine using a lisp-like language written in C and C++
 1. [GenericScripts](https://github.com/MadLadSquad/GenericScripts) - A list of generic scripts we use a lot on most of our repositories
 1. [UntitledOpen](https://github.com/MadLadSquad/UntitledOpen) - A library to open URIs with a default application or files/folders with a file picker
