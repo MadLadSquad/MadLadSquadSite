@@ -8,6 +8,15 @@
 
 ## Modus Mio BG <!------------------------------------------------------------------------------------------->
 
+- MZM13 - Y1W30
+- oddRhymes - Y1W30
+- Djekata - Y1W30
+- DJAANY - Y1W30
+- TEDO - Y1W30
+- deathstalkercollective - Y1W30
+
+---
+
 - GOGATA - Y1W29
 - Svinqta Mc - Y1W29
 - SZ - Y1W29
@@ -45,30 +54,15 @@
 - #UB7 - Y1W26
 - RS - Y1W26
 
----
-
-- 4$FO - Y1W25
-- Gringod - Y1W25
-- Rizziatta - Y1W25
-- BABVFACE - Y1W25
-- Mom4eto - Y1W25
-- GERATA - Y1W25
-- EL BUCKET - Y1W25
-- Broke 5ko - Y1W25
-
----
-
-- DJAANY - Y1W24
-- DEVA - Y1W24
-
----
-
-- TEDO - Y1W23
-- Sezy - Y1W23
-- Gringod - Y1W23
-- 4$EFO - Y1W23
-
 ## Modus Mio BG: NXTGEN <!---------------------------------------------------------------------------------->
+
+- MZM13 - Y1W30
+- oddRhymes - Y1W30
+- Djekata - Y1W30
+- TEDO - Y1W30
+- deathstalkercollective - Y1W30
+
+---
 
 - GOGATA - Y1W29
 - Svinqta Mc - Y1W29
@@ -122,11 +116,3 @@
 
 - ERMO - Y1W21
 - Pafboi - Y1W21
-
----
-
-- hostile - Y1W20
-- NV - Y1W20
-- TEDO - Y1W20
-- Djekata - Y1W20
-- GOGATA - Y1W20
