@@ -24,9 +24,6 @@ It also adds full 1.0 support for WASM and adds a WebGPU renderer.
 The 0.9.6.0 release of the [UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework) fully completes the dbus submodule
 of the OS submodule. It adds the 1.0 release of the [UntitledDBusUtils](https://github.com/MadLadSquad/UntitledDBusUtils) library.
 
-### UntitledImGuiFramework 0.9.7.0
-The 0.9.7.0 release of the [UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework) fully completes the Vulkan renderer.
-
 ### UntitledImGuiFramework interactive web demo
 With the release of the 0.9.4.0 release of the [UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework), we can now
 target WASM. We took advantage of that and we made a demo site for the framework, you can check it out on <https://uimgui.madladsquad.com>,
