@@ -20,3 +20,4 @@ You can find documentation for the following projects here:
 - [UntitledOpen](https://madladsquad.com/docs/UntitledOpen/Home)
 - [UntitledDBusUtils](https://madladsquad.com/docs/UntitledDBusUtils/Home)
 - [UntitledFlipperZero](https://madladsquad.com/docs/UntitledFlipperZero/Home)
+- [cimgui\_extra](https://madladsquad.com/docs/cimgui_extra/Home)

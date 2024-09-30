@@ -57,6 +57,7 @@ made for our desktop environment(UntitledDesktopEnvironment/UDE)
 
 ### UntitledDesktop Flow
 1. [UDFPanel](https://github.com/MadLadSquad/UDFPanel) - A minimal and highly-customisable desktop panel implementation
+1. [cimgui\_extra](https://github.com/MadLadSquad/cimgui_extra) - C bindings for popular dear imgui libraries
 
 ### Multilingual
 1. [Youyin](https://github.com/MadLadSquad/YouyinWeb) - A website for learning how to write Chinese characters and other scripts
@@ -145,6 +146,7 @@ Copy of the docs for these repos(docs can also be found in their respective wiki
 - [UntitledOpen](https://madladsquad.com/docs/UntitledOpen/Home)
 - [UntitledDBusUtils](https://madladsquad.com/docs/UntitledDBusUtils/Home)
 - [UntitledFlipperZero](https://madladsquad.com/docs/UntitledFlipperZero/Home)
+- [cimgui\_extra](https://madladsquad.com/docs/cimgui_extra/Home)
 
 ### Misc
 - [Utilities](https://madladsquad.com/utilities)

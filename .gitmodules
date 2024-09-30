@@ -64,3 +64,6 @@
 [submodule "docs/UntitledFlipperZero"]
 	path = docs/UntitledFlipperZero
 	url = https://github.com/MadLadSquad/UntitledFlipperZero.wiki.git
+[submodule "docs/cimgui_extra"]
+	path = docs/cimgui_extra
+	url = https://github.com/MadLadSquad/cimgui_extra.wiki.git
