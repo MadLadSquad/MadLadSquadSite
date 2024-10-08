@@ -22,3 +22,13 @@ This release is breaking, because it finally renames the `UVKLog` files to `Unti
 ### cimgui_extra 2.0
 In the 2.0 release of the [cimgui_extra](https://github.com/MadLadSquad/cimgui_extra) library, we added support for the popular 
 [imspinner](https://github.com/dalerank/imspinner) library.
+
+## MadLadSquad
+Nick has started working on the MadLadSquad account system and unified backend, which would allow us to add cloud functionality to many of
+our future web services.
+
+## Tiny.lol
+We're finally starting work on <tiny.lol> again after more than 7 months of inactivity. Work has stated on both the frontend and backend
+
+## Youyin
+Plans for restarting work on the Youyin backend are starting to be drawn.
