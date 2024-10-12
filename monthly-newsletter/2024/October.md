@@ -24,7 +24,24 @@ In the 2.0 release of the [cimgui_extra](https://github.com/MadLadSquad/cimgui_e
 [imspinner](https://github.com/dalerank/imspinner) library.
 
 ### Wayland support
-Wayland support for the platform functions of the Window interface in the UntitledImGuiFramework is finally coming with release v0.9.9.0.
+Wayland support for the platform functions of the Window interface in the 
+[UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework) is finally coming with release v0.9.9.0.
+
+### Framework desktop packaging
+Many may know that from around framework version 0.8.8.0, the [UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework)
+and all applications written on top of it have been packaged for Gentoo and Funtoo Linux on under the 
+[UntitledDesktopOverlay repository](https://github.com/MadLadSquad/UntitledDesktopOverlay).
+
+Because this is one of the last parts in the development of the first stable version of the 
+[UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework), this we decided to start work on creating additional
+packages for other packaging formats. We plan on supporting the following:
+
+1. DEBs - Debian-based Linux distributions
+1. RPMs - RHEL/Fedora-based Linux distributions
+1. PKGBUILDs - Arch-based Linux distributions
+1. Void package templates - Void Linux
+1. Flatpaks - Cross-platform on all Linux distributions
+1. Homebrew formulae - macOS and Linux
 
 ## MadLadSquad
 Nick has started working on the MadLadSquad account system and unified backend, which would allow us to add cloud functionality to many of
