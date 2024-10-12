@@ -23,6 +23,9 @@ This release is breaking, because it finally renames the `UVKLog` files to `Unti
 In the 2.0 release of the [cimgui_extra](https://github.com/MadLadSquad/cimgui_extra) library, we added support for the popular 
 [imspinner](https://github.com/dalerank/imspinner) library.
 
+### Wayland support
+Wayland support for the platform functions of the Window interface in the UntitledImGuiFramework is finally coming with release v0.9.9.0.
+
 ## MadLadSquad
 Nick has started working on the MadLadSquad account system and unified backend, which would allow us to add cloud functionality to many of
 our future web services.
