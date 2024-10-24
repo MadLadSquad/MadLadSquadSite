@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 rm -rf *.md
 rm -rf Components/ UBTCustomFunctions/ .github/ docs/ monthly-newsletter/ untitled-desktop/
 mv build/*.html .
