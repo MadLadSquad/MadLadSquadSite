@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 add_sidebar() {
   cd "$1"/ || exit
   for FILE in *.md; do
