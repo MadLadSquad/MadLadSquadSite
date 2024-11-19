@@ -95,7 +95,6 @@ branches are in sync, also works for forks and upstream
 - E-mail: contact@madladsquad.com
 - Madman10K's E-mails: contact@madman10k.online, contact@i-use-gentoo-btw.com, stanv.contact176@gmail.com
 - Discord: [https://discord.gg/4wgH8ZE](https://discord.gg/4wgH8ZE)
-- Discord User: Madman10K#0345
 
 ## Funding, donations and support
 If you like our software please donate to our [ko-fi](https://ko-fi.com/madladsquad) page. Send a personalised message with 
