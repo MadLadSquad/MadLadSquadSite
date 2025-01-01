@@ -24,12 +24,12 @@ What changes from now on:
    - Modus Mio BG, its brand, pages and logo
 
 The split was mainly needed for administrative reasons, it does not really affect most of our current projects. Funding amount for MadLadSquad
-will remain the same for the foreseeable future
+will remain the same for the foreseeable future.
 
 ## UntitledDesktop
 ### Preparing the UntitledImGuiFramework for 1.0
 In the November edition of the monthly newsletter, we noted that we're preparing for the 1.0 release of the UntitledImGuiFramework.
-Unfortunately, due to unforeseen disruptions, we're delaying the release until the middle of February 2024.
+Unfortunately, due to unforeseen disruptions, we're delaying the release until the end of January 2025.
 
 These disruptions are mainly, due to real life disruptions that limit the time our main developers can spend on the project, though that's not
 the whole picture. In reality, features we were not anticipating have made their way to the 1.0 release date. These are the new features for
@@ -57,7 +57,7 @@ The 1.0 release of the [UntitledFontUtils](https://github.com/MadLadSquad/Untitl
 The feature set is expected to be the same.
 
 ## Announcing pkggen
-[Pkggen](https://pkggen.madladsquad.com) is our new generic desktop package generation, testing and CI-ready deployment systemd, 
+[pkggen](https://pkggen.madladsquad.com) is our new generic desktop package generation, testing and CI-ready deployment system, 
 inspired by the [funtoo-metatools](https://www.funtoo.org/Funtoo:Metatools) project. 
 
 The Funtoo metatools stack was mainly used for generating and publishing Funtoo/Gentoo package updates. Instead,
