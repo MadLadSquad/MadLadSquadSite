@@ -26,3 +26,6 @@ The initial 0.5 release of [UntitledFontUtils](https://github.com/MadLadSquad/Un
 
 ### pkggen development
 The development of [pkggen](https://github.com/MadLadSquad/pkggen) is set to begin after the 1.0 release of the [UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework).
+
+### UntitledGameSystemManager v2.7
+The 2.7 release of the [UntitledGameSystemManager](https://github.com/MadLadSquad/UntitledGameSystemManager) introduces many fixes + it now works under Wayland.
