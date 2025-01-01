@@ -46,6 +46,7 @@ the multilingual department:
 1. [UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework) - A minimal destkop application development framework for C++, 
 made for our desktop environment(UntitledDesktopEnvironment/UDE)
 1. [UntitledImGuiTheme](https://github.com/MadLadSquad/UntitledImGuiTheme) - A theme library for dear imgui using a YAML format
+1. [UImGuiDemo](https://github.com/MadLadSquad/UImGuiDemo) - An interactive demo for the [UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework)
 1. [UntitledDESessionLogout](https://github.com/MadLadSquad/UntitledDESessionLogout) - A session logout utility for UDE
 1. [UntitledDEWelcome](https://github.com/MadLadSquad/UntitledDEWelcome) - A help and welcome screen applicatino for UDE
 1. [UntitledImGuiTextUtils](https://github.com/MadLadSquad/UntitledImGuiTextUtils) - ImGui Text rendering utility functions such as rendering underlined, bold or italic text
@@ -87,9 +88,7 @@ branches are in sync, also works for forks and upstream
 
 ## Members
 - [Madman10K](https://github.com/Madman10K) - Founder and head projects developer
-- [Prohunter67](https://github.com/ProHunter67BG) - Developer on the multiplatform UntitledDesktop applications
 - [Nick](https://github.com/nick-1666) - Artist and misc programming
-- [Neyko](https://github.com/Neyko641) - Web dev and random stuff
 
 ## Contacts
 - E-mail: contact@madladsquad.com
@@ -124,6 +123,8 @@ your donation if you have any project in mind. We donate 50% of the proceedings 
     1. [October](https://madladsquad.com/monthly-newsletter/2024/October)
     1. [November](https://madladsquad.com/monthly-newsletter/2024/November)
     1. [December](https://madladsqaud.com/monthly-newsletter/2024/December)
+1. 2025
+    1. [January](https://madladsquad.com/monthly-newsletter/2025/January)
 
 ## Other pages
 ### Documentation
