@@ -31,7 +31,6 @@ add_sidebar UntitledCLIParser
 add_sidebar UntitledGameSystemManager
 add_sidebar UntitledXDGBasedir
 add_sidebar UntitledImGuiTextUtils
-add_sidebar UDFPanel
 add_sidebar UntitledImGuiTheme
 add_sidebar UntitledI18N
 add_sidebar SpotifyUtilities
