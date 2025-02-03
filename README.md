@@ -55,9 +55,6 @@ made for our desktop environment(UntitledDesktopEnvironment/UDE)
 1. [UntitledDBusUtils](https://github.com/MadLadSquad/UntitledDBusUtils) - A collection of utilities for dealing with [dbus](https://en.wikipedia.org/wiki/D-Bus), to be developed
 1. [UntitledXDGBasedir](https://github.com/MadLadSquad/UntitledXDGBasedir) - An implementation of the [XDG base directory specification](https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html)
 1. [UntitledDesktopIcons](https://github.com/MadLadSquad/UntitledDesktopIcons) - A cross-platform desktop icon lookup library
-
-### UntitledDesktop Flow
-1. [UDFPanel](https://github.com/MadLadSquad/UDFPanel) - A minimal and highly-customisable desktop panel implementation
 1. [cimgui\_extra](https://github.com/MadLadSquad/cimgui_extra) - C bindings for popular dear imgui libraries
 
 ### Multilingual
@@ -142,7 +139,6 @@ Copy of the docs for these repos(docs can also be found in their respective wiki
 - [YouyinWeb](https://madladsquad.com/docs/YouyinWeb/Home)
 - [UntitledXDGBasedir](https://madladsquad.com/docs/UntitledXDGBasedir/Home)
 - [UntitledImGuiTextUtils](https://madladsquad.com/docs/UntitledImGuiTextUtils/Home)
-- [UDFPanel](https://madladsquad.com/docs/UDFPanel/Home)
 - [UntitledImGuiTheme](https://madladsquad.com/docs/UntitledImGuiTheme/Home)
 - [UntitledI18N](https://madladsquad.com/docs/UntitledI18N/Home)
 - [SpotifyUtilities](https://madladsquad.com/docs/SpotifyUtilities/Home)

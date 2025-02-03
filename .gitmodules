@@ -37,9 +37,6 @@
 [submodule "UVKBuildTool"]
 	path = UVKBuildTool
 	url = https://github.com/MadLadSquad/UVKBuildTool.git
-[submodule "docs/UDFPanel"]
-	path = docs/UDFPanel
-	url = https://github.com/MadLadSquad/UDFPanel.wiki.git
 [submodule "docs/UntitledImGuiTheme"]
 	path = docs/UntitledImGuiTheme
 	url = https://github.com/MadLadSquad/UntitledImGuiTheme.wiki.git
