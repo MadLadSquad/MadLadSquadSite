@@ -7,10 +7,12 @@ needed for setting up Heapforge is now done.
 By the end of January 2025, you can expect our new logo, and possibly website.
 
 ## UntitledDesktop
-### UntitledImGuiFramework 0.9.9.7
+### UntitledImGuiFramework 0.9.9.7 and 0.9.9.8
 Due to a lot of recent changes to the [UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework)'s code, but our inability to finish the new directory-independent [UVKBuildTool](https://github.com/MadLadSquad/UVKBuildTool)
 in a timely manner, we have decided to skip 8 proper point releases for the middle of January release. With this release basically every feature is finished with the exception of integrating the 
 [UntitledFontUtils](https://github.com/MadLadSquad/UntitledFontUtils) library.
+
+Release 0.9.9.8 builds on 0.9.9.7 by adding support for targeting macOS application bundles.
 
 ### UntitledDBusUtils 1.3 & 1.4
 The 1.3 and 1.4 releases of the [UntitledDBusUtils](https://github.com/MadLadSquad/UntitledDBusUtils) library fix 2 major bugs with the library and its integration with our applications.
