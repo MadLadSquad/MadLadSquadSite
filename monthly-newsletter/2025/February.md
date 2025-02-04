@@ -15,3 +15,16 @@ Here is our release roadmap for 2025:
 1. Release 1.2 and 1.3 - Window backend change, Android, iOS and iPadOS support
 1. Release 1.3.5 - C API for implot
 1. Release 1.4 - IME support in dear imgui, including mobile keyboards and selecting for both native and WASM target
+
+### pkggen development plan
+We now have a plan for the development of [pkggen](https://pkggen.madladsquad.com/). The plan for the upcoming versions is the following:
+
+1. 0.5 - in the next couple of months
+   - Base tarball, GitHub and GitLab generators
+   - Support for ebuilds, debs, rpms, pkgbuilds and homebrew packages
+   - No testing or uploading functionality
+1. 0.6 - uploading to the AUR, PPA and GitHub repositories for pkgbuilds and homebrew packages
+1. 0.7 - Linux package testing on Linux, Windows and macOS
+1. 0.8 - macOS package testing on Linux, Windows and macOS
+1. 0.9 - Windows package testing on Linux, WIndows and macOS
+1. 1.0 - Support for Alpine, Void, MacPorts packaging formats
