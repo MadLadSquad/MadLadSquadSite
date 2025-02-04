@@ -1,101 +1,115 @@
 # About us
-We're a decentralized team of developers, working on a wide variety of software, with the goal of redefining the desktop 
-experience. We have 2 main departments:
+We're a decentralized team of developers, working on a wide variety of software. The goal of this organisation is to act as a
+partial non-profit that uses most of its earnings on supporting open-source software.
 
-1. The games department - Responsible for our games and game related products like the UntitledVulkanGameEngine
-1. The desktop department - Responsible for maintaining the UntitledDesktopEnvironment
-1. The multilingual department - Responsible for working on human language tools
+Since 2025, MadLadSquad has been in a strategic partnership with [Heapforge](https://heapforge.com), which is our for-profit
+software develoment wing. Income generated from projects developed by Heapforge gets redistributed to MadLadSquad at a 
 
 ## Games
-In the game development field we create open source, highly moddable games. We prioritize player experience and we encourage all 
+In the field of game development we create open source, highly moddable games. We prioritize player experience and we encourage all 
 our players to work together with us in creating great digital experiences.
 
-Our technology stack is cross-platform and is almost completely self-sustained. We use our own in-house technology like the 
-[UntitledVulkanGameEngine](https://github.com/MadLadSquad/UntitledVulkanGameEngine) to
-have full control over our games' backend. But we also work with industry standard technologies like the Unreal Engine, it all 
-depends on the requirements of the project.
+Depending on the project, we can use ready solutions, such as Unreal Engine for our software stack. For projects with more complex
+requirements we also have experience developing custom game engines from scratch.
 
 ## The UntitledDesktopEnvironment
-The [UntitledDesktopEnvironment](https://madladsquad.com/desktop) is a suite of applications forming the 
-UntitledDesktopEnvironment. We have an almost complete list of applications we're working on that contains the core and even some 
-more features a modern desktop environment would provide.
+The [UntitledDesktopEnvironment](https://madladsquad.com/desktop) is a project that aims to create a completely independent
+desktop environment for Freedesktop systems with support for other operating systems where available.
 
-More info can be found [here](https://madladsquad.com/desktop).
+Check out the [UntitledDesktopEnvironment page](https://madladsquad.com/desktop) for more information
 
-## Multilingual
-The multilingual department works on a small number of applications in the areas of language learning, input and output. 
-While they work on standalone applications like [Youyin](https://youyin.madladsquad.com/) the multilingual team mainly 
-helps the [multilingual project](https://madladsquad.com/untitled-desktop/subprojects/i18n) under the desktop department.
-Additionally, work on the multilingual project gets frequently backported to the games department. Here are some of the tasks of 
-the multilingual department:
+## Multilingual project
+The wider MadLadSquad multilingual project works on a number of applications in the fields of language learning, input and output.
 
-1. Develop language learning applications like [Youyin](https://youyin.madladsquad.com/)
-1. Help with translating all softwar we produce to multiple languages
-1. Help with developing libraries related to multilingual support, such as ones that deal with system fonts, locales, translation systems and more
-1. Help the [multilingual project](https://madladsquad.com/untitled-desktop/subprojects/i18n) with tools for the UntitledDesktopEnvironment
+The tasks of the wider multilingual project are:
+
+1. To develop language learning applications like [Youyin](https://youyin.madladsquad.com/)
+1. To help with translating all software we produce to multiple languages
+1. To help with developing libraries related to multilingual support, such as ones that deal with system fonts, locales, translation systems and more
+1. To help the [UntitledDesktop Multilingual Project](https://madladsquad.com/untitled-desktop/subprojects/i18n) with tools for the [UntitledDesktopEnvironment](https://madladsquad.com/desktop)
 
 ## Our Projects
-### Games and game related
-1. [UntitledVulkanGameEngine](https://github.com/MadLadSquad/UntitledVulkanGameEngine) - A cross-platform general use, Vulkan game engine
-1. [UVKShaderCompiler](https://github.com/MadLadSquad/UVKShaderCompiler) - A shader compiler for the UntitledVulkanGameEngine
-1. [MadLadSquadBot](https://github.com/MadLadSquad/MadLadSquadBot) - Our general purpose Discord bot
-1. [UntitledGameSystemManager](https://github.com/MadLadSquad/UntitledGameSystemManager) - A manager for containerized game systems using LXC and LXD
-1. [UVKBuildTool](https://github.com/MadLadSquad/UVKBuildTool) - A build file generator for the UntitledVulkanGameEngine and UntitledImGuiFramework
+Here is a list of all our projects, sorted by complexity in descending order.
 
-### UntitledDesktopEnvironment and related
-1. [UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework) - A minimal destkop application development framework for C++, 
-made for our desktop environment(UntitledDesktopEnvironment/UDE)
-1. [UntitledImGuiTheme](https://github.com/MadLadSquad/UntitledImGuiTheme) - A theme library for dear imgui using a YAML format
-1. [UImGuiDemo](https://github.com/MadLadSquad/UImGuiDemo) - An interactive demo for the [UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework)
-1. [UntitledDESessionLogout](https://github.com/MadLadSquad/UntitledDESessionLogout) - A session logout utility for UDE
-1. [UntitledDEWelcome](https://github.com/MadLadSquad/UntitledDEWelcome) - A help and welcome screen applicatino for UDE
-1. [UntitledImGuiTextUtils](https://github.com/MadLadSquad/UntitledImGuiTextUtils) - ImGui Text rendering utility functions such as rendering underlined, bold or italic text
-1. [UntitledImGuiFileBrowser](https://github.com/MadLadSquad/UntitledImGuiFileBrowser) - A cross-platform and featureful file browser library for dear imgui
-1. [UntitledDesktopBootstrap](https://github.com/MadLadSquad/UntitledDesktopBootstrap) - A collection of scripts that creates needed folders and files when first installing UDE
-1. [UntitledDBusUtils](https://github.com/MadLadSquad/UntitledDBusUtils) - A collection of utilities for dealing with [dbus](https://en.wikipedia.org/wiki/D-Bus), to be developed
-1. [UntitledXDGBasedir](https://github.com/MadLadSquad/UntitledXDGBasedir) - An implementation of the [XDG base directory specification](https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html)
-1. [UntitledDesktopIcons](https://github.com/MadLadSquad/UntitledDesktopIcons) - A cross-platform desktop icon lookup library
-1. [cimgui\_extra](https://github.com/MadLadSquad/cimgui_extra) - C bindings for popular dear imgui libraries
+### Desktop applications/UntitledDesktopEnvironment
+Libraries and frameworks:
 
-### Multilingual
-1. [Youyin](https://github.com/MadLadSquad/YouyinWeb) - A website for learning how to write Chinese characters and other scripts
-1. [YouyinPublicDeckRepository](https://github.com/MadLadSquad/YouyinPublicDeckRepository) - Public deck repository for Youyin
-1. [hanzi-writer-data-youyin](https://github.com/MadLadSquad/hanzi-writer-data-youyin) - Monolyth character database for Youyin
-1. [hanzi-writer-data-others](https://github.com/MadLadSquad/hanzi-writer-data-others) - Database for non-Chinese and Kana characters for Youyin, to be developed
-1. [UntitledFontManager](https://github.com/MadLadSquad/UntitledFontManager) - Cross-platform system-fonts manager and utility library
-1. [UntitledIBusHandwriting](https://github.com/MadLadSquad/UntitledIBusHandwriting) - A handwriting input method engine for [ibus](https://en.wikipedia.org/wiki/Intelligent_Input_Bus)
-1. [UntitledI18N](https://github.com/MadLadSquad/UntitledI18N) - A C and C++ i18n library
+1. [UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework) - a fully featured desktop application development toolkit using the [dear imgui](https://github.com/ocornut/imgui) UI library. Try an interactive demo at <https://uimgui.madladsquad.com>
+1. [pkggen](https://github.com/MadLadSquad/pkggen) - a tool for rubust automatic updating, testing and publishing of desktop packages for multiple package managers and operating systems at the same time
+1. [UntitledImGuiFileBrowser](https://github.com/MadLadSquad/UntitledImGuiFileBrowser)\* - a file browser library for [dear imgui](https://github.com/ocornut/imgui) used by the [UntitledFileBrowser](https://github.com/MadLadSquad/UntitledFileBrowser) project 
+1. [UntitledI18N](https://github.com/MadLadSquad/UntitledI18N) - an internationalisation library with a custom YAML format written in C++
+1. [UntitledFontManager](https://github.com/MadLadSquad/UntitledFontManager) - a cross-platform font manager and fetcher library
+1. [UntitledImGuiTextUtils](https://github.com/MadLadSquad/UntitledImGuiTextUtils) - a rich text rendering library for dear imgui
+1. [UntitledTemplatingEngine](https://github.com/MadLadSquad/UntitledTemplatingEngine) - a templating engine with a lisp-like programming language
+1. [UntitledDBusUtils](https://github.com/MadLadSquad/UntitledDBusUtils) - a C++ metaprogramming wrapper on top of the low level C DBus API that introduces memory- and type-safety
+1. [UntitledDesktopIcons](https://github.com/MadLadSquad/UntitledDesktopIcons)\* - a cross-platform C/C++ library for getting the default icons for applications or OS actions
+1. [UntitledOpen](https://github.com/MadLadSquad/UntitledOpen) - a cross-platform library for opening URLs or files with the default application/file picker
+1. [UVKBuildTool](https://github.com/MadLadSquad/UVKBuildTool) - a utility for assisting in the build process of the UntitledVulkanGameEngine and UntitledImGuiFramework with an additional static site generator functionality
+1. [cimgui_extra](https://github.com/MadLadSquad/cimgui_extra) - a collection of hand-written C bindings for a number of popular [dear imgui](https://github.com/ocornut/imgui) libraries
+1. [UntitledImGuiTheme](https://github.com/MadLadSquad/UntitledImGuiTheme) - a library for loading themes as YAML files for dear imgui
+1. [UntitledCLIParser](https://github.com/MadLadSquad/UntitledCLIParser) - a C/C++ parser for CLI arguments
+1. [UntitledLog](https://github.com/MadLadSquad/UntitledLog) - a C/C++ logging library
+1. [UntitledExec](https://github.com/MadLadSquad/UntitledExec) - a cross-platform wrapper on top of fork & exec/CreateProcess
+1. [UntitledRuntimeLibraryLoader](https://github.com/MadLadSquad/UntitledRuntimeLibraryLoader) - a cross-platform library for loading shared libraries at runtime
+1. [UntitledXDGBasedir](https://github.com/MadLadSquad/UntitledXDGBasedir) - a C/C++ implementation of the XDG Base directory and XDG home directory specifications
+1. [UntitledDesktopBootstrap](https://github.com/MadLadSquad/UntitledDesktopBootstrap)\* - a number of scripts for bootstrapping the UntitledDesktopEnvironment
+
+Applications:
+
+1. [UntitledGameSystemManager](https://github.com/MadLadSquad/UntitledGameSystemManager) - a graphical manager for containerised Linux gaming systems
+1. [UImGuiDemo](https://github.com/MadLadSquad/UImGuiDemo) - a demo for the [UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework). Hosted at <https://uimgui.madladsquad.com>
+1. [UntitledFileBrowser](https://github.com/MadLadSquad/UntitledFileBrowser) - a cross-platform file browser and file picker
+1. [UntitledDEPolkitAgent](https://github.com/MadLadSquad/UntitledDEPolkitAgent)\** - a polkit agent for the UntitledDesktopEnvironment
+1. [UntitledDESessionLogout](https://github.com/MadLadSquad/UntitledDESessionLogout) - a session logout utility for Freedesktop-based systems
+1. [UntitledIBusHandwriting](https://github.com/MadLadSquad/UntitledIBusHandwriting) - a handwriting input method for [IBus](https://en.wikipedia.org/wiki/Intelligent_Input_Bus)
+
+\* Highly incomplete and a work in progress
+
+\*\* Not yet started development
+
+### Web applications
+
+1. [YouyinWeb](https://github.com/MadLadSquad/YouyinWeb) - a website for learning how to write in any writing system. Hosted at <https://youyin.madladsquad.com>
+1. [MadLadSquadSite](https://github.com/MadLadSquad/MadLadSquadSite) - the website for MadLadSquad. Hosted at <https://madladsquad.com>
+1. [hanzi-writer-data-others](https://github.com/MadLadSquad/hanzi-writer-data-others) - a hanzi-writer character database for all languages, except Chinese and Japanese \*
+1. [hanzi-writer-data-youyin](https://github.com/MadLadSquad/hanzi-writer-data-youyin) - a unified character database for youyin
+1. [YouyinPublicDeckRepository](https://github.com/MadLadSquad/YouyinPublicDeckRepository) - a repository containing all the public decks on the Youyin marketplace
+
+\* Not yet released
 
 ### Flipper Zero
-1. [UntitledFlipperZero](https://github.com/MadLadSquad/UntitledFlipperZero) - A partial C++ wrapper on top of the Flipper Zero C API
-1. [FlipperTasks](https://github.com/MadLadSquad/FlipperTasks) - A to-do list application for the Flipper Zero
+Libraries and applications:
 
-### Libraries and misc applications
-1. [MadLadSquadSite](https://github.com/MadLadSquad/MadLadSquadSite) - The site you're looking at right now
-1. [UntitledLog](https://github.com/MadLadSquad/UntitledLog) - A small logging library
-1. [UntitledRuntimeLibraryLoader](https://github.com/MadLadSquad/UntitledRuntimeLibraryLoader) - A small cross-platform shared library loder library
-1. [UntitledExec](https://github.com/MadLadSquad/UntitledExec) - A small cross-platform library to execute applications as seperate processes
-1. [check-for-synced-branches-action](https://github.com/MadLadSquad/check-for-synced-branches-action) - An action to check if 2
-branches are in sync, also works for forks and upstream
-1. [UntitledCLIParser](https://github.com/MadLadSquad/UntitledCLIParser) - A C and C++ parser for CLI arguments
-1. [UntitledDesktopOverlay](https://github.com/MadLadSquad/UntitledDesktopOverlay) - A Gentoo overlay for all MadLadSquad, UDE and UDF applications + additional components for the desktop
-1. [UntitledTemplatingEngine](https://github.com/MadLadSquad/UntitledTemplatingEngine) - A fully turing complete templating engine using a lisp-like language written in C and C++
-1. [GenericScripts](https://github.com/MadLadSquad/GenericScripts) - A list of generic scripts we use a lot on most of our repositories
-1. [UntitledOpen](https://github.com/MadLadSquad/UntitledOpen) - A library to open URIs with a default application or files/folders with a file picker
+1. [FlipperTasks](https://github.com/MadLadSquad/FlipperTasks) - a TODO list application with over 30K downloads on the flipper application catalogue as of February 2025. You can see up-to-date statistics [here](https://catalog.flipperzero.one/application/667171d9b4ce289ac47451a2/page)
+1. [UntitledFlipperZero](https://github.com/MadLadSquad/UntitledFlipperZero) - a C++ wrapper on top of the C UI API
+
+### Games
+
+1. [UntitledVulkanGameEngine](https://github.com/MadLadSquad/UntitledVulkanGameEngineOld) - the UntitledVulkanGameEngine source code
+
+### Misc
+
+1. [MadLadSquadBot](https://github.com/MadLadSquad/MadLadSquadBot) - the discord bot for the MadLadSquad discord server
+1. [UntitledDesktopOverlay](https://github.com/MadLadSquad/UntitledDesktopOverlay) - a Gentoo/Funtoo overlay for the UntitledDesktopEnvironment
+1. [SpotifyUtilities](https://github.com/MadLadSquad/SpotifyUtilities) - scripts for fetching data from official and unofficial Spotify APIs used for my old social media page
+1. [ChitankaExtractor](https://github.com/MadLadSquad/ChitankaExtractor) - a number of scripts for extracting data from <https://chitanka.info> book archives
+1. [check-for-synced-branches-action](https://github.com/MadLadSquad/check-for-synced-branches-action) - a GitHub action that checks if 2 branches are in sync and outputs by how many commits they diverge
+1. [GenericScripts](https://github.com/MadLadSquad/GenericScripts) - a repository of useful scripts
 
 ## Members
+
 - [Madman10K](https://github.com/Madman10K) - Founder and head projects developer
-- [Nick](https://github.com/nick-1666) - Artist and misc programming
+- [Nick](https://github.com/fami-fish) - Artist and misc programming
 
 ## Contacts
+
 - E-mail: contact@madladsquad.com
-- Madman10K's E-mails: contact@madman10k.online, contact@i-use-gentoo-btw.com, stanv.contact176@gmail.com
 - Discord: [https://discord.gg/4wgH8ZE](https://discord.gg/4wgH8ZE)
 
 ## Funding, donations and support
 If you like our software please donate to our [ko-fi](https://ko-fi.com/madladsquad) page. Send a personalised message with 
 your donation if you have any project in mind. We donate 50% of the proceedings to developers of libraries we depend on
-(based on the specific project) like [dear imgui](https://github.com/ocornut/imgui).
+(based on the specific project).
 
 ## Monthly newsletter
 1. 2023
@@ -122,6 +136,7 @@ your donation if you have any project in mind. We donate 50% of the proceedings 
     1. [December](https://madladsquad.com/monthly-newsletter/2024/December)
 1. 2025
     1. [January](https://madladsquad.com/monthly-newsletter/2025/January)
+    1. [February](https://madladsquad.com/monthly-newsletter/2025/February)
 
 ## Other pages
 ### Documentation
@@ -148,5 +163,5 @@ Copy of the docs for these repos(docs can also be found in their respective wiki
 - [cimgui\_extra](https://madladsquad.com/docs/cimgui_extra/Home)
 
 ### Misc
-- [Utilities](https://madladsquad.com/utilities)
+- [Useful utilities](https://madladsquad.com/utilities)
 
