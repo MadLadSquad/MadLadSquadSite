@@ -11,7 +11,7 @@ systems that use components made by the [freedesktop foundation](https://freedes
 > and libraries, until suitable funding and/or a suitable number of contributors are found.
 
 ### UntitledApplicationSuite
-The UntitledApplicationSuite is a collection of first-party applications that use the UntitledDesktopEnvironment's tooling
+The UntitledApplicationSuite is a collection of first-party applications that use the UntitledDesktopEnvironment's tooling:
 
 1. [UntitledGameSystemManager](https://github.com/MadLadSquad/UntitledGameSystemManager)
 1. [UntitledIBusHandwriting](https://github.com/MadLadSquad/UntitledIBusHandwriting)
@@ -19,7 +19,6 @@ The UntitledApplicationSuite is a collection of first-party applications that us
 ### UntitledDesktopEnvironment
 This is the base for the desktop environment. It includes applications, such as:
 
-1. [UntitledDEWelcome](https://github.com/MadLadSquad/UntitledDEWelcome)
 1. [UntitledDEPolkitAgent](https://github.com/MadLadSquad/UntitledDEPolkitAgent)
 1. [UntitledDESessionLogout](https://github.com/MadLadSquad/UntitledDESessionLogout)
 
