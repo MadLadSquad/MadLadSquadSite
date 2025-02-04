@@ -36,4 +36,4 @@ array:
    [this file](https://github.com/MadLadSquad/UntitledImGuiFramework/blob/master/Framework/Core/Events/Keys.hpp)
 
 Revisions before version 0.9.0.0 did not include support for multikey bindings. Since they were developed during the standard's
-experimental phase, they are not supported by input systems used by current MadLad Squad applications/libraries/frameworks.
+experimental phase, they are not supported by input systems used by current MadLadSquad applications/libraries/frameworks.
