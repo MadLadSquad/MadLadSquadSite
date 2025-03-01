@@ -71,6 +71,7 @@ Applications:
 
 1. [YouyinWeb](https://github.com/MadLadSquad/YouyinWeb) - a website for learning how to write in any writing system. Hosted at <https://youyin.madladsquad.com>
 1. [MadLadSquadSite](https://github.com/MadLadSquad/MadLadSquadSite) - the website for MadLadSquad. Hosted at <https://madladsquad.com>
+1. [pkggen-website](https://github.com/MadLadSquad/pkggen-website) - the official website for pkggen. Hosted at <https://pkggen.madladsquad.com>
 1. [hanzi-writer-data-others](https://github.com/MadLadSquad/hanzi-writer-data-others) - a hanzi-writer character database for all languages, except Chinese and Japanese \*
 1. [hanzi-writer-data-youyin](https://github.com/MadLadSquad/hanzi-writer-data-youyin) - a unified character database for youyin
 1. [YouyinPublicDeckRepository](https://github.com/MadLadSquad/YouyinPublicDeckRepository) - a repository containing all the public decks on the Youyin marketplace
