@@ -7,21 +7,20 @@ such as QT or GTK.
 
 The Linux desktop has been relying on QT and GTK for general desktop tasks to a point, where there is a general lack of small libraries
 that do individual tasks related to integrating with the underlying OS or desktop environment. Using these toolkits is great for applications
-that need the stability of these toolkits, or for applications that use most of what these toolkits provide, however why should authors of small
-applications that require only 1 or 2 features to work, need to pull such toolkits just because nobody bothered to create a small and pluggable
-alternative?
+that need their stability, or for applications that use most of the features that these toolkits provide. However, why should authors of small
+applications that require only 1 or 2 desktop features to work need to pull such toolkits, just because nobody bothered to create a small and 
+pluggable alternative to them?
 
 Additionally, with the consolidation of the Linux desktop, there will also be a gradual decrease in the general developer knowledge of how
 such desktop integrations work or function, leading to general problems with the entire Linux desktop development supply chain.
 
-The UntitledDesktopEnvironment project aims to fix this by creating a base for creating a desktop environment. The project strikes
+The UntitledDesktopEnvironment project aims to fix this by creating a base for creating an independent desktop environment. The project strikes
 a balance between using our own custom implementations and working with established Linux desktop standards. Finally, to fix the issue of
 depending on large toolkits in small projects, most desktop integrations we develop for our first-party applications are split
-into self-contained libraries that are always developed in a generic manner that makes them easy to implement in completely unrelated contexts.
+into self-contained libraries, which are always developed in a generic manner that makes them easy to implement in completely unrelated contexts.
 
-In many ways, one can think of the UntitledDesktopEnvironment as a framework for developing other desktop environment. A collection of generic
-reference implementations that developers can pick and choose from to their liking. This is largely why we use the "Untitled" prefix for almost
-every one of our applications and libraries 😁
+In many ways, one can think of the UntitledDesktopEnvironment as a collection of generic reference implementations that developers can pick and 
+choose from to their liking. This is largely why we use the "Untitled" prefix for almost every one of our applications and libraries 😁
 
 > [!WARNING]
 > The project is currently in limited development mode and is mainly focused on maintaining and adding new features to existing applications
