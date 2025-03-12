@@ -19,6 +19,10 @@ a balance between using our own custom implementations and working with establis
 depending on large toolkits in small projects, most desktop integrations we develop for our first-party applications are split
 into self-contained libraries that are always developed in a generic manner that makes them easy to implement in completely unrelated contexts.
 
+In many ways, one can think of the UntitledDesktopEnvironment as a framework for developing other desktop environment. A collection of generic
+reference implementations that developers can pick and choose from to their liking. This is largely why we use the "Untitled" prefix for almost
+every one of our applications and libraries 😁
+
 > [!WARNING]
 > The project is currently in limited development mode and is mainly focused on maintaining and adding new features to existing applications
 > and libraries, until suitable funding and/or a suitable number of contributors are found.
