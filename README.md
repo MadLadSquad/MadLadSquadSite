@@ -3,7 +3,8 @@ We're a decentralized team of developers, working on a wide variety of software.
 partial non-profit that uses most of its earnings on supporting open-source software.
 
 Since 2025, MadLadSquad has been in a strategic partnership with [Heapforge](https://heapforge.com), which is our for-profit
-software develoment wing. Income generated from projects developed by Heapforge gets redistributed to MadLadSquad at a 
+software develoment wing. Income generated from projects developed by Heapforge gets redistributed to MadLadSquad depending
+on the given project's reliance on a certain piece of open-source software.
 
 ## Games
 In the field of game development we create open source, highly moddable games. We prioritize player experience and we encourage all 
