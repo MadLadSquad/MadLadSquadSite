@@ -36,17 +36,17 @@ Here is a list of all our projects, sorted by complexity in descending order.
 Libraries and frameworks:
 
 1. [UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework) - a fully featured desktop application development toolkit using the [dear imgui](https://github.com/ocornut/imgui) UI library. Try an interactive demo at <https://uimgui.madladsquad.com>
-1. [pkggen](https://github.com/MadLadSquad/pkggen) - a tool for rubust automatic updating, testing and publishing of desktop packages for multiple package managers and operating systems at the same time
+1. [pkggen](https://github.com/MadLadSquad/pkggen) - a tool for rubust automatic updating, testing and publishing of desktop packages for multiple package managers and operating systems at the same time. [Homepage](https://pkggen.madladsquad.com)
 1. [UntitledImGuiFileBrowser](https://github.com/MadLadSquad/UntitledImGuiFileBrowser)\* - a file browser library for [dear imgui](https://github.com/ocornut/imgui) used by the [UntitledFileBrowser](https://github.com/MadLadSquad/UntitledFileBrowser) project 
 1. [UntitledI18N](https://github.com/MadLadSquad/UntitledI18N) - an internationalisation library with a custom YAML format written in C++
-1. [UntitledFontManager](https://github.com/MadLadSquad/UntitledFontManager) - a cross-platform font manager and fetcher library
+1. [UntitledFontManager](https://github.com/MadLadSquad/UntitledFontManager)\* - a cross-platform font manager and fetcher library
 1. [UntitledImGuiTextUtils](https://github.com/MadLadSquad/UntitledImGuiTextUtils) - a rich text rendering library for dear imgui
 1. [UntitledTemplatingEngine](https://github.com/MadLadSquad/UntitledTemplatingEngine) - a templating engine with a lisp-like programming language
 1. [UntitledDBusUtils](https://github.com/MadLadSquad/UntitledDBusUtils) - a C++ metaprogramming wrapper on top of the low level C DBus API that introduces memory- and type-safety
 1. [UntitledDesktopIcons](https://github.com/MadLadSquad/UntitledDesktopIcons)\* - a cross-platform C/C++ library for getting the default icons for applications or OS actions
 1. [UntitledOpen](https://github.com/MadLadSquad/UntitledOpen) - a cross-platform library for opening URLs or files with the default application/file picker
 1. [UVKBuildTool](https://github.com/MadLadSquad/UVKBuildTool) - a utility for assisting in the build process of the UntitledVulkanGameEngine and UntitledImGuiFramework with an additional static site generator functionality
-1. [cimgui_extra](https://github.com/MadLadSquad/cimgui_extra) - a collection of hand-written C bindings for a number of popular [dear imgui](https://github.com/ocornut/imgui) libraries
+1. [cimgui\_extra](https://github.com/MadLadSquad/cimgui_extra) - a collection of hand-written C bindings for a number of popular [dear imgui](https://github.com/ocornut/imgui) libraries
 1. [UntitledImGuiTheme](https://github.com/MadLadSquad/UntitledImGuiTheme) - a library for loading themes as YAML files for dear imgui
 1. [UntitledCLIParser](https://github.com/MadLadSquad/UntitledCLIParser) - a C/C++ parser for CLI arguments
 1. [UntitledLog](https://github.com/MadLadSquad/UntitledLog) - a C/C++ logging library
@@ -54,6 +54,7 @@ Libraries and frameworks:
 1. [UntitledRuntimeLibraryLoader](https://github.com/MadLadSquad/UntitledRuntimeLibraryLoader) - a cross-platform library for loading shared libraries at runtime
 1. [UntitledXDGBasedir](https://github.com/MadLadSquad/UntitledXDGBasedir) - a C/C++ implementation of the XDG Base directory and XDG home directory specifications
 1. [UntitledDesktopBootstrap](https://github.com/MadLadSquad/UntitledDesktopBootstrap)\* - a number of scripts for bootstrapping the UntitledDesktopEnvironment
+1. [UImGuiBgfx](https://github.com/MadLadSquad/UImGuiBgfx) - An example custom renderer implementation using [bgfx](https://github.com/bkaradzic/bgfx).
 
 Applications:
 
@@ -88,11 +89,15 @@ Libraries and applications:
 ### Games
 
 1. [UntitledVulkanGameEngine](https://github.com/MadLadSquad/UntitledVulkanGameEngineOld) - the UntitledVulkanGameEngine source code
+1. UntitledCubeRotator - A fun showcase of the custom renderer capabilities of the [UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework)
 
 ### Misc
 
 1. [MadLadSquadBot](https://github.com/MadLadSquad/MadLadSquadBot) - the discord bot for the MadLadSquad discord server
 1. [UntitledDesktopOverlay](https://github.com/MadLadSquad/UntitledDesktopOverlay) - a Gentoo/Funtoo overlay for the UntitledDesktopEnvironment
+1. [UntitledDesktopAUR](https://github.com/MadLadSquad/UntitledDesktopAUR) - All our AUR packages. [AUR page](https://aur.archlinux.org/account/MadLadSquad)
+1. [UntitledDesktopRPM](https://github.com/MadLadSquad/UntitledDesktopRPM) - All our RPM packages. [Homepage](https://rpms.madladsquad.com)
+1. [UntitledDesktopDEB](https://github.com/MadLadSquad/UntitledDesktopDEB) - All our DEB packages. [Homepage](https://debs.madladsquad.com)
 1. [SpotifyUtilities](https://github.com/MadLadSquad/SpotifyUtilities) - scripts for fetching data from official and unofficial Spotify APIs used for my old social media page
 1. [ChitankaExtractor](https://github.com/MadLadSquad/ChitankaExtractor) - a number of scripts for extracting data from <https://chitanka.info> book archives
 1. [check-for-synced-branches-action](https://github.com/MadLadSquad/check-for-synced-branches-action) - a GitHub action that checks if 2 branches are in sync and outputs by how many commits they diverge
