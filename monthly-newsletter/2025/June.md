@@ -25,9 +25,9 @@ The goals for 1.3 and 1.4 are to:
 1. Optional: Try to add Wayland support for missing platform functions or move platform functions to SDL3 if supported there
 1. Document the entire move to SDL3
 
-### UImGuiBgfx
-The [UImGuiBgfx](https://github.com/MadLadSquad/UImGuiBgfx) project is a new example that showcases the abilities of the new pluggable
-renderer interface using the popular [bgfx](https://github.com/bkaradzic/bgfx) renderer library
+### UImGuiRendererExamples
+The [UImGuiRendererExamples](https://github.com/MadLadSquad/UImGuiRendererExamples) project is a library with example renderers based on the
+Metal, DirectX11 and Direct12 APIs, as well as providing an API-agnostic renderer, utilising the popular [bgfx](https://github.com/bkaradzic/bgfx) renderer library
 
 ## pkggen
 We might also start the development of [pkggen](https://pkggen.madladsquad.com) this month too.
