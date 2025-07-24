@@ -17,4 +17,4 @@ They will contain the following:
    - Document the move to SDL3
   
 ## pkggen
-THe development of [pkggen](https://pkggen.madladsquad.com) will begin around the end of the month.
+The development of [pkggen](https://pkggen.madladsquad.com) will begin around the end of the month.
