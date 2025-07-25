@@ -119,36 +119,38 @@ your donation if you have any project in mind. We donate 50% of the proceedings 
 (based on the specific project).
 
 ## Monthly newsletter
-1. 2023
-    1. [May](https://madladsquad.com/monthly-newsletter/2023/May)
-    1. [June](https://madladsquad.com/monthly-newsletter/2023/June)
-    1. [July](https://madladsquad.com/monthly-newsletter/2023/July)
-    1. [August](https://madladsquad.com/monthly-newsletter/2023/August)
-    1. [September](https://madladsquad.com/monthly-newsletter/2023/September)
-    1. [October](https://madladsquad.com/monthly-newsletter/2023/October)
-    1. [November](https://madladsquad.com/monthly-newsletter/2023/November)
-    1. [December](https://madladsquad.com/monthly-newsletter/2023/December)
-1. 2024
-    1. [January](https://madladsquad.com/monthly-newsletter/2024/January)
-    1. [February](https://madladsquad.com/monthly-newsletter/2024/February)
-    1. [March](https://madladsquad.com/monthly-newsletter/2024/March)
-    1. [April](https://madladsquad.com/monthly-newsletter/2024/April)
-    1. [May](https://madladsquad.com/monthly-newsletter/2024/May)
-    1. [June](https://madladsquad.com/monthly-newsletter/2024/June)
-    1. [July](https://madladsquad.com/monthly-newsletter/2024/July)
-    1. [August](https://madladsquad.com/monthly-newsletter/2024/August)
-    1. [September](https://madladsquad.com/monthly-newsletter/2024/September)
-    1. [October](https://madladsquad.com/monthly-newsletter/2024/October)
-    1. [November](https://madladsquad.com/monthly-newsletter/2024/November)
-    1. [December](https://madladsquad.com/monthly-newsletter/2024/December)
-1. 2025
-    1. [January](https://madladsquad.com/monthly-newsletter/2025/January)
-    1. [February](https://madladsquad.com/monthly-newsletter/2025/February)
-    1. [March](https://madladsquad.com/monthly-newsletter/2025/March)
-    1. [April](https://madladsquad.com/monthly-newsletter/2025/April)
-    1. [May](https://madladsquad.com/monthly-newsletter/2025/May)
-    1. [June](https://madladsquad.com/monthly-newsletter/2025/June)
-    1. [July](https://madladsquad.com/monthly-newsletter/2025/July) 
+
+- 2023
+  1. [May](https://madladsquad.com/monthly-newsletter/2023/May)
+  1. [June](https://madladsquad.com/monthly-newsletter/2023/June)
+  1. [July](https://madladsquad.com/monthly-newsletter/2023/July)
+  1. [August](https://madladsquad.com/monthly-newsletter/2023/August)
+  1. [September](https://madladsquad.com/monthly-newsletter/2023/September)
+  1. [October](https://madladsquad.com/monthly-newsletter/2023/October)
+  1. [November](https://madladsquad.com/monthly-newsletter/2023/November)
+  1. [December](https://madladsquad.com/monthly-newsletter/2023/December)
+- 2024
+  1. [January](https://madladsquad.com/monthly-newsletter/2024/January)
+  1. [February](https://madladsquad.com/monthly-newsletter/2024/February)
+  1. [March](https://madladsquad.com/monthly-newsletter/2024/March)
+  1. [April](https://madladsquad.com/monthly-newsletter/2024/April)
+  1. [May](https://madladsquad.com/monthly-newsletter/2024/May)
+  1. [June](https://madladsquad.com/monthly-newsletter/2024/June)
+  1. [July](https://madladsquad.com/monthly-newsletter/2024/July)
+  1. [August](https://madladsquad.com/monthly-newsletter/2024/August)
+  1. [September](https://madladsquad.com/monthly-newsletter/2024/September)
+  1. [October](https://madladsquad.com/monthly-newsletter/2024/October)
+  1. [November](https://madladsquad.com/monthly-newsletter/2024/November)
+  1. [December](https://madladsquad.com/monthly-newsletter/2024/December)
+- 2025
+  1. [January](https://madladsquad.com/monthly-newsletter/2025/January)
+  1. [February](https://madladsquad.com/monthly-newsletter/2025/February)
+  1. [March](https://madladsquad.com/monthly-newsletter/2025/March)
+  1. [April](https://madladsquad.com/monthly-newsletter/2025/April)
+  1. [May](https://madladsquad.com/monthly-newsletter/2025/May)
+  1. [June](https://madladsquad.com/monthly-newsletter/2025/June)
+  1. [July](https://madladsquad.com/monthly-newsletter/2025/July)
+  1. [August](https://madladsquad.com/monthly-newsletter/2025/August)
 
 ## Other pages
 ### Documentation
