@@ -22,6 +22,12 @@ Release 2.0 is live bringing in a number of improvements, including:
 ### pkggen
 Development of pkggen is starting this month.
 
+### UntitledDBusUtils 2.0
+We fixed a number of issues with [UntitledDBusUtils](https://github.com/MadLadSquad/UntitledDBusUtils), including incorrect
+serialisation and deserialisation of certain data structures.
+
+Some small breaking changes were introduced, but adaptation should be easy for the most part.
+
 ## MadLadSquad / Heapforge
 ### MadLadSquad
 Since version 2.0 of the [UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework) 99% of the features we expect the framework to have are now provided, therefore, the
@@ -45,4 +51,3 @@ Development at Heapforge is now centering around the following projects starting
 1. Parallel to the youyin upgrade we're starting development of Schrift Studio - a tool for professional font editing
 1. Tiny.lol is going to be starting development again with a 1.0 release being planned by the middle of 2026
 1. The heapforge website - December 31st
-1. 
