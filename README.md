@@ -55,6 +55,7 @@ Libraries and frameworks:
 1. [UntitledXDGBasedir](https://github.com/MadLadSquad/UntitledXDGBasedir) - a C/C++ implementation of the XDG Base directory and XDG home directory specifications
 1. [UntitledDesktopBootstrap](https://github.com/MadLadSquad/UntitledDesktopBootstrap)\* - a number of scripts for bootstrapping the UntitledDesktopEnvironment
 1. [UImGuiRendererExamples](https://github.com/MadLadSquad/UImGuiRendererExamples) - Example custom renderers for the [UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework)
+1. [UImGuiSDL](https://github.com/MadLadSquad/UImGuiSDL) - Example custom windowing backend for the [UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework) based on SDL3
 
 Applications:
 
