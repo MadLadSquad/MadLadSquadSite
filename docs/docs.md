@@ -21,3 +21,4 @@ You can find documentation for the following projects here:
 - [UntitledFlipperZero](https://madladsquad.com/docs/UntitledFlipperZero/Home)
 - [cimgui\_extra](https://madladsquad.com/docs/cimgui_extra/Home)
 - [UImGuiRendererExamples](https://madladsquad.com/docs/UImGuiRendererExamples/Home)
+- [pkggen](https://madladsquad.com/docs/pkggen/Home)

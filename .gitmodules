@@ -67,3 +67,6 @@
 [submodule "docs/UImGuiRendererExamples"]
 	path = docs/UImGuiRendererExamples
 	url = https://github.com/MadLadSquad/UImGuiRendererExamples.wiki.git
+[submodule "docs/pkggen"]
+	path = docs/pkggen
+	url = https://github.com/MadLadSquad/pkggen.wiki.git
