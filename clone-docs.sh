@@ -38,5 +38,6 @@ add_sidebar UntitledOpen
 add_sidebar UntitledDBusUtils
 add_sidebar UntitledFlipperZero
 add_sidebar UntitledLog
+add_sidebar pkggen
 
 find ./ -type f -exec sed -i -E 's/https:\/\/github\.com\/MadLadSquad\/(.*)\/wiki/https:\/\/madladsquad\.com\/docs\/\1/g' {} \;
