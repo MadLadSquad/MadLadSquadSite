@@ -9,14 +9,3 @@ adopted, there's no way to guarantee stable support for it.
 
 Therefore, we decided that we will be temporarily removing the WebGPU renderer until 2027. We think that this will be enough time for
 browsers to sync up with the JSPI standard and for us to be able to integrate this renderer once again.
-
-## pkggen
-We are planning on releasing the following versions of pkggen this month:
-
-1. 0.2 - Gentoo ebuild support
-1. 0.3 - Arch pkgbuild support
-
-Each of these packaging formats will not only have a package generator, but also a repository generator.
-
-We're planning to release versions 0.4 - 0.6 by the end of December and versions 0.7 - 0.9 by the end of January. 
-We expect for the 1.0 release to be ready by the middle of February.
