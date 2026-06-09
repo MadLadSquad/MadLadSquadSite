@@ -1,4 +1,4 @@
-Welcome to the April 2025 edition of the monthly newsletter
+Welcome to the April 2025 edition of the monthly newsletter.
 
 ## UntitledDesktop
 ### Plans for UntitledImGuiFramework v1.1 - v1.3

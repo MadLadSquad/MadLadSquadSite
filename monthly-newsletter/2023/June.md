@@ -17,17 +17,17 @@ The framework is still not done for release 0.5. Currently, the following featur
 - [ ] Finishing the [UntitledTemplatingEngine](https://github.com/MadLadSquad/UntitledTemplatingEngine)
 - [ ] Rewriting the [UVKBuildTool](https://github.com/MadLadSquad/UVKBuildTool) to use the templating engine
 
-We estimate 0.5.0.0 that would be released around the end of July. The most meaningful features, such as the reworked build
-and export system will be released by the end of June.
+We estimate that 0.5.0.0 would be released around the end of July. The most meaningful features, such as the reworked build
+and export system, will be released by the end of June.
 
 ## Multilingual
 The current tasks for the multilingual project are as follows:
 
 - [ ] Cooperation with the [i18n subproject](https://madladsquad.com/untitled-desktop/subprojects/i18n) on the custom i18n
 library for the framework
-- [ ] Creating a static site component based system for [Youyin](https://youyin.madladsquad.com/) using the templating engine
+- [ ] Creating a static-site component-based system for [Youyin](https://youyin.madladsquad.com/) using the templating engine
 - [ ] Figuring out how to add more character data to [Youyin](https://youyin.madladsquad.com/)
-- [ ] Auto-genning the Adobe SourcePro and Google Noto fonts in Funtoo linux, [FL-10383](https://bugs.funtoo.org/browse/FL-10383)
+- [ ] Auto-generating the Adobe SourcePro and Google Noto fonts in Funtoo Linux, [FL-10383](https://bugs.funtoo.org/browse/FL-10383)
 - [ ] Rework the MadLadSquad website
 
 ### New MadLadSquad website

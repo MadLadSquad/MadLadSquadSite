@@ -21,11 +21,11 @@ Steps to reproduce the behaviour:
 A clear and concise description of what you expected to happen.
 
 **Screenshots**
-Share screenshots if any
+Share screenshots if any.
 
 **Technical information**
--   OS: (eg. Windows)
--   Release: (eg. 0.5.1)
+-   OS: (e.g. Windows)
+-   Release: (e.g. 0.5.1)
 -   Any other applicable technical information
 
 **Additional context**

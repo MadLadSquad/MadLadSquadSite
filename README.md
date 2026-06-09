@@ -1,17 +1,17 @@
 # About us
-We're a decentralized team of developers, working on a wide variety of software. The goal of this organisation is to act as a
+We're a decentralised team of developers, working on a wide variety of software. The goal of this organisation is to act as a
 partial non-profit that uses most of its earnings on supporting open-source software.
 
 Since 2025, MadLadSquad has been in a strategic partnership with [Heapforge](https://heapforge.com), which is our for-profit
-software develoment wing. Income generated from projects developed by Heapforge gets redistributed to MadLadSquad depending
+software development wing. Income generated from projects developed by Heapforge gets redistributed to MadLadSquad depending
 on the given project's reliance on a certain piece of open-source software.
 
 ## Games
-In the field of game development we create open source, highly moddable games. We prioritize player experience and we encourage all 
+In the field of game development, we create open-source, highly moddable games. We prioritise player experience and we encourage all
 our players to work together with us in creating great digital experiences.
 
-Depending on the project, we can use ready solutions, such as Unreal Engine for our software stack. For projects with more complex
-requirements we also have experience developing custom game engines from scratch.
+Depending on the project, we can use ready-made solutions, such as Unreal Engine, for our software stack. For projects with more complex
+requirements, we also have experience developing custom game engines from scratch.
 
 ## The UntitledDesktopEnvironment
 The [UntitledDesktopEnvironment](https://madladsquad.com/desktop) is a project that aims to create a completely independent
@@ -36,13 +36,13 @@ Here is a list of all our projects, sorted by complexity in descending order.
 Libraries and frameworks:
 
 1. [UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework) - a fully featured desktop application development toolkit using the [dear imgui](https://github.com/ocornut/imgui) UI library. Try an interactive demo at <https://uimgui.madladsquad.com>
-1. [pkggen](https://github.com/MadLadSquad/pkggen) - a tool for rubust automatic updating, testing and publishing of desktop packages for multiple package managers and operating systems at the same time. [Homepage](https://pkggen.madladsquad.com)
+1. [pkggen](https://github.com/MadLadSquad/pkggen) - a tool for robust automatic updating, testing and publishing of desktop packages for multiple package managers and operating systems at the same time. [Homepage](https://pkggen.madladsquad.com)
 1. [UntitledImGuiFileBrowser](https://github.com/MadLadSquad/UntitledImGuiFileBrowser)\* - a file browser library for [dear imgui](https://github.com/ocornut/imgui) used by the [UntitledFileBrowser](https://github.com/MadLadSquad/UntitledFileBrowser) project 
 1. [UntitledI18N](https://github.com/MadLadSquad/UntitledI18N) - an internationalisation library with a custom YAML format written in C++
 1. [UntitledFontManager](https://github.com/MadLadSquad/UntitledFontManager)\* - a cross-platform font manager and fetcher library
 1. [UntitledImGuiTextUtils](https://github.com/MadLadSquad/UntitledImGuiTextUtils) - a rich text rendering library for dear imgui
 1. [UntitledTemplatingEngine](https://github.com/MadLadSquad/UntitledTemplatingEngine) - a templating engine with a lisp-like programming language
-1. [UntitledDBusUtils](https://github.com/MadLadSquad/UntitledDBusUtils) - a C++ metaprogramming wrapper on top of the low level C DBus API that introduces memory- and type-safety
+1. [UntitledDBusUtils](https://github.com/MadLadSquad/UntitledDBusUtils) - a C++ metaprogramming wrapper on top of the low-level C DBus API that introduces memory- and type-safety
 1. [UntitledDesktopIcons](https://github.com/MadLadSquad/UntitledDesktopIcons)\* - a cross-platform C/C++ library for getting the default icons for applications or OS actions
 1. [UntitledOpen](https://github.com/MadLadSquad/UntitledOpen) - a cross-platform library for opening URLs or files with the default application/file picker
 1. [UVKBuildTool](https://github.com/MadLadSquad/UVKBuildTool) - a utility for assisting in the build process of the UntitledVulkanGameEngine and UntitledImGuiFramework with an additional static site generator functionality
@@ -163,7 +163,7 @@ your donation if you have any project in mind. We donate 50% of the proceedings 
 
 ## Other pages
 ### Documentation
-Copy of the docs for these repos(docs can also be found in their respective wiki page on github):
+Copy of the docs for these repos (docs can also be found in their respective wiki page on GitHub):
 
 - [UntitledVulkanGameEngine](https://madladsquad.com/docs/UntitledVulkanGameEngine/Home)
 - [UntitledImGuiFramework](https://madladsquad.com/docs/UntitledImGuiFramework/Home)

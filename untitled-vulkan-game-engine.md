@@ -1,7 +1,7 @@
-The UntitledVulkanGameEngine project is our custom general purpose game engine made in C++. Our goal is to make an easy to use, high performance, moddable
+The UntitledVulkanGameEngine project is our custom general-purpose game engine made in C++. Our goal is to make an easy-to-use, high-performance, moddable
 game engine that can be used for both 3D and 2D games.
 
-We curently have a stable scripting API, a stable editor UI, somewhat stable C and C++ modding and plugins API and a somewhat stable Vulkan renderer.
+We currently have a stable scripting API, a stable editor UI, a somewhat stable C and C++ modding and plugins API and a somewhat stable Vulkan renderer.
 
 Features to be added in the next 1-2 years:
 
@@ -25,17 +25,17 @@ Features to be added in the next 1-2 years:
 1. HDR
 1. Bloom
 1. Gamma correction
-1. Frustrum culling
+1. Frustum culling
 1. Cascaded shadow maps
-1. Tesselation
+1. Tessellation
 1. Networking
 
 Most of the features listed here will be ready for version 1.0 when it drops sometime in 2025. Development of these features will begin in 2023 as we're
 currently preparing for the release of Alpha 1.0 of the game engine, as well as the release of a number of applications part of the UntitledDesktop
 project, which unfortunately has a lot of overlap with the engine
 
-For more organization info, look at our [trello board](https://trello.com/b/0upjsxT0/untitledvukangameengine)
+For more organisation info, look at our [Trello board](https://trello.com/b/0upjsxT0/untitledvukangameengine)
 
-For source code and documentation, look at our github repository [here](https://github.com/MadLadSquad/UntitledVulkanGameEngine)
+For source code and documentation, look at our GitHub repository [here](https://github.com/MadLadSquad/UntitledVulkanGameEngine)
 
 This page will be expanded soon with a showcase section and more

@@ -18,18 +18,18 @@ The plan for 1.2, 1.3 and 1.4 is to:
 1. Redesign the window interface to use SDL3
 1. Add additional build options for SDL3 in the build system
 1. Completely move to SDL3
-1. Apply SDL3 improvements(DPI scaling, copy-paste in WASM, etc)
+1. Apply SDL3 improvements (DPI scaling, copy-paste in WASM, etc.)
 1. Optional: Try to add Wayland support for missing platform functions or move platform functions to SDL3 if supported there
 1. Document the entire move to SDL3
 1. Generate C bindings for implot
-1. Create an adapter over OS-native and imgui-native menu bar drawing(mainly for macOS systems)
+1. Create an adapter over OS-native and imgui-native menu bar drawing (mainly for macOS systems)
 1. Rework or remove titlebar components completely
 1. Document all new features
 
 Release 1.1 should be done by the end of the month. Releases 1.2, 1.3 and 1.4 should be done by the end of August.
 
 ### pkggen
-Development of pkggen will start in July after at least release 1.1 and 1.2 are done.
+Development of pkggen will start in July, after at least releases 1.1 and 1.2 are done.
 
 ## Heapforge
 ### Tiny.lol

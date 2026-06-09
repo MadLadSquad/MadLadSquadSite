@@ -5,7 +5,7 @@ Welcome to the June 2024 monthly newsletter.
 These releases feature the following changes:
 
 1. Updated version of UntitledOpen
-1. Moveable client-side bar
+1. Movable client-side bar
 1. Fixed many minor warnings
 1. Removed obsolete code
 1. Added full official macOS support
@@ -26,18 +26,18 @@ It can do the following:
 Version 0.3 will bring experimental support for Freedesktop environments.
 
 ### Starting work on the UntitledImGuiFileBrowser
-[Nick](https://github.com/fami-fish) started work on the [UntitledImGuiFileBrowser](https://github.com/MadLadSquad/UntitledImGuiFileBrowser), a general usage file browser for dear imgui.
+[Nick](https://github.com/fami-fish) started work on the [UntitledImGuiFileBrowser](https://github.com/MadLadSquad/UntitledImGuiFileBrowser), a general-usage file browser for dear imgui.
 
-This widget will be used as a base for develogin the [UntitledFileManager](https://github.com/UntitledFileManager), a cross-platform, featureful, file manager application.
+This widget will be used as a base for developing the [UntitledFileManager](https://github.com/UntitledFileManager), a cross-platform, feature-rich file manager application.
 
 ## Misc projects
 ### UntitledFlipperZero 1.0
 We wanted to create a to-do list application for the [Flipper Zero](https://flipperzero.one), so we decided to write a C++ library on top of
-the C GUI API. The library is called [UntitledFlipperZero](https://github.com/MadLadSquad/UntitledFlipperZero). It is relatively thin abstraction layer that allows you to write complex user interfaces with up to 3x less LoC.
+the C GUI API. The library is called [UntitledFlipperZero](https://github.com/MadLadSquad/UntitledFlipperZero). It is a relatively thin abstraction layer that allows you to write complex user interfaces with up to 3x less LoC.
 
 ### FlipperTasks 1.0
-[FlipperTasks](https://github.com/MadLadSquad/FlipperTasks) is our first application for the [Flipper Zero](https://flipperzero.one). You can download it from the Flipper Apps Catalogue, [here](https://lab.flipper.net/apps/tasks).
+[FlipperTasks](https://github.com/MadLadSquad/FlipperTasks) is our first application for the [Flipper Zero](https://flipperzero.one). You can download it from the Flipper Apps Catalogue [here](https://lab.flipper.net/apps/tasks).
 
 ## Organisation
 ### New hardware
-The organisation is now owns a MacBook, which will allow us to finally port all applications to macOS and other platforms.
+The organisation now owns a MacBook, which will allow us to finally port all applications to macOS and other platforms.

@@ -2,19 +2,19 @@ Welcome to the July 2023 edition of the monthly newsletter.
 
 ## UntitledDesktop
 ### The framework can be deployed
-Due to a couple of commits in June, the framework can finally be cleanly deployed and packaged by most packaging systems. 
-Current applications, except the [UntitledGameSystemManager](https://github.com/MadLadSquad/UntitledGameSystemManager), 
-can be deployed to all major packaging formats as is. The game manager requires some additional work on the package side, 
-due to it using a golang library.
+Due to a couple of commits in June, the framework can finally be cleanly deployed and packaged by most packaging systems.
+Current applications, except the [UntitledGameSystemManager](https://github.com/MadLadSquad/UntitledGameSystemManager),
+can be deployed to all major packaging formats as is. The game manager requires some additional work on the package side,
+due to it using a Go library.
 
 All features can be found in the 
 [previous month's newsletter](https://madladsquad.com/monthly-newsletter/2023/June#untitledimguiframework-0500-part-2).
 
 ### UntitledImGuiFramework 0.5.0.0
-Since the framework can finally be deployed, we are doing final code reviews for releasing 0.5.0.0. It should release by the 2nd 
+Since the framework can finally be deployed, we are doing final code reviews for releasing 0.5.0.0. It should release by the 2nd
 of July.
 
-After that we have the following tasks:
+After that, we have the following tasks:
 
 1. Create a custom i18n library
 1. Finish the [UntitledTemplatingEngine](https://github.com/MadLadSquad/UntitledTemplatingEngine)
@@ -41,12 +41,12 @@ all functions needed by such an implementation, it also includes features such a
 1. Finding the user trash directory
 1. Creating non-existent directories
 
-Release 1.0 and 2.0 were released on the 9th and 15th of July respectively.
+Releases 1.0 and 2.0 were released on the 9th and 15th of July respectively.
 
 ### UntitledImGuiTextUtils
-This month we will also introduce the 1.0 release of the 
+This month we will also introduce the 1.0 release of the
 [UntitledImGuiTextUtils](https://github.com/MadLadSquad/UntitledImGuiTextUtils) library. It's a library for rendering rich text
-and markup in dear imgui. Expected 1.0 release is July 17th.
+and markup in dear imgui. The expected 1.0 release is July 17th.
 
 ### UntitledGameSystemManager 1.0
 The 1.0 release of the [UntitledGameSystemManager](https://github.com/MadLadSquad/UntitledGameSystemManager) is finally live as of
@@ -65,24 +65,24 @@ This brings the following benefits:
 
 ### UntitledDesktopBootstrap 0.1.0.0
 The first experimental release of the [UntitledDesktopBootstrap](https://github.com/MadLadSquad/UntitledDestkopBootstrap)
-project is live. Currently, no session is created by the `xinitrc` so no desktop can actually be launched but is a good starting
-point for developing further our DE's initial setup and startup capabilities.
+project is live. Currently, no session is created by the `xinitrc`, so no desktop can actually be launched, but it is a good starting
+point for further developing our DE's initial setup and startup capabilities.
 
 ## Multilingual
 The current tasks for the multilingual project are as follows:
 
 - [ ] Creating the custom i18n library for the framework
-- [ ] Creating a static site component based system for Youyin using the templating engine
+- [ ] Creating a static-site component-based system for Youyin using the templating engine
 - [ ] Adding more data to [Youyin](https://youyin.madladsquad.com/) and sister projects
-- [ ] Auto-genning the Adobe SourcePro and Google Noto fonts in Funtoo Linux, [FL-10383](https://bugs.funtoo.org/browse/FL-10383)
+- [ ] Auto-generating the Adobe SourcePro and Google Noto fonts in Funtoo Linux, [FL-10383](https://bugs.funtoo.org/browse/FL-10383)
 - [ ] Rework the MadLadSquad website
 
 ### Phrases in Youyin
-A new feature will be added to Youyin that would allow the user to practice words at the end of the session. In simple terms, 
-the user will first have to go through the entire deck of single character cards as currently, but when the cards end, 
-he/she will be prompted with words that use the previous cards. This will make learning way more effective for Chinese 
-languages as the user learns both the meaning of the character and how it fits into a word.
+A new feature will be added to Youyin that would allow the user to practise words at the end of the session. In simple terms,
+the user will first have to go through the entire deck of single-character cards as currently, but when the cards end,
+they will be prompted with words that use the previous cards. This will make learning way more effective for Chinese
+languages, as the user learns both the meaning of the character and how it fits into a word.
 
 ### Working on finishing the UntitledTemplatingEngine
-Work on finishing the [UntitledTemplatingEngine](https://github.com/MadLadSquad/UntitledTemplatingEngine) is restarting this 
+Work on finishing the [UntitledTemplatingEngine](https://github.com/MadLadSquad/UntitledTemplatingEngine) is restarting this
 month. We hope to get it released by the end of August 2023.

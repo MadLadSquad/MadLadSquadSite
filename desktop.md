@@ -1,14 +1,14 @@
 ## Introduction to the desktop environment and its applications
-The UntitledDesktopEnvironment(shortened to UntitledDesktop or UDE) is an experimental homebrew desktop environment base for Linux and other operating
+The UntitledDesktopEnvironment (shortened to UntitledDesktop or UDE) is an experimental homebrew desktop environment base for Linux and other operating
 systems that use components made by the [freedesktop foundation](https://freedesktop.org).
 
 The main goal of UDE is to explore the development of Linux desktop technologies that are independent of large desktop development toolkits,
-such as QT or GTK. 
+such as Qt or GTK.
 
-The Linux desktop has been relying on QT and GTK for general desktop tasks to a point, where there is a general lack of small libraries
+The Linux desktop has been relying on Qt and GTK for general desktop tasks to a point where there is a general lack of small libraries
 that do individual tasks related to integrating with the underlying OS or desktop environment. Using these toolkits is great for applications
 that need their stability, or for applications that use most of the features that these toolkits provide. However, why should authors of small
-applications that require only 1 or 2 desktop features to work need to pull such toolkits, just because nobody bothered to create a small and 
+applications that require only 1 or 2 desktop features to work need to pull in such toolkits, just because nobody bothered to create a small and
 pluggable alternative to them?
 
 Additionally, with the consolidation of the Linux desktop, there will also be a gradual decrease in the general developer knowledge of how
@@ -30,15 +30,15 @@ choose from to their liking. This is largely why we use the "Untitled" prefix fo
 
 <img style="width: 200px; height: 200px; overflow: scroll;" src="https://madladsquad.com/uimgui.svg"/>
 
-The [UntiltedImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework) is a cross-platform
+The [UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework) is a cross-platform
 desktop application development toolkit that utilises [dear imgui](https://github.com/ocornut/imgui) as its
 UI library.
 
-The goal of the framework is to build on top of [dear imgui](https://github.com/ocornut/imgui)'s easy to use and
+The goal of the framework is to build on top of [dear imgui](https://github.com/ocornut/imgui)'s easy-to-use and
 versatile UI library by creating a pleasant development environment for developing desktop applications with complex
 requirements.
 
-It abstracts away many of the boilerplate-ey bits of developing a [dear imgui](https://github.com/ocornut/imgui) application
+It abstracts away many of the boilerplate-y bits of developing a [dear imgui](https://github.com/ocornut/imgui) application
 from scratch, while bundling a number of useful widgets and libraries for integrating with the host operating system or
 desktop environment.
 
@@ -55,7 +55,7 @@ The UntitledApplicationSuite is a collection of first-party applications that us
 1. [UntitledIBusHandwriting](https://github.com/MadLadSquad/UntitledIBusHandwriting)
 
 ### UntitledDesktopEnvironment's native desktop components
-The following applications constitute the UntiltedDesktopEnvironment's base desktop tooling:
+The following applications constitute the UntitledDesktopEnvironment's base desktop tooling:
 
 1. [UntitledDESessionLogout](https://github.com/MadLadSquad/UntitledDESessionLogout)
 
@@ -67,7 +67,7 @@ We have the following goals:
 
 1. User freedom
 1. Cross-desktop compatibility
-1. A fully community-centered approach to development
+1. A fully community-centred approach to development
 1. A great UX, no matter the level of the user's knowledge
 1. A fully modifiable and hackable application suite out of the box
 1. A great multilingual experience
@@ -90,8 +90,8 @@ programming language.
 
 #### How do we achieve this?
 
-1. The desktop is developed as a bunch of swapable modules, rather than a fully integrated solution
-1. Applications are built as self-contained atoms that don't necessarily depend on any other UDE application(not necessarily when talking about libraries)
+1. The desktop is developed as a bunch of swappable modules, rather than a fully integrated solution
+1. Applications are built as self-contained atoms that don't necessarily depend on any other UDE application (not necessarily when talking about libraries)
 1. Documentation of features is our top priority when developing any feature. The moment it is pushed to a repository, it
 should be fully documented
 1. For formats such as foreign themes, we build multidirectional adapters and conversion tools
@@ -112,18 +112,18 @@ Make all applications have UI and docs in multiple languages, allow for easy tra
 More information about the subproject can be found [here](https://madladsquad.com/untitled-desktop/subprojects/i18n).
 
 ### A great distribution experience
-Through tools, such as [pkggen](https://pkggen.madladsquad.com), the UntitledDesktopEnvironment is being built to be
-distributed as widely as possible in a sustainable matter.
+Through tools such as [pkggen](https://pkggen.madladsquad.com), the UntitledDesktopEnvironment is being built to be
+distributed as widely as possible in a sustainable manner.
 
 ### A great theming experience
 We aim to achieve a great theming experience in the following ways:
 
 1. We use a simple YAML format for themes
-1. Themes are minimal and only cover colours and sizes of some elements(in contrast to Gnome CSS files)
+1. Themes are minimal and only cover colours and sizes of some elements (in contrast to GNOME CSS files)
 1. Restricting theming only to the colours and scaling of an application
-1. Multi-directional compatibility tools for converting themes between the theme formats of other desktops:
-    - They allow us to use the large collection of already available GTK and QT themes
-    - They allow us to generate GTK and QT themes on the fly, so that the user doesn't have to deal with matching and setting them 
+1. Multidirectional compatibility tools for converting themes between the theme formats of other desktops:
+    - They allow us to use the large collection of already available GTK and Qt themes
+    - They allow us to generate GTK and Qt themes on the fly, so that the user doesn't have to deal with matching and setting them
       separately
 1. Themes have full inheritance: an application can use the root global theme or inherit from another application's
 1. Themes are not forced on developers: Turning off theming support doesn't require an action from the developer when using

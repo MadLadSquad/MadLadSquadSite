@@ -10,9 +10,9 @@ The 1.5.0.0 release of the [UntitledImGuiTextUtils](https://github.com/MadLadSqu
 improvements, including a C API, `va_list` specialisations of variadic functions and more.
 
 ### Cleaning up all codebases
-Due to a lot of our code being coupled with legacy constructs from the 
-[UntitledVulkanGameEngine](https://github.com/MadLadSquad/UntitledVulkanGameEngineOld), some large parts of our code has had some legacy
-naming remaining. In preparation for [UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework) 0.9.8.0 we decided
+Due to a lot of our code being coupled with legacy constructs from the
+[UntitledVulkanGameEngine](https://github.com/MadLadSquad/UntitledVulkanGameEngineOld), some large parts of our code have had some legacy
+naming remaining. In preparation for [UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework) 0.9.8.0, we decided
 to clean up these references and make the code more modern.
 
 ### cimgui_extra 1.0

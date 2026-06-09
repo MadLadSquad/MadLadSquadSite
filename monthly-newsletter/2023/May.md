@@ -1,5 +1,5 @@
-Welcome to the May 2023 monthly newsletter. This is the first issue of the Monthly newsletter series. We think this can make it 
-easier for followers of the project to be informed with what changes every month.
+Welcome to the May 2023 monthly newsletter. This is the first issue of the monthly newsletter series. We think this can make it
+easier for followers of the project to be informed of what changes every month.
 
 ## Games
 While we didn't have much activity in the games department in the last year, we have done some planning. 
@@ -9,9 +9,9 @@ Mainly, we're planning to completely remake the
 backend so that changes in the framework make their way to the game engine. This will break current API, but will not be a major 
 breakage.
 
-When starting development on the framework, we actually forked the game engine and made modifications to the API to make it 
-smaller, more minimal, have better naming, documentation and more. The same familiar API structure is still there though, 
-which means that switching to the new version of the game engine should be pretty straight forward, excluding some changes 
+When starting development on the framework, we actually forked the game engine and made modifications to the API to make it
+smaller, more minimal, have better naming, documentation and more. The same familiar API structure is still there though,
+which means that switching to the new version of the game engine should be pretty straightforward, excluding some changes
 in systems like the `Input` interface.
 
 We still don't have a roadmap for this fork, but we will keep you updated.
@@ -22,7 +22,7 @@ For at least 2 months, we have been preparing for the first release of the
 [UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework). These are the current tasks for 0.5.0.0:
 
 - [ ] Reworked build system
-    - Includes including install statements to cmake
+    - Includes adding install statements to CMake
     - Creating the different library layout systems
 - [ ] Threads system
 - [ ] Production export system
@@ -36,7 +36,7 @@ For at least 2 months, we have been preparing for the first release of the
 - [x] Greatly expand the Window interface
 - [x] Allow for X11 semantic window types, allows us to start UDE Flow
 
-Please note, that 0.5.0.0 will not release this month. Though most features listed above will be completed this month, 
+Please note that 0.5.0.0 will not release this month. Though most features listed above will be completed this month,
 expect the actual release somewhere in June or July at the earliest.
 
 ### UntitledLinuxGameManager
@@ -60,7 +60,7 @@ features:
 We're working on getting 1.0.0.0 ready for the middle of July.
 
 ## Multilingual
-In the multilingual department, May, will be a really active month. Here is all we're working on:
+In the multilingual department, May will be a really active month. Here is all we're working on:
 - [x] [UntitledIBusHandwriting](https://github.com/MadLadSquad/UntitledIBusHandwriting) 1.0.0.0 release - A handwriting input 
    method for [IBus](https://en.wikipedia.org/wiki/Intelligent_Input_Bus)
 - [ ] Cooperation with the [i18n subproject](https://madladsquad.com/untitled-desktop/subprojects/i18n) on the custom i18n  
@@ -72,7 +72,7 @@ In the multilingual department, May, will be a really active month. Here is all 
 - [ ] Figuring out how to add more character data to [Youyin](https://youyin.madladsquad.com/)
 - [ ] Helping the [Funtoo Linux multilingual and CJK teams](https://www.funtoo.org/Funtoo:Multilingual) with the 
    following features:
-    - [x] Autogennning the Adobe SourcePro and Google Noto fonts, [FL-10383](https://bugs.funtoo.org/browse/FL-10383)
+    - [x] Auto-generating the Adobe SourcePro and Google Noto fonts, [FL-10383](https://bugs.funtoo.org/browse/FL-10383)
     - [x] Add a new i18n-kit and move existing multilingual applications to the new kit, 
       [FL-10436](https://bugs.funtoo.org/browse/FL-10436)
 - [x] Various improvements to [Youyin](https://youyin.madladsquad.com), including codebase improvements, multiphrase support

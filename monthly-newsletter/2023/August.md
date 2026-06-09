@@ -24,7 +24,7 @@ a theme editor widget.
 Current task progress for August:
 
 - [ ] Creating the custom i18n library for the framework
-- [x] Creating a static site component based system for Youyin using the templating engine
+- [x] Creating a static-site component-based system for Youyin using the templating engine
 - [x] Adding more data to [Youyin](https://youyin.madladsquad.com/) and sister projects
 - [x] Rework the MadLadSquad website
 
@@ -44,7 +44,7 @@ mode.
 This month, we also released version 1.0 of the [UntitledTemplatingEngine](https://github.com/MadLadSquad/UntitledTemplatingEngine).
 
 ### Full rewrite of the MadLadSquad website
-You might have noticed the new look of the website now. Previously, it used the default GitHub pages theme. Now it looks like 
+You might have noticed the new look of the website now. Previously, it used the default GitHub Pages theme. Now it looks like
 this:
 
 ![image](https://github.com/MadLadSquad/MadLadSquadSite/assets/40400590/ae19d943-4eab-447a-80e4-d8992ad6fa57)

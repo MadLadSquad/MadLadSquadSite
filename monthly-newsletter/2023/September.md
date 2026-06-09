@@ -36,7 +36,7 @@ We are planning to add the following scripts to Youyin by the end of the month:
 
 ### UntitledI18N 1.0
 We plan on releasing the 1.0 release of the UntitledI18N library this month. It will mainly deal with translating strings in our
-applications, however more features could be added in further releases.
+applications; however, more features could be added in further releases.
 
 The library will be integrated into the web module of the [UVKBuildTool](https://github.com/MadLadSquad/UVKBuildTool), which will
 enable us to easily generate translations of our websites.
