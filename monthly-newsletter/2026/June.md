@@ -19,6 +19,10 @@ This month started with a large refactoring effort along multiple projects:
 
 Our goal for the end of the month is to publish a new maintenance release with these patches.
 
+# pkggen
+Development of pkggen is restarting, we don't have a concrete plan for June, but by the end of the month we plan to have at least one
+working packaging backend.
+
 # Multilingual
 ## Youyin 1.0
 Work on the modernisation of Youyin has finally started and it includes:
