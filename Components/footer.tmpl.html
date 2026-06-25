@@ -3,3 +3,15 @@
 		Copyright © 2018 - 2026 MadLadSquad. This page is open-source; you can contribute <a href="https://github.com/MadLadSquad/MadLadSquadSite">here</a>.
 	</p>
 </footer>
+
+<!-- Browser-independent emoji rendering: twemoji swaps native emoji for Twitter's SVG assets -->
+<script src="https://cdn.jsdelivr.net/npm/@twemoji/api@15.1.0/dist/twemoji.min.js" crossorigin="anonymous"></script>
+<script>
+	document.addEventListener("DOMContentLoaded", function () {
+		twemoji.parse(document.body, {
+			base: "https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/",
+			folder: "svg",
+			ext: ".svg"
+		});
+	});
+</script>

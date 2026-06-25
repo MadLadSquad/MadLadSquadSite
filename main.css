@@ -204,6 +204,16 @@ img {
 	overflow: scroll;
 }
 
+/* twemoji replaces native emoji with inline <img class="emoji">; size them to the
+   surrounding text instead of inheriting the full-width rule above */
+img.emoji {
+	width: 1em;
+	height: 1em;
+	margin: 0 0.05em 0 0.1em;
+	vertical-align: -0.1em;
+	display: inline;
+}
+
 .note, .tip, .important, .warning, .caution {
 	padding-left: 0.5rem;
 	border-left-width: 0.25em;
