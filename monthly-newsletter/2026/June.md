@@ -8,13 +8,14 @@ This month started with a large refactoring effort along multiple projects:
    - Reworked renderers to utilise the new dear imgui texture filtering API
    - Updated many dependencies
 1. [UntiltedI18N](https://github.com/MadLadSquad/UntitledI18N) - Fixed a critical resource loading crash
+1. [UntitledOpen](https://github.com/MadLadSquad/UntitledOpen) - Users can now pick multiple folders, customize their picker window and parent the picker's window to their own window
 1. [UntitledXDGBasedir](https://github.com/MadLadSquad/UntitledXDGBasedir) - Fixed some rare bugs and better memory management
 1. [UntitledImGuiTheme](https://github.com/MadLadSquad/UntitledImGuiTheme) - Updated to follow new dear imgui style variables
 1. [UntitledRuntimeLibraryLoader](https://github.com/MadLadSquad/UntitledRuntimeLibraryLoader) - Fixed some memory bugs
 1. [UntitledLog](https://github.com/MadLadSquad/UntitledLog) - Fixed typo in an API function
 1. [UImGuiRendererExamples](https://github.com/MadLadSquad/UImGuiRendererExamples) - Reworked renderers to utilise the new dear imgui texture filtering API
 1. [UImGuiSDL](https://github.com/MadLadSquad/UImGuiSDL) - Update documentation due to changes in the build process
-1. [cimgui_extra](https://github.com/MadLadSquad/cimgui_extra) - Updated the C API for imspinner
+1. [cimgui\_extra](https://github.com/MadLadSquad/cimgui_extra) - Updated the C API for imspinner
 1. [imspinner](https://github.com/dalerank/imspinner) - Contributed some compilation fixes for newer dear imgui versions
 
 Our goal for the end of the month is to publish a new maintenance release with these patches.
