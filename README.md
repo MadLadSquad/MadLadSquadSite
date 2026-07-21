@@ -106,8 +106,8 @@ Libraries and applications:
 
 ## Members
 
-- [Madman10K](https://github.com/Madman10K) - Founder and head projects developer
-- [Nick](https://github.com/fami-fish) - Artist and misc programming
+- [Madman10K](https://i-use-gentoo-btw.com) - Founder and head projects developer
+- [Nick](https://github.com/nick-bors) - Artist and misc programming
 
 ## Contacts
 
