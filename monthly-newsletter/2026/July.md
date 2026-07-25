@@ -6,7 +6,7 @@ With the release of Claude Fable 5 we've been reviewing the correctness and safe
 
 ## Multilingual
 ### Youyin 1.0 progress
-By the end of month we plan to start with the development of the accounts feature. We hope to release the accounts system together with the monetization system by the end of July.
+By the end of month we plan to start with the development of the accounts feature. We hope to release the accounts system together with the monetization system by the end of August.
 
 ## Heapforge
 We're finally releasing the landing page for the Heapforge site, you can check it out at [https://heapforge.com].
