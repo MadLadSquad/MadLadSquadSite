@@ -1,4 +1,4 @@
-name: Deploy Jekyll with GitHub Pages dependencies preinstalled
+name: Deploy Hugo site to GitHub Pages
 
 on:
   push:
@@ -14,6 +14,9 @@ concurrency:
   group: "pages"
   cancel-in-progress: true
 
+env:
+  HUGO_VERSION: 0.166.0
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -27,46 +30,23 @@ jobs:
           submodules: true
           clean: false
           fetch-depth: 0
-      - uses: actions/cache@v6
-        with:
-          path: vendor/bundle
-          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile') }}
-          restore-keys: |
-            ${{ runner.os }}-gems-
       - name: Checkout submodules
         shell: bash
         run: |
           git submodule sync --recursive
           git -c "http.extraheader=$auth_header" -c protocol.version=2 submodule update --init --force --recursive --depth=1
-      - name: Update deps
-        run: "sudo apt update && sudo dpkg -i \"./$(./get-latest-pandoc.py)\""
-      - name: Clone docs
-        run: ./clone-docs.sh
-      - run: "echo 'run-localhost-automatically: false' >> uvproj.yaml"
-      - run: "cd Scripts && ./generate-modus-mio-table.py >> ../modus-mio-artists.md && cd .."
-      - run: sudo apt install libyaml-cpp-dev
-      - name: Build project
-        run: cd UVKBuildTool/ && ./setup-web.sh .. && cd build && cd ../../ && ./run.sh
-      - run: ./ci-clean.sh
-      - run: npm install -g terser
-      - run: npm install -g csso-cli
-      - run: npm install -g html-minifier
-      - run: for i in ./*.js; do terser $i --compress -o $i; done
-      - run: for i in ./*.css; do csso $i -o $i; done
-      - name: Change URLs to production mode
+      - name: Install Hugo
         run: |
-          find ./ -type f \( -iname \*.html -o -iname \*.js \) -exec sed -i 's/\/index\.html//g' {} \;
-          find ./ -type f \( -iname \*.html -o -iname \*.js \) -exec sed -i 's/\.html//g' {} \;
-          find ./ -type f \( -iname \*.html -o -iname \*.js \) -exec sed -i 's/\.\//https:\/\/madladsquad.com\//g' {} \;
+          wget -q -O "${{ runner.temp }}/hugo.deb" "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb"
+          sudo dpkg -i "${{ runner.temp }}/hugo.deb"
       - name: Setup Pages
         uses: actions/configure-pages@v6
-      - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
-        with:
-          source: ./
-          destination: ./_site
+      - name: Build with Hugo
+        run: hugo --minify
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v5
+        with:
+          path: ./public
 
   deploy:
     environment:

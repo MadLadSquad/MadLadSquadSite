@@ -4,47 +4,39 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this is
 
-The source for the MadLadSquad website (<https://madladsquad.com>), deployed to GitHub Pages. It is a **static site generator**: content is authored as Markdown, converted to HTML with pandoc, run through a custom templating step, then post-processed for deployment. There is no runtime backend — the only client-side code is `index.js` (a small vanilla-JS enhancement layer) and `main.css`.
+The source for the MadLadSquad website (<https://madladsquad.com>), a [Hugo](https://gohugo.io) site deployed to GitHub Pages by `.github/workflows/pages.yml`. Content is Markdown; the only client-side code is `assets/index.js` (a small vanilla-JS enhancement layer) and `assets/main.css`.
 
-## Build pipeline
-
-The full build is a sequence of shell scripts, orchestrated by `.github/workflows/pages.yml`. Run them in this order from the repo root:
-
-1. **`./clone-docs.sh`** — operates on the `docs/` submodules (each is a project's GitHub *wiki*, see `.gitmodules`). Appends each project's `_Sidebar.md` to its pages, rewrites `github.com/MadLadSquad/<X>/wiki` links to `madladsquad.com/docs/<X>`, and temporarily renames `docs/UVKBuildTool` → `docs/UVKBuildToolN` to avoid colliding with the top-level `UVKBuildTool/` tool submodule.
-2. **`./run.sh`** — invokes the built `UVKBuildTool` binary, which runs the templating engine. It reads `uvproj.yaml`, executes `custom-pre-generation-commands` (which calls `generate-html.sh build/` to pandoc-convert all `.md` → `.html` using `template.html`), then resolves `{{ include ... }}` directives in `.tmpl.html` files.
-3. **`./ci-clean.sh`** — flattens `build/` output into the repo root, deletes source dirs, and rewrites relative URLs to absolute `https://madladsquad.com/` ones, stripping `.html`/`index.html` suffixes for clean URLs.
-
-`ci-clean.sh` is **destructive** — it `rm -rf`s `*.md`, `docs/`, `Components/`, `.github/`, etc. Only run it in CI or a throwaway checkout, never in your working tree.
-
-### Building the UVKBuildTool binary
-
-`run.sh`/`ci-clean.sh` depend on a compiled `UVKBuildTool` (a C++ submodule). Build it with:
+## Building
 
 ```bash
-cd UVKBuildTool/ && ./setup-web.sh ..
+git submodule update --init   # docs/ wiki submodules
+hugo server                    # local preview at http://localhost:1313/
+hugo --minify                  # production build into public/
 ```
 
-This CMake-builds the tool with `-DUBT_COMPILING_FOR_WEB=ON`, copies `UBTCustomFunctions/` into it, and creates `Translations/`. Requires `cmake`, a C++ compiler, and `libyaml-cpp-dev`. Pandoc and GNU `parallel` are also required for `generate-html.sh`.
+CI pins Hugo extended `HUGO_VERSION` in `pages.yml`; keep it in sync when upgrading locally.
 
-### Local preview
+## URLs are a contract
 
-`uvproj.yaml`'s `localhost-commands` rewrite URLs to `http://0.0.0.0:8080/` and serve via `python3 -m http.server 8080`. The tool runs these unless `run-localhost-automatically: false` is set (CI appends that line).
+Published URLs must never change. GitHub Pages serves `foo.html` at `/foo`, and every link uses that form (mixed case, no trailing slash, no `.html`). `hugo.toml` preserves this with `uglyURLs = true` and `disablePathToLower = true`, and a `cascade` stops section list pages (`/docs`, `/monthly-newsletter`, …) from being rendered. When linking, write root-relative clean URLs such as `/desktop` or `/docs/UntitledImGuiFramework/Home`.
 
-## Authoring content
+## Layout
 
-- **Pages** are Markdown files at the repo root (e.g. `desktop.md`, `games.md`, `utilities.md`) and in `monthly-newsletter/<year>/`. `README.md` becomes `index.html`. The H1 (`# Title`) of each file becomes its `<title>`.
-- **Templates** (`template.html`, `Components/*.tmpl.html`) use two distinct syntaxes — don't confuse them:
-  - `$title$` / `$body$` are **pandoc** template variables (filled during `generate-html.sh`).
-  - `{{ include Components/foo.tmpl.html }}` is **UntitledTemplatingEngine** syntax (resolved later by `run.sh`). The engine uses a lisp-like language; `{{ raw ... }}` escapes content (see how `clone-docs.sh` wraps `UntitledTemplatingEngine/Templating-guide.md`).
-- The site nav lives in `Components/header.tmpl.html`; shared `<head>` and footer in the other `Components/*.tmpl.html`.
-- `uvproj.yaml` controls the tool: `filename-blacklist` (dirs to skip), `allowed-extensions`, and `intermediate-extensions` (`.tmpl.html` files are templating inputs, not output).
+- `content/`: the site's own pages. `content/foo.md` → `/foo`, `content/monthly-newsletter/<year>/<Month>.md` → `/monthly-newsletter/<year>/<Month>`. `README.md` at the repo root is mounted as the homepage (`content/_index.md`) so GitHub still displays it.
+- Pages need no front matter. The `<title>` is the page's first heading (`layouts/_partials/title.html`); set `title:` in front matter to override it.
+- `docs/<Project>/` holds git submodules of each project's GitHub **wiki** (see `.gitmodules`). They are **never edited here**. `content/docs/_content.gotmpl` is a Hugo content adapter that publishes them at `/docs/<Project>/<Page>`. It appends `_Sidebar.md` to every page, skips `_`-prefixed files, and rewrites `github.com/MadLadSquad/<X>/wiki` links to `/docs/<X>`. It sets `url` explicitly because wiki page names contain characters (`[ ] : & ( ) ,`) that Hugo would otherwise strip from paths. `content/docs/docs.md` is the `/docs/docs` index page.
+- `layouts/`: `baseof.html` (page shell, highlight.js), `_partials/` (head meta, nav in `header.html`, footer with twemoji), `404.html`, and `_markup/` render hooks (`render-table.html` wraps tables in `<div class="table">`; `render-link.html` makes `https://madladsquad.com/…` links root-relative; `render-blockquote.html` turns GitHub alerts (`> [!NOTE]` …) into `<div class="note">` etc., styled in `main.css`).
+- `assets/main.css` and `assets/index.js` are built with esbuild (`css.Build`/`js.Build`) and published at `/main.css` and `/index.js`.
+- `static/`: copied verbatim (`CNAME`, `uimgui.svg`).
+- Code blocks are left as `<pre><code class="language-x">` (`markup.highlight.codeFences = false`) and highlighted client-side by highlight.js.
+- Raw HTML in Markdown is enabled (`goldmark.renderer.unsafe`). Pages rely on it, e.g. `<div id="search-bar">` and `<div id="demo-div">`, which `index.js` fills in.
 
 ## Generated content
 
-- `modus-mio-artists.md`'s artist table is generated from `modus-mio-artists.csv` by `Scripts/generate-modus-mio-table.py` (run with CWD = `Scripts/`; it appends to `../modus-mio-artists.md`). Edit the CSV, not the generated table. `index.js` adds a live filter box (`#search-bar`) over this table; UI strings there are in Bulgarian.
-- `docs/` content is **never edited here** — it comes from each project's wiki submodule. The `update-dependencies.yaml` workflow auto-bumps all submodules four times daily onto the `auto` branch and opens a tracking issue. This is the source of the `auto` commits in history.
+- The artist table on `/modus-mio-artists` is generated at build time from `static/modus-mio-artists.csv` (also published at `/modus-mio-artists.csv`) by the `{{% modus-mio-table %}}` shortcode (`layouts/_shortcodes/modus-mio-table.html`). Edit the CSV, not the page. `index.js` adds a live filter box (`#search-bar`) over this table; UI strings there are in Bulgarian.
+- The `update-dependencies.yaml` workflow auto-bumps all submodules four times daily onto the `auto` branch and opens a tracking issue. This is the source of the `auto` commits in history.
 
 ## Conventions
 
-- `UBTCustomFunctions/UBTCustomFunctions.cpp` is a C++ hook (`funcExportMain`) compiled into the web build of UVKBuildTool to expose custom templating functions; it's currently a no-op stub guarded by `#ifdef UBT_TARGET_WEB`.
 - `index.js` deliberately defines `$()` as a `getElementById` helper (not jQuery).
+- Hugo shortcode syntax (`{{< >}}`/`{{% %}}`) is interpreted in all content, including the wiki submodules. Plain `{{ }}` is not.

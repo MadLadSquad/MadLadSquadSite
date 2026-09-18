@@ -1,19 +1,20 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		{{ include Components/head.tmpl.html }}
-		<title>$title$</title>
-		<meta property="og:title" content="$title$"/>
-		<meta name="twitter:title" content="$title$"/>
+		{{ partial "head.html" . }}
+		{{ block "title" . }}
+		{{- $title := partial "title.html" . }}
+		<title>{{ $title }}</title>
+		<meta property="og:title" content="{{ $title }}"/>
+		<meta name="twitter:title" content="{{ $title }}"/>
+		{{- end }}
 	</head>
 	<body>
-		{{ include Components/header.tmpl.html }}
-		<main>
-$body$
-		</main>
-		{{ include Components/footer.tmpl.html }}
+		{{ partial "header.html" . }}
+		{{ block "main" . }}{{ end }}
+		{{ partial "footer.html" . }}
 	</body>
-	<script src="./index.js"></script>
+	{{ with resources.Get "index.js" | js.Build (dict "minify" true "targetPath" "index.js" "format" "iife") }}<script src="{{ .RelPermalink }}"></script>{{ end }}
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/atom-one-dark-reasonable.min.css">
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
 

@@ -1,0 +1,27 @@
+{{- /*
+  Publishes each wiki submodule in docs/<Project>/ at /docs/<Project>/<Page>, replacing the old clone-docs.sh:
+  - _Sidebar.md is appended to every page, and _-prefixed files are not published themselves
+  - GitHub wiki links are rewritten to point at the copy hosted here
+  - "url" is set explicitly because Hugo would otherwise lowercase the path and strip characters like [ ] : & ( ),
+    which appear in wiki page names and are part of the published URLs
+*/ -}}
+{{- range $project := os.ReadDir "docs" -}}
+  {{- if not $project.IsDir }}{{ continue }}{{ end -}}
+  {{- $dir := printf "docs/%s" $project.Name -}}
+  {{- $sidebar := "" -}}
+  {{- $sidebarPath := printf "%s/_Sidebar.md" $dir -}}
+  {{- if fileExists $sidebarPath }}{{ $sidebar = printf "\n\n---\n\n%s" (os.ReadFile $sidebarPath) }}{{ end -}}
+  {{- range os.ReadDir $dir -}}
+    {{- if or .IsDir (not (strings.HasSuffix .Name ".md")) (strings.HasPrefix .Name "_") }}{{ continue }}{{ end -}}
+    {{- $name := strings.TrimSuffix ".md" .Name -}}
+    {{- $body := printf "%s%s" (os.ReadFile (printf "%s/%s" $dir .Name)) $sidebar
+      | replaceRE `https://github\.com/MadLadSquad/([^/\s)"'>]+)/wiki` "/docs/$1" -}}
+    {{- $.AddPage (dict
+      "path" (printf "%s/%s" $project.Name (urlize $name))
+      "url" (printf "/docs/%s/%s.html" $project.Name $name)
+      "title" (replace $name "-" " ")
+      "params" (dict "title" (replace $name "-" " "))
+      "content" (dict "mediaType" "text/markdown" "value" $body)
+    ) -}}
+  {{- end -}}
+{{- end -}}

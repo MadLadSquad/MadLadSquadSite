@@ -1,0 +1,12 @@
+{{- /* GitHub Pages serves /foo from foo.html, `hugo server` doesn't, so add the extension to internal links when previewing */ -}}
+{{- $url := . -}}
+{{- if and hugo.IsServer (strings.HasPrefix $url "/") (not (strings.HasPrefix $url "//")) -}}
+  {{- $m := findRESubmatch `^([^?#]*?)([?#].*)?$` $url 1 -}}
+  {{- with index $m 0 -}}
+    {{- $path := index . 1 -}}
+    {{- if and $path (ne $path "/") (not (strings.HasSuffix $path "/")) (not (path.Ext $path)) -}}
+      {{- $url = printf "%s.html%s" $path (index . 2) -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- return $url -}}

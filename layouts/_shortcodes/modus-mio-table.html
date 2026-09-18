@@ -1,0 +1,14 @@
+{{- /* Port of the old Scripts/generate-modus-mio-table.py: 13 artists per row, rows numbered from 1. Use with {{% %}} */ -}}
+{{- $perRow := 13 -}}
+{{- $artists := slice -}}
+{{- range split (os.ReadFile "static/modus-mio-artists.csv") "\n" -}}
+  {{- $fields := split (trim . "\r ") "," -}}
+  {{- if and (ge (len $fields) 2) (index $fields 0) -}}
+    {{- $artists = $artists | append (printf "[%s](https://open.spotify.com/artist/%s)" (index $fields 0) (index $fields 1)) -}}
+  {{- end -}}
+{{- end -}}
+|{{ range seq 0 $perRow }} {{ . }} |{{ end }}
+|{{ range seq 0 $perRow }}---|{{ end }}
+{{ range $row := seq 0 (sub (math.Ceil (div (float (len $artists)) $perRow)) 1) -}}
+| __{{ add $row 1 }}__ |{{ range $col := seq 0 (sub $perRow 1) }}{{ $i := add (mul $row $perRow) $col }} {{ if lt $i (len $artists) }}{{ index $artists $i }}{{ end }} |{{ end }}
+{{ end -}}

@@ -1,0 +1,9 @@
+{{- /* An explicit title wins. Otherwise, as in the old pandoc build, use the page's first heading, then its file name */ -}}
+{{- $title := .Params.title | default "" -}}
+{{- if and (not $title) .File -}}
+  {{- with index (findRESubmatch `(?s)<h[1-6][^>]*>(.*?)</h[1-6]>` .Content 1) 0 -}}
+    {{- $title = index . 1 | plainify | htmlUnescape | strings.TrimSpace -}}
+  {{- end -}}
+  {{- $title = $title | default .File.ContentBaseName -}}
+{{- end -}}
+{{- return ($title | default .Title) -}}

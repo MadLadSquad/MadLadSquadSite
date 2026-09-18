@@ -1,0 +1,42 @@
+baseURL = "https://madladsquad.com/"
+title = "MadLadSquad"
+locale = "en-us"
+
+# GitHub Pages serves foo.html at /foo, which is the URL scheme the site has always used
+uglyURLs = true
+disablePathToLower = true
+enableEmoji = true
+
+disableKinds = ["taxonomy", "term", "rss", "sitemap"]
+
+# Sections (/docs, /monthly-newsletter, ...) never had list pages, so don't render any
+[[cascade]]
+  [cascade.build]
+    render = "never"
+    list = "always"
+  [cascade.target]
+    kind = "section"
+
+[markup.goldmark.renderer]
+  unsafe = true
+[markup.goldmark.parser]
+  autoHeadingIDType = "github"
+[markup.highlight]
+  # Leave code blocks as <pre><code class="language-x"> for highlight.js
+  codeFences = false
+
+[[module.mounts]]
+  source = "content"
+  target = "content"
+[[module.mounts]]
+  source = "README.md"
+  target = "content/_index.md"
+[[module.mounts]]
+  source = "assets"
+  target = "assets"
+[[module.mounts]]
+  source = "static"
+  target = "static"
+[[module.mounts]]
+  source = "layouts"
+  target = "layouts"

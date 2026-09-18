@@ -1,8 +1,0 @@
-name: MadLadSquad
-title: null
-defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-    values:
-      render_with_liquid: false

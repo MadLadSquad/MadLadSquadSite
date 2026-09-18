@@ -8,7 +8,7 @@
 <meta name="robots" content="index, follow"/>
 <meta name="theme-color" content="#292929"/>
 
-<meta name="generator" content="UVKBuildTool v1.1.0.0"/>
+{{ hugo.Generator }}
 
 <!-- Open Graph (og:title is set per-page in template.html) -->
 <meta property="og:locale" content="en_US"/>
@@ -34,4 +34,4 @@
 <link href="https://fonts.googleapis.com/css2?family=Ubuntu&display=swap" rel="stylesheet"/>
 <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital@0;1&display=swap" rel="stylesheet">
 
-<link rel="stylesheet" href="./main.css"/>
+{{ with resources.Get "main.css" | css.Build (dict "minify" true "targetPath" "main.css") }}<link rel="stylesheet" href="{{ .RelPermalink }}"/>{{ end }}

@@ -1,0 +1,4 @@
+{{- /* Links to the live site become root-relative so `hugo server` previews stay local */ -}}
+{{- $dest := .Destination | replaceRE `^https?://madladsquad\.com(/|$)` "/" -}}
+<a href="{{ partial "link.html" $dest | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}>{{ .Text }}</a>
+{{- /* chomp trailing newline */ -}}
