@@ -1,9 +1,26 @@
-<header>
-	<ul>
-		<li><a href="{{ partial "link.html" "/" }}" class="site-title">MadLadSquad</a></li>
-		<li><a href="{{ partial "link.html" "/games" }}">Games</a></li>
-		<li><a href="{{ partial "link.html" "/desktop" }}">Desktop</a></li>
-		<li><a href="{{ partial "link.html" "/docs/docs" }}">Docs</a></li>
-		<li><a href="https://heapforge.com">Heapforge</a></li>
-	</ul>
+{{- /* Material 3 top app bar. The nav items are rendered twice: inline on wide screens and in the modal drawer on narrow ones */ -}}
+{{- $here := .RelPermalink -}}
+{{- $items := slice
+  (dict "name" "Home" "url" "/" "active" .IsHome)
+  (dict "name" "Desktop" "url" "/desktop" "active" (or (strings.HasPrefix $here "/desktop") (strings.HasPrefix $here "/untitled-desktop")))
+  (dict "name" "Games" "url" "/games" "active" (strings.HasPrefix $here "/games"))
+  (dict "name" "Docs" "url" "/docs/docs" "active" (strings.HasPrefix $here "/docs/"))
+  (dict "name" "Heapforge" "url" "https://heapforge.com" "external" true)
+-}}
+{{- /* The bar spans the window, its contents line up with the page's content column (wider on docs pages) */ -}}
+<header id="app-bar">
+	<div class="app-bar-inner{{ if .Params.sidebar }} wide{{ end }}">
+		<button id="nav-drawer-button" class="icon-button" type="button" aria-label="Open navigation" aria-controls="nav-drawer" aria-expanded="false">
+			<svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M3 18h18v-2H3v2Zm0-5h18v-2H3v2Zm0-7v2h18V6H3Z"/></svg>
+		</button>
+		<a href="{{ partial "link.html" "/" }}" class="site-title">MadLadSquad</a>
+		<nav aria-label="Main">
+			<ul class="nav-items">{{ partial "nav-items.html" $items }}</ul>
+		</nav>
+	</div>
 </header>
+<div id="nav-scrim" hidden></div>
+<nav id="nav-drawer" aria-label="Main" hidden>
+	<a href="{{ partial "link.html" "/" }}" class="site-title">MadLadSquad</a>
+	<ul class="nav-items">{{ partial "nav-items.html" $items }}</ul>
+</nav>

@@ -40,3 +40,9 @@ disableKinds = ["taxonomy", "term", "rss", "sitemap"]
 [[module.mounts]]
   source = "layouts"
   target = "layouts"
+
+# Twemoji SVGs from npm (run `npm ci`), used by index.js for emoji rendering
+[[module.mounts]]
+  source = "node_modules/@twemoji/svg"
+  target = "static/twemoji"
+  files = ["*.svg"]

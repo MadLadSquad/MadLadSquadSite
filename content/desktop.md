@@ -28,7 +28,7 @@ choose from to their liking. This is largely why we use the "Untitled" prefix fo
 
 ### The UntitledImGuiFramework
 
-<img style="width: 200px; height: 200px; overflow: scroll;" src="https://madladsquad.com/uimgui.svg"/>
+<img style="width: 200px; height: 200px; overflow: scroll;" src="/uimgui.svg"/>
 
 The [UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework) is a cross-platform
 desktop application development toolkit that utilises [dear imgui](https://github.com/ocornut/imgui) as its

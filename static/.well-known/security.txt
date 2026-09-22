@@ -1,0 +1,4 @@
+Contact: mailto:security@madladsquad.com
+Expires: 2027-09-22T00:00:00.000Z
+Preferred-Languages: en
+Canonical: https://madladsquad.com/.well-known/security.txt

@@ -1,156 +1,213 @@
 # Privacy Policy
 
-**Last updated:** August 30, 2026
+**Last updated:** 19 September 2026
 
-## 1. Overview and Scope
+This policy explains how personal data is handled when you visit [madladsquad.com](https://madladsquad.com) (including
+the documentation under `/docs` and the interactive demo at `uimgui.madladsquad.com`, together "the website") or
+contact us about it. It is written to meet the requirements of the UK General Data Protection Regulation ("UK GDPR"),
+the Data Protection Act 2018, the Privacy and Electronic Communications Regulations 2003 ("PECR") and the EU General
+Data Protection Regulation (EU) 2016/679 ("EU GDPR").
 
-This Privacy Policy explains how MadLadSquad ("we", "us", "our") handles personal data when you visit and interact with our website at [madladsquad.com](https://madladsquad.com) and its associated subpages.
+## In short
 
-MadLadSquad is a decentralised, open-source software development team dedicated to developing open-source software, desktop tools, game engines, developer libraries, and multilingual applications. We believe strongly in user privacy, software freedom, and data minimisation. Our website is designed as a static website to provide information, documentation, and resources about our open-source projects without tracking or profiling our visitors.
+- The website is a static site. It has no accounts, forms, comments, analytics, advertising, tracking pixels or social
+  media widgets.
+- We do not set cookies and do not store anything in your browser.
+- Fonts, scripts, emoji and images are served from our own domain. Your browser does not contact Google, jsDelivr,
+  cdnjs or any other third party to display a page.
+- The only personal data processed when you browse is the technical connection data that any web server needs to
+  deliver a page, handled by our hosting providers.
+- If you email us, we use your email to reply to you.
 
-## 2. Data Controller
+## 1. Who we are
 
-The data controller responsible for the processing of personal data on this website in accordance with the General Data Protection Regulation (EU) 2016/679 ("GDPR") is:
+The data controller for the website is:
 
-- **Organisation:** MadLadSquad
-- **Email:** [contact@madladsquad.com](mailto:contact@madladsquad.com)
-- **GitHub Organisation:** [https://github.com/MadLadSquad](https://github.com/MadLadSquad)
-- **Partner Organisation:** Heapforge ([https://heapforge.com](https://heapforge.com))
+**Heapforge Ltd.**, a company registered in England and Wales with company number 17418393  
+Registered address: 82a James Carter Road, Mildenhall, Bury St. Edmunds, England, IP28 7DE  
+Email for privacy matters: [privacy@madladsquad.com](mailto:privacy@madladsquad.com)
 
-If you have any questions, concerns, or requests regarding this Privacy Policy or the processing of your personal data, please contact us via email at [contact@madladsquad.com](mailto:contact@madladsquad.com).
+MadLadSquad is the open-source project published through this website. In this policy, "we", "us" and "our" mean
+Heapforge Ltd.
 
-## 3. Principles of Data Processing
+We have not appointed a Data Protection Officer because we are not required to. Please send any privacy question or
+request to [privacy@madladsquad.com](mailto:privacy@madladsquad.com).
 
-We adhere strictly to the core principles set forth in Article 5 of the GDPR:
+## 2. What we process, why, and on what legal basis
 
-- **Lawfulness, fairness, and transparency:** We process personal data lawfully, fairly, and in a transparent manner.
-- **Purpose limitation:** Personal data is collected only for specified, explicit, and legitimate technical and operational purposes.
-- **Data minimisation:** We only process data that is strictly necessary for delivering the website and responding to inquiries.
-- **Accuracy:** We ensure that data we control remains accurate and up to date.
-- **Storage limitation:** Data is kept only as long as necessary for the purposes for which it is processed.
-- **Integrity and confidentiality:** Technical and organisational measures are in place to ensure security and prevent unauthorised access.
+### 2.1 Visiting the website
 
-## 4. Information We Collect and How We Process It
+When your browser requests a page, it necessarily sends technical information to the servers that deliver it. This
+consists of:
 
-### A. Web Server Logs (GitHub Pages)
+- your IP address;
+- the date and time of the request;
+- the address of the page or file requested, and the HTTP method, status and amount of data transferred;
+- the referring page, if your browser sends one;
+- your browser's user-agent string (browser type and version, operating system).
 
-Our static website is hosted using **GitHub Pages**, a service provided by GitHub, Inc. (88 Colin P Kelly Jr St, San Francisco, CA 94107, USA / Microsoft Corporation).
+The website is hosted on **GitHub Pages** (GitHub, Inc.) and delivered through **Cloudflare** (Cloudflare, Inc.), which
+provides the domain's DNS, TLS encryption, caching and protection against attacks. Both receive this data when you visit.
 
-When you access our website, GitHub's servers automatically collect and store technical information transmitted by your web browser in standard server log files. This information may include:
+- **Purpose:** to deliver the pages you request, and to keep the website secure and available, for example by
+  detecting and blocking denial-of-service attacks and other abuse.
+- **Legal basis:** our legitimate interests (Article 6(1)(f) UK GDPR and EU GDPR) in operating a website that works
+  and is secure. We consider this data is the minimum needed to serve a web page, it is not used to identify or profile
+  you, and you would reasonably expect it to be processed when visiting a website, so these interests are not
+  overridden by your rights and freedoms.
+- **We do not** use this data for analytics, marketing or profiling, and we do not combine it with other data.
 
-- Your IP address (Internet Protocol address)
-- Date and time of the server request
-- Request method (e.g., `GET`), URL path, and HTTP protocol version
-- HTTP status code and volume of data transmitted
-- Referrer URL (the website from which you arrived, if transmitted)
-- Browser type, browser version, and operating system (User-Agent string)
+Cloudflare may also ask your browser to report network errors (such as a failed connection) to Cloudflare using the
+browser's Network Error Logging feature. These reports contain technical details of the failed request, including
+your IP address, and are used only to monitor and fix delivery problems, on the same legitimate interests basis.
 
-**Purpose and Legal Basis:**
-The temporary processing of this connection data is technically necessary to deliver the requested website content to your browser, ensure server stability, and maintain network and information security (including detecting and preventing denial-of-service attacks or malicious activity). The legal basis for this processing is **Article 6(1)(f) GDPR** (our legitimate interest in operating a secure, reliable, and functional website).
+### 2.2 Interactive demo
 
-**Retention:**
-Server logs are handled directly by GitHub in accordance with [GitHub's Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement). Technical log files are retained only for security and troubleshooting purposes and are deleted or anonymised in accordance with GitHub's retention policies.
+Some pages (for example [/desktop](/desktop)) embed an interactive demo of our software from `uimgui.madladsquad.com`.
+It is our own static site, hosted and delivered in the same way as described in section 2.1, and it processes the same
+technical connection data for the same purposes and on the same legal basis. It does not set cookies or collect any
+other data.
 
-### B. Third-Party Content Delivery Networks and External Assets
+### 2.3 Contacting us
 
-To provide fast, reliable, and consistent rendering of typography, syntax highlighting, and visual assets, our website loads static resources from reputable third-party content delivery networks (CDNs) and asset hosts:
+If you email us, we process your email address, your name if you give it, the content of your message and any
+attachments, and the replies we exchange.
 
-1. **Google Fonts (`fonts.googleapis.com` and `fonts.gstatic.com`):**
-   - *Provider:* Google Ireland Limited (Gordon House, Barrow Street, Dublin 4, Ireland) for users in the European Economic Area (EEA), or Google LLC (1600 Amphitheatre Parkway, Mountain View, CA 94043, USA).
-   - *Purpose:* Loading web fonts (Ubuntu and JetBrains Mono) for readable and uniform typography across devices.
-   - *Data Processed:* When your browser requests fonts, your IP address and standard HTTP request headers are transmitted to Google servers. Google does not set cookies for Google Fonts requests.
-   - *Legal Basis:* **Article 6(1)(f) GDPR** (legitimate interest in the visually consistent, accessible, and fast presentation of our website).
+- **Purpose:** to read and answer your message and deal with what you ask.
+- **Legal basis:** our legitimate interests (Article 6(1)(f)) in responding to people who contact us. Where your
+  message relates to a contract with you, or steps you have asked us to take before entering into one, the basis is
+  Article 6(1)(b).
 
-2. **jsDelivr CDN (`cdn.jsdelivr.net`):**
-   - *Provider:* ProspectOne Sp. z o.o. (ul. Krowoderska 63B/6, 31-158 Kraków, Poland).
-   - *Purpose:* Delivering the open-source Twemoji library and SVG emoji assets for cross-platform emoji rendering.
-   - *Data Processed:* Your IP address and technical HTTP request metadata.
-   - *Legal Basis:* **Article 6(1)(f) GDPR** (legitimate interest in delivering visual assets efficiently and reliably via a distributed CDN).
+### 2.4 Privacy requests
 
-3. **Cloudflare CDNJS (`cdnjs.cloudflare.com`):**
-   - *Provider:* Cloudflare, Inc. (101 Townsend St, San Francisco, CA 94107, USA).
-   - *Purpose:* Delivering syntax highlighting scripts and styles (highlight.js) for code blocks in documentation and articles.
-   - *Data Processed:* Your IP address and technical HTTP request headers.
-   - *Legal Basis:* **Article 6(1)(f) GDPR** (legitimate interest in providing performant and secure code formatting in developer documentation).
+If you exercise any of your rights under section 7, we process the information needed to identify you, handle the
+request and keep a record of how we dealt with it.
 
-4. **GitHub Asset Hosting (`avatars.githubusercontent.com`, `raw.githubusercontent.com`):**
-   - *Provider:* GitHub, Inc. (USA).
-   - *Purpose:* Loading organisation logos, project icons, and documentation media assets.
-   - *Data Processed:* Your IP address and standard HTTP request headers.
-   - *Legal Basis:* **Article 6(1)(f) GDPR** (legitimate interest in displaying open-source project media and documentation assets).
+- **Legal basis:** compliance with our legal obligations under data protection law (Article 6(1)(c)), and our legitimate
+  interests in being able to show that we handled your request properly (Article 6(1)(f)).
 
-5. **Interactive Demos and Subdomains (`uimgui.madladsquad.com`):**
-   - *Purpose:* Certain documentation pages may embed an interactive WebAssembly (Wasm) demonstration of our GUI toolkit using an `<iframe>`.
-   - *Data Processed:* Standard web connection data (IP address, User-Agent) necessary to deliver the static WebAssembly application from our subdomain.
-   - *Legal Basis:* **Article 6(1)(f) GDPR** (legitimate interest in providing interactive demonstrations of open-source software).
+### 2.5 What we do not do
 
-### C. Direct Inquiries and Communications
+We do not sell or rent personal data, share it for advertising, or use it for automated decision-making or profiling
+that produces legal or similarly significant effects on you (Article 22). We do not collect special category data and
+the website is not directed at children.
 
-If you contact us directly via email ([contact@madladsquad.com](mailto:contact@madladsquad.com)) or interact with our public GitHub repositories (opening issues, submitting pull requests, or commenting on discussions):
+You are not required to provide any personal data to use the website. Connection data is needed for your browser to
+receive the pages at all. Emailing us is optional, but we cannot reply without your email address.
 
-- **Data Processed:** Your email address, name or online username, and the content of your message or contribution.
-- **Purpose:** Responding to your inquiry, providing technical assistance, or collaborating on open-source projects.
-- **Legal Basis:** **Article 6(1)(f) GDPR** (our legitimate interest in responding to incoming inquiries) or **Article 6(1)(b) GDPR** (if the inquiry relates to entering into or performing a contract/collaboration).
-- **Retention:** Email correspondence is retained only as long as necessary to resolve your inquiry or comply with statutory record-keeping obligations. Public GitHub contributions (issues, pull requests, commit metadata) remain part of the public git history as intrinsic to open-source software collaboration.
+## 3. Cookies and similar technologies
 
-## 5. Cookies and Tracking Technologies
+The website does not set cookies and does not use `localStorage`, `sessionStorage`, IndexedDB, fingerprinting or any
+other technology to store or read information on your device. There is no cookie banner because none is needed.
 
-**We do not use cookies.**
+If Cloudflare detects traffic from your connection that looks automated or malicious, it may set a short-lived security
+cookie (such as `__cf_bm` or `cf_clearance`) to tell legitimate visitors apart from bots. Such cookies are used only to
+protect the website, are strictly necessary for that purpose, and are therefore exempt from the consent requirement
+under regulation 6(4) of PECR and Article 5(3) of the ePrivacy Directive (2002/58/EC). They are not used to track you.
 
-- **No First-Party Tracking Cookies:** Our website does not set any tracking, profiling, or analytical cookies.
-- **No Third-Party Cookies:** We do not include third-party advertising networks, marketing pixels, social media tracking widgets, or behavioural profiling scripts.
-- **No Client-Side Storage Tracking:** We do not use `localStorage`, `sessionStorage`, or `IndexedDB` to store tracking identifiers or track visitors across sessions.
-- **No Analytics Trackers:** We do not run tracking suites such as Google Analytics, Matomo, Hotjar, or similar analytics services.
+## 4. Who receives your data
 
-### Cookie Banner Statement
-Because our website does not set or access any non-essential cookies or local storage on your device, **no cookie consent banner is required** under the EU ePrivacy Directive (Directive 2002/58/EC, Art. 5(3)) and GDPR (Recital 30). We do not display intrusive cookie consent banners because we do not collect or store cookie data.
+We share personal data only with:
 
-## 6. External Links
+- **GitHub, Inc.** (hosting of the website and the demo);
+- **Cloudflare, Inc.** (DNS, content delivery and security);
+- **our email service provider**, which stores and delivers email sent to and from our addresses;
+- professional advisers, courts, regulators or law enforcement, where we are legally required to or where it is needed
+  to establish, exercise or defend legal claims.
 
-Our website contains links to third-party websites and platforms (such as [Heapforge](https://heapforge.com), [GitHub](https://github.com), [Discord](https://discord.gg), [Ko-fi](https://ko-fi.com), and documentation references). When you click an external link, you are redirected to a third-party website that operates under its own privacy policy and terms. We encourage you to review the privacy policies of any external services you visit.
+GitHub and Cloudflare act as our service providers when delivering the website. For some processing, such as their own
+security monitoring and service improvement, they act as independent controllers and their own privacy statements
+apply:
+[GitHub General Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)
+and [Cloudflare Privacy Policy](https://www.cloudflare.com/privacypolicy/).
 
-## 7. International Data Transfers
+## 5. International transfers
 
-Some of our service providers (including GitHub, Inc., Google LLC, and Cloudflare, Inc.) are headquartered in the United States or operate globally. Where personal data (such as technical IP addresses in connection logs) is transferred to countries outside the European Economic Area (EEA), such transfers are governed by appropriate safeguards under Chapter V of the GDPR:
+GitHub and Cloudflare are based in the United States and operate servers worldwide, so connection data may be processed
+outside the UK and the European Economic Area.
 
-- **EU-U.S. Data Privacy Framework (DPF):** Applicable to certified entities providing adequate protection as recognised by the European Commission adequacy decision.
-- **Standard Contractual Clauses (SCCs):** Standard data protection clauses adopted by the European Commission pursuant to Article 46(2)(c) GDPR.
+- For transfers from the **UK**, we rely on the UK Extension to the EU-US Data Privacy Framework (the "UK-US data
+  bridge") for recipients certified under it, and otherwise on the International Data Transfer Addendum to the EU
+  Standard Contractual Clauses issued by the Information Commissioner.
+- For transfers from the **EEA**, we rely on the European Commission's adequacy decision for the EU-US Data Privacy
+  Framework for certified recipients, and otherwise on the Standard Contractual Clauses adopted by the European
+  Commission (Article 46(2)(c) EU GDPR).
+- Transfers from the EEA to us in the UK are covered by the European Commission's adequacy decision for the United
+  Kingdom.
 
-## 8. Data Security
+You can ask us for more information about these safeguards using the contact details in section 1.
 
-We implement appropriate technical and organisational security measures to protect data against accidental or intentional manipulation, partial or complete loss, destruction, or unauthorised access by third parties:
+## 6. How long we keep data
 
-- All website traffic is encrypted in transit via **HTTPS / TLS** (Transport Layer Security).
-- The website is statically generated and hosted without dynamic server-side application databases, minimising attack surfaces.
+| Data | How long |
+|---|---|
+| Connection data and network error reports (section 2.1, 2.2) | We do not keep our own copies. GitHub and Cloudflare keep their logs for the limited periods set out in their privacy statements, for security and operational purposes. |
+| Email correspondence (section 2.3) | For as long as needed to deal with your message and any follow-up, after which we delete it unless we need it to comply with a legal obligation or to establish, exercise or defend legal claims. |
+| Records of privacy requests (section 2.4) | For as long as needed to show how we handled the request, and no longer than the limitation period for any related claim. |
 
-## 9. Your Rights Under GDPR
+## 7. Your rights
 
-Under Chapter III (Articles 15–22) of the GDPR, you have the following statutory rights regarding your personal data:
+Under the UK GDPR and the EU GDPR you have the right to:
 
-1. **Right of Access (Art. 15 GDPR):** You have the right to request confirmation as to whether personal data concerning you is being processed and to obtain a copy of that data.
-2. **Right to Rectification (Art. 16 GDPR):** You have the right to request the correction of inaccurate personal data or completion of incomplete data.
-3. **Right to Erasure / "Right to be Forgotten" (Art. 17 GDPR):** You have the right to request the deletion of your personal data where statutory grounds apply.
-4. **Right to Restriction of Processing (Art. 18 GDPR):** You have the right to request the restriction of processing of your personal data under certain conditions.
-5. **Right to Data Portability (Art. 20 GDPR):** You have the right to receive your personal data in a structured, commonly used, and machine-readable format.
-6. **Right to Object (Art. 21 GDPR):** You have the right to object at any time, on grounds relating to your particular situation, to the processing of personal data based on Article 6(1)(f) GDPR (legitimate interests).
-7. **Right to Withdraw Consent (Art. 7(3) GDPR):** Where processing is based on your consent, you have the right to withdraw your consent at any time without affecting the lawfulness of processing based on consent before its withdrawal.
-8. **Right to Lodge a Complaint with a Supervisory Authority (Art. 77 GDPR):** If you consider that the processing of personal data relating to you infringes the GDPR, you have the right to lodge a complaint with a data protection supervisory authority, in particular in the EU Member State of your habitual residence, place of work, or place of the alleged infringement.
+- **access** the personal data we hold about you and receive a copy (Article 15);
+- have inaccurate data **corrected** or incomplete data completed (Article 16);
+- have your data **erased** in certain circumstances (Article 17);
+- **restrict** how we use your data in certain circumstances (Article 18);
+- receive data you gave us in a portable, machine-readable format and have it **transferred** to another organisation,
+  where processing is based on contract or consent and carried out by automated means (Article 20);
+- **object** at any time to processing based on our legitimate interests, on grounds relating to your particular
+  situation (Article 21). We will then stop unless we have compelling legitimate grounds that override your interests,
+  or need the data to establish, exercise or defend legal claims.
 
-To exercise any of these rights, please contact us at [contact@madladsquad.com](mailto:contact@madladsquad.com).
+We do not rely on consent for any processing, so there is no consent to withdraw.
 
-## 10. Automated Decision-Making and Profiling
+To exercise any of these rights, email [privacy@madladsquad.com](mailto:privacy@madladsquad.com). It is free of charge.
+We will reply without undue delay and within one month of receiving your request. If a request is complex or we
+receive several from you, we may extend this by up to two further months, and will tell you within the first month if
+we do. We may ask for information to confirm your identity before acting on a request, and in that case the time limit
+starts once we have it.
 
-We do not use automated decision-making or profiling within the meaning of Article 22 GDPR.
+Because we do not keep our own logs of website visits, we usually hold no personal data about people who have only
+browsed the website. We will still confirm this to you if you ask, and can help you direct a request to GitHub or
+Cloudflare where appropriate.
 
-## 11. Changes to This Privacy Policy
+## 8. Complaints
 
-We may update this Privacy Policy from time to time to reflect changes in our website, legal requirements, or technical implementations. Any modifications will be published on this page with an updated "Last updated" date. Changes can also be tracked transparently through our public Git version history on GitHub.
+If you are unhappy with how we have handled your personal data, please contact us first at
+[privacy@madladsquad.com](mailto:privacy@madladsquad.com) so we can try to put it right.
 
-## 12. Contact Information
+You also have the right to complain to a data protection supervisory authority:
 
-If you have questions about this Privacy Policy or our privacy practices, please contact:
+- **In the UK:** the Information Commissioner's Office (ICO), Wycliffe House, Water Lane, Wilmslow, Cheshire SK9 5AF,
+  telephone 0303 123 1113, [ico.org.uk/make-a-complaint](https://ico.org.uk/make-a-complaint/).
+- **In the EU/EEA:** the supervisory authority of the country where you live, work or where the alleged infringement
+  took place. A list is published by the
+  [European Data Protection Board](https://www.edpb.europa.eu/about-edpb/about-edpb/members_en).
 
-**MadLadSquad**  
-Email: [contact@madladsquad.com](mailto:contact@madladsquad.com)  
-Website: [https://madladsquad.com](https://madladsquad.com)  
-GitHub: [https://github.com/MadLadSquad](https://github.com/MadLadSquad)
+## 9. Security
+
+All traffic to the website is encrypted with HTTPS/TLS. The website is static, with no database, server-side
+application or user accounts, which keeps the data that could be exposed to a minimum. Access to our email and hosting
+accounts is restricted to the people who need it and protected with strong authentication.
+
+## 10. Links to other websites
+
+The website links to other websites and services, such as GitHub, Discord, Ko-fi and Heapforge. These links are plain
+links: nothing is loaded from those services until you click one. Once you follow a link, the other website's own
+privacy policy applies, and we are not responsible for how it handles your data.
+
+If you take part in our projects on GitHub or Discord (for example by opening an issue, submitting a pull request or
+posting a message), that content is published on those platforms under their terms and privacy policies. Pull requests
+and commits become part of the project's public history.
+
+## 11. Changes to this policy
+
+We will update this policy when the way we process personal data changes, and change the "Last updated" date above.
+Every past version is available in the website's public
+[Git history](https://github.com/MadLadSquad/MadLadSquadSite/commits/master/content/privacy-policy.md).
+
+## 12. Contact
+
+Heapforge Ltd.  
+82a James Carter Road, Mildenhall, Bury St. Edmunds, England, IP28 7DE  
+[privacy@madladsquad.com](mailto:privacy@madladsquad.com)

@@ -34,7 +34,7 @@ library for the framework
 The current website is hard to navigate efficiently, which is why we decided to create a better redesign for it. This
 is what it looks like right now:
 
-![image](https://github.com/MadLadSquad/MadLadSquadSite/assets/40400590/68af2eea-a2fa-484e-b273-38933629a633)
+![image](/images/monthly-newsletter/2023/June/68af2eea-a2fa-484e-b273-38933629a633.png)
 
 ### Additional scripts to Youyin
 We're currently working on adding additional writing systems to [Youyin](https://youyin.madladsquad.com/), with the first

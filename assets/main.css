@@ -1,285 +1,800 @@
+@import "highlight.js/styles/atom-one-dark-reasonable.css";
+
+/* Material 3 style, built on the site's original palette:
+   #292929 background, #99b898 accent, #f6f0e9 text, #555555 borders, #2a363b code */
 :root {
-	--main-background-colour: #292929;
-	--main-accent-colour: #99b898;
-	--main-colour: #f6f0e9;
-	--main-border-colour: #555555/*#1c222d*/;
-	--hr-background-colour: #242933;
-	--main-code-background-colour: #2a363b;
+	color-scheme: dark;
+
+	--md-surface: #292929;
+	--md-surface-container-low: #2e2e2e;
+	--md-surface-container: #333333;
+	--md-surface-container-high: #3a3a3a;
+	--md-surface-container-highest: #424242;
+
+	--md-primary: #99b898;
+	--md-on-primary: #1c311c;
+	--md-primary-container: #3b4d3a;
+	--md-on-primary-container: #d5ead4;
+
+	--md-on-surface: #f6f0e9;
+	--md-on-surface-variant: #c8c2bb;
+	--md-outline: #555555;
+	--md-outline-variant: #3d3d3d;
+
+	--md-code: #2a363b;
+	--md-scrim: rgb(0 0 0 / 0.5);
 
 	--note-colour: #2f81f7;
 	--tip-colour: #3fb950;
 	--important-colour: #a371f7;
 	--warning-colour: #d29922;
 	--caution-colour: #f85149;
+
+	--md-shape-xs: 4px;
+	--md-shape-s: 8px;
+	--md-shape-m: 12px;
+	--md-shape-l: 16px;
+	--md-shape-xl: 28px;
+	--md-shape-full: 999px;
+
+	--md-ease: cubic-bezier(0.2, 0, 0, 1);
+	--md-duration: 200ms;
+
+	--md-elevation-2: 0 1px 2px rgb(0 0 0 / 0.3), 0 2px 6px 2px rgb(0 0 0 / 0.15);
+
+	--app-bar-height: 64px;
+	--content-width: 1200px;
+}
+
+* {
+	box-sizing: border-box;
 }
 
 html {
-	background-color: #292929;
+	background-color: var(--md-surface);
+	scrollbar-color: var(--md-outline) transparent;
+	scroll-padding-top: calc(var(--app-bar-height) + 16px);
 }
 
-main, footer {
-	max-width: 1440px;
-	margin-left: auto;
-	margin-right: auto;
-}
-
-footer {
-	list-style: none;
-	overflow: hidden;
-}
-
-h1, h2, h3, h4, h5, h6, p, li {
-	color: var(--main-colour);
+body {
+	margin: 0;
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+	background-color: var(--md-surface);
+	color: var(--md-on-surface);
 	font-family: 'Ubuntu', sans-serif;
+	font-size: 16px;
+	line-height: 24px;
+}
+
+::selection {
+	background-color: var(--md-primary-container);
+	color: var(--md-on-primary-container);
+}
+
+:focus-visible {
+	outline: 2px solid var(--md-primary);
+	outline-offset: 2px;
+}
+
+/* ---------- Typography (M3 type scale) ---------- */
+
+h1, h2, h3, h4, h5, h6 {
+	color: var(--md-on-surface);
+	font-weight: 500;
+	margin: 1.5em 0 0.5em;
+}
+
+h1 { font-size: 32px; line-height: 40px; font-weight: 400; }
+h2 {
+	font-size: 28px;
+	line-height: 36px;
+	font-weight: 400;
+	padding-bottom: 8px;
+	border-bottom: 1px solid var(--md-outline-variant);
+}
+h3 { font-size: 24px; line-height: 32px; font-weight: 400; }
+h4 { font-size: 22px; line-height: 28px; }
+h5 { font-size: 16px; line-height: 24px; }
+h6 { font-size: 14px; line-height: 20px; color: var(--md-on-surface-variant); }
+
+main > :first-child {
+	margin-top: 0;
+}
+
+p, li {
+	color: var(--md-on-surface);
 }
 
 li {
-	margin-top: 6px;
-	margin-bottom: 6px;
+	margin: 6px 0;
 }
 
 a {
+	color: var(--md-primary);
 	text-decoration: none;
-	color: var(--main-accent-colour);
-	font-family: 'Ubuntu', sans-serif;
+	text-underline-offset: 3px;
 }
 
-header ul {
-	list-style: none;
-	padding: 0;
-	margin: 0;
-	overflow: hidden;
+a:hover, a:focus-visible {
+	text-decoration: underline;
 }
 
-/* Make the footer and all list items in unordered lists inline with left alignment */
-header ul li{
-	float: left;
+strong {
+	font-weight: 700;
+}
+
+hr {
+	border: 0;
+	border-top: 1px solid var(--md-outline-variant);
+	margin: 32px 0;
+}
+
+/* ---------- Icons, state layers, buttons ---------- */
+
+.icon {
+	width: 24px;
+	height: 24px;
+	flex-shrink: 0;
+}
+
+/* State layer: an overlay tinted with the element's text colour */
+.nav-item, .icon-button, .button, .docs-nav a, .breadcrumbs a {
 	position: relative;
+	isolation: isolate;
+	transition: background-color var(--md-duration) var(--md-ease), color var(--md-duration) var(--md-ease);
+}
+
+.nav-item::before, .icon-button::before, .button::before, .docs-nav a::before, .breadcrumbs a::before {
+	content: "";
+	position: absolute;
+	inset: 0;
+	z-index: -1;
+	border-radius: inherit;
+	background-color: currentColor;
+	opacity: 0;
+	transition: opacity var(--md-duration) var(--md-ease);
+}
+
+.nav-item:hover::before, .icon-button:hover::before, .button:hover::before, .docs-nav a:hover::before, .breadcrumbs a:hover::before {
+	opacity: 0.08;
+}
+
+.nav-item:active::before, .icon-button:active::before, .button:active::before, .docs-nav a:active::before, .breadcrumbs a:active::before {
+	opacity: 0.12;
+}
+
+.icon-button {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	width: 48px;
+	height: 48px;
+	padding: 0;
+	border: 0;
+	border-radius: var(--md-shape-full);
+	background: transparent;
+	color: var(--md-on-surface);
+	cursor: pointer;
+}
+
+.button {
+	display: inline-flex;
+	align-items: center;
+	gap: 8px;
+	height: 40px;
+	padding: 0 24px;
+	border-radius: var(--md-shape-full);
+	background-color: var(--md-primary);
+	color: var(--md-on-primary);
+	font-size: 14px;
+	font-weight: 500;
+	letter-spacing: 0.1px;
+}
+
+.button:hover, .button:focus-visible {
+	text-decoration: none;
+	box-shadow: var(--md-elevation-2);
+}
+
+/* ---------- Top app bar ---------- */
+
+#app-bar {
+	position: sticky;
+	top: 0;
+	z-index: 10;
+	background-color: var(--md-surface);
+	transition: background-color var(--md-duration) var(--md-ease), box-shadow var(--md-duration) var(--md-ease);
+}
+
+/* Same width as main (or .docs-layout); the 16px padding plus the title's own 8px lines its text up with the content */
+.app-bar-inner {
 	display: flex;
 	align-items: center;
+	gap: 8px;
+	height: var(--app-bar-height);
+	max-width: var(--content-width);
+	margin: 0 auto;
+	padding: 0 16px;
 }
 
-/* Basically the styling for the text on the top bar */
-header ul li a {
-	display: block;
-	color: var(--main-accent-colour);
-	text-align: center;
-	padding: 0 24px 0 24px;
+.app-bar-inner.wide {
+	max-width: calc(var(--content-width) + 304px);
+}
+
+/* Set by index.js once the page scrolls under the bar */
+#app-bar.scrolled {
+	background-color: var(--md-surface-container);
+	box-shadow: var(--md-elevation-2);
+}
+
+.site-title {
+	color: var(--md-on-surface);
+	font-size: 22px;
+	line-height: 28px;
+	font-weight: 500;
+	padding: 0 8px;
+	margin-right: auto;
+}
+
+.site-title:hover {
 	text-decoration: none;
-	font-size: 32px;
-	line-height: 1.5;
 }
 
-/* Define uniform styling for footer elements */
-footer p, footer select {
-	padding: 0 0.33rem 0 0.33rem;
-	font-size: 14px;
-	color: var(--main-colour);
-}
-
-/* Make the select members shrink to fit since they would take too much space */
-select {
-	padding: 0 0 0 0;
-	margin: 0 0 0 0;
-	max-width: max-content;
-	resize: horizontal;
-}
-
-option {
-	display: flex;
-	min-width: 0;
-	flex-direction: row;
-	border-color: red;
-	box-sizing: border-box;
-}
-
-/* Style the hr element is stupid can confirm, why have an hr? because a border on the footer will break */
-#main-page-hr {
-	padding: 0 0 0 0;
-	margin: 0 0 0 0;
-	border: 0;
-	border-top: 1px solid var(--main-border-colour);
-	background-color: var(--hr-background-colour);
-}
-
-
-/* Add a border to make the user not think or be distracted by the titlebar */
-header {
-	border-bottom: 1px solid var(--main-border-colour);
-}
-
-/* Make the 404 emoji take up more or less the whole page */
-#err-404-emoji {
-	font-size: 14vw;
-}
-
-/* The generic centered class */
-.centered {
-	text-align: center;
-}
-
-.vcentered {
-	margin: auto;
-}
-
-pre > code, code, .sourceCode, .liquid, code .sourecCode span {
-	font-family: "JetBrains Mono", monospace;
-	font-optical-sizing: auto;
-	font-weight: 400;
-	font-style: normal;
-}
-
-code, .sourceCode pre, .liquid pre {
-	background-color: var(--main-code-background-colour);
-	padding: 0.2em;
-	white-space: pre-wrap;
-	white-space: -moz-pre-wrap;
-	white-space: pre-wrap;
-	white-space: -o-pre-wrap;
-	word-wrap: break-word;
-}
-
-code:not([class]) {
-	padding: 0.2em 0.4em;
+.nav-items {
+	list-style: none;
 	margin: 0;
-	font-size: 85%;
-	white-space: break-spaces;
-	border-radius: 6px;
-}
-
-.sourceCode code, pre > code[class*="language-"] {
-	color: var(--main-colour);
 	padding: 0;
-	display: block;
-	margin: auto;
+	display: flex;
+	gap: 4px;
 }
 
-figcaption {
+.nav-items li {
+	margin: 0;
+}
+
+.nav-item {
+	display: flex;
+	align-items: center;
+	gap: 8px;
+	height: 40px;
+	padding: 0 16px;
+	border-radius: var(--md-shape-full);
+	color: var(--md-on-surface-variant);
+	font-size: 14px;
+	font-weight: 500;
+	letter-spacing: 0.1px;
+}
+
+.nav-item:hover, .nav-item:focus-visible {
+	color: var(--md-on-surface);
+	text-decoration: none;
+}
+
+.nav-item.active {
+	background-color: var(--md-primary-container);
+	color: var(--md-on-primary-container);
+}
+
+.nav-item .icon {
+	width: 18px;
+	height: 18px;
+}
+
+#nav-drawer-button {
 	display: none;
 }
 
-figure {
-	margin: 0;
-	overflow-x: scroll;
+/* ---------- Navigation drawer (narrow screens) ---------- */
+
+#nav-scrim {
+	position: fixed;
+	inset: 0;
+	z-index: 20;
+	background-color: var(--md-scrim);
 }
 
-table, .table {
+#nav-drawer {
+	position: fixed;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	z-index: 21;
+	width: min(320px, 85vw);
+	padding: 12px;
+	overflow-y: auto;
+	background-color: var(--md-surface-container-low);
+	border-radius: 0 var(--md-shape-l) var(--md-shape-l) 0;
+	box-shadow: var(--md-elevation-2);
+	animation: drawer-in 250ms var(--md-ease);
+}
+
+#nav-drawer .site-title {
 	display: block;
-	border-collapse: collapse;
-	overflow-x: scroll;
+	padding: 16px 16px 20px;
 }
 
-th, td {
-	color: white;
-	border: 1px solid var(--main-colour);
+#nav-drawer .nav-items {
+	flex-direction: column;
 }
 
-th {
-	font-weight: bold;
+#nav-drawer .nav-item {
+	height: 56px;
+	padding: 0 24px 0 16px;
 }
 
-tr {
+#nav-scrim[hidden], #nav-drawer[hidden] {
+	display: none;
+}
+
+@keyframes drawer-in {
+	from { transform: translateX(-100%); }
+	to { transform: none; }
+}
+
+@media (max-width: 839px) {
+	#nav-drawer-button {
+		display: inline-flex;
+	}
+
+	.app-bar-inner {
+		padding: 0 4px;
+	}
+
+	#app-bar nav {
+		display: none;
+	}
+}
+
+/* ---------- Page layout ---------- */
+
+main {
+	width: 100%;
+	max-width: var(--content-width);
+	margin: 0 auto;
+	padding: 24px 24px 48px;
+	flex-grow: 1;
+}
+
+.docs-layout {
+	display: grid;
+	grid-template-columns: 280px minmax(0, 1fr);
+	gap: 24px;
+	width: 100%;
+	max-width: calc(var(--content-width) + 304px);
+	margin: 0 auto;
+	padding: 24px 24px 0;
+	flex-grow: 1;
+	align-items: start;
+	align-content: start;
+}
+
+.docs-layout main {
+	padding: 0 0 48px;
+}
+
+footer {
+	background-color: var(--md-surface-container-low);
+	padding: 24px;
 	text-align: center;
 }
 
-input[type=text]::before, input[type=text]::after, input[type=text] {
-	box-sizing: border-box;
+footer p {
+	margin: 0;
+	color: var(--md-on-surface-variant);
+	font-size: 14px;
+	line-height: 20px;
 }
 
-/* Configure input text fields to follow our style */
-input[type=text] {
-	color: var(--main-colour);
-	max-width: 85%;
-	font-size: 16px;
-	font-family: inherit;
-	padding: 2px 2px 2px 2px;
-	background-color: var(--main-background-colour);
-	border: 1px solid var(--main-accent-colour);
-	border-radius: 4px;
-	margin-bottom: 1rem;
+@media (max-width: 599px) {
+	main {
+		padding: 16px 16px 32px;
+	}
+
+	.docs-layout {
+		padding: 16px 16px 0;
+	}
+
+	h1 { font-size: 28px; line-height: 36px; }
+	h2 { font-size: 24px; line-height: 32px; }
+	h3 { font-size: 22px; line-height: 28px; }
 }
+
+/* ---------- Docs navigation (wiki _Sidebar.md) ---------- */
+
+.docs-nav {
+	position: sticky;
+	top: calc(var(--app-bar-height) + 8px);
+	max-height: calc(100vh - var(--app-bar-height) - 32px);
+	overflow-y: auto;
+	padding: 12px;
+	background-color: var(--md-surface-container-low);
+	border-radius: var(--md-shape-l);
+}
+
+.docs-nav summary {
+	display: none;
+}
+
+.docs-nav ul, .docs-nav ol {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.docs-nav ul ul, .docs-nav ol ol {
+	padding-left: 12px;
+}
+
+.docs-nav li {
+	margin: 0;
+}
+
+/* Unlinked sidebar entries are dimmed plain text, laid out like the links around them */
+.docs-nav li:not(:has(> a)) {
+	min-height: 36px;
+	padding: 8px 0 0 16px;
+	color: color-mix(in srgb, var(--md-on-surface-variant) 70%, transparent);
+}
+
+.docs-nav li:not(:has(> a)) > ul {
+	margin: 8px 0 0 -16px;
+}
+
+.docs-nav li:not(:has(> a)), .docs-nav a {
+	font-size: 14px;
+	line-height: 20px;
+	font-weight: 500;
+	letter-spacing: 0.1px;
+}
+
+.docs-nav p {
+	margin: 0;
+	color: inherit;
+}
+
+.docs-nav a {
+	display: flex;
+	align-items: center;
+	min-height: 36px;
+	padding: 8px 16px;
+	border-radius: var(--md-shape-full);
+	color: var(--md-on-surface-variant);
+}
+
+.docs-nav a:hover, .docs-nav a:focus-visible {
+	color: var(--md-on-surface);
+	text-decoration: none;
+}
+
+/* Set by index.js on the link to the current page */
+.docs-nav a.active {
+	background-color: var(--md-primary-container);
+	color: var(--md-on-primary-container);
+}
+
+@media (max-width: 1023px) {
+	.docs-layout {
+		grid-template-columns: minmax(0, 1fr);
+	}
+
+	.docs-nav {
+		position: static;
+		max-height: none;
+		padding: 0;
+		overflow: visible;
+	}
+
+	.docs-nav summary {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		height: 56px;
+		padding: 0 16px 0 24px;
+		cursor: pointer;
+		font-size: 16px;
+		font-weight: 500;
+		border-radius: var(--md-shape-l);
+		list-style: none;
+	}
+
+	.docs-nav summary::-webkit-details-marker {
+		display: none;
+	}
+
+	.docs-nav summary::after {
+		content: "";
+		width: 8px;
+		height: 8px;
+		border-right: 2px solid currentColor;
+		border-bottom: 2px solid currentColor;
+		transform: rotate(45deg);
+		transition: transform var(--md-duration) var(--md-ease);
+	}
+
+	.docs-nav[open] summary::after {
+		transform: rotate(-135deg);
+	}
+
+	.docs-nav nav {
+		padding: 0 12px 12px;
+	}
+}
+
+/* ---------- Docs breadcrumbs ---------- */
+
+.breadcrumbs {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	gap: 4px 8px;
+	margin-bottom: 16px;
+	color: var(--md-on-surface-variant);
+	font-size: 14px;
+	line-height: 20px;
+	font-weight: 500;
+	letter-spacing: 0.1px;
+}
+
+.breadcrumbs a {
+	display: inline-flex;
+	align-items: center;
+	gap: 8px;
+	min-height: 40px;
+	padding: 0 16px;
+	border-radius: var(--md-shape-full);
+	color: var(--md-on-surface-variant);
+}
+
+.breadcrumbs a:hover, .breadcrumbs a:focus-visible {
+	color: var(--md-on-surface);
+	text-decoration: none;
+}
+
+/* Tonal pill back to the docs index */
+.breadcrumbs .breadcrumb-back {
+	padding: 0 16px 0 12px;
+	background-color: var(--md-surface-container-high);
+	color: var(--md-on-surface);
+}
+
+.breadcrumbs .icon {
+	width: 18px;
+	height: 18px;
+}
+
+/* ---------- Code ---------- */
+
+code, pre {
+	font-family: "JetBrains Mono", monospace;
+	font-optical-sizing: auto;
+	font-weight: 400;
+}
+
+code {
+	padding: 0.2em 0.4em;
+	font-size: 85%;
+	background-color: var(--md-surface-container-highest);
+	border-radius: var(--md-shape-s);
+	white-space: break-spaces;
+	overflow-wrap: anywhere;
+}
+
+pre {
+	margin: 16px 0;
+	padding: 16px;
+	background-color: var(--md-code);
+	border-radius: var(--md-shape-m);
+	overflow-x: auto;
+	font-size: 14px;
+	line-height: 20px;
+}
+
+pre > code, pre > code.hljs {
+	display: block;
+	padding: 0;
+	font-size: inherit;
+	background: transparent;
+	border-radius: 0;
+	color: var(--md-on-surface);
+	white-space: pre;
+	overflow-wrap: normal;
+	overflow: visible;
+}
+
+/* ---------- Tables (render-table.html wraps them in div.table) ---------- */
+
+.table {
+	margin: 16px 0;
+	overflow-x: auto;
+	border: 1px solid var(--md-outline-variant);
+	border-radius: var(--md-shape-m);
+}
+
+table {
+	width: 100%;
+	border-collapse: collapse;
+	font-size: 14px;
+	line-height: 20px;
+}
+
+th, td {
+	padding: 12px 16px;
+	color: var(--md-on-surface);
+	text-align: center;
+	border-bottom: 1px solid var(--md-outline-variant);
+}
+
+th {
+	background-color: var(--md-surface-container-high);
+	font-weight: 500;
+	letter-spacing: 0.1px;
+	white-space: nowrap;
+}
+
+tbody tr:last-child td {
+	border-bottom: 0;
+}
+
+tbody tr {
+	transition: background-color var(--md-duration) var(--md-ease);
+}
+
+tbody tr:hover {
+	background-color: color-mix(in srgb, var(--md-on-surface) 5%, transparent);
+}
+
+/* ---------- Blockquotes and GitHub alerts (render-blockquote.html) ---------- */
+
+blockquote {
+	margin: 16px 0;
+	padding: 12px 20px;
+	background-color: var(--md-surface-container);
+	border-left: 4px solid var(--md-primary);
+	border-radius: var(--md-shape-xs) var(--md-shape-m) var(--md-shape-m) var(--md-shape-xs);
+}
+
+blockquote > :first-child {
+	margin-top: 0;
+}
+
+blockquote > :last-child, .note > :last-child, .tip > :last-child, .important > :last-child, .warning > :last-child, .caution > :last-child {
+	margin-bottom: 0;
+}
+
+.note, .tip, .important, .warning, .caution {
+	--alert: var(--note-colour);
+	margin: 16px 0;
+	padding: 16px 20px;
+	background-color: color-mix(in srgb, var(--alert) 12%, var(--md-surface));
+	border: 1px solid color-mix(in srgb, var(--alert) 30%, transparent);
+	border-radius: var(--md-shape-m);
+}
+
+.tip { --alert: var(--tip-colour); }
+.important { --alert: var(--important-colour); }
+.warning { --alert: var(--warning-colour); }
+.caution { --alert: var(--caution-colour); }
+
+.note .title p, .tip .title p, .important .title p, .warning .title p, .caution .title p {
+	display: flex;
+	align-items: center;
+	gap: 8px;
+	margin: 0;
+	color: var(--alert);
+	font-size: 16px;
+	font-weight: 500;
+}
+
+.note .title .icon, .tip .title .icon, .important .title .icon, .warning .title .icon, .caution .title .icon {
+	width: 18px;
+	height: 18px;
+}
+
+.note .title + p, .tip .title + p, .important .title + p, .warning .title + p, .caution .title + p {
+	margin-top: 8px;
+}
+
+/* ---------- Text field (#search-bar, filled in by index.js) ---------- */
+
+#search-bar {
+	margin: 24px 0 8px;
+}
+
+#search-bar p {
+	margin: 0 0 8px;
+	color: var(--md-on-surface-variant);
+	font-size: 14px;
+}
+
+input[type=text] {
+	width: min(100%, 400px);
+	height: 56px;
+	padding: 0 16px;
+	color: var(--md-on-surface);
+	font-family: inherit;
+	font-size: 16px;
+	background-color: transparent;
+	border: 1px solid var(--md-outline);
+	border-radius: var(--md-shape-xs);
+	transition: border-color var(--md-duration) var(--md-ease);
+}
+
+input[type=text]:hover {
+	border-color: var(--md-on-surface);
+}
+
+input[type=text]:focus {
+	outline: none;
+	border-color: var(--md-primary);
+	box-shadow: inset 0 0 0 1px var(--md-primary);
+}
+
+/* ---------- Media ---------- */
 
 img {
-	width: 100%;
-	overflow: scroll;
+	max-width: 100%;
+	border-radius: var(--md-shape-m);
 }
 
-/* twemoji replaces native emoji with inline <img class="emoji">; size them to the
-   surrounding text instead of inheriting the full-width rule above */
+/* twemoji replaces native emoji with inline <img class="emoji">; size them to the surrounding text */
 img.emoji {
 	width: 1em;
 	height: 1em;
 	margin: 0 0.05em 0 0.1em;
 	vertical-align: -0.1em;
 	display: inline;
+	border-radius: 0;
 }
 
-.note, .tip, .important, .warning, .caution {
-	padding-left: 0.5rem;
-	border-left-width: 0.25em;
-	border-left-style: solid;
-}
-
-.note {
-	border-left-color: var(--note-colour);
-}
-
-.note .title p {
-	color: var(--note-colour);
-}
-
-.tip {
-	border-left-color: var(--tip-colour);
-}
-
-.tip .title p {
-	color: var(--tip-colour);
-}
-
-.important {
-	border-left-color: var(--important-colour);
-}
-
-.important .title p {
-	color: var(--important-colour);
-}
-
-.warning {
-	border-left-color: var(--warning-colour);
-}
-
-.warning .title p {
-	color: var(--warning-colour);
-}
-
-.caution {
-	border-left-color: var(--caution-colour);
-}
-
-.caution .title p {
-	color: var(--caution-colour)
-}
-
-/* Tighten the gap between an alert's title and its body paragraph, and make the
-   title a touch larger/bolder so it stands out from the body text */
-.note .title p, .tip .title p, .important .title p, .warning .title p, .caution .title p {
+figure {
 	margin: 0;
-	font-size: 1.15em;
-	font-weight: 600;
-}
-
-/* Octicon before the alert title, as on GitHub */
-.note .title .icon, .tip .title .icon, .important .title .icon, .warning .title .icon, .caution .title .icon {
-	width: 0.8em;
-	height: 0.8em;
-	margin-right: 0.4rem;
-	vertical-align: -0.05em;
-}
-
-.note .title + p, .tip .title + p, .important .title + p, .warning .title + p, .caution .title + p {
-	margin-top: 0.25rem;
+	overflow-x: auto;
 }
 
 iframe {
 	border: 0;
+}
+
+#demo-div {
+	border: 1px solid var(--md-outline-variant);
+	border-radius: var(--md-shape-l);
+	overflow: hidden;
+}
+
+/* ---------- 404 ---------- */
+
+.centered {
+	text-align: center;
+}
+
+.card {
+	max-width: 720px;
+	margin: 32px auto 0;
+	padding: 32px 24px;
+	background-color: var(--md-surface-container);
+	border-radius: var(--md-shape-xl);
+}
+
+.card h1 {
+	margin: 0 0 24px;
+	font-size: 24px;
+	line-height: 32px;
+}
+
+#err-404-emoji {
+	margin: 8px 0 32px;
+	color: var(--md-primary);
+	font-size: clamp(64px, 12vw, 128px);
+	font-weight: 500;
+	line-height: 1;
+	white-space: nowrap;
+}
+
+@media (prefers-reduced-motion: reduce) {
+	*, *::before, *::after {
+		animation: none !important;
+		transition: none !important;
+	}
 }

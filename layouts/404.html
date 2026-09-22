@@ -3,8 +3,10 @@
 {{ end }}
 {{ define "main" }}
 		<main class="centered">
-			<h1 id="err-404-emoji">\(o_o)/</h1>
-			<h1>Unfortunately this page doesn't exist 😔</h1>
-			<br>
+			<div class="card">
+				<p id="err-404-emoji">\(o_o)/</p>
+				<h1>Unfortunately this page doesn't exist 😔</h1>
+				<a class="button" href="{{ partial "link.html" "/" }}">Go home</a>
+			</div>
 		</main>
 {{ end }}

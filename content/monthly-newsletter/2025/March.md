@@ -7,7 +7,7 @@ The [UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramewo
 For the occasion, we also hired [insekhta](https://www.instagram.com/_.insekhta._/)
 to make a logo for it:
 
-![icon_256x256](https://github.com/user-attachments/assets/580f53fe-cec4-4e38-a5b1-ad1339ffb2c3)
+![icon_256x256](/images/monthly-newsletter/2025/March/580f53fe-cec4-4e38-a5b1-ad1339ffb2c3.png)
 
 Now that the 1.0 release is done, we are putting a soft freeze on new features until the end of May, due to the need to focus on other
 projects, as well as to iron out any existing bugs in post-1.0 patches.

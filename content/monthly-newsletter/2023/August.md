@@ -47,4 +47,4 @@ This month, we also released version 1.0 of the [UntitledTemplatingEngine](https
 You might have noticed the new look of the website now. Previously, it used the default GitHub Pages theme. Now it looks like
 this:
 
-![image](https://github.com/MadLadSquad/MadLadSquadSite/assets/40400590/ae19d943-4eab-447a-80e4-d8992ad6fa57)
+![image](/images/monthly-newsletter/2023/August/ae19d943-4eab-447a-80e4-d8992ad6fa57.png)

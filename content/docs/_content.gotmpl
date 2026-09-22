@@ -1,7 +1,11 @@
 {{- /*
   Publishes each wiki submodule in docs/<Project>/ at /docs/<Project>/<Page>, replacing the old clone-docs.sh:
-  - _Sidebar.md is appended to every page, and _-prefixed files are not published themselves
+  - _Sidebar.md is passed to every page as params.sidebar (rendered as a navigation rail by single.html) and the
+    project name as params.project (for the breadcrumb); _-prefixed files are not published themselves
   - GitHub wiki links are rewritten to point at the copy hosted here
+  - Remote images are downloaded at build time and published under /images/docs/<Project>/, so pages never load
+    anything from third parties (the privacy policy relies on this). A dead image (404, not an image) is dropped with a
+    warning; a network error fails the build rather than falling back to the remote URL
   - "url" is set explicitly because Hugo would otherwise lowercase the path and strip characters like [ ] : & ( ),
     which appear in wiki page names and are part of the published URLs
 */ -}}
@@ -10,17 +14,34 @@
   {{- $dir := printf "docs/%s" $project.Name -}}
   {{- $sidebar := "" -}}
   {{- $sidebarPath := printf "%s/_Sidebar.md" $dir -}}
-  {{- if fileExists $sidebarPath }}{{ $sidebar = printf "\n\n---\n\n%s" (os.ReadFile $sidebarPath) }}{{ end -}}
+  {{- if fileExists $sidebarPath }}{{ $sidebar = os.ReadFile $sidebarPath | replaceRE `https://github\.com/MadLadSquad/([^/\s)"'>]+)/wiki` "/docs/$1" }}{{ end -}}
   {{- range os.ReadDir $dir -}}
     {{- if or .IsDir (not (strings.HasSuffix .Name ".md")) (strings.HasPrefix .Name "_") }}{{ continue }}{{ end -}}
     {{- $name := strings.TrimSuffix ".md" .Name -}}
-    {{- $body := printf "%s%s" (os.ReadFile (printf "%s/%s" $dir .Name)) $sidebar
+    {{- $body := os.ReadFile (printf "%s/%s" $dir .Name)
       | replaceRE `https://github\.com/MadLadSquad/([^/\s)"'>]+)/wiki` "/docs/$1" -}}
+    {{- range findRESubmatch `(?:src="|!\[[^\]]*\]\()(https?://[^"\s)]+)` $body -}}
+      {{- $url := index . 1 -}}
+      {{- /* github.com/<owner>/<repo>/blob/ links point at an HTML page, fetch the file itself */ -}}
+      {{- $fetch := replaceRE `^https://github\.com/([^/]+/[^/]+)/blob/` "https://raw.githubusercontent.com/$1/" $url -}}
+      {{- $remote := try (resources.GetRemote $fetch) -}}
+      {{- if $remote.Err -}}
+        {{- errorf "docs/%s: could not download %s: %s" $project.Name $url $remote.Err -}}
+      {{- else if and $remote.Value (eq $remote.Value.MediaType.MainType "image") -}}
+        {{- with $remote.Value -}}
+          {{- $local := resources.Copy (printf "images/docs/%s/%s%s" $project.Name (md5 $url) .MediaType.FirstSuffix.FullSuffix) . -}}
+          {{- $body = replace $body $url $local.RelPermalink -}}
+        {{- end -}}
+      {{- else -}}
+        {{- warnf "docs/%s: dropping %s: not found or not an image" $project.Name $url -}}
+        {{- $body = replace $body $url "" -}}
+      {{- end -}}
+    {{- end -}}
     {{- $.AddPage (dict
       "path" (printf "%s/%s" $project.Name (urlize $name))
       "url" (printf "/docs/%s/%s.html" $project.Name $name)
       "title" (replace $name "-" " ")
-      "params" (dict "title" (replace $name "-" " "))
+      "params" (dict "title" (replace $name "-" " ") "sidebar" $sidebar "project" $project.Name)
       "content" (dict "mediaType" "text/markdown" "value" $body)
     ) -}}
   {{- end -}}
