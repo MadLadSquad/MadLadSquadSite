@@ -1,0 +1,11 @@
+{
+  // Static-assets-only Worker: no server code, `public/` is served directly.
+  // `hugo --gc --minify` must run before `wrangler deploy` (it is the build command).
+  "name": "madladsquad",
+  "compatibility_date": "2026-06-01",
+  "assets": {
+    "directory": "./public",
+    // Serve public/404.html (with a 404 status) for any unmatched path.
+    "not_found_handling": "404-page"
+  }
+}
