@@ -1,213 +1,166 @@
 # Privacy Policy
 
-**Last updated:** 19 September 2026
+**Last updated:** 5 October 2026
 
-This policy explains how personal data is handled when you visit [madladsquad.com](https://madladsquad.com) (including
-the documentation under `/docs` and the interactive demo at `uimgui.madladsquad.com`, together "the website") or
-contact us about it. It is written to meet the requirements of the UK General Data Protection Regulation ("UK GDPR"),
-the Data Protection Act 2018, the Privacy and Electronic Communications Regulations 2003 ("PECR") and the EU General
-Data Protection Regulation (EU) 2016/679 ("EU GDPR").
-
-## In short
-
-- The website is a static site. It has no accounts, forms, comments, analytics, advertising, tracking pixels or social
-  media widgets.
-- We do not set cookies and do not store anything in your browser.
-- Fonts, scripts, emoji and images are served from our own domain. Your browser does not contact Google, jsDelivr,
-  cdnjs or any other third party to display a page.
-- The only personal data processed when you browse is the technical connection data that any web server needs to
-  deliver a page, handled by our hosting providers.
-- If you email us, we use your email to reply to you.
+This Privacy Policy explains how **Heapforge Ltd.** ("Heapforge", "we", "us" or "our") collects, uses, shares and protects personal data when you visit our websites (listed in [Section 2](#2-scope)) or otherwise contact us. It also explains the rights you have and how to exercise them.
 
 ## 1. Who we are
 
-The data controller for the website is:
+The data controller responsible for your personal data is:
 
-**Heapforge Ltd.**, a company registered in England and Wales with company number 17418393  
-Registered address: 82a James Carter Road, Mildenhall, Bury St. Edmunds, England, IP28 7DE  
-Email for privacy matters: [privacy@madladsquad.com](mailto:privacy@madladsquad.com)
+- Heapforge Ltd., registered in England and Wales
+- Company number: 17418393
+- Registered office: 82A James Carter Road, Mildenhall, Bury St. Edmunds, Suffolk, England, IP28 7DE, United Kingdom
 
-MadLadSquad is the open-source project published through this website. In this policy, "we", "us" and "our" mean
-Heapforge Ltd.
+Privacy contact: [privacy@madladsquad.com](mailto:privacy@madladsquad.com)
 
-We have not appointed a Data Protection Officer because we are not required to. Please send any privacy question or
-request to [privacy@madladsquad.com](mailto:privacy@madladsquad.com).
+## 2. Scope
 
-## 2. What we process, why, and on what legal basis
+This policy applies to personal data we process through the following websites (together, our "websites"), as well as when you communicate with us:
 
-### 2.1 Visiting the website
+- [madladsquad.com](https://madladsquad.com), including our documentation
+- [uimgui.madladsquad.com](https://uimgui.madladsquad.com), our interactive demo
+- [rpms.madladsquad.com](https://rpms.madladsquad.com)
+- [debs.madladsquad.com](https://debs.madladsquad.com)
+- [pkggen.madladsquad.com](https://pkggen.madladsquad.com)
+- any other website we operate under the MadLadSquad name, including any other subdomain of madladsquad.com
 
-When your browser requests a page, it necessarily sends technical information to the servers that deliver it. This
-consists of:
+This policy does not apply to `youyin.madladsquad.com`, which is covered by its own privacy policy. It also does not apply to third-party websites or services that we link to, which have their own privacy policies.
 
-- your IP address;
-- the date and time of the request;
-- the address of the page or file requested, and the HTTP method, status and amount of data transferred;
-- the referring page, if your browser sends one;
-- your browser's user-agent string (browser type and version, operating system).
+## 3. Personal data we collect
 
-The website is hosted on **GitHub Pages** (GitHub, Inc.) and delivered through **Cloudflare** (Cloudflare, Inc.), which
-provides the domain's DNS, TLS encryption, caching and protection against attacks. Both receive this data when you visit.
+We try to collect only what we need. Depending on how you interact with us, this may include:
 
-- **Purpose:** to deliver the pages you request, and to keep the website secure and available, for example by
-  detecting and blocking denial-of-service attacks and other abuse.
-- **Legal basis:** our legitimate interests (Article 6(1)(f) UK GDPR and EU GDPR) in operating a website that works
-  and is secure. We consider this data is the minimum needed to serve a web page, it is not used to identify or profile
-  you, and you would reasonably expect it to be processed when visiting a website, so these interests are not
-  overridden by your rights and freedoms.
-- **We do not** use this data for analytics, marketing or profiling, and we do not combine it with other data.
+- Contact information - such as your name and email address, when you email us or otherwise get in touch.
+- Communications - the content of messages you send us, including any attachments, and our replies.
+- Technical and usage information - such as your IP address, browser type, device information, the pages you request, and the date and time of your visit. This is processed automatically when you access our website, mainly for security and to deliver the site to you.
+- Any other information you choose to provide to us.
 
-Cloudflare may also ask your browser to report network errors (such as a failed connection) to Cloudflare using the
-browser's Network Error Logging feature. These reports contain technical details of the failed request, including
-your IP address, and are used only to monitor and fix delivery problems, on the same legitimate interests basis.
+We do not intentionally collect special category data (such as health, religious or biometric data). Please do not send us such information unless we have specifically asked for it.
 
-### 2.2 Interactive demo
+## 4. How we use personal data and our lawful bases
 
-Some pages (for example [/desktop](/desktop)) embed an interactive demo of our software from `uimgui.madladsquad.com`.
-It is our own static site, hosted and delivered in the same way as described in section 2.1, and it processes the same
-technical connection data for the same purposes and on the same legal basis. It does not set cookies or collect any
-other data.
+Under the UK and EU GDPR, we must have a lawful basis for each use of your personal data.
 
-### 2.3 Contacting us
+| Purpose | Lawful basis |
+| :---- | :---- |
+| Delivering our website and services to you | Legitimate interests (operating our website and business) |
+| Protecting our website and services from abuse, fraud, bots and attacks | Legitimate interests (keeping our services and users secure) |
+| Responding to your emails and enquiries | Legitimate interests (communicating with people who contact us) |
+| Keeping business records and meeting legal, tax and regulatory obligations | Legal obligation |
+| Establishing, exercising or defending legal claims | Legitimate interests |
+| Any purpose for which we ask for your consent | Consent (which you can withdraw at any time) |
 
-If you email us, we process your email address, your name if you give it, the content of your message and any
-attachments, and the replies we exchange.
+Where we rely on legitimate interests, we have considered whether those interests are outweighed by your rights and freedoms. You can contact us for more information about this balancing.
 
-- **Purpose:** to read and answer your message and deal with what you ask.
-- **Legal basis:** our legitimate interests (Article 6(1)(f)) in responding to people who contact us. Where your
-  message relates to a contract with you, or steps you have asked us to take before entering into one, the basis is
-  Article 6(1)(b).
+We do not sell your personal data.
 
-### 2.4 Privacy requests
+## 5. Third-party service providers
 
-If you exercise any of your rights under section 7, we process the information needed to identify you, handle the
-request and keep a record of how we dealt with it.
+We use a number of trusted service providers to run our business. They process personal data on our behalf and under our instructions, and are bound by contractual obligations to protect it. Our main providers are listed below.
 
-- **Legal basis:** compliance with our legal obligations under data protection law (Article 6(1)(c)), and our legitimate
-  interests in being able to show that we handled your request properly (Article 6(1)(f)).
+### 5.1 Cloudflare
 
-### 2.5 What we do not do
+We use services provided by **Cloudflare, Inc.** to host, deliver and protect our website:
 
-We do not sell or rent personal data, share it for advertising, or use it for automated decision-making or profiling
-that produces legal or similarly significant effects on you (Article 22). We do not collect special category data and
-the website is not directed at children.
+- Security and bot protection - Cloudflare screens traffic to our website to protect it against denial-of-service attacks, automated bots and other malicious activity. To do this, it analyses information such as IP addresses, browser and device characteristics and request details, and may set a strictly necessary security cookie.
+- Website hosting - our website is served using Cloudflare's hosting and edge computing services (Cloudflare Pages and Workers), which process web requests and other technical information in order to deliver pages to you.
+- Content delivery - static files such as images, scripts and stylesheets are stored and delivered using Cloudflare's storage and content delivery network (Cloudflare R2).
 
-You are not required to provide any personal data to use the website. Connection data is needed for your browser to
-receive the pages at all. Emailing us is optional, but we cannot reply without your email address.
+Cloudflare operates a global network, so your data may be processed in data centres close to your location, including outside the UK and EU. For more information, see Cloudflare's Privacy Policy: [https://www.cloudflare.com/privacypolicy/](https://www.cloudflare.com/privacypolicy/)
 
-## 3. Cookies and similar technologies
+### 5.2 Google Workspace
 
-The website does not set cookies and does not use `localStorage`, `sessionStorage`, IndexedDB, fingerprinting or any
-other technology to store or read information on your device. There is no cookie banner because none is needed.
+We use **Google Workspace**, provided by Google, as our email provider. When you email us, your message - including your name, email address, message content, attachments and related metadata - is received, stored and processed on Google's systems. Google processes this data on our behalf under its business data processing terms and does not use Workspace customer data for advertising.
 
-If Cloudflare detects traffic from your connection that looks automated or malicious, it may set a short-lived security
-cookie (such as `__cf_bm` or `cf_clearance`) to tell legitimate visitors apart from bots. Such cookies are used only to
-protect the website, are strictly necessary for that purpose, and are therefore exempt from the consent requirement
-under regulation 6(4) of PECR and Article 5(3) of the ePrivacy Directive (2002/58/EC). They are not used to track you.
+For more information, see Google's Privacy Policy ([https://policies.google.com/privacy](https://policies.google.com/privacy)) and Google Cloud Privacy Notice ([https://cloud.google.com/terms/cloud-privacy-notice](https://cloud.google.com/terms/cloud-privacy-notice)).
 
-## 4. Who receives your data
+### 5.3 Other recipients
 
-We share personal data only with:
+We may also share some personal data with:
 
-- **GitHub, Inc.** (hosting of the website and the demo);
-- **Cloudflare, Inc.** (DNS, content delivery and security);
-- **our email service provider**, which stores and delivers email sent to and from our addresses;
-- professional advisers, courts, regulators or law enforcement, where we are legally required to or where it is needed
-  to establish, exercise or defend legal claims.
+- professional advisers such as accountants, lawyers and insurers, where necessary;
+- law enforcement, regulators, courts or other authorities, where required by law or to protect our rights, users or the public;
+- a buyer, successor or investor in connection with a merger, acquisition, restructuring or sale of all or part of our business, subject to appropriate confidentiality protections.
 
-GitHub and Cloudflare act as our service providers when delivering the website. For some processing, such as their own
-security monitoring and service improvement, they act as independent controllers and their own privacy statements
-apply:
-[GitHub General Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)
-and [Cloudflare Privacy Policy](https://www.cloudflare.com/privacypolicy/).
+## 6. Cookies and similar technologies
 
-## 5. International transfers
+We only use cookies and similar technologies that are strictly necessary for our website to function securely, such as security cookies to distinguish genuine visitors from automated bots. These do not require your consent under UK and EU law, and we do not use them to track you across other websites.
 
-GitHub and Cloudflare are based in the United States and operate servers worldwide, so connection data may be processed
-outside the UK and the European Economic Area.
+If we introduce non-essential cookies (for example, for analytics or advertising), we will update this policy and, where required by law, ask for your consent before setting them.
 
-- For transfers from the **UK**, we rely on the UK Extension to the EU-US Data Privacy Framework (the "UK-US data
-  bridge") for recipients certified under it, and otherwise on the International Data Transfer Addendum to the EU
-  Standard Contractual Clauses issued by the Information Commissioner.
-- For transfers from the **EEA**, we rely on the European Commission's adequacy decision for the EU-US Data Privacy
-  Framework for certified recipients, and otherwise on the Standard Contractual Clauses adopted by the European
-  Commission (Article 46(2)(c) EU GDPR).
-- Transfers from the EEA to us in the UK are covered by the European Commission's adequacy decision for the United
-  Kingdom.
+## 7. International data transfers
 
-You can ask us for more information about these safeguards using the contact details in section 1.
+We are based in the United Kingdom, and some of our service providers process data in other countries, including the United States.
 
-## 6. How long we keep data
+Where personal data is transferred outside the UK or the European Economic Area (EEA), we ensure appropriate safeguards are in place, such as:
 
-| Data | How long |
-|---|---|
-| Connection data and network error reports (section 2.1, 2.2) | We do not keep our own copies. GitHub and Cloudflare keep their logs for the limited periods set out in their privacy statements, for security and operational purposes. |
-| Email correspondence (section 2.3) | For as long as needed to deal with your message and any follow-up, after which we delete it unless we need it to comply with a legal obligation or to establish, exercise or defend legal claims. |
-| Records of privacy requests (section 2.4) | For as long as needed to show how we handled the request, and no longer than the limitation period for any related claim. |
+- transfers to countries recognised as providing an adequate level of protection (adequacy regulations/decisions);
+- transfers to organisations certified under the EU-U.S. Data Privacy Framework and its UK Extension (the "UK-US data bridge")
+- Standard Contractual Clauses approved by the European Commission, together with the UK International Data Transfer Addendum or UK International Data Transfer Agreement, where applicable.
 
-## 7. Your rights
+You can contact us for more information about the safeguards we use.
 
-Under the UK GDPR and the EU GDPR you have the right to:
+## 8. How long we keep personal data
 
-- **access** the personal data we hold about you and receive a copy (Article 15);
-- have inaccurate data **corrected** or incomplete data completed (Article 16);
-- have your data **erased** in certain circumstances (Article 17);
-- **restrict** how we use your data in certain circumstances (Article 18);
-- receive data you gave us in a portable, machine-readable format and have it **transferred** to another organisation,
-  where processing is based on contract or consent and carried out by automated means (Article 20);
-- **object** at any time to processing based on our legitimate interests, on grounds relating to your particular
-  situation (Article 21). We will then stop unless we have compelling legitimate grounds that override your interests,
-  or need the data to establish, exercise or defend legal claims.
+We keep personal data only for as long as necessary for the purposes described in this policy, including to meet legal, accounting or reporting requirements. As a general guide:
 
-We do not rely on consent for any processing, so there is no consent to withdraw.
+- Email correspondence - kept for 24 months after our last contact, unless it relates to an ongoing matter or we need to keep it longer for legal reasons.
+- Security and technical logs - kept for short periods only, as needed for security and troubleshooting.
+- Business records - kept for as long as required by law (in the UK, typically up to six years after the end of the relevant financial year).
 
-To exercise any of these rights, email [privacy@madladsquad.com](mailto:privacy@madladsquad.com). It is free of charge.
-We will reply without undue delay and within one month of receiving your request. If a request is complex or we
-receive several from you, we may extend this by up to two further months, and will tell you within the first month if
-we do. We may ask for information to confirm your identity before acting on a request, and in that case the time limit
-starts once we have it.
+When data is no longer needed, we delete or anonymise it securely.
 
-Because we do not keep our own logs of website visits, we usually hold no personal data about people who have only
-browsed the website. We will still confirm this to you if you ask, and can help you direct a request to GitHub or
-Cloudflare where appropriate.
+## 9. How we protect personal data
 
-## 8. Complaints
+We use appropriate technical and organisational measures to protect personal data against unauthorised access, loss, misuse or alteration. These include encryption in transit, access controls and choosing reputable providers with strong security practices. No method of transmission or storage is completely secure, however, and we cannot guarantee absolute security.
 
-If you are unhappy with how we have handled your personal data, please contact us first at
-[privacy@madladsquad.com](mailto:privacy@madladsquad.com) so we can try to put it right.
+If a personal data breach occurs that is likely to put your rights at risk, we will notify you and the relevant authorities as required by law.
 
-You also have the right to complain to a data protection supervisory authority:
+## 10. Your rights (UK, EU, EEA and Switzerland)
 
-- **In the UK:** the Information Commissioner's Office (ICO), Wycliffe House, Water Lane, Wilmslow, Cheshire SK9 5AF,
-  telephone 0303 123 1113, [ico.org.uk/make-a-complaint](https://ico.org.uk/make-a-complaint/).
-- **In the EU/EEA:** the supervisory authority of the country where you live, work or where the alleged infringement
-  took place. A list is published by the
-  [European Data Protection Board](https://www.edpb.europa.eu/about-edpb/about-edpb/members_en).
+If you are in the UK, EU, EEA or Switzerland, you have the following rights, subject to certain conditions and exceptions:
 
-## 9. Security
+- Access - to request a copy of the personal data we hold about you.
+- Rectification - to ask us to correct inaccurate or incomplete data.
+- Erasure - to ask us to delete your data in certain circumstances.
+- Restriction - to ask us to limit how we use your data in certain circumstances.
+- Data portability - to receive data you provided to us in a structured, commonly used format, or have it transferred to another organisation.
+- Objection - to object to processing based on our legitimate interests, and to object at any time to direct marketing.
+- Withdraw consent - where we rely on consent, you may withdraw it at any time without affecting earlier processing.
+- Not to be subject to solely automated decisions with legal or similarly significant effects.
 
-All traffic to the website is encrypted with HTTPS/TLS. The website is static, with no database, server-side
-application or user accounts, which keeps the data that could be exposed to a minimum. Access to our email and hosting
-accounts is restricted to the people who need it and protected with strong authentication.
+To exercise any of these rights, email us at [privacy@madladsquad.com](mailto:privacy@madladsquad.com). We will respond within one month, which may be extended by up to two further months for complex requests. We may need to verify your identity before responding. Exercising your rights is usually free of charge.
 
-## 10. Links to other websites
+## 11. Other countries
 
-The website links to other websites and services, such as GitHub, Discord, Ko-fi and Heapforge. These links are plain
-links: nothing is loaded from those services until you click one. Once you follow a link, the other website's own
-privacy policy applies, and we are not responsible for how it handles your data.
+If you live in another country with privacy laws that give you rights over your personal data, please contact us and we will respond in accordance with the law that applies to you.
 
-If you take part in our projects on GitHub or Discord (for example by opening an issue, submitting a pull request or
-posting a message), that content is published on those platforms under their terms and privacy policies. Pull requests
-and commits become part of the project's public history.
+## 12. Children's privacy
 
-## 11. Changes to this policy
+Our website and services are not directed at children under the minimal age for data processing consent, and we do not knowingly collect personal data from them. If you believe a child has provided us with personal data, please contact us and we will delete it.
 
-We will update this policy when the way we process personal data changes, and change the "Last updated" date above.
-Every past version is available in the website's public
-[Git history](https://github.com/MadLadSquad/MadLadSquadSite/commits/master/content/privacy-policy.md).
+## 13. Automated decision-making
 
-## 12. Contact
+We do not make decisions about you based solely on automated processing that produce legal or similarly significant effects. Automated security tools (such as bot protection) may block or challenge suspicious traffic; if you believe you have been blocked in error, please contact us.
 
-Heapforge Ltd.  
-82a James Carter Road, Mildenhall, Bury St. Edmunds, England, IP28 7DE  
-[privacy@madladsquad.com](mailto:privacy@madladsquad.com)
+## 14. Links to other websites
+
+Our website may contain links to third-party websites or services. We are not responsible for their privacy practices, and we encourage you to read their privacy policies.
+
+## 15. Changes to this policy
+
+We may update this policy from time to time. The "Last updated" date at the top shows when it was last revised. If we make significant changes, we will take reasonable steps to let you know, for example by a notice on our website.
+
+## 16. Contact us and complaints
+
+If you have any questions about this policy or how we handle your personal data, please contact us:
+
+1. E-mail: [privacy@madladsquad.com](mailto:privacy@madladsquad.com)
+2. Post: Heapforge Ltd., 82A James Carter Road, Mildenhall, Bury St. Edmunds, Suffolk, England, IP28 7DE, United Kingdom
+
+We would appreciate the chance to address your concerns first, but you have the right to complain to a data protection authority:
+
+- United Kingdom: Information Commissioner's Office (ICO) - [https://ico.org.uk/make-a-complaint/](https://ico.org.uk/make-a-complaint/)
+- EU/EEA: the supervisory authority in the country where you live, work or where the alleged infringement took place - a list is available at [https://edpb.europa.eu/about-edpb/about-edpb/members_en](https://edpb.europa.eu/about-edpb/about-edpb/members_en)
+- Other regions: your local data protection or privacy regulator.
