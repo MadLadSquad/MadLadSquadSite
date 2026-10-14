@@ -8,6 +8,7 @@ We use the following utilities when experimenting:
 1. [KBD Generator](https://kbd.hsuan.xyz/) - Generates HTML and Markdown keyboard shortcuts
 1. [Rapid Tables](https://www.rapidtables.com/) - A collection of tables and maths utilities
 1. [Code Generator](https://barcode.tec-it.com) - Generator for scannable codes, such as QR, barcodes, Aztec, etc.
+1. [Commercial Code Generator](https://eancheck.com/barcode-generator) - Generates commercial barcodes
 
 ## Useful links
 
